@@ -3,15 +3,17 @@ title: Le Pays de la Pluie Éternelle
 cefr: a2
 locale: fr
 key: land-eternal-rain
+reviewers:
+ - sweet-french-learning
 ---
 
-Il y a des années, dans une petite ville, il y avait une sorcière. La sorcière faisait pleuvoir tous les jours. Au printemps, en été, en automne et en hiver : pluie, pluie, pluie, neige.
+Il y a des années, dans une petite ville, vivait une sorcière. La sorcière faisait pleuvoir tous les jours. Au printemps, en été, en automne et en hiver : pluie, pluie, pluie, neige.
 
-Un jour, une orpheline nommée Béatrice s'est rendue à la Mairie. C'était un grand et beau bâtiment. Il a été construit lorsque Béatrice était bébé.
+Un jour, une orpheline, nommée Béatrice, s'est rendue à la Mairie. C'était un grand et beau bâtiment. Il a été construit lorsque Béatrice était bébé.
 
 Béatrice a dit : "Je veux trouver la sorcière. Elle doit arrêter la pluie."
 
-Il y avait sept hommes devant elle. Ils étaient les dirigeants de la ville.
+Il y avait sept hommes devant elle. C'étaient les dirigeants de la ville.
 
 "Va jouer dehors," a dit l'homme le plus âgé.
 
@@ -23,7 +25,7 @@ Il y avait sept hommes devant elle. Ils étaient les dirigeants de la ville.
 
 Le vieil homme a ri. "Tu ne peux pas aider. Il pleut à cause d'une méchante sorcière. Nous avons essayé de la tuer. Nous avons échoué -- et nous sommes *des hommes*. Tu es une petite fille."
 
-Les rochers étaient mouillés. Il était difficile de grimper la montagne. Béatrice a grimpé pendant des heures. Au sommet, il ne pleuvait pas. Il faisait sombre maintenant, mais elle a vu le château de la sorcière.
+Les rochers étaient mouillés. Il était difficile de grimper la montagne. Béatrice a grimpé pendant des heures. Au sommet, il ne pleuvait pas. Il faisait sombre maintenant, mais elle voyait le château de la sorcière.
 
 Elle a frappé à la porte. La sorcière a ouvert la porte.
 
@@ -31,11 +33,11 @@ Elle a frappé à la porte. La sorcière a ouvert la porte.
 
 Béatrice est entrée. Il y avait un feu. Le château était chaud et confortable. La sorcière lui a donné une tasse de thé et quelques gâteaux chauds. Béatrice a dit merci.
 
-Quand Béatrice fut sèche, elle a dit, "S'il vous plaît, arrêtez la pluie."
+Quand Béatrice a été sèche, elle a dit, "S'il vous plaît, arrêtez la pluie."
 
-"Savez-vous pourquoi j'ai fait pleuvoir ?" a demandé la sorcière.
+"Savez-vous pourquoi je fais pleuvoir ?" a demandé la sorcière.
 
-"Ils ont dit que vous êtes méchante."
+"Ils ont dit que vous êtiez méchante."
 
 La sorcière a ri.
 
@@ -43,9 +45,9 @@ La sorcière a ri.
 
 "Non."
 
-"Tout le monde nous aimait. Nous utilisions notre magie pour aider la ville. Mais un jour, les gens ont commencé à dire que la magie était maléfique. Soudain, personne ne nous aimait.
+"Tout le monde nous aimait. Nous utilisions notre magie pour aider la ville. Mais un jour, les gens ont commencé à dire que la magie était maléfique. Soudain, plus personne ne nous aimait.
 
-"Ils nous ont dit d'aller à la Mairie. Je ne suis pas allée. Mais les autres sorcières y sont allées. Elles sont entrées. La Mairie était vide. Les gens ont fermé les portes et mis le feu au bâtiment.
+"Ils nous ont dit d'aller à la Mairie. Je n'y suis pas allée. Mais les autres sorcières y sont allées. Elles sont entrées. La Mairie était vide. Les gens ont fermé les portes et mis le feu au bâtiment.
 
 "J'ai utilisé la magie pour faire pleuvoir. Mais c'était trop lent. Le feu a brûlé la Mairie. Il ne restait rien."
 

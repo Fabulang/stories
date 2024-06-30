@@ -33,7 +33,7 @@ The athletes took off their clothes, and lined up at one end of the stadium. Elp
 
 After the race, the old man found Elpidios with his head between his legs, outside the stadium.
 
-"Second place is an extradordinary achievement," said the trainer.
+"Second place is an extraordinary achievement," said the trainer.
 
 "But I didn't win. I won't receive any honour. I failed!"
 

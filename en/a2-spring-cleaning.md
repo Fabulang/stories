@@ -35,7 +35,7 @@ Gerard told her to wipe her desk. When she finished, he told her to wipe all the
 
 They pushed all the furniture out of the room. They put the table in the kitchen, the sofa in the bedroom and the plants in the bathroom.
 
-Gerard brought water and soap, two sponges, and two hairdriers.
+Gerard brought water and soap, two sponges, and two hair dryers.
 
 He and his girlfriend worked all afternoon and all evening. Finally, they pushed all the furniture back into the room.
 

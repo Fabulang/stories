@@ -27,7 +27,7 @@ Jacqueline a ouvert son sac et a pris l'orbe. Dès que sa main l'a touché, elle
 
 "Pourquoi ne m'as-tu pas dit que tu es ma nièce ?" lui a-t-elle demandé, étonnée.
 
-"Je suis désolée. Tu et mon père ne vous parlez pas," a répondu Angélique. "Je pensais que tu ne me parlerais pas non plus, si tu savais qui j'étais."
+"Je suis désolée. Mon père et toi ne vous parlez plus," a répondu Angélique. "Je pensais que tu ne me parlerais pas non plus, si tu savais qui j'étais."
 
 "Ton père et moi nous sommes disputés à cause de ma recherche de cet artefact," a avoué Jacqueline, la voix étranglée d'émotion. "Il a dit que j'étais obsédée, folle. Je n'ai pas fait attention quand mes collègues ont dit ça. Mais mon propre frère! J'étais tellement en colère... j'ai dit des choses terribles... que je regrette."
 

@@ -3,6 +3,8 @@ title: Ne Pars Pas en Vacances
 cefr: a1
 locale: fr
 key: dont-go-holiday
+reviewers:
+ - avance-avec-nisa
 ---
 
 "Ne pars pas en vacances."
@@ -17,11 +19,11 @@ Frédérique rit. "Bonne blague," écrit-elle.
 
 Frédérique pose son téléphone. Elle réfléchit. Son assistant au travail est toujours très drôle. Ça doit être son assistant.
 
-Un autre message arrive. "Ne mange pas le sandwich."
+Un autre message arrive. "Ne mange pas de sandwich."
 
 Frédérique regarde son sandwich. C'est un sandwich au jambon, avec de la laitue et des tomates. Il est sur une assiette, sur la table.
 
-'Ça doit être mon assistant,' pense Frédérique. 'Elle sait que je mange toujours un sandwich pour déjeuner.'
+'Ça doit être mon assistant,' pense Frédérique. 'Elle sait que je mange toujours un sandwich pour le déjeuner.'
 
 Frédérique a faim. Elle mange le sandwich.
 
@@ -51,9 +53,9 @@ Le week-end, Frédérique se rend à la gare. Elle voyage vers l'aéroport. À l
 
 Frédérique éteint son téléphone.
 
-Frédérique arrive à la station balnéaire. C'est une journée chaude et ensoleillée. Il y a une piscine luxueuse à l'extérieur de son hôtel. Elle est excitée. Elle met ses lunettes de soleil et son maillot de bain.
+Frédérique arrive à la station balnéaire. C'est une journée chaude et ensoleillée. Il y a une piscine luxueuse à l'extérieur de son hôtel. Elle est enthousiasmée. Elle met ses lunettes de soleil et son maillot de bain.
 
-Elle va à la piscine. Le bord de la piscine est très mouillé. Soudain, elle tombe. Elle est blessée. Beaucoup de gens viennent aider. Ils l'emmènent à l'hôpital.
+Elle va à la piscine. Le bord de la piscine est très mouillé. Tout à coup, elle tombe. Elle est blessée. Beaucoup de gens viennent lui aider. Ils l'emmènent à l'hôpital.
 
 Elle se réveille dans son lit. Elle ne peut pas bouger. Le médecin dit qu'elle doit se reposer.
 
@@ -67,7 +69,7 @@ Un an plus tard, Frédérique retourne au travail. Elle est en fauteuil roulant.
 
 "C'est ma théorie, oui."
 
-"Ta théorie est correcte. Mais nous *pouvons* envoyer des *messages* dans le temps !"
+"Ta théorie est correcte. Mais on *peut* envoyer des *messages* dans le temps !"
 
 "Montre-moi les calculs," dit Frédérique.
 

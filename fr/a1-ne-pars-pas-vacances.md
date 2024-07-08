@@ -29,7 +29,7 @@ Frédérique a faim. Elle mange le sandwich.
 
 Le lendemain, Frédérique est malade. Frédérique ne va pas au travail. Elle reste à la maison.
 
-Son téléphone émet un son. Il y a un nouveau message. "Tu me crois maintenant ?"
+Son téléphone fait du bruit. Il y a un nouveau message. "Tu me crois maintenant ?"
 
 "Arrête ce jeu," écrit Frédérique.
 
@@ -53,7 +53,7 @@ Le week-end, Frédérique se rend à la gare. Elle voyage vers l'aéroport. À l
 
 Frédérique éteint son téléphone.
 
-Frédérique arrive à la station balnéaire. C'est une journée chaude et ensoleillée. Il y a une piscine luxueuse à l'extérieur de son hôtel. Elle est enthousiasmée. Elle met ses lunettes de soleil et son maillot de bain.
+Frédérique arrive à la station balnéaire. C'est une journée chaude et ensoleillée. Il y a une piscine luxueuse à l'extérieur de son hôtel. Elle est impatiente. Elle met ses lunettes de soleil et son maillot de bain.
 
 Elle va à la piscine. Le bord de la piscine est très mouillé. Tout à coup, elle tombe. Elle est blessée. Beaucoup de gens viennent lui aider. Ils l'emmènent à l'hôpital.
 

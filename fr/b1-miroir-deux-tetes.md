@@ -17,7 +17,7 @@ Amélie avait rencontré beaucoup de marchands d'antiquités. Beaucoup d'entre e
 
 Elle a ramené le miroir chez elle, l'a nettoyé méticuleusement et l'a accroché au mur de sa chambre. Il avait l'air extrêmement grandiose. Elle se sentait comme une reine quand elle s'est habillée le lendemain matin.
 
-Quelques semaines plus tard, Amélie regardait dans le miroir pendant qu'elle se préparait pour le coucher. Soudain, elle a entendu un bruit de sifflement. L'instant d'après, bien qu'elle ne bougeait pas, son reflet s'est retourné et s'est éloigné.
+Quelques semaines plus tard, Amélie regardait dans le miroir pendant qu'elle se préparait pour le coucher. Tout à coup, elle a entendu un bruit de sifflement. L'instant d'après, bien qu'elle ne bougeait pas, son reflet s'est retourné et s'est éloigné.
 
 "Reviens !" a exclamé Amélie, sous le choc.
 

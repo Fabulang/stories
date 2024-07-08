@@ -5,7 +5,7 @@ cefr: a2
 key: balloons-journey
 ---
 
-Un jour ensoleillé, un ballon rouge était dans le parc avec une jeune fille. Soudain, le ballon est parti de sa main et il est monté dans le ciel.
+Un jour ensoleillé, un ballon rouge était dans le parc avec une jeune fille. Tout à coup, le ballon est parti de sa main et il est monté dans le ciel.
 
 "Reviens!" a dit la fille.
 

@@ -7,7 +7,7 @@ key: sport-reading
 
 Lilie aime Luc, un garçon dans sa classe. Il adore le sport, mais Lilie n'aime pas ça. Lilie aime lire. Elle est triste -- elle se sent sans espoir avec Luc.
 
-Un jour, Lilie voit Luc laisser tomber un livre. Lilie est excitée. Est-ce que Luc aime lire? Ensuite, elle voit le titre du livre. Il s'appelle *Tout Sur le Sport*.
+Un jour, Lilie voit Luc laisser tomber un livre. Lilie est ravie. Est-ce que Luc aime lire? Ensuite, elle voit le titre du livre. Il s'appelle *Tout Sur le Sport*.
 
 Mais Lilie a une idée. Elle ramasse le livre. Elle l'emmène chez elle et lit tout.
 

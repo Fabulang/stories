@@ -19,4 +19,4 @@ Perplexe par son silence soudain, Noémie a inspecté l'objet et a découvert un
 
 La révélation que son conseiller de confiance n'était rien de plus qu'un jouet l'a frappée. Mais cela signifiait que la boule de cristal n'avait jamais vraiment contribué à sa relation réussie. C'était son authenticité et son charme qui avaient séduit son petit ami depuis le début.
 
-Avec un sourire, Noémie a composé le numéro de son petit ami, excitée de se réconcilier. Elle a réalisé qu'il y avait eu de la magie dans sa vie après tout, seulement pas provenant de la boule de cristal.
+Avec un sourire, Noémie a composé le numéro de son petit ami, impatiente de se réconcilier. Elle a réalisé qu'il y avait eu de la magie dans sa vie après tout, seulement pas provenant de la boule de cristal.

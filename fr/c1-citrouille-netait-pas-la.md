@@ -23,7 +23,7 @@ Le lendemain, Arnauld a assisté à la foire même s'il n'avait rien à montrer.
 
 Comme prévu, le voisin a remporté le premier prix, et il s'est approché de Arnauld pour se vanter. "Je suppose que le meilleur homme a gagné, hein Arnauld?" a-t-il dit avec un sourire narquois.
 
-Soudain, il y a eu une commotion à l'entrée de la tente. La citrouille de Arnauld a roulé à l'intérieur, comme si elle était vivante. Ensuite, le chien de Arnauld est arrivé après. Il avait poussé et fait rouler la citrouille partout en ville. Le vrai voleur a été révélé.
+Tout à coup, il y a eu une commotion à l'entrée de la tente. La citrouille de Arnauld a roulé à l'intérieur, comme si elle était vivante. Ensuite, le chien de Arnauld est arrivé après. Il avait poussé et fait rouler la citrouille partout en ville. Le vrai voleur a été révélé.
 
 Les juges étaient stupéfaits. "Regardez la taille de cette citrouille!" ils se sont exclamés. Le voisin avait l'air très inquiet.
 

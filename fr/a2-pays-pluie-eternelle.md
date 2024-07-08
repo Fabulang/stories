@@ -45,7 +45,7 @@ La sorcière a ri.
 
 "Non."
 
-"Tout le monde nous aimait. Nous utilisions notre magie pour aider la ville. Mais un jour, les gens ont commencé à dire que la magie était maléfique. Soudain, plus personne ne nous aimait.
+"Tout le monde nous aimait. Nous utilisions notre magie pour aider la ville. Mais un jour, les gens ont commencé à dire que la magie était maléfique. Tout à coup, plus personne ne nous aimait.
 
 "Ils nous ont dit d'aller à la Mairie. Je n'y suis pas allée. Mais les autres sorcières y sont allées. Elles sont entrées. La Mairie était vide. Les gens ont fermé les portes et mis le feu au bâtiment.
 

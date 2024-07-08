@@ -15,7 +15,7 @@ Déçue, Juliette a décidé de rentrer chez elle plus tôt. Alors qu'elle atten
 
 Juliette a décrit son propre désenchantement.
 
-Soudain, une annonce a résonné dans le terminal. Leur vol a été annulé en raison de circonstances imprévues.
+Tout à coup, une annonce a résonné dans le terminal. Leur vol a été annulé en raison de circonstances imprévues.
 
 "Quelle nuisance!" a crié Juliette.
 

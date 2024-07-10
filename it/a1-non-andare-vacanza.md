@@ -13,7 +13,7 @@ Fredericka legge il messaggio sul suo telefono.
 
 "Non posso dirtelo."
 
-Fredericka ride. "Buono scherzo," scrive.
+Fredericka ride. "Bello scherzo," scrive.
 
 Fredericka mise giù il telefono. Pensa. Il suo assistente al lavoro è sempre molto divertente. Deve essere il suo assistente.
 

@@ -37,7 +37,7 @@ Marc a tiré sur le Loup.
 
 "Tu m'as tiré dessus !" a crié le Loup, surpris. Il est tombé.
 
-"Je suis trop vieux et fatigué pour attendre," a dit Marc. "Je dis ça. Tu dis ça. On se regarde. Personne ne bouge. La rue est calme. Qui va tirer en premier ? Et ainsi de suite."
+"Je suis trop vieux et fatigué pour attendre," a dit Marc. "Je dis ça. Tu dis ça. On se regarde. Personne ne bouge. La rue est calme. Qui va tirer en premier ? Tu connais la suite."
 
 Marc a rangé le vieux pistolet de son père. Il a avancé et pris le sac du Loup. Tout le monde est venu et a repris son argent. "Merci, Marc," ont-ils dit. Quand le sac était vide, Marc l'a laissé tomber à côté du criminel. Le Loup était mort.
 

@@ -31,7 +31,7 @@ Geneviève lui a montré son livre.
 
 "J'ai dit que je connaissais chaque recoin. Vous ne me croyez pas ?"
 
-"Eh bien... J'ai vu une photo à la bibliothèque. Mais que puis-je dire ? Elle est en pierre. Les danseurs dansent. Ils portent des robes."
+"Eh bien... J'ai vu une photo à la bibliothèque. Mais que puis-je dire ? Elle est en pierre. Les danseurs dansent. Ils portent des vêtements traditionnels."
 
 Le chauffeur a réfléchi. "Il pourrait y avoir huit statues," a-t-il fini par dire.
 

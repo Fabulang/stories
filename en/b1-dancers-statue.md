@@ -31,7 +31,7 @@ Jennifer showed him her book.
 
 "I said I know every inch of it. You don't believe me?"
 
-"Well... I saw a photo in the library. But what can I say? It's made of stone. The dancers are dancing. They are wearing robes."
+"Well... I saw a photo in the library. But what can I say? It's made of stone. The dancers are dancing. They are wearing traditional clothes."
 
 The driver thought about it. "There are eight statues it could be," he said at last.
 

@@ -31,7 +31,7 @@ Ginevra gli ha mostrato il suo libro.
 
 "Ho detto che conosco ogni centimetro di essa. Non mi credi?"
 
-"Beh... ho visto una foto in biblioteca. Ma cosa posso dire? È fatta di pietra. I ballerini stanno danzando. Indossano vesti."
+"Beh... ho visto una foto in biblioteca. Ma cosa posso dire? È fatta di pietra. I ballerini stanno danzando. Indossano abiti tradizionali."
 
 L'autista ci ha pensato su. "Potrebbe essere una di otto statue," ha detto infine.
 

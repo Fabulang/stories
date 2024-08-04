@@ -3,6 +3,7 @@ title: A Aprendiz do Mestre das Poções
 locale: pt-BR
 cefr: c2
 key: potion-masters-apprentice
+published: false
 ---
 
 O líquido roxo dentro da garrafa quadrada brilhava com partículas de ouro. Anabela despejou o conteúdo em uma tigela de metal. Então, ela encontrou um pote de estranhas pedras amarelas. Ela jogou todas na tigela também. Finalmente, havia um jarro cheio de línguas de alguns animais infelizes.

@@ -3,6 +3,7 @@ title: O Carro Acidentado
 locale: pt-BR
 cefr: b1
 key: crashed-car
+published: false
 ---
 
 Não havia outros carros na estrada naquela noite. Adrião estava dirigindo para casa através de uma grande floresta, sentindo-se triste e solitário. Entre as árvores estava completamente escuro.

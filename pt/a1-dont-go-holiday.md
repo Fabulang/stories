@@ -43,7 +43,7 @@ O celular toca. Tem uma nova mensagem. "Agora você acredita em mim?"
 
 Frederica quer sair de férias. Tem um projeto no trabalho que é muito difícil. Ela precisa relaxar. 
 
-Frederica compra sua passagem. Em seguida, ela arruma sua mala. Ela coloca seus óculos de sol, sua roupa de banho e o livro favorito dela na mala.
+Frederica compra sua passagem. Em seguida, ela arruma sua mala. Ela coloca na mala seus óculos de sol, sua roupa de banho e o livro favorito dela.
 
 No fim de semana, Frederica vai até a estação de trem. Ela viaja para o aeroporto. No aeroporto, ela recebe uma nova mensagem.
 

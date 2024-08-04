@@ -15,7 +15,7 @@ key: kings-fountain-pen
 
 "If he hadn't been caught, who would have been the next victim? If he is released, *you* could be his next target.
 
-"Mr. Grey has admitted that he owed a lot of money to a loanshark. And so his motive is clear. He gave the pen to the loanshark, in exchange for clearing his debt.
+"Mr. Grey has admitted that he owed a lot of money to a loan shark. And so his motive is clear. He gave the pen to the loan shark, in exchange for clearing his debt.
 
 "One of the most valuable artefacts in the country is now being sold on the black market.
 
@@ -27,7 +27,7 @@ The lawyer turned around. He had a striped suit, slick black hair, and a constan
 
 "Ladies and gentlemen of the jury," the lawyer began.
 
-"Mr. Grey has been unlucky in life. He made bad friends, and they trapped him in a cycle of debt. But since leaving prison, Mr. Grey has changed his life. He got a job, started a family, and he's working with the police to bring the loanshark to justice.
+"Mr. Grey has been unlucky in life. He made bad friends, and they trapped him in a cycle of debt. But since leaving prison, Mr. Grey has changed his life. He got a job, started a family, and he's working with the police to bring the loan shark to justice.
 
 "The idea that Mr. Grey's ticket jumped out of his jeans is preposterous. The real thief took this ticket from the bin outside the palace, and placed it on the desk.
 

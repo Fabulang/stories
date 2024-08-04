@@ -23,7 +23,7 @@ Finalement, elles ont découvert un temple au cœur de la forêt amazonienne. Sa
 
 Tout était sombre à l'intérieur, à l'exception d'une lumière étrange. Un orbe doré flottait au-dessus d'un piédestal au milieu de la chambre.
 
-Jacqueline a ouvert son sac et a pris l'orbe. Dès que sa main l'a touché, elle a reçu son pouvoir. Tout à coup, elle pouvait lire dans l'esprit d'Angélique. Elle a su son secret.
+Jacqueline a ouvert son sac et a pris l'orbe. Dès que sa main l'a touchée, elle a reçu son pouvoir. Tout à coup, elle pouvait lire dans l'esprit d'Angélique. Elle a su son secret.
 
 "Pourquoi ne m'as-tu pas dit que tu es ma nièce ?" lui a-t-elle demandé, étonnée.
 

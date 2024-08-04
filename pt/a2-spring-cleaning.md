@@ -3,6 +3,7 @@ title: Faxina de Primavera
 locale: pt-BR
 cefr: a2
 key: spring-cleaning
+published: false
 ---
 
 "Por favor, você pode se levantar por um momento?" disse Gerardo para sua namorada.

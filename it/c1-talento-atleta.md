@@ -5,7 +5,7 @@ cefr: c1
 key: athletes-talent
 ---
 
-Le strade dell'antica Elide erano piene di attività. Uomini e donne in tuniche svolgevano le loro faccende, i commercianti spingevano carretti pieni di merci da vendere al mercato, e i bambini giocavano sui ciottoli.
+Le strade dell'antica Elide erano piene di attività. Uomini e donne in tunica svolgevano le loro faccende, i commercianti spingevano carretti pieni di merci da vendere al mercato, e i bambini giocavano sui ciottoli.
 
 Ma Elpidios era seduto con la testa tra le ginocchia. Era venuto in Elide per seguire il suo sogno e diventare un atleta. Ma era un povero contadino e non poteva permettersi di pagare qualcuno per allenarlo.
 

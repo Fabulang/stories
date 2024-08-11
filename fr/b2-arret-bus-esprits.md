@@ -3,6 +3,7 @@ title: L'Arrêt de Bus des Esprits
 locale: fr
 cefr: b2
 key: bus-stop-spirits
+reviews: 1
 ---
 
 "Excusez-moi, où puis-je trouver le célèbre Arrêt de Bus des Esprits ?"

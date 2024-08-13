@@ -3,6 +3,7 @@ title: Cracking the Code
 locale: en
 cefr: b2
 key: cracking-code
+reviews: 1
 ---
 
 Vera was an exceptionally talented computer programmer. During the day she worked for a software company. At night, she spent countless hours working on her personal project, an artificial intelligence named Z.

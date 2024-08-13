@@ -3,6 +3,7 @@ title: The Crashed Car
 locale: en
 cefr: b1
 key: crashed-car
+reviews: 1
 ---
 
 There were no other cars on the road that night. Adrian was driving home through a large forest, feeling sad and lonely. Between the trees it was completely dark.

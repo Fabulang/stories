@@ -3,6 +3,7 @@ title: Living in Harmony
 locale: en
 cefr: b1
 key: living-harmony
+reviews: 1
 ---
 
 "Hi, I'm moving in today," said Jeremy, smiling.

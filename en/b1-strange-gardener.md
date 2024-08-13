@@ -3,6 +3,7 @@ title: The Strange Gardener
 locale: en
 cefr: b1
 key: strange-gardener
+reviews: 1
 ---
 
 Mister Thomas lived alone in a quiet town. He was a retired spy, so he kept watch over the neighbourhood. He was always looking for anything suspicious.

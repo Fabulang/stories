@@ -3,6 +3,7 @@ title: Magic Wings
 locale: en
 cefr: a1
 key: magic-wings
+reviews: 1
 ---
 
 Matthew is learning to be a wizard. He thinks he can be a very good wizard. But he is in the bottom class.

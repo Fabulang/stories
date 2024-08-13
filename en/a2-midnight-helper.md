@@ -3,6 +3,7 @@ title: The Midnight Helper
 locale: en
 cefr: a2
 key: midnight-helper
+reviews: 1
 ---
 
 Dennis was dreaming about maths. The numbers and symbols were attacking him. He hadn't done his homework. The questions were too difficult.

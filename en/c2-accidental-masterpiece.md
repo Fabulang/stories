@@ -3,6 +3,7 @@ title: Accidental Masterpiece
 locale: en
 cefr: c2
 key: accidental-masterpiece
+reviews: 1
 ---
 
 In the tranquil corridors of the City Museum, Geoffrey, the new assistant, awaited the delivery of the latest work by the master painter known only as Brush.

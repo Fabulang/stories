@@ -3,6 +3,7 @@ title: The Ghost's Theatre
 locale: en
 cefr: b2
 key: ghosts-theatre
+reviews: 1
 ---
 
 Most people say they don't believe in ghosts. Until they see or hear one, themselves. That's when they call a ghost hunter. That's when Christian's phone rings.

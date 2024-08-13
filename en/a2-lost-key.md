@@ -3,6 +3,7 @@ title: The Lost Key
 locale: en
 cefr: a2
 key: lost-key
+reviews: 1
 ---
 
 Nicholas moved into a big, old house. Three hundred years ago, a famous pirate lived there.

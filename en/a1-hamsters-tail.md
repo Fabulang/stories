@@ -3,6 +3,7 @@ title: The Hamster's Tail
 locale: en
 cefr: a1
 key: hamsters-tail
+reviews: 1
 ---
 
 "Look after the hamster," Elijah's teacher says. She goes to eat.

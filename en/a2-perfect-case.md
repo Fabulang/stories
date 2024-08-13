@@ -3,6 +3,7 @@ title: The Perfect Case
 locale: en
 cefr: a2
 key: perfect-case
+reviews: 1
 ---
 
 The private detective sat at his desk. No one had hired him for a long time. When a woman entered the office, he almost fell off his chair.

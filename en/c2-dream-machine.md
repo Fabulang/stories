@@ -3,6 +3,7 @@ title: The Dream Machine
 locale: en
 cefr: c2
 key: dream-machine
+reviews: 1
 ---
 
 "This is going to be a bad night," Vivian murmured as she watched the torrential rain.

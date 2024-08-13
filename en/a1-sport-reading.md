@@ -3,6 +3,7 @@ title: The Sport of Reading
 locale: en
 cefr: a1
 key: sport-reading
+reviews: 1
 ---
 
 Lily likes Luke, a boy in her class. He loves sport, but Lily doesn't. Lily loves to read. She feels sad -- she has no chance with Luke.

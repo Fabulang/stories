@@ -3,6 +3,7 @@ title: Prison Duties
 cefr: c1
 locale: en
 key: prison-duties
+reviews: 1
 ---
 
 "Keep playing!" shouted one of the guards.

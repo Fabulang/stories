@@ -3,6 +3,7 @@ title: The Athlete's Talent
 locale: en
 cefr: c1
 key: athletes-talent
+reviews: 1
 ---
 
 The streets of ancient Elis were bustling with activity. Men and women in tunics went about their business, traders pushed carts full of goods to sell at the market, and children played games in the gravel.

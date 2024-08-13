@@ -3,6 +3,7 @@ title: Seeing Clearly
 locale: en
 cefr: a1
 key: seeing-clearly
+reviews: 1
 ---
 
 "Are you ready?" shouts Eliza's husband.

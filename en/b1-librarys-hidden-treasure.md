@@ -3,6 +3,7 @@ title: The Library's Hidden Treasure
 locale: en
 cefr: b1
 key: librarys-hidden-treasure
+reviews: 1
 ---
 
 Edward was the librarian of the quiet city library. He lived among books. He gave people books and took them back. But he never read them himself.

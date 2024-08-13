@@ -3,6 +3,7 @@ title: The Unlucky Winner
 locale: en
 cefr: a1
 key: unlucky-winner
+reviews: 1
 ---
 
 Lucy lives in a small town. There were parks, trees, and pretty houses. It was a great place to live.

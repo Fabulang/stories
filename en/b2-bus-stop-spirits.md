@@ -3,6 +3,7 @@ title: The Bus-Stop of the Spirits
 locale: en
 cefr: b2
 key: bus-stop-spirits
+reviews: 1
 ---
 
 "Excuse me, where can I find the famous Bus-Stop of the Spirits?"

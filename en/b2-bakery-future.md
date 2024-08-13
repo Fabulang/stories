@@ -3,6 +3,7 @@ title: Bakery of the Future
 locale: en
 cefr: b2
 key: bakery-future
+reviews: 1
 ---
 
 Edith didn't like how much technology there was these days. When she was young, things were much simpler. Now, everything had a battery, or flashing lights, or artificial intelligence. It was all too much for her.

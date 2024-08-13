@@ -3,6 +3,7 @@ title: The Dancers' Statue
 cefr: b1
 locale: en
 key: dancers-statue
+reviews: 1
 ---
 
 The taxi arrived and Jennifer got inside. She opened her *Tourist's Guide* book.

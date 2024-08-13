@@ -3,6 +3,7 @@ title: Alien Languages
 locale: en
 cefr: b1
 key: alien-languages
+reviews: 1
 ---
 
 "It's definitely an alien language," Alison confirmed.

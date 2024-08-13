@@ -3,6 +3,7 @@ title: The Potion Master's Apprentice
 locale: en
 cefr: c2
 key: potion-masters-apprentice
+reviews: 1
 ---
 
 The purple liquid inside the square bottle sparkled with flecks of gold. Annabel tipped the contents into a metal bowl. Then she found a tub of strange yellow stones. She threw them all in as well. Finally, there was a jar full of the tongues of some unfortunate animals.

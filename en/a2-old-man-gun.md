@@ -3,6 +3,7 @@ title: The Old Man and the Gun
 locale: en
 cefr: a2
 key: old-man-gun
+reviews: 1
 ---
 
 A long time ago, life was dangerous. There was a small town in the desert. A man called Mark lived there. Mark's job was to keep the town safe.

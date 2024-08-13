@@ -3,6 +3,7 @@ title: A Cosmic Misunderstanding
 locale: en
 cefr: b1
 key: cosmic-misunderstanding
+reviews: 1
 ---
 
 Clare was a dedicated astronomer, always watching the skies. One night, she spotted a huge meteor that seemed to be getting closer to Earth.

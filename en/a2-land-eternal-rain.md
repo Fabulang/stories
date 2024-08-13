@@ -3,6 +3,7 @@ title: The Land of Eternal Rain
 cefr: a2
 locale: en
 key: land-eternal-rain
+reviews: 1
 ---
 
 Years ago, in a small town, there was a witch. The witch made it rain every day. In spring, summer, autumn and winter: rain, rain, rain, snow.

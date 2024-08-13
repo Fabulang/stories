@@ -3,6 +3,7 @@ title: Living the Dream
 locale: en
 cefr: c2
 key: living-dream
+reviews: 1
 ---
 
 Grace and Tom had recently bought a house together. Both in their early twenties, they didn't have a lot of money. The house was small, and quite cold. But they were happy snuggling together with a big blanket on their lumpy sofa.

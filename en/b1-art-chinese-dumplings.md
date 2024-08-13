@@ -3,6 +3,7 @@ title: The Art of Chinese Dumplings
 locale: en
 cefr: b1
 key: art-chinese-dumplings
+reviews: 1
 ---
 
 Roxanne's food blog was one of the most popular cookery websites on the Internet. People loved her blog because it contained only the very best recipes that she'd discovered while travelling the world.

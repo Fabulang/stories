@@ -3,6 +3,7 @@ title: Peace and Quiet
 locale: en
 cefr: a1
 key: peace-quiet
+reviews: 1
 ---
 
 Bob lives on his own. He likes his life to be peaceful and quiet. He has a routine. Every day, he meditates for an hour after work. Then he cooks a healthy meal, and watches an episode of *The Gardening Show* on television. Finally, he listens to classical music and goes to sleep.

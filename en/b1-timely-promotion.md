@@ -3,6 +3,7 @@ title: A Timely Promotion
 locale: en
 cefr: b1
 key: timely-promotion
+reviews: 1
 ---
 
 Jane's first job was in a busy office. It was a boring job. Then, one day, she had a strange accident with the coffee machine that changed her life.

@@ -3,6 +3,7 @@ title: The Colour of Love
 locale: en
 cefr: c2
 key: colour-love
+reviews: 1
 ---
 
 In the year 3202, society is composed of both humans and aliens, living together peacefully as equal citizens.

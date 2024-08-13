@@ -3,6 +3,7 @@ title: An Ancient Power
 locale: en
 cefr: c1
 key: ancient-power
+reviews: 1
 ---
 
 Jacklyn was an ambitious archaeologist. In her research, she had found numerous references to a powerful ancient artefact. Her colleagues kept telling her it was a myth, but Jacklyn knew the evidence was too strong. It had to really exist.

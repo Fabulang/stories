@@ -3,6 +3,7 @@ title: The Jewel of the Kingdom
 locale: en
 cefr: b2
 key: jewel-kingdom
+reviews: 1
 ---
 
 "You cannot stop me," laughed Moros, the evil tyrant. "Now I shall use the Jewel of Power to conquer the kingdom! Drop your weapon, Eravon, or she dies."

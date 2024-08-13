@@ -3,6 +3,7 @@ title: The Comedian's Voice
 locale: en
 cefr: b2
 key: comedians-voice
+reviews: 1
 ---
 
 Frank, an emerging talent in the world of stand-up comedy, was respected for his incredible ability to impersonate celebrities.

@@ -3,6 +3,7 @@ title: Everyone's Garden
 locale: en
 cefr: b2
 key: everyones-garden
+reviews: 1
 ---
 
 Amanda lived in a dull, grey apartment block. A small garden surrounded it, but it was overgrown with weeds. It made the building look even uglier.

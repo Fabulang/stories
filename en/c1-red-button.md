@@ -3,6 +3,7 @@ title: The Red Button
 locale: en
 cefr: c1
 key: red-button
+reviews: 1
 ---
 
 Everyone in the Police Department clapped and cheered as Detective Raven entered the room. He had solved yet another intractable murder case. How had he worked out that it was the babysitter with so few clues?

@@ -3,6 +3,7 @@ title: New Year's Luck
 cefr: b2
 locale: en
 key: new-years-luck
+reviews: 1
 ---
 
 "Right now, on Earth, it's New Year's Eve," said Alex. "My family is eating a hot, delicious dinner. Instead, I'm here on this awful spaceship, eating nothing."

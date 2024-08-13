@@ -3,6 +3,7 @@ title: What She'd Hoped For
 locale: en
 cefr: c1
 key: what-shed-hoped-for
+reviews: 1
 ---
 
 Having just graduated, Juliet decided to embark on a celebratory backpacking trip across Europe. She yearned for thrilling adventures and hoped to make life-changing discoveries. Yet, as she navigated through the continent, she found herself disenchanted.

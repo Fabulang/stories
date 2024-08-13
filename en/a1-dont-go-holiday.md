@@ -3,7 +3,7 @@ title: Don't Go on Holiday
 cefr: a1
 locale: en
 key: dont-go-holiday
-reviews: 1
+reviews: 2
 ---
 
 "Don't go on holiday."

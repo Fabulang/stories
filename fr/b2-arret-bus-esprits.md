@@ -46,4 +46,4 @@ Quand Élisabeth est arrivée au travail lundi matin, il y avait une longue file
 
 Il y avait une voix qui venait du bureau derrière elle. Son manager était au téléphone.
 
-"Votre article sur un arrêt de bus a fait des merveilles !" disait-il. "Combien me demanderiez-vous pour en écrire un autre ? ... D'accord, j'enverrai l'argent. ... Oh, qu'est-ce que ça fait ? Faites-le sur les feux de circulation."
+"Votre article sur un arrêt de bus a fait des merveilles !" disait-il. "Combien me demanderiez-vous pour en écrire un autre ? ... D'accord, j'enverrai l'argent. ... Oh, qu'est-ce que ça peut faire ? Faites-le sur les feux de circulation."

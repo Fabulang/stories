@@ -3,6 +3,8 @@ title: Sorte de Ano Novo
 cefr: b2
 locale: pt-BR
 key: new-years-luck
+reviewers:
+ - joas-martins
 ---
 
 "Neste momento, na Terra, é véspera de Ano-Novo," disse Alex. "Minha família está comendo um jantar quente e delicioso. Em vez disso, estou aqui nesta nave horrível, sem comer nada."

@@ -3,6 +3,8 @@ title: A Estátua dos Dançarinos
 cefr: b1
 locale: pt-BR
 key: dancers-statue
+reviewers:
+ - joas-martins
 ---
 
 O táxi chegou e Jenifer entrou. Ela abriu seu livro de guia turístico.

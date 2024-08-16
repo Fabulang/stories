@@ -3,6 +3,8 @@ title: Deveres na Prisão
 cefr: c1
 locale: pt-BR
 key: prison-duties
+reviewers:
+ - joas-martins
 ---
 
 "Continue tocando!" gritou um dos guardas.

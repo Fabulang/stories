@@ -3,6 +3,8 @@ title: Vendo Claramente
 locale: pt-BR
 cefr: a1
 key: seeing-clearly
+reviewers:
+ - joas-martins
 ---
 
 "Você está pronta?" grita o marido de Elisa.

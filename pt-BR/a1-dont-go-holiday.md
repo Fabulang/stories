@@ -3,6 +3,8 @@ title: Não Saia de Férias
 cefr: a1
 locale: pt-BR
 key: dont-go-holiday
+reviewers:
+ - joas-martins
 ---
 
 "Não saia de férias."

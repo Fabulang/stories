@@ -5,6 +5,7 @@ locale: fr
 key: dont-go-holiday
 reviewers:
  - avance-avec-nisa
+ - ashlyn-cleys
 ---
 
 "Ne pars pas en vacances."

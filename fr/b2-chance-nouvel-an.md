@@ -3,6 +3,8 @@ title: La Chance du Nouvel An
 cefr: b2
 locale: fr
 key: new-years-luck
+reviewers:
+ - ashlyn-cleys
 ---
 
 "En ce moment, sur Terre, c'est le réveillon du Nouvel An," a dit Alexandre. "Ma famille est en train de manger un dîner chaud et délicieux. Moi, je suis ici, dans ce vaisseau spatial affreux, sans rien manger."

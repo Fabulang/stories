@@ -3,6 +3,8 @@ title: Paix et Tranquillité
 locale: fr
 cefr: a1
 key: peace-quiet
+reviewers:
+ - ashlyn-cleys
 ---
 
 Robert vit seul. Il aime que sa vie soit paisible et tranquille. Il a une routine. Chaque jour, il médite pendant une heure après le travail. Puis il cuisine un repas sain et regarde un épisode de *L'Émission de Jardinage* à la télévision. Enfin, il écoute de la musique classique et va se coucher.

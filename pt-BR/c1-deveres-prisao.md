@@ -19,7 +19,7 @@ Henrica sabia que os guardas estavam bêbados demais para perceber o que ela est
 
 Quando ela tocou a nota final, de repente as luzes se acenderam. O chefe da prisão estava parado na porta. Os guardas pararam de dançar e fizeram continência.
 
-"Agora chega, rapazes," disse o chefe. "Levem ela de volta para a cela e vão para a cama."
+"Agora chega, rapazes," disse o chefe. "Levem-na de volta para a cela e vão para a cama."
 
 Henrica estava prendendo a respiração. Será que o chefe tinha ouvido o que ela estava tocando? Mas ele já tinha ido embora. Ela respirou. Ela foi estúpida por ter assumido um risco assim. Se ela tivesse tocado apenas alguns segundos a mais...
 
@@ -31,7 +31,7 @@ Um dos guardas trancou Henrica de volta em sua cela. Henrica era uma mulher pequ
 
 "Confie em mim, Henrica. Temos observado por meses. Exatamente ao meio-dia, os guardas no portão do pátio saem para o almoço — eles sempre saem pontualmente. No mínimo dois minutos depois, os próximos guardas chegam — eles sempre se atrasam. Você só precisa sair com a gente e entrar no carro do meu irmão."
 
-"Eu vou atrasar vocês — vocês vão ser pegos — eu não devo ir!" lamentou Henrica. "Eu vou pensar em vocês todos os dias, todos vocês, e isso vai me fazer feliz. Se pessoas como vocês estão livres, então nosso velho país ainda está vivo."
+"Eu vou atrasá-los — vocês vão ser pegos — eu não devo ir!" lamentou Henrica. "Eu vou pensar em vocês todos os dias, todos vocês, e isso vai me fazer feliz. Se pessoas como vocês estão livres, então nosso velho país ainda está vivo."
 
 "Você pode ser livre também, Henrica. Vamos embora amanhã. Encontre a gente no pátio."
 

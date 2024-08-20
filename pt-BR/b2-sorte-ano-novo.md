@@ -45,7 +45,7 @@ Havia apenas uma coisa que poderia salvá-los. Se eles encontrassem um asteroide
 
 A capitã olhou para cima. "Pegue," ela disse. Ela tirou algo do bolso e jogou para Alex. Era um pedaço de metal pontiagudo.
 
-"Nós derretemos o metal e jogamos ele na água fria," ela disse. "Cada formato é único. Algumas pessoas acreditam que o formato prevê o futuro."
+"Nós derretemos o metal e o jogamos na água fria," ela disse. "Cada formato é único. Algumas pessoas acreditam que o formato prevê o futuro."
 
 "Infelizmente, capitã," disse Alex rindo, "acho que isso parece uma explosão!"
 

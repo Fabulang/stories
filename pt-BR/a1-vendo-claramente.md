@@ -63,7 +63,7 @@ Ela para de sorrir e corre para a sala. O marido dela corre para a sala também.
 
 "O que tem de errado?" ele pergunta.
 
-"Nada," diz Elisa. "É só que... Eu não tinha percebido..."
+"Nada," diz Elisa. "É só que... eu não tinha percebido..."
 
 "Percebido o quê?"
 

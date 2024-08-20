@@ -19,7 +19,7 @@ Jenifer mostrou para ele seu livro.
 
 "É um guia clássico para turistas!" Jenifer explicou. "É muito mais autêntico."
 
-"Você deveria levar ele ao museu, eles vão amar isso."
+Você deveria levá-lo ao museu, eles vão amar isso."
 
 "Se você não sabe onde está a estátua, é só me dizer."
 

@@ -13,7 +13,7 @@ key: seeing-clearly
 
 Elisa usa un po' di profumo. È pronta per la festa con le sue amiche. Scende le scale e va in cucina.
 
-Si sbatte il ginocchio contro la sedia.
+Urta il ginocchio contro la sedia.
 
 "Ahi!" grida.
 

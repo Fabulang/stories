@@ -3,6 +3,8 @@ title: L'Art des Raviolis Chinois
 locale: fr
 cefr: b1
 key: art-chinese-dumplings
+reviewers:
+- ashlyn-cleys
 ---
 
 Le blog culinaire de Roxanne était l'un des sites de cuisine les plus populaires sur Internet. Les gens adoraient son blog car il ne contenait que les meilleures recettes qu'elle avait découvertes lors de ses voyages à travers le monde.

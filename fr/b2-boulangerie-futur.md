@@ -3,6 +3,8 @@ title: Boulangerie du Futur
 locale: fr
 cefr: b2
 key: bakery-future
+reviewers:
+- ashlyn-cleys
 ---
 
 Édith n'aimait pas la quantité de technologie présente ces jours-ci. Quand elle était jeune, les choses étaient beaucoup plus simples. Maintenant, tout avait une batterie, des lumières clignotantes, ou de l'intelligence artificielle. C'était trop pour elle.

@@ -15,7 +15,7 @@ Marco ha svolto il lavoro per quarantacinque anni. Poi la gente ha detto che era
 
 "Sei vecchio e stanco," ha detto Giuseppe. "Cosa puoi insegnarmi? Niente."
 
-Un giorno, un criminale è arrivato in città. Nessuno conosceva il suo nome. Ma sapevano cosa aveva fatto, nelle città vicine. Lì, molte persone hanno cercato di fermarlo. Ha ucciso tutti loro. Quando i loro figli piangevano, lui rideva. La gente lo nomina 'il Lupo'.
+Un giorno, un criminale è arrivato in città. Nessuno conosceva il suo nome. Ma sapevano cosa aveva fatto, nelle città vicine. Lì, molte persone hanno cercato di fermarlo. Ha ucciso tutti loro. Quando i loro figli piangevano, lui rideva. La gente lo chiamano 'il Lupo'.
 
 Ora, il Lupo era qui. Stava camminando per le strade con la sua pistola. Ad ogni casa, bussava alla porta. Se non aprivano la porta, sparava attraverso la porta. Se aprivano la porta, diceva loro di dargli i loro soldi. Metteva i soldi nel suo sacco.
 
@@ -23,7 +23,7 @@ Poi il Lupo è arrivato alla casa di Giuseppe. Ha bussato alla porta. La porta s
 
 "Smettila subito," ha urlato Marco.
 
-Marco stava in piedi nella strada vuota. Il Lupo si è girato. Giuseppe ha rapidamente chiuso la porta. Il Lupo è entrato in mezzo alla strada. Si è voltato verso Marco e ha sorriso.
+Marco stava in piedi nella strada vuota. Il Lupo si è girato. Giuseppe ha rapidamente chiuso la porta. Il Lupo si è posizionato in mezzo alla strada. Si è voltato verso Marco e ha sorriso.
 
 "O cosa?" ha detto il Lupo.
 

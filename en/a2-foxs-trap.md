@@ -6,11 +6,11 @@ key: foxs-trap
 reviews: 1
 ---
 
-Mouse was in her bedroom, in her house in the forest. Her house was inside a small log on the ground. It had four windows, a front door and a back door, and a little chimney.
+Miss Mouse was in her bedroom, in her house in the forest. Her house was inside a small log on the ground. It had four windows, a front door and a back door, and a little chimney.
 
 Mouse was looking in her mirror. "My ears are so big," she said sadly. "The other animals laugh at me." She sighed.
 
-Outside the log, Fox was passing by. He heard what Mouse said. He walked closer, quietly.
+Outside the log, Mr Fox was passing by. He heard what Mouse said. He walked closer, quietly.
 
 "I wish I was like Butterfly," Mouse continued. "Everyone loves Butterfly. She's so pretty. Her wings are so attractive and colourful. And such small ears! Life is easy for her."
 

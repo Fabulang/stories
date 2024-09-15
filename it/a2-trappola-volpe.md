@@ -9,7 +9,7 @@ Sig.na Topo era nella sua stanza, nella sua casa nella foresta. La sua casa era 
 
 Topo si stava guardando allo specchio. "Le mie orecchie sono così grandi," ha detto tristemente. "Gli altri animali ridono di me." Ha sospirato.
 
-Fuori dal tronco, Volpe stava passando. Ha sentito quello che ha detto Topo. Si è avvicinata silenziosamente.
+Fuori dal tronco, Sig. Volpe stava passando. Ha sentito quello che ha detto Topo. Si è avvicinata silenziosamente.
 
 "Vorrei essere come Farfalla," ha continuato Topo. "Tutti amano Farfalla. È così carina. Le sue ali sono così attraenti e colorate. E che orecchie piccole! La vita è facile per lei."
 

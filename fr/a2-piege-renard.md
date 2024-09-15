@@ -5,11 +5,11 @@ cefr: a2
 key: foxs-trap
 ---
 
-Souris était dans sa chambre, dans sa maison dans la forêt. Sa maison était à l'intérieur d'une petite bûche au sol. Elle avait quatre fenêtres, une porte d'entrée, une porte arrière, et une petite cheminée.
+Mlle Souris était dans sa chambre, dans sa maison dans la forêt. Sa maison était à l'intérieur d'une petite bûche au sol. Elle avait quatre fenêtres, une porte d'entrée, une porte arrière, et une petite cheminée.
 
 Souris se regardait dans son miroir. "Mes oreilles sont tellement grandes," a-t-elle dit tristement. "Les autres animaux se moquent de moi." Elle a soupiré.
 
-Dehors, Renard passait près de la bûche. Il a entendu ce que disait Souris. Il s'est approché en silence.
+Dehors, M. Renard passait près de la bûche. Il a entendu ce que disait Souris. Il s'est approché en silence.
 
 "J'aimerais être comme Papillon," a continué Souris. "Tout le monde aime Papillon. Elle est tellement jolie. Ses ailes sont tellement attrayantes et colorées. Et de tellement petites oreilles ! La vie est facile pour elle."
 

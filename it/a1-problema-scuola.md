@@ -13,9 +13,9 @@ Si fermano all'ingresso principale.
 
 "Qui sei al sicuro," dice la donna.
 
-L'uomo respira. "Attraversa l'atrio principale. Poi è la terza porta a sinistra. Prendi questo."
+L'uomo respira. "Attraversa l'atrio principale. Poi è la terza porta a sinistra."
 
-L'uomo le porge una torcia. Lei la respinge.
+L'uomo le porge una torcia. "Prendi questo." Lei la respinge.
 
 "Ma è pericoloso, signorina Acciaio! La persona che è venuta prima..."
 
@@ -33,7 +33,7 @@ Dall'altra parte dell'atrio principale, c'è un corridoio lungo e stretto. Ci so
 
 Sotto la terza porta, può vedere un po' di luce. La luce è molto fioca, con un pallido colore viola. Ascolta. C'è un suono di ticchettio e graffi.
 
-Entra nella classe. La porta scricchiola rumorosamente. La stanza è grande, con molti tavoli e sedie.
+Entra nella stanza. La porta scricchiola rumorosamente. La stanza è grande, con molti tavoli e sedie.
 
 Un ragazzino è seduto su una delle sedie. La luce viola proviene da lui.
 
@@ -41,7 +41,7 @@ Lentamente, la signorina Acciaio si avvicina. Si ferma dietro al ragazzino. Lui 
 
 Ha bisogno di avvicinarsi di più.
 
-"Posso sedermi con te?" chiede piano.
+"Posso sedermi con te?" chiede tranquillamente.
 
 Il ragazzino non risponde. Il gesso ticchetta e graffia. Lentamente, la signorina Acciaio si siede. Il ragazzino è molto freddo. Lei può sentirlo.
 
@@ -49,13 +49,13 @@ Il ragazzino non risponde. Il gesso ticchetta e graffia. Lentamente, la signorin
 
 "Non voglio farti del male," dice subito la signorina Acciaio. Troppo in fretta.
 
-"Cinquecentodiciassettemila, duecentoquarantasei," dice il ragazzino. Sta guardando la lavagna. Ci sono numeri dappertutto. "Diviso quarantaduemila, ottocentododici..."
+"Cinquecentodiciassettemila... duecentoquarantasei," dice il ragazzino. Sta guardando la lavagna. Ci sono numeri dappertutto. "Diviso quarantaduemila... ottocentododici..."
 
 "Stai... facendo matematica?"
 
 "Sono pessimo in matematica!" grida il ragazzino. "Allora il professore mi ha punito. Mi ha dato questo problema. Ha detto: 'Non puoi andartene finché non lo risolvi!' Cinquecentodiciassettemila..."
 
-"E stai ancora provando? Quanto tempo...?"
+"E stai ancora provando? Da quanto tempo...?"
 
 "Non lo so... la candela è ancora... oh... dov'è la candela?"
 

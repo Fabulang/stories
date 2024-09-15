@@ -28,15 +28,15 @@ The crowd murmured with concern.
 
 "I do," said the mayor sadly. "How can I live with you all, knowing I failed you? I've already packed my bags. I don't want any fuss. My train leaves in two hours."
 
-"Wait -- we can still save the town! We can open the Falconers' vault!"
+"Wait -- we can still save the town! We can open the Fairfields' vault!"
 
-For generations, the Falconers had been the town's richest family. When the last Falconer had died, she had left instructions that her family vault remain closed for one hundred years. After that, the contents of the vault would become the property of the town. It was due to be opened next year.
+For generations, the Fairfields had been the town's richest family. When the last Fairfield had died, she had left instructions that her family vault remain closed for one hundred years. After that, the contents of the vault would become the property of the town. It was due to be opened next year.
 
-"But... no!" the mayor cried. "The Falconers were good to this town. They built the schools, paved the streets, and donated to good causes throughout their lives. We can't disrespect Mrs Falconer's wishes! We would gain her money -- but lose our dignity!"
+"But... no!" the mayor cried. "The Fairfields were good to this town. They built the schools, paved the streets, and donated to good causes throughout their lives. We can't disrespect Mrs Fairfield's wishes! We would gain her money -- but lose our dignity!"
 
 "Did you say 'money'?" someone shouted. "Let's go!"
 
-The crowd rushed towards the old mansion where the Falconers had lived. They broke down the gates and stormed inside. Soon, they discovered the stairs leading underground to a heavy metal door.
+The crowd rushed towards the old mansion where the Fairfields had lived. They broke down the gates and stormed inside. Soon, they discovered the stairs leading underground to a heavy metal door.
 
 "Move aside!" shouted the mayor. He pushed his way to the front. "If you insist on this course of action, *I* will open the door. That way, none of you will feel guilty about it. I will take full responsibility. Let me do this for you before I leave."
 

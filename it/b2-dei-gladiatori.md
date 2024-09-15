@@ -17,7 +17,7 @@ Il padrone le ha dato uno schiaffo. "Non disturbarmi mentre sto scommettendo," h
 
 "Questo li fa lavorare velocemente. Non come i tuoi schiavi, che sorridono tutto il giorno."
 
-Dieci minuti dopo, la folla esultava. Il gladiatore magro stava sanguinando, ma è uscito correndo dall'arena.
+Dieci minuti dopo, la folla esultava. Il gladiatore magro era sanguinato, ma è uscito correndo dall'arena.
 
 "Che sfortuna," ha detto l'amico del padrone con simpatia.
 
@@ -25,7 +25,7 @@ Il padrone è rimasto in silenzio mentre ha consegnato le monete al suo amico, u
 
 A casa, il padrone ha afferrato Lucia. "Sapevi quale gladiatore avrebbe vinto. Dimmi come hai fatto!"
 
-Due giorni prima, a mezzanotte, il dio Apollo aveva visitato Lucia. Le aveva offerto una scelta: ottenere la capacità di vedere cosa sarebbe accaduto, ma perdere la capacità di mentire. Così, ha dovuto dire al padrone tutto.
+Due giorni prima, a mezzanotte, il dio Apollo aveva visitato Lucia. Le aveva offerto una scelta: ottenere la capacità di vedere che cosa succederà, ma perdere la capacità di mentire. Così, ha dovuto dire al padrone tutto.
 
 "Userò il dono di Apollo per compiacerti," ha detto. "È tutto ciò che desidero."
 
@@ -41,7 +41,7 @@ Lucia ha tossito forte.
 
 "Non sono affari tuoi," ha ringhiato il padrone. "Vuoi giocare?" Si sono stretti la mano.
 
-Dopo un combattimento orribile, il padrone ha riso del suo amico. "Dovresti perdere più spesso," ha detto il padrone. "Mi piaci di più quando perdi!"
+Dopo un combattimento terribile, il padrone ha deriso il suo amico. "Dovresti perdere più spesso," ha detto il padrone. "Mi piaci di più quando perdi!"
 
 Nei mesi successivi, la ricchezza del padrone è raddoppiata e triplicata. E anche se poteva vincere ovunque, amava di più vincere contro il suo amico. Ogni settimana, insisteva per una scommessa più alta. Lentamente, l'amico del padrone ha perso una fortuna.
 
@@ -57,7 +57,7 @@ L'ha spinta via, e lei è inciampata. Il piatto è caduto. Lucia ha sbattuto la 
 
 In quel momento, la porta si è spalancata. L'amico del padrone è entrato di corsa nella stanza.
 
-"Bari!" ha urlato l'amico. "Credevo che fossi fortunato. Ma non hai onore!"
+"Truffatore!" ha urlato l'amico. "Credevo che fossi fortunato. Ma non hai onore!"
 
 Il padrone si è alzato. "Non eri invitato! Come osi insultarmi davanti ai miei ospiti!"
 
@@ -79,4 +79,4 @@ Lucia ha guardato l'amico del padrone. L'amico l'ha guardata. Ha visto che stava
 
 Lucia ha visto cosa sarebbe successo.
 
-"Come osa insultarti," ha detto con cautela. "Il combattimento durerà meno di un minuto... Dopo... tutti si congratuleranno con al mio padrone. Lo chiameranno un uomo d'onore. E domani, sorriderò tutto il giorno."
+"Come osa insultarti," ha detto con cautela. "Il combattimento durerà meno di un minuto... Dopo... tutti congratuleranno il mio padrone. Lo chiameranno un uomo d'onore. E domani, sorriderò tutto il giorno."

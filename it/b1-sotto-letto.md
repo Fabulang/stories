@@ -51,7 +51,7 @@ Il mostro di Dorotea le era saltato in grembo.
 
 "Ti stai facendo delle fantasie," ha detto Dorotea. "Non ho visto niente."
 
-"Questo è molto grave," ha detto il copilota. Ha chiamato l'assistente di volo capo, che è entrata nella cabina di pilotaggio. "Per favore, controlli nella borsa di Dorotea."
+"Questo è molto grave," ha detto il copilota. Ha chiamato il capo degli assistente di volo, che è entrata nella cabina di pilotaggio. "Per favore, controlli nella borsa di Dorotea."
 
 Appena l'assistente di volo ha aperto la borsa, il mostro è saltato fuori. L'assistente di volo ha urlato, e il copilota si è alzato dalla sua sedia. Ha cercato di catturare il mostro, ma questo rimbalzava dappertutto nella cabina di pilotaggio.
 
@@ -59,7 +59,7 @@ Appena l'assistente di volo ha aperto la borsa, il mostro è saltato fuori. L'as
 
 L'assistente di volo ha cercato di calciarlo, ma ha colpito per sbaglio i comandi dell'aereo che stava usando Dorotea. L'aereo ha accelerato.
 
-"FERMATEVI!" ha gridato Dorotea.
+"FERMO!" ha gridato Dorotea.
 
 Ha afferrato il mostro e se l'è messo sulla testa.
 

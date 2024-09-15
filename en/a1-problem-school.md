@@ -14,9 +14,9 @@ They stop at the main entrance.
 
 "You're safe here," says the woman.
 
-The man breathes. "Go through the main hall. Then it's the third door on the left. Take this."
+The man breathes. "Go through the main hall. Then it's the third door on the left."
 
-The man offers her a torch. She pushes it away.
+The man offers her a torch. "Take this." She pushes it away.
 
 "But it's dangerous, Miss Steel! The previous person who..."
 
@@ -54,7 +54,7 @@ The boy doesn't respond. The chalk taps and scrapes. Slowly, Miss Steel sits dow
 
 "You're... doing maths?"
 
-"I'm bad at maths!" the boy cries. "So the Professor punished me. He gave me this question. He said: 'You can't leave until you solve it!' Five hundred and seventeen thousand..."
+"I'm bad at maths!" the boy cries. "So the professor punished me. He gave me this question. He said: 'You can't leave until you solve it!' Five hundred and seventeen thousand..."
 
 "And you're still trying? How long...?"
 

@@ -1,11 +1,11 @@
 ---
-title: La trappola di Volpe
+title: La Trappola di Volpe
 locale: it
 cefr: a2
 key: foxs-trap
 ---
 
-Topo era nella sua stanza, nella sua casa nella foresta. La sua casa era dentro un piccolo tronco a terra. Aveva quattro finestre, una porta d'ingresso e una porta sul retro, e un piccolo camino.
+Sig.na Topo era nella sua stanza, nella sua casa nella foresta. La sua casa era dentro un piccolo tronco a terra. Aveva quattro finestre, una porta d'ingresso e una porta sul retro, e un piccolo camino.
 
 Topo si stava guardando allo specchio. "Le mie orecchie sono così grandi," ha detto tristemente. "Gli altri animali ridono di me." Ha sospirato.
 
@@ -29,7 +29,7 @@ La voce di Volpe era calma e amichevole. "Mi dispiace per te. Anch'io sono molto
 
 Topo ha riflettuto attentamente. Si è guardato di nuovo allo specchio. Ha visto le sue grandi orecchie.
 
-"Ma devo restare a casa," ha detto Topo. "Quasi dimenticavo. I miei nipoti a trovarmi dopo la scuola. Devo aspettarli."
+"Ma devo restare a casa," ha detto Topo. "Quasi dimenticavo. I miei nipoti vengono a trovarmi dopo la scuola. Devo aspettarli."
 
 Ora gli occhi di Volpe erano spalancati. "Non è affatto un problema," ha detto. "Ti porterò io. Prima andiamo alla Scuola dei Topi. Poi andremo tutti insieme al lago magico."
 

@@ -13,9 +13,9 @@ Ils s'arrêtent à l'entrée principale.
 
 "Vous êtes en sécurité ici," dit la femme.
 
-L'homme respire. "Traversez le hall principal. Puis, c'est la troisième porte à gauche. Prenez ceci."
+L'homme respire. "Traversez le hall principal. Puis, c'est la troisième porte à gauche."
 
-L'homme lui tend une lampe torche. Elle la repousse.
+L'homme lui tend une lampe torche. "Prenez ceci." Elle la repousse.
 
 "Mais c'est dangereux, Mlle Acier ! La personne précédente qui..."
 
@@ -53,7 +53,7 @@ Le garçon ne répond pas. La craie tape et gratte. Lentement, Mlle Acier s'asso
 
 "Tu... fais des maths ?"
 
-"Je suis mauvais en maths !" crie le garçon. "Alors le Professeur m'a puni. Il m'a donné cette question. Il a dit : 'Tu ne peux pas partir tant que tu n'as pas trouvé la réponse !' Cinq cent dix-sept mille..."
+"Je suis mauvais en maths !" crie le garçon. "Alors le professeur m'a puni. Il m'a donné cette question. Il a dit : 'Tu ne peux pas partir tant que tu n'as pas trouvé la réponse !' Cinq cent dix-sept mille..."
 
 "Et tu essaies encore ? Depuis combien de temps... ?"
 

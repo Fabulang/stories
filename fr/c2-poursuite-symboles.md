@@ -19,7 +19,7 @@ La plupart des scientifiques de la station martienne travaillaient sur le même 
 
 Philippine savait qu'elle avait eu de la chance d'avoir reçu autant de financements. Mais sans preuve tangible après trois missions, le gouvernement avait refusé de financer une quatrième. C'était le dernier jour qu'elle passerait sur Mars.
 
-"Ils se moquent de sa théorie," a ri l'homme assis de l'autre côté de la table. "Elle est la seule assez folle pour explorer cette partie des grottes. Ses cartes sont des œuvres d'art. C'est une aubaine."
+"Ils se fichent de sa théorie," a ri l'homme assis de l'autre côté de la table. "Elle est la seule assez folle pour explorer cette partie des grottes. Ses cartes sont des œuvres d'art. C'est une aubaine."
 
 "Tu aurais dû être artiste, ma chère. De quelle couleur étaient tes anciens extraterrestres ? Rouges ou verts ?"
 

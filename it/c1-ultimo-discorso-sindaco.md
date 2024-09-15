@@ -15,7 +15,7 @@ Una grande folla di cittadini preoccupati si era radunata per ascoltare il disco
 
 L'anno scorso, la città aveva votato per organizzare un sontuoso festival della birra. Nella sua campagna, il sindaco aveva detto che avrebbe rilanciato l'economia locale. Centinaia di tendoni erano stati costruiti, con illuminazione, impianti idraulici e decorazioni rustiche. Migliaia di persone erano venute a festeggiare per due settimane.
 
-"Stiamo ancora cercando di sistemare il disastro," ha spiegato il sindaco. "Abbiamo immagazzinato i tendoni nel seminterrato del museo, ma ora sono ammuffiti... e anche il seminterrato lo è."
+"Stiamo ancora spazzando i rifiuti," ha spiegato il sindaco. "Abbiamo immagazzinato i tendoni nel seminterrato del museo, ma ora sono ammuffiti... e anche il seminterrato lo è."
 
 "E qual è il tuo programma?" ha chiesto qualcuno.
 

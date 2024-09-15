@@ -34,7 +34,7 @@ Philippa jumped out of bed in the middle of the night.
 
 It couldn't be a coincidence! Her mission wasn't complete -- not yet. There were still six hours before sunrise. There was still the south-eastern section of the caves to explore. There was still time.
 
-Shaking with excitement, Philippa crept silently through the corridors, put on an exploration suit, and left the station.
+Shaking with excitement, Philippa crept silently through the corridors, put on a space suit, and left the station.
 
 Within an hour, she was deep within the south-eastern section of the caves. The tunnels here were extremely narrow and complex. That's why she'd avoided them before.
 

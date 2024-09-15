@@ -33,7 +33,7 @@ Philippine a sauté hors du lit en pleine nuit.
 
 Ce ne pouvait pas être une coïncidence ! Sa mission n'était pas terminée -- pas encore. Il restait six heures avant le lever du soleil. Il restait la section sud-est des grottes à explorer. Il restait du temps.
 
-Tremblante d'excitation, Philippine s'est faufilée silencieusement dans les couloirs, a enfilé une combinaison d'exploration et a quitté la station.
+Tremblante d'excitation, Philippine s'est faufilée silencieusement dans les couloirs, a enfilé une combinaison spatiale et a quitté la station.
 
 En moins d'une heure, elle était profondément enfouie dans la section sud-est des grottes. Les tunnels y étaient extrêmement étroits et complexes. C'est pourquoi elle les avait évités jusque-là.
 

@@ -33,7 +33,7 @@ Filippa è saltata giù dal letto nel cuore della notte.
 
 Non poteva essere una coincidenza! La sua missione non era terminata -- non ancora. Mancavano ancora sei ore all'alba. C'era ancora la sezione sud-orientale delle grotte da esplorare. C'era ancora tempo.
 
-Tremante per l'eccitazione, Filippa si è mossa silenziosamente attraverso i corridoi, ha indossato una tuta da esplorazione e ha lasciato la stazione.
+Tremante per l'eccitazione, Filippa si è mossa silenziosamente attraverso i corridoi, ha indossato una tuta spaziale e ha lasciato la base.
 
 Nel giro di un'ora, si trovava nel cuore della sezione sud-orientale delle grotte. I tunnel qui erano estremamente stretti e complessi. Ecco perché li aveva evitati prima.
 

@@ -42,7 +42,7 @@ It wasn't long before she found it: a square with a line and a dot, carved on a 
 
 She continued in the direction the line was pointing. Soon, she found another symbol, and followed the line again. For another hour, she followed the symbols deeper and deeper into the caves.
 
-But eventually Philippa reached a dead end. Exhausted, she sat in the dust and put her head in her hands. She was crazy. The symbols *were* random. She had wasted years of her life.
+But eventually Philippa reached a dead end. Exhausted, she sat down in the dust. She was crazy. The symbols *were* random. She had wasted years of her life.
 
 No! She refused to believe it. She jumped up and aimed her laser gun. Without thinking, she fired.
 

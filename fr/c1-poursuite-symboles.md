@@ -41,7 +41,7 @@ Il n'a pas fallu longtemps avant qu'elle ne le trouve : un carré avec une ligne
 
 Elle a suivi la direction indiquée par la ligne. Bientôt, elle a trouvé un autre symbole, et a suivi de nouveau la ligne. Pendant une autre heure, elle a suivi les symboles, de plus en plus profondément dans les grottes.
 
-Mais finalement, Philippine est arrivée à une impasse. Épuisée, elle s'est assise dans la poussière et a enfoui son visage dans ses mains. Elle était folle. Les symboles *étaient* aléatoires. Elle avait gâché des années de sa vie.
+Mais finalement, Philippine est arrivée à une impasse. Épuisée, elle s'est assise dans la poussière. Elle était folle. Les symboles *étaient* aléatoires. Elle avait gâché des années de sa vie.
 
 Non ! Elle refusait d'y croire. Elle s'est levée d'un bond et a pointé son pistolet laser. Sans réfléchir, elle a tiré.
 

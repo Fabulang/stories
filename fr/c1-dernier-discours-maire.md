@@ -1,7 +1,7 @@
 ---
 title: Le Dernier Discours du Maire
 locale: fr
-cefr: c2
+cefr: c1
 key: mayors-last-speech
 ---
 

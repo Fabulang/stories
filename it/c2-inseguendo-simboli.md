@@ -1,7 +1,7 @@
 ---
 title: Inseguendo Simboli
 locale: it
-cefr: c1
+cefr: c2
 key: chasing-symbols
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: L'Ultimo Discorso del Sindaco
 locale: it
-cefr: c2
+cefr: c1
 key: mayors-last-speech
 ---
 

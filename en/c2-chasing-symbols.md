@@ -1,7 +1,7 @@
 ---
 title: Chasing Symbols
 locale: en
-cefr: c1
+cefr: c2
 key: chasing-symbols
 reviews: 1
 ---

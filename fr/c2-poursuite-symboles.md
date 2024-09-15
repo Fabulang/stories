@@ -1,7 +1,7 @@
 ---
 title: À la Poursuite des Symboles
 locale: fr
-cefr: c1
+cefr: c2
 key: chasing-symbols
 ---
 

@@ -9,17 +9,17 @@ Polvere secca, rossa. Quando la maggior parte delle persone pensa a Marte, è l'
 
 "Dammi la tua opinione quando avrai esaminato le prove," ha detto Filippa bruscamente.
 
-"Il mio tempo è prezioso, cara. Sto facendo un lavoro vero."
+"Il mio tempo è prezioso, cara. Sto facendo un lavoro importante."
 
-La maggior parte degli scienziati della stazione su Marte stava lavorando allo stesso progetto: costruire la prima città su Marte. Filippa stava facendo le sue ricerche.
+La maggior parte degli scienziati della base di Marte stava lavorando allo stesso progetto: costruire la prima città su Marte. Filippa stava facendo le sue ricerche.
 
-"Ho trovato lo stesso simbolo su decine di rocce in tutto Marte," ha insistito Filippa. "Un quadrato con una linea e un punto. È una lingua antica. Deve esserci stata una civiltà su Marte in passato. Altrimenti, come lo spieghi?"
+"Ho trovato lo stesso simbolo su decine di rocce vari luoghi su Marte," ha insistito Filippa. "Un quadrato con una linea e un punto. È una lingua antica. Deve esserci stata una civiltà su Marte in passato. Altrimenti, come lo spieghi?"
 
 "Un quadrato con una linea e un punto! Decine!" l'altra donna l'ha derisa. "Non mi sorprende che il governo ti stia rimandando sulla Terra. Quanti soldi hanno sprecato per farti giocare?"
 
 Filippa sapeva di essere stata fortunata a ricevere così tanti finanziamenti. Ma senza prove concrete dopo tre missioni, il governo aveva rifiutato di pagare per una quarta. Quello era l'ultimo giorno che avrebbe mai trascorso su Marte.
 
-"A loro non interessa la sua teoria," ha riso l'uomo dall'altra parte del tavolo. "È l'unica persona abbastanza pazza da esplorare quella parte delle grotte. Le sue mappe sono opere d'arte. È un affare."
+"A loro non interessa la sua teoria," ha riso l'uomo dall'altra parte del tavolo da pranzo. "È l'unica persona abbastanza pazza da esplorare quella parte delle grotte. Le sue mappe sono opere d'arte. È un vero affare."
 
 "Saresti dovuta diventare un'artista, cara. Di che colore erano i tuoi antichi alieni? Rossi o verdi?"
 
@@ -29,9 +29,9 @@ Tutti gli scienziati hanno riso, tranne il giovane seduto accanto a Filippa. Sem
 
 Filippa ha cercato di sorridere al giovane. Forse avevano ragione. Fissava la sua zuppa. Il suo cucchiaio aveva creato un disegno intrigante.
 
-Filippa è saltata giù dal letto nel mezzo della notte.
+Filippa è saltata giù dal letto nel cuore della notte.
 
-Non poteva essere una coincidenza! La sua missione non era completa -- non ancora. Mancavano ancora sei ore all'alba. C'era ancora la sezione sud-orientale delle grotte da esplorare. C'era ancora tempo.
+Non poteva essere una coincidenza! La sua missione non era terminata -- non ancora. Mancavano ancora sei ore all'alba. C'era ancora la sezione sud-orientale delle grotte da esplorare. C'era ancora tempo.
 
 Tremante per l'eccitazione, Filippa si è mossa silenziosamente attraverso i corridoi, ha indossato una tuta da esplorazione e ha lasciato la stazione.
 
@@ -41,7 +41,7 @@ Non ci è voluto molto prima che lo trovasse: un quadrato con una linea e un pun
 
 Ha continuato nella direzione indicata dalla linea. Presto ha trovato un altro simbolo e ha seguito di nuovo la linea. Per un'altra ora, ha seguito i simboli sempre più in profondità nelle grotte.
 
-Ma alla fine Filippa ha raggiunto un vicolo cieco. Esausta, si è seduta nella polvere. Era pazza. I simboli *erano* casuali. Aveva sprecato anni della sua vita.
+Ma alla fine Filippa ha raggiunto un vicolo cieco. Esausta, si è seduta nella polvere. Era impazzita. I simboli *erano* casuali. Aveva sprecato anni della sua vita.
 
 No! Si è rifiutata di crederci. È balzata in piedi e ha mirato con la sua pistola laser. Senza pensarci, ha sparato.
 

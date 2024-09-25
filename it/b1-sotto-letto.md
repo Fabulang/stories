@@ -3,6 +3,8 @@ title: Sotto il Letto
 locale: it
 cefr: b1
 key: under-bed
+reviewers:
+- giulia-italian-language-hub
 ---
 
 "Fai dei bei sogni, tesoro," ha detto la mamma di Dorotea. Ha spento la luce e ha chiuso la porta.
@@ -33,7 +35,7 @@ Dorotea ha sussultato. Il mostro ha emesso un suono stridulo ed è corso verso l
 
 "Stavo sognando!" ha gridato Dorotea. Lei e il mostro non riuscivano a smettere di ridere.
 
-Venti anni dopo, Dorotea si rilassava sul suo sedile. Era una bellissima giornata. C'erano molte nuvole, ma Dorotea poteva sentire il sole sulla pelle, perché era sopra le nuvole.
+Vent'anni dopo, Dorotea si rilassava sul suo sedile. Era una bellissima giornata. C'erano molte nuvole, ma Dorotea poteva sentire il sole sulla pelle, perché era sopra le nuvole.
 
 "Tutti i sistemi sono normali," ha detto al copilota. "Siamo in rotta e arriveremo in orario."
 
@@ -57,7 +59,7 @@ Appena l'assistente di volo ha aperto la borsa, il mostro è saltato fuori. L'as
 
 "Lasciatelo stare!" ha gridato Dorotea.
 
-L'assistente di volo ha cercato di calciarlo, ma ha colpito per sbaglio i comandi dell'aereo che stava usando Dorotea. L'aereo ha accelerato.
+L'assistente di volo ha cercato di dargli un calcio, ma ha colpito per sbaglio i comandi dell'aereo che stava usando Dorotea. L'aereo ha accelerato.
 
 "FERMO!" ha gridato Dorotea.
 
@@ -75,7 +77,7 @@ Ha afferrato il mostro e se l'è messo sulla testa.
 
 Il copilota è tornato al suo posto. L'assistente di volo si è rimessa il cappello. Più tardi, si è chiesta: La parrucca della pilota aveva degli occhi?
 
-Cinquanta anni dopo, Dorotea si è infilata a letto sotto il suo piumone caldo. Ha letto un libro per un po'. Era uno dei suoi preferiti, che parlava di viaggi nel mondo. Alla fine ha posato il libro. La casa era molto silenziosa.
+Cinquant'anni dopo, Dorotea si è infilata a letto sotto il suo piumone caldo. Ha letto un libro per un po'. Era uno dei suoi preferiti, che parlava di viaggi nel mondo. Alla fine ha posato il libro. La casa era molto silenziosa.
 
 "Buonanotte," ha detto.
 

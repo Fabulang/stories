@@ -3,6 +3,8 @@ title: La Gagnante Malchanceuse
 locale: fr
 cefr: a1
 key: unlucky-winner
+reviewers:
+- ashlyn-cleys
 ---
 
 Lucie vit dans une petite ville. Il y a des parcs, des arbres et de jolies maisons. C'est un endroit formidable pour vivre.

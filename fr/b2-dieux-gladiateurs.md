@@ -27,7 +27,7 @@ De retour à la maison, le maître a attrapé Lucia. "Tu savais quel gladiateur 
 
 Deux jours plus tôt, à minuit, le dieu Apollon avait rendu visite à Lucia. Il lui avait offert un choix : obtenir la capacité de voir ce qui allait se passer, mais perdre la capacité de mentir. Ainsi, elle devait tout dire à son maître.
 
-"J'utiliserai le don d'Apollon pour te plaire," a-t-elle dit. "C'est tout ce que je veux."
+"J'utiliserai le don d'Apollon pour vous plaire," a-t-elle dit. "C'est tout ce que je veux."
 
 "Si tu l'utilises pour aider *qui que ce soit* d'autre, Lucia," a dit le maître, "je te tuerai. Compris ?"
 
@@ -79,4 +79,4 @@ Lucia a regardé l'ami de son maître. L'ami l'a regardée. Il a vu qu'elle saig
 
 Lucia a vu ce qui allait se passer.
 
-"Comment ose-t-il t'insulter," a-t-elle dit prudemment. "Le combat durera moins d'une minute... Ensuite... tout le monde félicitera mon maître. Ils l'appelleront un homme d'honneur. Et demain, je sourirai toute la journée."
+"Comment ose-t-il vous insulter," a-t-elle dit prudemment. "Le combat durera moins d'une minute... Ensuite... tout le monde félicitera mon maître. Ils l'appelleront un homme d'honneur. Et demain, je sourirai toute la journée."

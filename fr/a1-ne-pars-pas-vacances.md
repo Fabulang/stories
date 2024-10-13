@@ -56,7 +56,7 @@ Frédérique éteint son téléphone.
 
 Frédérique arrive à la station balnéaire. C'est une journée chaude et ensoleillée. Il y a une piscine luxueuse à l'extérieur de son hôtel. Elle est impatiente. Elle met ses lunettes de soleil et son maillot de bain.
 
-Elle va à la piscine. Le bord de la piscine est très mouillé. Tout à coup, elle tombe. Elle est blessée. Beaucoup de gens viennent lui aider. Ils l'emmènent à l'hôpital.
+Elle va à la piscine. Le bord de la piscine est très mouillé. Tout à coup, elle tombe. Elle est blessée. Beaucoup de gens viennent l'aider. Ils l'emmènent à l'hôpital.
 
 Elle se réveille dans son lit. Elle ne peut pas bouger. Le médecin dit qu'elle doit se reposer.
 

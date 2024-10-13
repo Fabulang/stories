@@ -26,7 +26,7 @@ The man's face is white. "I don't want to know what's in there," he says. "Pleas
 
 "Just send the second payment on time," says Miss Steel. Then she steps inside the school. The door slams behind her.
 
-There is no light at all. She can't see anything. She touches the walls with her hands. The stone feels cold.
+There is no light at all. She can't see anything. She touches the walls with her hands. The stone is cold.
 
 She walks forwards. Her footsteps are loud. They are the only sound. She holds her bag close to her chest.
 

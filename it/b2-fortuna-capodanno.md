@@ -47,7 +47,7 @@ Il Capitano ha alzato lo sguardo. "Prendi," ha detto. Ha preso qualcosa dalla su
 
 "Purtroppo Capitano," ha detto Alessandro ridendo, "mi sembra un'esplosione!"
 
-Tutti hanno riso. Poi, improvvisamente, tutta l'astronave ha tremato. Gli allarmi hanno iniziato a suonare. Tutti sono saltati e hanno corso ai loro computer.
+Tutti hanno riso. Poi, improvvisamente, tutta l'astronave ha tremato. Gli allarmi hanno iniziato a suonare. Tutti sono saltati e sono corsi ai loro computer.
 
 "Rapporto!" ha gridato il Capitano.
 

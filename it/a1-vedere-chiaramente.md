@@ -3,6 +3,8 @@ title: Vedere Chiaramente
 locale: it
 cefr: a1
 key: seeing-clearly
+reviewers:
+- danielle-dipietro-hawkins
 ---
 
 "Sei pronta?" grida il marito di Elisa.
@@ -11,9 +13,9 @@ key: seeing-clearly
 
 "Ma sono passate due ore!"
 
-Elisa usa un po' di profumo. È pronta per la festa con le sue amiche. Scende le scale e va in cucina.
+Elisa si mette un po' di profumo. Ora è pronta per la festa che fa per le sue amiche. Scende le scale e va in cucina.
 
-Urta il ginocchio contro la sedia.
+Colpisce il ginocchio contro una sedia.
 
 "Ahi!" grida.
 
@@ -21,19 +23,19 @@ Urta il ginocchio contro la sedia.
 
 "Niente!"
 
-"Elisa, devi mettere i tuoi nuovi occhiali," dice il marito. "Sono ancora nella scatola."
+"Elisa, devi metterti i tuoi nuovi occhiali," dice suo marito. "Sono ancora nella scatola."
 
-"Non ho bisogno di occhiali."
+"Non ho bisogno degli occhiali."
 
 "Sono qui, tesoro," dice il marito.
 
 "Non mi piacciono i miei occhiali."
 
-"Sono molto eleganti. Sei molto carina con gli occhiali."
+"Sono davvero eleganti. Sei molto bella con gli occhiali."
 
-Elisa non risponde. Va in sala da pranzo. Tutto è pronto per i suoi ospiti. Mette dei fiori nei vasi, e sistema i cuscini sui divani.
+Elisa non risponde. Va nella sala da pranzo. Tutto è pronto per le sue ospiti. Mette dei fiori nei vasi, e sistema i cuscini sui divani.
 
-Il marito entra.
+Suo marito entra.
 
 "Perché hai fatto così?" chiede.
 
@@ -43,28 +45,28 @@ Il marito entra.
 
 "È il nuovo stile," dice velocemente Elisa. "È molto moderno."
 
-Il marito la saluta. La festa è per Elisa e le sue amiche. "Divertiti con il film," dice Elisa. Il marito se ne va. Va al cinema.
+Suo marito la saluta. La festa è per Elisa e le sue amiche. "Goditi il film," dice Elisa. Il marito se ne va. Va al cinema.
 
 Un po' più tardi, Elisa sente il campanello. Vuole aprire la porta, ma non trova la chiave.
 
-Prende una scatola dalla sua borsa. Tira fuori i suoi nuovi occhiali dalla scatola. Mette gli occhiali. Ora vede chiaramente. Apre la porta.
+Prende una scatola dalla sua borsa. Tira fuori i suoi nuovi occhiali dalla scatola. Mette gli occhiali. Finalmente riesce a vedere chiaramente. Apre la porta.
 
 "Adoro i tuoi nuovi occhiali!" dice la sua amica.
 
-Elisa e le sue amiche fanno una festa meravigliosa. Prima di andarsene, tutti dicono che Elisa è bellissima con i suoi nuovi occhiali.
+Elisa e le sue amiche si divertono tanto alla festa. Prima di andarsene, tutti dicono che Elisa sta benissimo con i nuovi occhiali.
 
-Quella notte, il marito di Elisa torna a casa.
+Più tardi quella sera, il marito di Elisa torna a casa.
 
 "Bentornato a casa---Oh!" dice Elisa.
 
-Smette di sorridere e corre nel salotto. Anche il marito corre nel salotto. Sembra molto preoccupato.
+Lei smette di sorridere e corre al salotto. Anche il marito corre al salotto. Sembra molto preoccupato.
 
 "Cosa c'è che non va?" chiede.
 
-"Niente," dice Elisa. "È solo che... non mi ero resa conto..."
+"Niente," dice Elisa. "È solo che... non mi sono resa conto..."
 
 "Resa conto di cosa?"
 
-Elisa toglie gli occhiali. Sorride. Bacia il marito.
+Elisa si toglie gli occhiali. Sorride. Bacia il marito.
 
-"Sei così bello," dice.
+"Che sei così bello," dice.

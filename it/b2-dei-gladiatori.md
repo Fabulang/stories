@@ -17,7 +17,7 @@ Il padrone le ha dato uno schiaffo. "Non disturbarmi mentre sto scommettendo," h
 
 "Questo li fa lavorare velocemente. Non come i tuoi schiavi, che sorridono tutto il giorno."
 
-Dieci minuti dopo, la folla esultava. Il gladiatore magro era sanguinato, ma è uscito correndo dall'arena.
+Dieci minuti dopo, la folla esultava. Il gladiatore magro stava sanguinando, ma è uscito correndo dall'arena.
 
 "Che sfortuna," ha detto l'amico del padrone con simpatia.
 
@@ -43,7 +43,7 @@ Lucia ha tossito forte.
 
 Dopo un combattimento terribile, il padrone ha deriso il suo amico. "Dovresti perdere più spesso," ha detto il padrone. "Mi piaci di più quando perdi!"
 
-Nei mesi successivi, la ricchezza del padrone è raddoppiata e triplicata. E anche se poteva vincere ovunque, amava di più vincere contro il suo amico. Ogni settimana, insisteva per una scommessa più alta. Lentamente, l'amico del padrone ha perso una fortuna.
+Nei mesi successivi, la ricchezza del padrone è raddoppiata e triplicata. E anche se poteva vincere ovunque, amava di più vincere contro il suo amico. Ogni settimana insisteva per una scommessa più alta. Lentamente, l'amico del padrone ha perso una fortuna.
 
 Una sera, durante un banchetto a casa del padrone, Lucia gli ha offerto un grande piatto pieno di prelibatezze che aveva preparato.
 

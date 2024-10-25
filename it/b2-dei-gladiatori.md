@@ -3,6 +3,8 @@ title: Dei e Gladiatori
 locale: it
 cefr: b2
 key: gods-gladiators
+reviewers:
+- giulia-italian-language-hub
 ---
 
 I gladiatori erano pronti a combattere. Uno era un uomo grande con muscoli possenti. L'altro era magro e basso.

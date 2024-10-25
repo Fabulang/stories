@@ -3,6 +3,8 @@ title: Un Problema a Scuola
 locale: it
 cefr: a1
 key: problem-school
+reviewers:
+- giulia-italian-language-hub
 ---
 
 È buio. Non c'è luna nel cielo. Due persone camminano velocemente verso la scuola. È un edificio vecchio, fatto di pietra. Sembra quasi un castello.
@@ -45,7 +47,7 @@ Ha bisogno di avvicinarsi di più.
 
 Il ragazzino non risponde. Il gesso ticchetta e graffia. Lentamente, la signorina Acciaio si siede. Il ragazzino è molto freddo. Lei può sentirlo.
 
-"Sei un'altra uccisore di fantasmi?" dice improvvisamente il ragazzino. "Posso farti del male anche io."
+"Sei un'altra ammazza fantasmi?" dice improvvisamente il ragazzino. "Posso farti del male anche io."
 
 "Non voglio farti del male," dice subito la signorina Acciaio. Troppo in fretta.
 

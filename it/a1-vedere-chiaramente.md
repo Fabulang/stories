@@ -49,11 +49,11 @@ Suo marito la saluta. La festa è per Elisa e le sue amiche. "Goditi il film," d
 
 Un po' più tardi, Elisa sente il campanello. Vuole aprire la porta, ma non trova la chiave.
 
-Prende una scatola dalla sua borsa. Tira fuori i suoi nuovi occhiali dalla scatola. Mette gli occhiali. Finalmente riesce a vedere chiaramente. Apre la porta.
+Prende una scatola dalla sua borsa. Tira fuori i suoi nuovi occhiali dalla scatola. Si mette gli occhiali. Finalmente riesce a vedere chiaramente. Apre la porta.
 
 "Adoro i tuoi nuovi occhiali!" dice la sua amica.
 
-Elisa e le sue amiche si divertono tanto alla festa. Prima di andarsene, tutti dicono che Elisa sta benissimo con i nuovi occhiali.
+Elisa e le sue amiche si divertono tanto alla festa. Prima di andarsene, tutte dicono che Elisa sta benissimo con i nuovi occhiali.
 
 Più tardi quella sera, il marito di Elisa torna a casa.
 

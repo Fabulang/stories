@@ -23,7 +23,7 @@ Ha pensato a una delle tante fermate del bus del paese. "Sì, puoi raggiungere l
 
 "Fantastico," ha detto l'uomo. "Puoi dirmi qualcosa sulla sua storia?"
 
-Elisabetta ha preso un respiro profondo. "Ehm... beh... c'era un... coltivatore di cavoli... che era arrabbiato perché l'autobus era in ritardo. Allora lo ha maledetto. Ora, gli autobus non arrivano mai puntuali lì. A meno che... tu non stia portando un cavolo."
+Elisabetta ha fatto un respiro profondo. "Ehm... beh... c'era un... coltivatore di cavoli... che era arrabbiato perché l'autobus era in ritardo. Allora lo ha maledetto. Ora, gli autobus non arrivano mai puntuali lì. A meno che... tu non stia portando un cavolo."
 
 "E da quanti anni esiste?" ha chiesto il turista, con gli occhi spalancati.
 

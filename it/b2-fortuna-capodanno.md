@@ -13,7 +13,7 @@ Alessandro ha guardato fuori dalla finestra. Tutto quello che poteva vedere era 
 
 "Quando sono stato scelto per questa missione," ha detto Alessandro, "mi sono sentito fortunato."
 
-"Non è stata fortuna," ha detto il Capitano, continuando a lavorare al sua computer. "Ti ho scelto perché eri il migliore."
+"Non è stata fortuna," ha detto il Capitano, continuando a lavorare al suo computer. "Ti ho scelto perché eri il migliore."
 
 "Magari non l'avessi fatto."
 

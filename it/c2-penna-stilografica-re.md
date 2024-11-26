@@ -3,15 +3,16 @@ title: La Penna Stilografica del Re
 cefr: c2
 locale: it
 key: kings-fountain-pen
+reviews: 1
 ---
 
-"Signore e signori della giuria. Le prove sono convincente.
+"Signore e signori della giuria. Le prove sono convincenti.
 
 "La signorina Ancora ha visto un uomo calvo, corrispondente alla descrizione del signor Grigio, uscire dalla sezione turistica del palazzo e rubare la preziosissima penna stilografica del Re dalla sua stanza privata.
 
 "Le telecamere di sicurezza hanno registrato esattamente la stessa cosa. E il biglietto da visita del signor Grigio è stato trovato sulla scrivania del Re, dove è caduto dalla sua tasca.
 
-"Il signor Grigio è un ladro di lungo corso. A scuola, rubava il cibo agli altri bambini. A vent'anni, ha rubato ottanta ruote di formaggio dalla fabbrica locale. Poi, ha preso tutti i vasetti di marmellata dal supermercato. Più di recente, il signor Grigio è stato colto a rubare un intera serie di torte fresche dalla panetteria. La penna stilografica del Re è l'ultima aggiunta a questo schema.
+"Il signor Grigio è un ladro di lungo corso. A scuola, rubava il cibo agli altri bambini. A vent'anni, ha rubato ottanta ruote di formaggio dalla fabbrica locale. Poi, ha preso tutti i vasetti di marmellata dal supermercato. Più di recente, il signor Grigio è stato colto a rubare un'intera serie di torte fresche dalla panetteria. La penna stilografica del Re è l'ultima aggiunta a questo schema.
 
 "Se non fosse stato catturato, chi sarebbe stata la prossima vittima? Se viene rilasciato, *voi* potreste essere il suo prossimo bersaglio.
 

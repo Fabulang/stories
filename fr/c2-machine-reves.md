@@ -7,7 +7,7 @@ key: dream-machine
 
 "Cela va être une mauvaise nuit," a murmuré Vivienne en regardant la pluie battante.
 
-Il y a eu un bruit sourd à la porte. Vivienne l'a ouverte en grand. Se tenait sur le porche le Gouverneur Suprême de la cité, flanqué d'une bande de sinistres gardes du corps.
+Il y a eu un grand bruit à la porte. Vivienne l'a ouverte en grand. Se tenait sur le porche le Gouverneur Suprême de la cité, flanqué d'une bande de sinistres gardes du corps.
 
 "On m'a dit que tu vends des rêves," a dit le Gouverneur, ses yeux froids reflétant les lumières néon de la rue. "J'ai besoin d'une nouvelle expérience. J'ai besoin de me sentir exalté. Cela doit être transcendantal. On m'a dit que tu peux faire ça."
 

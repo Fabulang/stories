@@ -3,6 +3,9 @@ title: Un Problème à l'École
 locale: fr
 cefr: a1
 key: problem-school
+reviews: 1
+#reviewers:
+#- helene-wandering-french
 ---
 
 Il fait sombre. Il n'y a pas de lune dans le ciel. Deux personnes marchent rapidement vers l'école. C'est un vieux bâtiment en pierre. Il ressemble presque à un château.
@@ -29,7 +32,7 @@ Il n'y a pas du tout de lumière. Elle ne voit rien. Elle touche les murs avec s
 
 Elle avance. Ses pas sont bruyants. Ils sont le seul son. Elle tient son sac près de sa poitrine.
 
-De l'autre côté du hall principal, il y a un long couloir étroit. Il y a beaucoup de portes à gauche et à droite. Elle compte les portes. Un, deux, trois. Elle s'arrête. Elle retient son souffle.
+De l'autre côté du hall principal, il y a un long couloir étroit. Il y a beaucoup de portes à gauche et à droite. Elle compte les portes. Une, deux, trois. Elle s'arrête. Elle retient son souffle.
 
 Sous la troisième porte, elle voit de la lumière. La lumière est très faible, avec une couleur violette pâle. Elle écoute. Il y a un bruit de tapotement et de grattement.
 

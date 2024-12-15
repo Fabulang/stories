@@ -1,5 +1,5 @@
 ---
-title: L'Affaire Parfait
+title: L'Affaire Parfaite
 locale: fr
 cefr: a2
 key: perfect-case

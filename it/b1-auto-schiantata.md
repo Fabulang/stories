@@ -43,7 +43,7 @@ Dopo che Adriano ha dato il suo indirizzo, c'è stata una lunga pausa.
 
 "Cosa vuol dire?"
 
-"Stava guidando verso il luogo dove *vive*, in città. Ma la città non è la sua *casa*, vero? Non ci è cresciuto. Non ha imparato a andare in bicicletta lì, o a giocare nei campi con i suoi genitori, o a cantare con i suoi amici. La verità è, che tu stava *allontanandosi dalla* sua casa."
+"Stava guidando verso il luogo dove *vive*, in città. Ma la città non è la sua *casa*, vero? Non ci è cresciuto. Non ha imparato a andare in bicicletta lì, o a giocare nei campi con i suoi genitori, o a cantare con i suoi amici. La verità è che tu stavi *allontanandosi dalla* sua casa."
 
 "Cos'è questo?" ha gridato Adriano, sentendosi spaventato. "Chi sei? È questo il servizio di emergenza?"
 

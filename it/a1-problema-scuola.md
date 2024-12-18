@@ -17,7 +17,7 @@ Si fermano all'ingresso principale.
 
 L'uomo respira. "Attraversa l'atrio principale. Poi è la terza porta a sinistra."
 
-L'uomo le porge una torcia. "Prendi questo." Lei la respinge.
+L'uomo le porge una torcia. "Prendi questa." Lei la respinge.
 
 "Ma è pericoloso, signorina Acciaio! La persona che è venuta prima..."
 

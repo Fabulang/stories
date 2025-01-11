@@ -3,6 +3,7 @@ title: Le Stylo-plume du Roi
 cefr: c2
 locale: fr
 key: kings-fountain-pen
+reviews: 1
 ---
 
 "Mesdames et messieurs du jury. Les preuves sont concluantes.
@@ -31,7 +32,7 @@ L'avocat s'est retourné. Il portait un costume rayé, des cheveux noirs lisses 
 
 "L'idée que le billet de M. Gris ait sauté de son jean est absurde. Le vrai voleur a pris ce billet dans la poubelle à l'extérieur du palais et l'a placé sur le bureau.
 
-"Mademoiselle Ancre a vu un homme chauve d'une cinquantaine d'années, d'environ un mètre quatre-vingts, portant un jean et un pull noir. Il y avait des dizaines de visiteurs ce jour-là qui ressemblaient exactement pareil.
+"Mademoiselle Ancre a vu un homme chauve d'une cinquantaine d'années, d'environ un mètre quatre-vingts, portant un jean et un pull noir. Il y avait des dizaines de visiteurs ce jour-là qui semblaient parfaitement identiques.
 
 "La caméra de sécurité ne voit jamais son visage. Mais que voit-elle *réellement* ? Elle voit une marque de naissance en forme d'étoile au-dessus de son oreille gauche, que M. Gris n'a pas.
 

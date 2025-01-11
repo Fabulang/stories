@@ -25,15 +25,15 @@ Uno dei guardiani ha chiuso Enrica nella sua cella. Enrica era una donna piccola
 
 "Devi scappare con noi," ha sussurrato il compagno di cella di Enrica dopo che il guardiano se ne è andato.
 
-"Mia cara, non posso," ha sospirato Enrica.
+"Mio caro, non posso," ha sospirato Enrica.
 
 "Fidati di me, Enrica. Abbiamo osservato per mesi. Alle dodici preciso, i guardiani al cancello del cortile vanno a pranzo -- partono sempre in orario. Almeno due minuti dopo, arrivano i prossimi guardiani -- sono sempre in ritardo. Devi solo uscire con noi e salire sulla macchina di mio fratello."
 
-"Vi rallenterò -- sarete preso -- non devo venire!" ha sussurrato Enrica. "Penserò a voi ogni giorno, a tutti voi, e mi renderà felice. Se persone come voi sono libere, allora il nostro vecchio paese è ancora vivo."
+"Vi rallenterò -- sareste preso -- non devo venire!" ha sussurrato Enrica. "Penserò a voi ogni giorno, a tutti voi, e mi renderà felice. Se persone come voi sono libere, allora il nostro vecchio paese è ancora vivo."
 
 "Anche tu puoi essere libera, Enrica. Partiamo domani. Incontriamoci nel cortile."
 
-"No, mia cara, no..."
+"No, mio caro, no..."
 
 "Per favore cambia idea prima di mezzogiorno."
 

@@ -58,4 +58,4 @@ There was a loud bang. Fox screamed. His foot was stuck in a trap.
 
 Mouse jumped off Fox's head, and began to walk home.
 
-"Did you think I was stupid?" she said.
+"Do you think I'm stupid?" she said.

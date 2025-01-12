@@ -58,4 +58,4 @@ C'è stato un forte rumore. Volpe ha urlato. Il suo piede era rimasto incastrato
 
 Topo è saltata giù dalla testa di Volpe e ha iniziato a tornare a casa.
 
-"Pensavi che fossi stupida?" ha detto.
+"Pensi che io sia stupida?" ha detto.

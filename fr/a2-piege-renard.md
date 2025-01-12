@@ -57,4 +57,4 @@ Il y a eu un grand bruit. Renard a crié. Sa patte était coincée dans un pièg
 
 Souris a sauté de la tête de Renard et a commencé à rentrer chez elle.
 
-"Tu pensais que j'étais stupide ?" a-t-elle dit.
+"Tu crois que je suis stupide ?" a-t-elle dit.

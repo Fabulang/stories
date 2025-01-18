@@ -22,7 +22,7 @@ reviews: 1
 
 "Non è probabile che riusciremo mai a recuperare la preziosa penna del Re. Ma possiamo sostenere i principi della giustizia. Signore e signori, dovete trovare l'imputato colpevole."
 
-L'avvocato si è girato. Ha indossato un vestito a righe, aveva i capelli neri lucidi e un sorriso costante. Mentre si è seduto, ha strizzato l'occhio all'avvocato del signor Grigio, una donna piccola in un abito semplice. Sembrava quasi preoccupata quanto il signor Grigio stesso. Ha sistemato i suoi documenti, si è lisciato i capelli e si è alzato in piedi.
+L'avvocato si è girato. Indossava un vestito a righe, aveva i capelli neri lucidi e un sorriso costante. Mentre si sedeva, ha strizzato l'occhio all'avvocato del signor Grigio, una donna piccola in un abito semplice. Sembrava quasi preoccupata quanto il signor Grigio stesso. Ha sistemato i suoi documenti, si è lisciato i capelli e si è alzato in piedi.
 
 "Proceda pure," ha detto il giudice con voce annoiata.
 
@@ -42,6 +42,6 @@ Si è seduta e ha respirato. In un caso con prove così forti contro il suo clie
 
 Poco dopo, il cancelliere del tribunale ha detto ad alta voce: "Tutti in piedi!"
 
-Il giudice ha guardato intorno alla sala del tribunale. Il caso era proceduto esattamente come si aspettava. Ma ciò che non si aspettava era che la sua parrucca fosse rimasta incastrata tra la sedia e la scrivania.
+Il giudice ha guardato intorno alla sala del tribunale. Il caso procedeva esattamente come si aspettava. Ma ciò che non si aspettava era che la sua parrucca fosse rimasta incastrata tra la sedia e la scrivania.
 
-Mentre si è alzato, raggiungendo un'altezza di un metro e ottanta, la parrucca è scivolata dalla sua testa calva. All'improvviso, una dozzina di giornalisti ha visto e ha iniziato a fotografare il neo a forma di stella sopra il suo orecchio sinistro.
+Mentre si alzava, raggiungendo un'altezza di un metro e ottanta, la parrucca è scivolata dalla sua testa calva. All'improvviso, una dozzina di giornalisti ha visto e ha iniziato a fotografare il neo a forma di stella sopra il suo orecchio sinistro.

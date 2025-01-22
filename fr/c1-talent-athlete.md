@@ -15,7 +15,7 @@ Tous les entraîneurs étaient d'accord, il avait du talent. Mais ils ne voulaie
 
 Elpidios a levé la tête. Un vieil homme à la longue barbe lui parlait.
 
-"Oui," a soupiré Elpidios. "Je suis rapide. Je sais que je peux gagner la course à travers le stade, si je m'entraîne. Mais je ne peux pas me permettre un entraîneur. Je suis un échec. J'ai voyagé à travers la moitié de la Grèce ---"
+"Oui," a soupiré Elpidios. "Je suis rapide. Je sais que je peux gagner la course à travers le stade, si je m'entraîne. Mais je ne peux pas me permettre de me payer un entraîneur. J'ai échoué. J'ai voyagé à travers la moitié de la Grèce ---"
 
 "Tais-toi et lève-toi," l'homme âgé l'a interrompu, sévèrement.
 
@@ -23,7 +23,7 @@ Elpidios s'est levé, un peu choqué.
 
 "Je ne suis pas un entraîneur," a dit le vieil homme. "Mais je sais que tu as du talent. Je sais que si tu crois en ton rêve, tu peux le réaliser. Et je sais comment t'aider."
 
-Elpidios et l'homme mystérieux se sont rencontrés tous les jours au lever du soleil. L'homme a aidé Elpidios à s'exercer, à améliorer sa technique, et à se défier de courir de plus en plus vite. Le soir, Elpidios partageait son dîner avec l'homme. Il n'y avait pas d'autre paiement.
+Elpidios et l'homme mystérieux se sont rencontrés tous les jours au lever du soleil. L'homme a aidé Elpidios à s'exercer, à améliorer sa technique, et à se lancer des défis à courir de plus en plus vite. Le soir, Elpidios partageait son dîner avec l'homme. Il n'y avait pas d'autre paiement.
 
 Des mois ont passé, et enfin les Jeux Olympiques ont commencé. Elpidios s'est inscrit en tant que concurrent. Les autres athlètes étaient plus grands que lui. Ils portaient de belles tuniques colorées, et des bijoux. Ils se moquaient d'Elpidios quand il est arrivé avec le vieil homme à ses côtés.
 

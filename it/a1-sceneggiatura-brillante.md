@@ -23,7 +23,7 @@ Inizia una nuova sceneggiatura.
 
 "La regista sta facendo una festa," scrive. "Il suo nuovo film, 'Le Scuse', è molto popolare. A metà della festa, il suo vicino arriva.
 
-"'È arrabbiato. 'I tuoi film sono spazzatura,' dice. 'Popolari, ma spazzatura. Sto scrivendo una sceneggiatura che è brillante. Ma non riesco a finirla, perché fai troppo rumore!'
+"È arrabbiato. 'I tuoi film sono spazzatura,' dice. 'Popolari, ma spazzatura. Sto scrivendo una sceneggiatura che è brillante. Ma non riesco a finirla, perché fai troppo rumore!'
 
 "Il giorno dopo, la regista viene per scusarsi. Vuole leggere la sua sceneggiatura. Ma lui chiude la porta. Alla fine, la regista di 'Le Scuse' si sente dispiaciuta. Fine."
 

@@ -51,7 +51,7 @@ Una sera, durante un banchetto a casa del padrone, Lucia gli ha offerto un grand
 
 "Che cos'è?" ha chiesto.
 
-"Albicocche stufate, pane appena sfornato, olive ripiene---"
+"Albicocche stufate, pane appena sfornato, olive ripiene ---"
 
 Il padrone l'ha schiaffeggiata. "Non sono cieco. A cosa serve questo coltello? Sono un uomo importante adesso. Vuoi che affetti io il pane?"
 

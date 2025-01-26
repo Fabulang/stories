@@ -50,7 +50,7 @@ One evening, during a banquet at the master's house, Lucia offered him a large p
 
 "What is this?" he asked.
 
-"Stewed apricots, freshly-baked bread, stuffed olives---"
+"Stewed apricots, freshly-baked bread, stuffed olives ---"
 
 The master slapped her. "I'm not blind. What is this knife for? I'm an important man now. Do you expect me to slice the bread myself?"
 

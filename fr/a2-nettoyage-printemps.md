@@ -49,7 +49,7 @@ Finalement, sa petite amie a repris ses lettres.
 
 "Qu'est-ce qu'elle dit ?"
 
-"On doit partir dans un mois !" a-t-elle crié. "Et — et —"
+"On doit partir dans un mois !" a-t-elle crié. "Et --- et ---"
 
 "C'est quoi ?" a crié Gérard.
 

@@ -29,7 +29,7 @@ Chaque pièce avait un schéma de couleurs différent -- il y avait du bleu dans
 
 Félicie s'est soudainement souvenue de quelque chose, et son cœur battant s'est transformé en glace en un instant.
 
-Elle a commencé à reculer vers la porte, se frayant un chemin à travers les plantes suspendues qui avaient commencé à briller d'un rouge ardent. "Je suis désolée Xeep," a-t-elle balbutié. "Je m'excuse. Je viens de me souvenir... Je me sens malade. Est-ce que ça te dérangerait si je---"
+Elle a commencé à reculer vers la porte, se frayant un chemin à travers les plantes suspendues qui avaient commencé à briller d'un rouge ardent. "Je suis désolée Xeep," a-t-elle balbutié. "Je m'excuse. Je viens de me souvenir... Je me sens malade. Est-ce que ça te dérangerait si je ---"
 
 Elle a atteint la porte, s'est tournée rapidement et a essayé de l'ouvrir. Elle était fermée à clé.
 

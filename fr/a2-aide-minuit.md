@@ -29,7 +29,7 @@ Comment a-t-elle découvert le fantôme ? Denis a dû dire la vérité. "Je n'ai
 
 "Fantôme ?" a dit l'enseignante. "Ne mens pas, Denis. Je sais que ta grande sœur te donne les réponses."
 
-"Ma sœur ?" a dit Denis. "Elle ne m'aide pas ! C'est---"
+"Ma sœur ?" a dit Denis. "Elle ne m'aide pas ! C'est ---"
 
 "Lis cette question, Denis !" a crié l'enseignante. Elle était en colère.
 

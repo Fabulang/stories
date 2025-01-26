@@ -21,7 +21,7 @@ Carlo ha rivelato drammaticamente di essere un viaggiatore nel tempo. Ha chiesto
 
 Editor X-9 ha fatto una pausa. "Viaggio nel tempo?" ha detto.
 
-"Precisamente," ha detto Carlo. "Posso provarlo. Se mi permetterà di mostrarvi---"
+"Precisamente," ha detto Carlo. "Posso provarlo. Se mi permetterà di mostrarvi ---"
 
 "Oh, non è che non le credo," ha detto Editor X-9. "Il viaggio nel tempo è stato scoperto centinaia di anni fa. È comune ora come andare in bicicletta era nel passato. Come pensa che abbiamo così tanti dinosauri in giro?"
 
@@ -29,6 +29,6 @@ Carlo è rimasto senza parole.
 
 "Ho analizzato la sua macchina. È piuttosto rudimentale. Insegniamo un progetto simile a scuola primaria."
 
-"Ma---"
+"Ma ---"
 
 "Purtroppo, non possiamo ancora pubblicare il suo lavoro," ha concluso l'editore. "Sembra, Carlo, che lei sia ora dietro i tempi."

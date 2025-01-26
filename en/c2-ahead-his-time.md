@@ -22,7 +22,7 @@ Charlie revealed dramatically that he was a time traveller. He asked if the jour
 
 Editor X-9 paused. "Time travel?" it said.
 
-"Precisely," said Charlie. "I can prove it. If you will allow me to show you---"
+"Precisely," said Charlie. "I can prove it. If you will allow me to show you ---"
 
 "Oh, it's not that I don't believe you," said Editor X-9. "Time travel was discovered hundreds of years ago. It's as common now as riding a bicycle was in the past. How do you think we have so many dinosaurs around?"
 
@@ -30,6 +30,6 @@ Charlie was speechless.
 
 "I've analysed your machine. It's quite rudimentary. We teach a similar design in primary school."
 
-"But---"
+"But ---"
 
 "Regrettably, we still cannot publish your work," the editor concluded. "It seems, Charlie, you are now behind the times."

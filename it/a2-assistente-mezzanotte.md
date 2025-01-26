@@ -29,7 +29,7 @@ Come aveva scoperto del fantasma? Dionigi doveva dire la verità. "Non ho chiest
 
 "Fantasma?" ha detto l'insegnante. "Non mentire, Dionigi. So che tua sorella maggiore ti sta dando le risposte."
 
-"Mia sorella?" ha detto Dionigi. "Non mi sta aiutando! È---"
+"Mia sorella?" ha detto Dionigi. "Non mi sta aiutando! È ---"
 
 "Leggi questa domanda, Dionigi!" ha urlato l'insegnante. Era arrabbiata.
 

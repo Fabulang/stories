@@ -34,7 +34,7 @@ After Adrian gave his address, there was a long pause.
 
 "That address doesn't match any of my records, sir."
 
-"What?---Oh, maybe you have my old address." He gave it.
+"What? --- Oh, maybe you have my old address." He gave it.
 
 "That's a nice town, sir. Is that where you were driving from this evening?"
 

@@ -15,7 +15,7 @@ Henrica voltou ao piano. Ela bocejou, respirou fundo e tentou pensar em outra m�
 
 Ela começou a tocar, e os guardas da prisão se animaram. Atrás dela, eles dançavam pela cantina escura. Eles derrubaram os pratos no chão e derramaram cerveja por toda parte.
 
-Henrica sabia que os guardas estavam bêbados demais para perceber o que ela estava tocando. Era o Hino Nacional — a versão antiga, antes do país ter sido invadido. Henrica tinha tocado o antigo Hino em público seis anos atrás; é por isso que ela estava na prisão agora.
+Henrica sabia que os guardas estavam bêbados demais para perceber o que ela estava tocando. Era o Hino Nacional --- a versão antiga, antes do país ter sido invadido. Henrica tinha tocado o antigo Hino em público seis anos atrás; é por isso que ela estava na prisão agora.
 
 Quando ela tocou a nota final, de repente as luzes se acenderam. O chefe da prisão estava parado na porta. Os guardas pararam de dançar e fizeram continência.
 
@@ -29,9 +29,9 @@ Um dos guardas trancou Henrica de volta em sua cela. Henrica era uma mulher pequ
 
 "Minha querida, eu não consigo," suspirou Henrica.
 
-"Confie em mim, Henrica. Temos observado por meses. Exatamente ao meio-dia, os guardas no portão do pátio saem para o almoço — eles sempre saem pontualmente. No mínimo dois minutos depois, os próximos guardas chegam — eles sempre se atrasam. Você só precisa sair com a gente e entrar no carro do meu irmão."
+"Confie em mim, Henrica. Temos observado por meses. Exatamente ao meio-dia, os guardas no portão do pátio saem para o almoço --- eles sempre saem pontualmente. No mínimo dois minutos depois, os próximos guardas chegam --- eles sempre se atrasam. Você só precisa sair com a gente e entrar no carro do meu irmão."
 
-"Eu vou atrasá-los — vocês vão ser pegos — eu não devo ir!" lamentou Henrica. "Eu vou pensar em vocês todos os dias, todos vocês, e isso vai me fazer feliz. Se pessoas como vocês estão livres, então nosso velho país ainda está vivo."
+"Eu vou atrasá-los --- vocês vão ser pegos --- eu não devo ir!" lamentou Henrica. "Eu vou pensar em vocês todos os dias, todos vocês, e isso vai me fazer feliz. Se pessoas como vocês estão livres, então nosso velho país ainda está vivo."
 
 "Você pode ser livre também, Henrica. Vamos embora amanhã. Encontre a gente no pátio."
 

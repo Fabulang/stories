@@ -49,7 +49,7 @@ Un soir, lors d'un banquet chez le maître, Lucia lui a offert un grand plat rem
 
 "Qu'est-ce que c'est ?" a-t-il demandé.
 
-"Abricots en compote, pain tout juste sorti du four, olives farcies---"
+"Abricots en compote, pain tout juste sorti du four, olives farcies ---"
 
 Le maître l'a giflée. "Je ne suis pas aveugle. À quoi sert ce couteau ? Je suis un homme important maintenant. Tu t'attends à ce que je tranche le pain moi-même ?"
 

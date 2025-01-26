@@ -55,7 +55,7 @@ Elle sort une boîte de son sac à main. Elle sort ses nouvelles lunettes de la 
 
 Cette nuit-là, le mari d'Élise rentre à la maison.
 
-"Bienvenue à la maison---Oh !" dit Élise.
+"Bienvenue à la maison --- Oh !" dit Élise.
 
 Elle arrête de sourire et court dans le salon. Son mari court aussi dans le salon. Il a l'air très inquiet.
 

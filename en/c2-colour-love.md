@@ -30,7 +30,7 @@ Each room had a different colour scheme -- there was blue in the entrance hall, 
 
 Felicity suddenly remembered something, and her fluttering heart turned to ice in an instant.
 
-She started backing away towards the door, pushing through the hanging plants that had begun glowing a fiery red. "I'm sorry Xeep," she stammered. "I apologise. I just remembered... I feel unwell. Would you mind if I---"
+She started backing away towards the door, pushing through the hanging plants that had begun glowing a fiery red. "I'm sorry Xeep," she stammered. "I apologise. I just remembered... I feel unwell. Would you mind if I ---"
 
 She reached the door, turned quickly and tried to pull it open. It was locked.
 

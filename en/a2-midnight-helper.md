@@ -30,7 +30,7 @@ How did she find out about the ghost? Dennis had to tell the truth. "I didn't as
 
 "Ghost?" said the teacher. "Don't lie, Dennis. I know your older sister is giving you the answers."
 
-"My sister?" said Dennis. "She isn't helping me! It's---"
+"My sister?" said Dennis. "She isn't helping me! It's ---"
 
 "Read this question, Dennis!" shouted the teacher. She was angry.
 

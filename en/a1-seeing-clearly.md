@@ -56,7 +56,7 @@ Eliza and her friends have a wonderful party. Before they leave, everyone says t
 
 That night, Eliza's husband comes home.
 
-"Welcome home---Oh!" says Eliza.
+"Welcome home --- Oh!" says Eliza.
 
 She stops smiling and runs into the lounge. Her husband runs into the lounge as well. He looks very worried.
 

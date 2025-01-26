@@ -33,7 +33,7 @@ Dopo che Adriano ha dato il suo indirizzo, c'è stata una lunga pausa.
 
 "Quell'indirizzo non corrisponde a nessuno dei miei archivi, signore."
 
-"Cosa?---Ah, forse avete il mio vecchio indirizzo." Lo ha dato.
+"Cosa? --- Ah, forse avete il mio vecchio indirizzo." Lo ha dato.
 
 "È una bella città, signore. È da lì che veniva questa sera?"
 

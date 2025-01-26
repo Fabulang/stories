@@ -33,7 +33,7 @@ Après qu'Adrien a donné son adresse, il y a eu un long silence.
 
 "Cette adresse ne correspond à aucun de mes enregistrements, monsieur."
 
-"Quoi ?---Oh, peut-être vous avez ma vieille adresse." Il la donne.
+"Quoi ? --- Oh, peut-être vous avez ma vieille adresse." Il la donne.
 
 "C'est une jolie ville, monsieur. C'est de là que vous veniez ce soir ?"
 

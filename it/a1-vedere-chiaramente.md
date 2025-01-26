@@ -57,7 +57,7 @@ Elisa e le sue amiche si divertono tanto alla festa. Prima di andarsene, tutte d
 
 Più tardi quella sera, il marito di Elisa torna a casa.
 
-"Bentornato a casa---Oh!" dice Elisa.
+"Bentornato a casa --- Oh!" dice Elisa.
 
 Lei smette di sorridere e corre al salotto. Anche il marito corre al salotto. Sembra molto preoccupato.
 

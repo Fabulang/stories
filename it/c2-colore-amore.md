@@ -29,7 +29,7 @@ Ogni stanza aveva una diversa combinazione di colori -- c'era il blu nell'ingres
 
 Felicia ha ricordato all'improvviso qualcosa, e il suo cuore che batteva è diventato di ghiaccio in un istante.
 
-Ha iniziato a recedere verso la porta, spingendo attraverso le piante appese che avevano iniziato a brillare di un rosso fuoco. "Mi dispiace Xeep," ha balbettato. "Mi scuso. Ho appena ricordato... mi sento male. Ti dispiacerebbe se io---"
+Ha iniziato a recedere verso la porta, spingendo attraverso le piante appese che avevano iniziato a brillare di un rosso fuoco. "Mi dispiace Xeep," ha balbettato. "Mi scuso. Ho appena ricordato... mi sento male. Ti dispiacerebbe se io ---"
 
 Ha raggiunto la porta, si è girata rapidamente e ha cercato di aprirla. Era chiusa a chiave.
 

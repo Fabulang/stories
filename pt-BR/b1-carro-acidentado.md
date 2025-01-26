@@ -34,7 +34,7 @@ Depois que Adrião deu seu endereço, houve uma longa pausa.
 
 "Esse endereço não corresponde a nenhum dos meus registros, senhor."
 
-"O quê?---Ah, talvez você tenha meu endereço antigo." Ele o deu.
+"O quê? --- Ah, talvez você tenha meu endereço antigo." Ele o deu.
 
 "É uma cidade agradável, senhor. É de lá que você estava vindo esta noite?"
 

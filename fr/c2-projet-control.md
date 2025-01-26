@@ -27,7 +27,7 @@ key: project-control
 
 Colette est retournée à son bureau -- en descendant six étages, en parcourant cinq couloirs, et en entrant dans une grande salle éclairée par des tubes fluorescents. Il y avait des fenêtres, mais elles étaient très petites et placées très haut, de sorte qu'elle ne pouvait pas voir l'extérieur.
 
-Elle a avalé un peu de café. Elle était tellement épuisée que cela ne semblait avoir aucun effet. Au cours des derniers mois, son manager lui avait donné de plus en plus de travail. Elle avait préparé tellement de rapports qu’elle en oubliait parfois le contenu, en cours de route.
+Elle a avalé un peu de café. Elle était tellement épuisée que cela ne semblait avoir aucun effet. Au cours des derniers mois, son manager lui avait donné de plus en plus de travail. Elle avait préparé tellement de rapports qu'elle en oubliait parfois le contenu, en cours de route.
 
 Elle détestait ce travail, mais le salaire était bon, et elle ne savait pas quoi faire d'autre. D'autres entreprises seraient probablement encore pires. Si elle travaillait dur ici, peut-être qu'elle finirait par être promue.
 

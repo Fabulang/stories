@@ -9,7 +9,7 @@ key: project-control
 
 "Duplicarlo, signore?"
 
-"Una copia per me e un’altra per il Capo Dipartimento."
+"Una copia per me e un'altra per il Capo Dipartimento."
 
 "Ma... non c'è bisogno di duplicare tutto. Potrebbe semplicemente stampare il documento due volte, signore."
 

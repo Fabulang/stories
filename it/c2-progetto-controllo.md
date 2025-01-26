@@ -5,7 +5,7 @@ locale: it
 key: project-control
 ---
 
-"Questo rapporto trimestrale è... insoddisfacente," ha detto monotamente il capo di Nicoletta. "Non ci sono abbastanza dettagli. E ci sono troppi numeri nel grafico. Il carattere dovrebbe essere più grande. Le tabelle dovrebbero usare i colori del nostro brand. E dovresti duplicare tutto alla fine."
+"Questo rapporto trimestrale è... insoddisfacente," ha detto monotonamente il capo di Nicoletta. "Non ci sono abbastanza dettagli. E ci sono troppi numeri nel grafico. Il carattere dovrebbe essere più grande. Le tabelle dovrebbero usare i colori del nostro brand. E dovresti duplicare tutto alla fine."
 
 "Duplicarlo, signore?"
 

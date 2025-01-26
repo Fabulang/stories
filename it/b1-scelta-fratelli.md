@@ -7,7 +7,7 @@ key: brothers-choice
 
 "Questo è un orologio davvero bello," ha detto l'amico di Lorenzo, fermandosi nel corridoio.
 
-"Ah, già, sei un collezionista," ha risposto Lorenzo. Ha portato la bevanda al suo amico.
+"Ah, già, sei un collezionista," ha risposto Lorenzo. Ha porso la bevanda al suo amico.
 
 "Dove l'hai preso?"
 

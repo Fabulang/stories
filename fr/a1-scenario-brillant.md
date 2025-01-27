@@ -25,7 +25,7 @@ Il commence un nouveau scénario.
 
 "Il est en colère. 'Vos films sont nuls,' dit-il. 'Populaires, mais nuls. J'écris un scénario brillant. Mais je ne peux pas le finir, parce que vous faites tellement de bruit !'
 
-"Le lendemain, la réalisatrice vient s'excuser. Elle veut lire son scénario. Mais il lui ferme la porte au nez. Finalement, la réalisatrice de 'L'Excuse' se sent désolée. La Fin."
+"Le lendemain, la réalisatrice vient s'excuser. Elle veut lire son scénario. Mais il ferme la porte. Finalement, la réalisatrice de 'L'Excuse' se sent désolée. La Fin."
 
 Dominique sourit. Puis il clique sur Supprimer.
 

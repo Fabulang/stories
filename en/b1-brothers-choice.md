@@ -58,4 +58,4 @@ Lawrence's brothers ran out of the room. Seconds later, he heard their cars driv
 
 "But, Lawrence, do you realise how good your choice was? This is a Ludovic Évrard Horstenbach clock! It must be the only one in the world that's in complete working condition. Lawrence, you could sell it for millions!"
 
-"I know. Someone else also told me that... about twenty-nine years ago."
+"I know. Someone else also told me that... about twenty-six years ago."

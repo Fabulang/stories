@@ -5,7 +5,7 @@ locale: it
 key: project-control
 ---
 
-"Questo rapporto trimestrale è... insoddisfacente," ha detto monotonamente il capo di Nicoletta. "Non ci sono abbastanza dettagli. E ci sono troppi numeri nel grafico. Il carattere dovrebbe essere più grande. Le tabelle dovrebbero usare i colori del nostro brand. E dovresti duplicare tutto alla fine."
+"Questo rapporto trimestrale è... insoddisfacente," ha detto monotonamente l'amministratore di Nicoletta. "Non ci sono abbastanza dettagli. E ci sono troppi numeri nel grafico. La dimensione del carattere dovrebbe essere più grande. Le tabelle dovrebbero usare i colori del nostro marchio. E dovresti duplicare tutto alla fine."
 
 "Duplicarlo, signore?"
 
@@ -13,7 +13,7 @@ key: project-control
 
 "Ma... non c'è bisogno di duplicare tutto. Potrebbe semplicemente stampare il documento due volte, signore."
 
-"Non ti paghiamo per avere idee brillanti, Nicoletta. Ti paghiamo per seguire le istruzioni."
+"Non ti paghiamo per avere idee furbi, Nicoletta. Ti paghiamo per seguire le istruzioni."
 
 "Mi dispiace, signore," ha mormorato.
 
@@ -21,19 +21,19 @@ key: project-control
 
 "Signore, ho fatto del mio meglio. Ho lavorato fino a tardi, anche nei fine settimana."
 
-"Non ha importanza. In questa azienda non possiamo tollerare prestazioni scadenti. Se non soddisfi i nostri standard, il tuo stipendio dovrebbe essere ridotto. Non sei d'accordo?"
+"Non ha importanza. In questa azienda non possiamo tollerare prestazioni scadenti. Se non soddisfi i nostri requisiti, il tuo stipendio dovrebbe essere ridotto. Non sei d'accordo?"
 
 "Sì, signore."
 
 Nicoletta è tornata alla sua scrivania -- giù per sei rampe di scale, lungo cinque corridoi e in una grande stanza illuminata da tubi fluorescenti. C'erano finestre, ma erano molto piccole e posizionate in alto, quindi non riusciva a vedere fuori.
 
-Ha bevuto un sorso di caffè. Era così esausta che non sembrava farle alcun effetto. Negli ultimi mesi, il suo capo le aveva assegnato sempre più incarichi. Aveva preparato così tanti rapporti che a volte, a metà strada, dimenticava di cosa parlassero.
+Ha inghiottito un po' di caffè. Era così esausta che non sembrava farle alcun effetto. Negli ultimi mesi, il suo amministratore le aveva assegnato sempre più incarichi. Aveva preparato così tanti rapporti che a volte, a metà strada, dimenticava di cosa parlassero.
 
-Odiava quel lavoro, ma lo stipendio era buono e non sapeva cos'altro avrebbe potuto fare. Probabilmente altre aziende sarebbero state anche peggiori. Se avesse lavorato duramente lì, forse alla fine sarebbe stata promossa.
+Odiava quel lavoro, ma lo stipendio era buono e non sapeva cos'altro avrebbe potuto fare. Probabilmente altre aziende sarebbero state anche peggiori. Se lavorasse sodo qui, forse alla fine verrebbe promossa.
 
 Il suo telefono ha vibrato. Era arrivato un messaggio.
 
-"NON IGNORARE. Non mi conosci, ma io conosco te. Ti hanno fatto il lavaggio del cervello, Nicoletta. Non vuoi davvero lavorare per loro. Non mi credi? Guarda nella cartella chiamata 'Progetto: Controllo'. La password è 'Obbedienza'."
+"NON IGNORARE. Non mi conosci, ma io conosco te. Ti hanno fatto il lavaggio del cervello, Nicoletta. Non vuoi davvero lavorare per loro. Non mi credi? Guarda nella cartella denominata 'Progetto: Controllo'. La password è 'Obbedienza'."
 
 All'inizio, Nicoletta non sapeva cosa fare. Ma ha cercato la cartella nella rete aziendale e l'ha trovata. Ha inserito la password e, con sua sorpresa, la cartella si è aperta.
 
@@ -53,10 +53,10 @@ Non era uno scherzo. I file erano reali. La bomba era reale.
 
 Nicoletta non poteva credere a sé stessa. Non era spaventata. Per la prima volta da anni, si sentiva padrona della situazione. Sentiva di avere a cuore qualcosa. Lo avrebbe fatto.
 
-"Nicoletta!" ha gridato il suo capo.
+"Nicoletta!" ha gridato il suo amministratore.
 
-Nicoletta ha alzato la testa. Si era addormentata sulla scrivania del capo, nel suo ufficio. Si è alzata, sentendosi confusa. Si è strofinata gli occhi e si è sistemata la giacca.
+Nicoletta ha alzato la testa. Si era addormentata sulla scrivania dell'amministratore, nel suo ufficio. Si è alzata, sentendosi confusa. Si è strofinata gli occhi e si è sistemata la giacca.
 
-"Sono stato molto indulgente con te, Nicoletta, nonostante il tuo atteggiamento poco professionale, il tuo impegno a metà e il tuo continuo disprezzo per la gerarchia di questa organizzazione!" ha sibilato il capo. "Ma questo è troppo! Sei licenziata!"
+"Sono stato molto indulgente con te, Nicoletta, nonostante il tuo atteggiamento poco professionale, il tuo impegno a metà e il tuo continuo disprezzo per la gerarchia di questa organizzazione!" ha sibilato l'amministratore. "Ma questo è troppo! Sei licenziata!"
 
 Qualche lacrima brillava sulle guance di Nicoletta. "Oh..." ha detto, sorridendo. "Grazie, signore!"

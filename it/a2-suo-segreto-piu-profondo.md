@@ -9,7 +9,7 @@ key: her-deepest-secret
 
 I turisti hanno osservato attentamente. Dietro di loro, altri turisti giravano per il museo affollato.
 
-"È la pittura. È spessa," ha detto una donna ad alta voce. Indossava occhiali da sole e un grande cappello.
+"È la vernice. È spessa," ha detto una donna ad alta voce. Indossava occhiali da sole e un grande cappello.
 
 "È un dipinto a olio," ha detto la guida turistica. "È normale."
 
@@ -39,7 +39,7 @@ Gli altri turisti hanno annuito, sembrando impressionati. La madre non stava gua
 
 "Capisco perché sia difficile per lei," ha detto qualcuno.
 
-"Sì, è un bambino davvero difficile."
+"Sì, è un figlio davvero difficile."
 
 "Perché pensi che le piacesse viaggiare?" ha chiesto la guida turistica a Luigi.
 

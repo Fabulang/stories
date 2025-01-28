@@ -5,19 +5,19 @@ locale: it
 key: table-three
 ---
 
-Lo chef ha posato i piatti sul bancone. La bistecca era perfetta. Le verdure erano fresche e tenere. L'odore della salsa era invogliante. Enrico ha preso i piatti e li ha portati con grazia nella sala da pranzo.
+Lo chef ha posato i piatti sul bancone. La bistecca era perfetta. Le verdure erano fresche e tenere. L'odore della salsa faceva venire l'acquolina in bocca. Enrico ha preso i piatti e li ha portati con grazia nella sala da pranzo.
 
 C'era solo un tavolo nella stanza riccamente decorata. In un angolo, una donna stava suonando dolcemente il pianoforte. Le pareti erano fatte di vetro e la vista sul mare era magnifica.
 
 Enrico ha posato un piatto davanti a ciascuno dei tre uomini e ha iniziato a versare il vino.
 
-"Quindi, è stata eletta," ha detto un uomo dai capelli castani. "Ma senza il mio supporto, non è niente."
+"Quindi, è stata eletta," ha detto un uomo dai capelli castani. "Ma senza il mio supporto, lei è niente."
 
 Un uomo calvo ha parlato. "Sono diciassette i governi che controlli adesso, vero? Sei proprio un diavolo furbo!"
 
 "Ma come, scusa!" ha risposto l'uomo, offeso. "Sono diciotto."
 
-"Stai recuperando terreno su di me."
+"Mi stai raggiungendo."
 
 Gli uomini hanno brindato, facendo tintinnare i bicchieri.
 

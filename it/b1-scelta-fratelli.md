@@ -15,13 +15,13 @@ key: brothers-choice
 
 "Ma pensavo che tuo padre non ti avesse lasciato nulla nel testamento?"
 
-"Non è del tutto vero. Quando è morto, io e i miei fratelli ci siamo incontrati con il suo avvocato..."
+"Non è del tutto vero. Quando è morto, io e i miei fratelli ci siamo incontrati con la sua avvocata..."
 
-Trent'anni prima, i tre fratelli si erano seduti nell'ufficio dell'avvocato.
+Trent'anni prima, i tre fratelli si erano seduti nell'ufficio dell'avvocata.
 
 "Dicci solo cosa ci sta lasciando," ha detto il fratello maggiore di Lorenzo.
 
-L'avvocato ha girato il foglio e ha letto ad alta voce: "La mia casa e tutti i miei beni saranno messi all'asta. Il denaro sarà dato ai miei figli..."
+L'avvocata ha girato il foglio e ha letto ad alta voce: "La mia casa e tutti i miei beni saranno messi all'asta. Il denaro sarà dato ai miei figli..."
 
 "Evviva!" ha detto subito il fratello minore di Lorenzo.
 
@@ -37,19 +37,19 @@ L'avvocato ha tossito. "C'è un'altra cosa," ha detto. Ha continuato a leggere: 
 
 "Prendo la TV," ha detto immediatamente il fratello minore.
 
-"Ormai sono morto," ha continuato l'avvocato, "ma ho un ultimo consiglio per i miei figli. Non c'è ---"
+"Ormai sono morto," ha continuato l'avvocata, "ma ho un ultimo consiglio per i miei figli. Non c'è ---"
 
 I fratelli di Lorenzo sono usciti correndo dalla stanza. Pochi secondi dopo, lui ha sentito le loro macchine partire.
 
-"Non c'è niente di più prezioso dei bei ricordi," ha concluso l'avvocato, sollevando le sopracciglia.
+"Non c'è niente di più prezioso dei bei ricordi," ha concluso l'avvocata, sollevando le sopracciglia.
 
 "Cosa hanno scelto i tuoi fratelli?" ha chiesto l'amico di Lorenzo, trent'anni dopo. "Il tuo fratello minore ha davvero preso la TV?"
 
 "Era una TV davvero bella. Era gigantesca e aveva altoparlanti di alta qualità. Forse per lui aveva valore sentimentale. Papà amava i film di fantascienza. Anche se... mio fratello li ha mai guardati insieme a lui? Ora non me lo ricordo."
 
-"E il tuo fratello maggiore?"
+"E tuo fratello maggiore?"
 
-"La macchina di papà. L'ha distrutta due settimane dopo."
+"L'auto di papà. L'ha schiantata due settimane dopo."
 
 "E tu hai scelto questo orologio?"
 
@@ -57,4 +57,4 @@ I fratelli di Lorenzo sono usciti correndo dalla stanza. Pochi secondi dopo, lui
 
 "Ma, Lorenzo, ti rendi conto di quanto sia stata giusta la tua scelta? Questo è un orologio di Ludovic Évrard Horstenbach! Deve essere l'unico al mondo in perfette condizioni di funzionamento. Lorenzo, potresti venderlo per milioni!"
 
-"Lo so. Qualcun altro me lo ha detto... circa ventinove anni fa."
+"Lo so. Qualcun altro me lo ha detto... circa ventisei anni fa."

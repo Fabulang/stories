@@ -57,4 +57,4 @@ Les frères de Laurent sont sortis en courant de la pièce. Quelques secondes pl
 
 "Mais, Laurent, te rends compte à quel point c'était un bon choix ? C'est une horloge de Ludovic Évrard Horstenbach ! C'est sûrement la seule au monde en parfait état de marche. Laurent, tu pourrais la vendre pour des millions !"
 
-"Je sais. Quelqu'un d'autre me l'a aussi dit... il y a environ vingt-neuf ans."
+"Je sais. Quelqu'un d'autre me l'a aussi dit... il y a environ vingt-six ans."

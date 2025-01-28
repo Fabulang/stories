@@ -5,7 +5,7 @@ cefr: c1
 key: what-shed-hoped-for
 ---
 
-Venant tout juste d'obtenir son diplôme, Juliette a décidé de partir pour un voyage de sac à dos en Europe pour célébrer. Elle aspirait à des aventures palpitantes et espérait faire des découvertes qui changeraient sa vie. Pourtant, alors qu'elle traversait le continent, elle se sentait désenchantée.
+Venant tout juste d'obtenir son diplôme, Juliette a décidé de partir pour un voyage de sac à dos en Europe pour le célébrer. Elle aspirait à des aventures palpitantes et espérait faire des découvertes qui changeraient sa vie. Pourtant, alors qu'elle traversait le continent, elle se sentait désenchantée.
 
 À Paris, bien qu'elle se soit émerveillée devant la Tour Eiffel et se soit délectée de crêpes, la ville ne semblait pas aussi magique qu'elle l'était dans les films. À Rome, malgré la grandeur du Colisée et le goût de la véritable pizza, elle ressentait un sentiment de vide. Même Londres, avec ses bus rouges iconiques et le majestueux Big Ben, n'a pas réussi à susciter l'excitation qu'elle avait anticipée.
 

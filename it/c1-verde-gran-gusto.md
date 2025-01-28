@@ -21,9 +21,9 @@ Roberto sembrava avere circa sessant'anni. Aveva un volto gentile e saggio, e un
 
 Hanno parlato per un po', prima che Andrea menzionasse la sua difficoltà con i decoratori.
 
-"È per questo che ho deciso di decorare da solo," ha detto Roberto.
+"È per questo che ho deciso di decorare per conto mio," ha detto Roberto.
 
-"Hai decorato da solo?" ha detto Andrea con stupore, guardandosi intorno.
+"Hai decorato per conto tuo?" ha detto Andrea con stupore, guardandosi intorno.
 
 Tutto in casa sembrava molto di tendenza e nuovo. Le pareti erano lisce e perfette.
 

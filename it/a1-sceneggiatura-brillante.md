@@ -21,7 +21,7 @@ Domenico chiude le tende. Pulisce il portatile. Lo spegne e poi lo riaccende. Or
 
 Inizia una nuova sceneggiatura.
 
-"La regista sta facendo una festa," scrive. "Il suo nuovo film, 'Le Scuse', è molto popolare. A metà della festa, il suo vicino arriva.
+"La regista sta facendo una festa," scrive. "Il suo nuovo film, 'Le Scuse', è molto popolare. Nel bel mezzo della festa, arriva il suo vicino.
 
 "È arrabbiato. 'I tuoi film sono spazzatura,' dice. 'Popolari, ma spazzatura. Sto scrivendo una sceneggiatura che è brillante. Ma non riesco a finirla, perché fai troppo rumore!'
 
@@ -41,4 +41,4 @@ Domenico corre al suo portatile. La sua sceneggiatura è ancora lì. Il portatil
 
 "Ma io ---"
 
-"Che idea brillante, Domenico, girare il film qui, nel mio giardino! Sono tutti pronti -- iniziamo oggi. Lo so, lavoriamo troppo -- ma facciamo anche tante feste! Domenico? Va tutto bene?"
+"Che idea brillante, Domenico, girare il film qui, nel mio giardino! Sono tutti pronti -- iniziamo oggi. Lo so, lavoriamo troppo -- ma facciamo anche tante feste! Domenico? Stai bene?"

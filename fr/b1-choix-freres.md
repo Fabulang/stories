@@ -3,6 +3,7 @@ title: Le Choix des Frères
 cefr: b1
 locale: fr
 key: brothers-choice
+reviews: 1
 ---
 
 Cette horloge est vraiment magnifique," a dit l'ami de Laurent, s'arrêtant dans le couloir.

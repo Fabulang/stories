@@ -7,7 +7,7 @@ key: brothers-choice
 
 Cette horloge est vraiment magnifique," a dit l'ami de Laurent, s'arrêtant dans le couloir.
 
-"Bien sûr, tu es un collectionneur," a répondu Laurent. Il a tendu à son ami le verre.
+"Bien sûr, tu es un collectionneur," a répondu Laurent. Il a tendu le verre à son ami.
 
 "Où l'as-tu trouvée ?"
 
@@ -55,6 +55,6 @@ Les frères de Laurent sont sortis en courant de la pièce. Quelques secondes pl
 
 "Mon père démontait des horloges, réparait chaque pièce, puis les remontait. Je l'aidais en apportant différents outils, et il m'a appris comment tout fonctionnait. Nous avons travaillé sur cette horloge pendant des semaines, j'avais environ quatorze ans. Ce sont de bons souvenirs."
 
-"Mais, Laurent, te rends compte à quel point c'était un bon choix ? C'est une horloge de Ludovic Évrard Horstenbach ! C'est sûrement la seule au monde en parfait état de marche. Laurent, tu pourrais la vendre pour des millions !"
+"Mais, Laurent, te rends-tu compte à quel point c'était un bon choix ? C'est une horloge de Ludovic Évrard Horstenbach ! C'est sûrement la seule au monde en parfait état de marche. Laurent, tu pourrais la vendre pour des millions !"
 
 "Je sais. Quelqu'un d'autre me l'a aussi dit... il y a environ vingt-six ans."

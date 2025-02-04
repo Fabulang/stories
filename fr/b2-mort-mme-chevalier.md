@@ -41,6 +41,6 @@ La détective a soigneusement inspecté le couteau. Elle a tenu le manche près 
 
 "Et comment savez-vous le moment exacte de sa mort?" a demandé la détective.
 
-Le mari a hésité. "Vous ne trouverez jamais mes empreintes sur ce couteau!" a-t-il crié enfin.
+Le mari a hésité. "Vous ne trouverez jamais mes empreintes sur ce couteau!" a-t-il enfin crié.
 
 "Je suis certaine que c'est vrai," a dit la détective calmement. "Vous avez utilisé des gants, bien sûr. Mais vous avez été négligent. Vous avez utilisé vos gants de jardinage. Je peux sentir  l'odeur des roses sur le manche du couteau."

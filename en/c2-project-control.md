@@ -58,6 +58,6 @@ Nicole couldn't believe herself. She wasn't scared. For the first time in years,
 
 Nicole raised her head. She had fallen asleep on the manager's desk, in his office. She stood up, feeling confused. She rubbed her eyes and straightened her jacket.
 
-"I have been very lenient with you Nicole, despite your unprofessional attitude, half-hearted effort and continual disregard for this organisation's heirarchy!" the manager seethed. "But this is too much! You're fired!"
+"I have been very lenient with you Nicole, despite your unprofessional attitude, half-hearted effort and continual disregard for this organisation's hierarchy!" the manager seethed. "But this is too much! You're fired!"
 
 A few tears shone on Nicole's cheeks. "Oh..." she said, smiling. "Thank you, sir!"

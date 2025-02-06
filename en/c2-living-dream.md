@@ -3,6 +3,7 @@ title: Living the Dream
 locale: en
 cefr: c2
 key: living-dream
+date: 2023-08-14
 reviews: 1
 ---
 

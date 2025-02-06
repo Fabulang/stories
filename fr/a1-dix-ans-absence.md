@@ -3,6 +3,7 @@ title: Dix Ans d'Absence
 locale: fr
 cefr: a1
 key: ten-years-away
+date: 2023-07-13
 ---
 
 Joséphine rentre chez elle pour rendre visite à sa famille. Elle habite dans un autre pays, alors elle voyage en avion. Elle ne veut pas revenir. Elle n'aime pas son pays.

@@ -3,6 +3,7 @@ title: Vivre en Harmonie
 locale: fr
 cefr: b1
 key: living-harmony
+date: 2023-07-20
 ---
 
 "Salut, j'emménage aujourd'hui," a dit Jérémy, souriant.

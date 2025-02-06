@@ -3,6 +3,7 @@ title: Ce Qu'elle Espérait
 locale: fr
 cefr: c1
 key: what-shed-hoped-for
+date: 2023-06-03
 ---
 
 Venant tout juste d'obtenir son diplôme, Juliette a décidé de partir pour un voyage de sac à dos en Europe pour le célébrer. Elle aspirait à des aventures palpitantes et espérait faire des découvertes qui changeraient sa vie. Pourtant, alors qu'elle traversait le continent, elle se sentait désenchantée.

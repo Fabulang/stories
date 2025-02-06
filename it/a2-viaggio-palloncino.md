@@ -3,6 +3,7 @@ title: Il Viaggio del Palloncino
 locale: it
 cefr: a2
 key: balloons-journey
+date: 2023-06-24
 ---
 
 Un giorno di sole, un palloncino rosso era nel parco con una giovane ragazza. All'improvviso, il palloncino ha lasciato la sua mano e è salito nel cielo.

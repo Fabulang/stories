@@ -3,6 +3,7 @@ title: Voir Clairement
 locale: fr
 cefr: a1
 key: seeing-clearly
+date: 2023-10-25
 ---
 
 "Tu es prête ?" crie le mari d'Élise.

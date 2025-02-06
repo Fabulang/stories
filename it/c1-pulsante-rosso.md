@@ -3,6 +3,7 @@ title: Il Pulsante Rosso
 locale: it
 cefr: c1
 key: red-button
+date: 2023-08-14
 ---
 
 Tutti nel Dipartimento di Polizia hanno applaudito e acclamato quando l'Investigatore Corvo è entrato nella stanza. Ha risolto l'ennesimo caso di omicidio intrattabile. Come ha capito che era stata la babysitter con così pochi indizi?

@@ -3,6 +3,7 @@ title: Il Teatro del Fantasma
 locale: it
 cefr: b2
 key: ghosts-theatre
+date: 2023-07-13
 ---
 
 La maggior parte delle persone dice di non credere ai fantasmi. Finché non vedono o sentono uno, personalmente. È in quel momento che chiamano un cacciatore di fantasmi. È allora che squilla il telefono di Cristiano.

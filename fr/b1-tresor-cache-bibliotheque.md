@@ -3,6 +3,7 @@ title: Le Trésor Caché de la Bibliothèque
 locale: fr
 cefr: b1
 key: librarys-hidden-treasure
+date: 2023-06-17
 ---
 
 Édouard était le bibliothécaire de la bibliothèque calme de la ville. Il vivait parmi les livres. Il donnait des livres aux gens et les récupérait. Mais il ne les lisait jamais lui-même.

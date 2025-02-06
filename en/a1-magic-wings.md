@@ -3,6 +3,7 @@ title: Magic Wings
 locale: en
 cefr: a1
 key: magic-wings
+date: 2023-06-17
 reviews: 1
 ---
 

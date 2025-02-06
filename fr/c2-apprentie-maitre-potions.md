@@ -3,6 +3,7 @@ title: L'Apprentie du Maître des Potions
 locale: fr
 cefr: c2
 key: potion-masters-apprentice
+date: 2023-10-25
 ---
 
 Le liquide violet à l'intérieur de la bouteille carrée scintillait avec des éclats d'or. Annabelle a versé le contenu dans un bol métallique. Puis elle a trouvé un pot de pierres jaunes étranges. Elle les a toutes jetées dedans aussi. Enfin, il y avait un bocal plein de langues de certains animaux malheureux.

@@ -3,6 +3,7 @@ title: La Voiture Accidentée
 locale: fr
 cefr: b1
 key: crashed-car
+date: 2023-10-25
 ---
 
 Il n'y avait pas d'autres voitures sur la route cette nuit-là. Adrien rentrait chez lui à travers une grande forêt, se sentant triste et seul. Entre les arbres, il faisait complètement noir.

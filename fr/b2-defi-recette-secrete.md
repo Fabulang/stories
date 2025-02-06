@@ -3,6 +3,7 @@ title: Le Défi de la Recette Secrète
 locale: fr
 cefr: b2
 key: secret-recipe-challenge
+date: 2023-06-03
 ---
 
 M. Forestier, qui était connu pour ses délicieux desserts maison, a lancé un défi à Clémentine, son apprentie. Pourrait-elle recréer son gâteau aux fruits spécial, sans connaître la recette secrète de famille ?

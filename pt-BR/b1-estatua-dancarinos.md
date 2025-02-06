@@ -3,6 +3,7 @@ title: A Estátua dos Dançarinos
 cefr: b1
 locale: pt-BR
 key: dancers-statue
+date: 2024-07-06
 reviewers:
  - joas-martins
 ---

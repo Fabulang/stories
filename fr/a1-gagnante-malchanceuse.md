@@ -3,6 +3,7 @@ title: La Gagnante Malchanceuse
 locale: fr
 cefr: a1
 key: unlucky-winner
+date: 2023-06-03
 reviewers:
 - ashlyn-cleys
 ---

@@ -3,6 +3,7 @@ title: Un Scénario Brillant
 cefr: a1
 locale: fr
 key: brilliant-script
+date: 2025-01-26
 ---
 
 Dominique allume la lampe et s'assoit. Il boit son café. Enfin, il a une idée.

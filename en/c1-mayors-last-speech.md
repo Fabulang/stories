@@ -3,6 +3,7 @@ title: The Mayor's Last Speech
 locale: en
 cefr: c1
 key: mayors-last-speech
+date: 2024-09-08
 reviews: 1
 ---
 

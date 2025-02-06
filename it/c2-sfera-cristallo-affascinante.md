@@ -3,6 +3,7 @@ title: La Sfera di Cristallo Affascinante
 locale: it
 cefr: c2
 key: charming-crystal-ball
+date: 2023-06-10
 ---
 
 Nei polverosi angoli del seminterrato del suo dormitorio universitario, Noemi, una studentessa sempre superstiziosa, ha scoperto un reperto di un'epoca passata: una vecchia sfera di cristallo. Colta da curiosità e un bisogno impulsivo di essere guidata, Noemi ha deciso di impiegare il reperto nel prendere decisioni che avrebbero cambiato la sua vita.

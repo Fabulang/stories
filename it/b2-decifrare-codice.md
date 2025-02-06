@@ -3,6 +3,7 @@ title: Decifrare il Codice
 locale: it
 cefr: b2
 key: cracking-code
+date: 2023-06-10
 ---
 
 Veronica è una programmatrice di computer eccezionalmente talentuosa. Di giorno lavora per un'azienda di software. Di notte, passa innumerevoli ore a lavorare al suo progetto personale, un'intelligenza artificiale chiamata Z.

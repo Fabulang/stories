@@ -3,6 +3,7 @@ title: Lo Specchio a Due Teste
 locale: it
 cefr: b1
 key: two-headed-mirror
+date: 2023-07-13
 ---
 
 Amalia era in un negozio di antiquariato, alla ricerca di qualcosa da mettere sulla sua parete. Nell'oscurità sul fondo, ha notato uno specchio antico e bellissimo. Aveva una cornice ornata scolpita a forma di serpente con due teste.

@@ -3,6 +3,7 @@ title: Il Cuoco del Supermercato
 locale: it
 cefr: a2
 key: supermarket-chef
+date: 2023-06-03
 ---
 
 Giuseppe aveva un lavoro in un supermercato. Desiderava una promozione, ma il suo capo diceva sempre: "Giuseppe, non sei talentuoso."

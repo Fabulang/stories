@@ -3,6 +3,7 @@ title: The Hamster's Tail
 locale: en
 cefr: a1
 key: hamsters-tail
+date: 2023-06-24
 reviews: 1
 ---
 

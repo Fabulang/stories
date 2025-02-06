@@ -3,6 +3,7 @@ title: Capolavoro Accidentale
 locale: it
 cefr: c2
 key: accidental-masterpiece
+date: 2023-06-24
 ---
 
 Nei tranquilli corridoi del Museo della Città, Goffredo, il nuovo assistente, attendeva la consegna dell'ultimo lavoro del maestro pittore noto solo come Pennello.

@@ -3,6 +3,7 @@ title: Un Sistema di Archiviazione Rivoluzionario
 locale: it
 cefr: c1
 key: revolutionary-filing-system
+date: 2023-06-10
 ---
 
 Emilio era un segretario in un'azienda movimentata. Era un bel posto dove lavorare, ma veniva trascurato e sottovalutato. Il suo capo era una donna piuttosto severa, la Sig.ra Pugile, che aveva l'abitudine di rimproverarlo per la sua scrivania disordinata.

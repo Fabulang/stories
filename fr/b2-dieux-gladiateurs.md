@@ -3,6 +3,7 @@ title: Dieux et Gladiateurs
 locale: fr
 cefr: b2
 key: gods-gladiators
+date: 2024-09-08
 ---
 
 Les gladiateurs étaient prêts à se battre. L'un était un grand homme avec de gros muscles. L'autre était maigre et petit.

@@ -3,6 +3,7 @@ title: Le Dernier Discours du Maire
 locale: fr
 cefr: c1
 key: mayors-last-speech
+date: 2024-09-08
 ---
 
 Une grande foule de citoyens inquiets s'était rassemblée pour écouter le discours du maire.

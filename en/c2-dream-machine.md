@@ -3,6 +3,7 @@ title: The Dream Machine
 locale: en
 cefr: c2
 key: dream-machine
+date: 2023-07-13
 reviews: 1
 ---
 

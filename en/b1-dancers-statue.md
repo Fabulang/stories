@@ -3,6 +3,7 @@ title: The Dancers' Statue
 cefr: b1
 locale: en
 key: dancers-statue
+date: 2023-12-31
 reviews: 1
 ---
 

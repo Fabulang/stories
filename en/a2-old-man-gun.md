@@ -3,6 +3,7 @@ title: The Old Man and the Gun
 locale: en
 cefr: a2
 key: old-man-gun
+date: 2023-07-13
 reviews: 1
 ---
 

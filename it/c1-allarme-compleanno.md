@@ -3,6 +3,7 @@ title: L'Allarme del Compleanno
 locale: it
 cefr: c1
 key: birthday-alarm
+date: 2023-06-24
 ---
 
 Giorgio è stato un imprenditore di grande successo, noto per il suo acume e la memoria acuta. Tuttavia, c'era una cosa che non è riuscito mai a ricordare -- il compleanno di sua moglie. Sua moglie, Margherita, è stata sempre paziente, ma ogni compleanno dimenticato è stato un pugno al cuore.

@@ -3,6 +3,7 @@ title: Le Bricoleur Modeste
 locale: fr
 cefr: c1
 key: humble-handyman
+date: 2023-07-08
 ---
 
 Au cœur d'un quartier aisé se dressait une prestigieuse école privée. L'école employait un bricoleur nommé Jean, qui aidait à garder l'école propre, à entretenir les bâtiments et à déplacer des choses dans et hors du sous-sol.

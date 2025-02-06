@@ -3,6 +3,7 @@ title: Favole in Piscina
 locale: it
 cefr: c2
 key: tall-tales-pool
+date: 2023-06-03
 ---
 
 Giosué era un adolescente qualunque bloccato nel noioso e monotono lavoro estivo di pulizia delle piscine. Giorno dopo giorno, raccoglieva foglie e strofinava piastrelle nella piscina comunale locale.

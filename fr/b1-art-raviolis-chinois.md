@@ -3,6 +3,7 @@ title: L'Art des Raviolis Chinois
 locale: fr
 cefr: b1
 key: art-chinese-dumplings
+date: 2023-07-08
 reviewers:
 - ashlyn-cleys
 ---

@@ -3,6 +3,7 @@ title: L'Ultimo Discorso del Sindaco
 locale: it
 cefr: c1
 key: mayors-last-speech
+date: 2024-09-08
 ---
 
 Una grande folla di cittadini preoccupati si era radunata per ascoltare il discorso del sindaco.

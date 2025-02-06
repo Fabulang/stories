@@ -3,6 +3,7 @@ title: Boulangerie du Futur
 locale: fr
 cefr: b2
 key: bakery-future
+date: 2023-06-24
 reviewers:
 - ashlyn-cleys
 ---

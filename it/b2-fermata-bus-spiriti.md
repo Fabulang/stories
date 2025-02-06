@@ -3,6 +3,7 @@ title: La Fermata del Bus degli Spiriti
 locale: it
 cefr: b2
 key: bus-stop-spirits
+date: 2023-10-25
 ---
 
 "Scusami, dove posso trovare la celebre Fermata del Bus degli Spiriti?"

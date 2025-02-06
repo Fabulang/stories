@@ -3,6 +3,7 @@ title: Des Histoires Rocambolesques à la Piscine
 locale: fr
 cefr: c2
 key: tall-tales-pool
+date: 2023-06-03
 ---
 
 Josué était un adolescent ordinaire coincé dans le travail d'été ennuyeux et monotone de nettoyage de piscine. Jour après jour, il ramassait les feuilles et frottait les carreaux à la piscine communautaire locale.

@@ -3,6 +3,7 @@ title: Le Théâtre du Fantôme
 locale: fr
 cefr: b2
 key: ghosts-theatre
+date: 2023-07-13
 reviewers:
 - ashlyn-cleys
 ---

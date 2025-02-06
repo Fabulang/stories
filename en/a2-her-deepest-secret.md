@@ -3,6 +3,7 @@ title: Her Deepest Secret
 cefr: a2
 locale: en
 key: her-deepest-secret
+date: 2025-01-26
 reviews: 1
 ---
 

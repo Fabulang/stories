@@ -3,6 +3,7 @@ title: Le Jardin de Tout le Monde
 locale: fr
 cefr: b2
 key: everyones-garden
+date: 2023-08-14
 ---
 
 Amanda habitait dans un immeuble terne et gris. Un petit jardin l'entourait, mais il était envahi par des mauvaises herbes. Ça rendait le bâtiment encore plus laid.

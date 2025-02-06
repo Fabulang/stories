@@ -3,6 +3,7 @@ title: L'Uccisore di Giganti
 locale: it
 cefr: c1
 key: giant-slayer
+date: 2023-07-20
 ---
 
 Le navi che Håkon costruiva erano l'orgoglio della flotta dei Vichinghi, e il terrore dei loro nemici. Tagliavano le onde come spade e erano forti e affidabili come l'acciaio.

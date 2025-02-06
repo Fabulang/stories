@@ -3,6 +3,7 @@ title: L'Aide de Minuit
 locale: fr
 cefr: a2
 key: midnight-helper
+date: 2023-08-14
 ---
 
 Denis rêvait des mathématiques. Les nombres et les symboles l'attaquaient. Il n'avait pas fait ses devoirs. Les questions étaient trop difficiles.

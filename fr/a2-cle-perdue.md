@@ -3,6 +3,7 @@ title: La Clé Perdue
 locale: fr
 cefr: a2
 key: lost-key
+date: 2023-07-08
 ---
 
 Nicolas a emménagé dans une grande vieille maison. Il y a trois cents ans, un célèbre pirate y vivait.

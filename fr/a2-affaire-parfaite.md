@@ -3,6 +3,7 @@ title: L'Affaire Parfaite
 locale: fr
 cefr: a2
 key: perfect-case
+date: 2023-06-10
 ---
 
 Le détective privé était assis à son bureau. Personne ne l'avait engagé depuis longtemps. Quand une femme est entrée dans le bureau, il a failli tomber de sa chaise.

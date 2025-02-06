@@ -3,6 +3,7 @@ title: Un Système de Classement Révolutionnaire
 locale: fr
 cefr: c1
 key: revolutionary-filing-system
+date: 2023-06-10
 ---
 
 Émile était secrétaire dans une entreprise animée. C'était un bel endroit pour travailler, mais il était négligé et sous-estimé. Sa patronne était une femme plutôt sévère, Mme. Boxeuse, qui avait l'habitude de le réprimander pour son bureau désorganisé.

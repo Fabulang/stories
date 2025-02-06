@@ -3,6 +3,7 @@ title: A Terra da Chuva Eterna
 cefr: a2
 locale: pt-BR
 key: land-eternal-rain
+date: 2024-07-06
 reviewers:
  - joas-martins
 ---

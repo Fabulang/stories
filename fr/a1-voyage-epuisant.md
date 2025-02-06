@@ -3,6 +3,7 @@ title: Un Voyage Épuisant
 locale: fr
 cefr: a1
 key: tiring-trip
+date: 2023-07-20
 ---
 
 Fernand arrive en vacances. Il est très excité. Il veut voir la ville. Il veut faire du shopping. Mais il est très fatigué. Il s'endort dans sa chambre d'hôtel.

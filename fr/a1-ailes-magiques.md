@@ -3,6 +3,7 @@ title: Ailes Magiques
 locale: fr
 cefr: a1
 key: magic-wings
+date: 2023-06-17
 ---
 
 Matthieu apprend à devenir un sorcier. Il pense qu'il peut être un très bon sorcier. Mais il est dans la classe inférieure.

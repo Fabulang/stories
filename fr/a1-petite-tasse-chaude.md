@@ -3,6 +3,7 @@ title: Petite Tasse Chaude
 locale: fr
 cefr: a1
 key: little-hot-cup
+date: 2023-07-08
 ---
 
 Chaque matin, Arianne porte un costume et va travailler en ville. Mais d'abord, elle visite toujours *Petite Tasse Chaude*, un café dans sa rue. Ils font le meilleur café du monde.

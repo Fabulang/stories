@@ -3,6 +3,7 @@ title: Il Caso Perfetto
 locale: it
 cefr: a2
 key: perfect-case
+date: 2023-06-10
 ---
 
 L'investigatore privato sedeva alla sua scrivania. Nessuno lo aveva assunto da molto tempo. Quando una donna è entrata nell'ufficio, è quasi caduto dalla sedia.

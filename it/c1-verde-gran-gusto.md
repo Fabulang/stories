@@ -3,6 +3,7 @@ title: Un Verde di Gran Gusto
 cefr: c1
 locale: it
 key: very-tasteful-green
+date: 2025-01-26
 ---
 
 La nuova casa di Andrea era situata in una strada tranquilla di una zona costosa del paese. Ha risparmiato per anni per potersi trasferire lì. La casa non era grande e aveva bisogno di essere rimessa a nuovo, ma Andrea era felice di lasciarsi alle spalle il suo vecchio quartiere.

@@ -3,6 +3,7 @@ title: La Fuga sull'Isola
 locale: it
 cefr: a2
 key: island-escape
+date: 2023-06-17
 ---
 
 Giacomo viveva in una piccola città. A tutti piaceva vivere lì, tranne a Giacomo. Tutti pensavano che fosse una città graziosa, tranne Giacomo.

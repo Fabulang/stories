@@ -3,6 +3,7 @@ title: The Birthday Alarm
 locale: en
 cefr: c1
 key: birthday-alarm
+date: 2023-06-24
 reviews: 1
 ---
 

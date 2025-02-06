@@ -3,6 +3,7 @@ title: The Jewel of the Kingdom
 locale: en
 cefr: b2
 key: jewel-kingdom
+date: 2023-07-20
 reviews: 1
 ---
 

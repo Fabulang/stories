@@ -3,6 +3,7 @@ title: Le Pourfendeur des Géants
 locale: fr
 cefr: c1
 key: giant-slayer
+date: 2023-07-20
 ---
 
 Les navires que Håkon avait construits étaient la fierté de la flotte des Vikings et la terreur de leurs ennemis. Ils coupaient les vagues comme des épées et étaient aussi solides et fiables que l'acier.

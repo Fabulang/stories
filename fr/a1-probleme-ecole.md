@@ -3,6 +3,7 @@ title: Un Problème à l'École
 locale: fr
 cefr: a1
 key: problem-school
+date: 2024-09-08
 reviews: 1
 #reviewers:
 #- helene-wandering-french

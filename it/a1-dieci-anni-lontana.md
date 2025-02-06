@@ -3,6 +3,7 @@ title: Dieci Anni Lontana
 locale: it
 cefr: a1
 key: ten-years-away
+date: 2023-07-13
 ---
 
 Giuseppina sta viaggiando per tornare a casa a trovare la sua famiglia. Vive in un altro paese, quindi sta viaggiando in aereo. Non vuole tornare. Non le piace il suo paese.

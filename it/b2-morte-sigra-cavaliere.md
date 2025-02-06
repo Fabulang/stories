@@ -3,6 +3,7 @@ title: La Morte della Sig.ra Cavaliere
 locale: it
 cefr: b2
 key: death-mrs-knight
+date: 2023-07-08
 ---
 
 L'Investigatrice Cacciatore ha attraversato l'enorme giardino pieno di rose. È entrata nella sfarzosa casa del Sig. e della Sig.ra Cavaliere e si è recata nello studio. La bellissima stanza era diventata la scena di un crimine. La Sig.ra Cavaliere era seduta sulla sua poltrona di pelle. Sembra che dormisse sulla scrivania. Ma era morta.

@@ -3,6 +3,7 @@ title: Vivere in Armonia
 locale: it
 cefr: b1
 key: living-harmony
+date: 2023-07-20
 ---
 
 "Ciao, mi sto trasferendo oggi," ha detto Geremia, sorridente.

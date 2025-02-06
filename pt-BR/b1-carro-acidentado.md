@@ -3,6 +3,7 @@ title: O Carro Acidentado
 locale: pt-BR
 cefr: b1
 key: crashed-car
+date: 2024-07-06
 published: false
 ---
 

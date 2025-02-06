@@ -3,6 +3,7 @@ title: Le Vieil Homme et le Pistolet
 locale: fr
 cefr: a2
 key: old-man-gun
+date: 2023-07-13
 reviewers:
  - relax-you-learn-french
 ---

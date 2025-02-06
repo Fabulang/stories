@@ -3,6 +3,7 @@ title: L'auto Schiantata
 locale: it
 cefr: b1
 key: crashed-car
+date: 2023-10-25
 ---
 
 Non c'erano altre auto sulla strada quella notte. Adriano stava guidando verso casa attraverso una grande foresta, sentendosi triste e solo. Tra gli alberi era completamente buio.

@@ -3,6 +3,7 @@ title: Il Suo Segreto Più Profondo
 cefr: a2
 locale: it
 key: her-deepest-secret
+date: 2025-01-26
 ---
 
 "C'è qualcosa di strano in questo dipinto," ha detto la guida turistica. "Riuscite a vedere di cosa si tratta?"

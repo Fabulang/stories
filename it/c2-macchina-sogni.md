@@ -3,6 +3,7 @@ title: La Macchina dei Sogni
 locale: it
 cefr: c2
 key: dream-machine
+date: 2023-07-13
 ---
 
 "Questa sarà una brutta notte," mormorò Viviana guardando la pioggia torrenziale.

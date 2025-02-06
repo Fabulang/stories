@@ -3,6 +3,7 @@ title: Percer le Code
 locale: fr
 cefr: b2
 key: cracking-code
+date: 2023-06-10
 ---
 
 Véronique était une programmeuse informatique exceptionnellement douée. Pendant la journée, elle travaillait pour une entreprise de logiciels. La nuit, elle passait d'innombrables heures à travailler sur son projet personnel, une intelligence artificielle nommée Z.

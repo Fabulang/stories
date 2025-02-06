@@ -3,6 +3,7 @@ title: A Caneta Tinteiro do Rei
 cefr: c2
 locale: pt-BR
 key: kings-fountain-pen
+date: 2024-07-06
 reviewers:
  - joas-martins
 ---

@@ -3,6 +3,7 @@ title: La Couleur de l'Amour
 locale: fr
 cefr: c2
 key: colour-love
+date: 2023-07-08
 ---
 
 En l'an 3202, la société est composée à la fois d'humains et d'extraterrestres, vivant ensemble pacifiquement en tant que citoyens égaux.

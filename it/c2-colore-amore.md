@@ -3,6 +3,7 @@ title: Il Colore dell'Amore
 locale: it
 cefr: c2
 key: colour-love
+date: 2023-07-08
 ---
 
 Nell'anno 3202, la società è composta sia da umani che da alieni, che vivono pacificamente insieme come cittadini uguali.

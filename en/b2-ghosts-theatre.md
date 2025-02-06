@@ -3,6 +3,7 @@ title: The Ghost's Theatre
 locale: en
 cefr: b2
 key: ghosts-theatre
+date: 2023-07-13
 reviews: 1
 ---
 

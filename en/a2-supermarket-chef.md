@@ -3,6 +3,7 @@ title: Supermarket Chef
 locale: en
 cefr: a2
 key: supermarket-chef
+date: 2023-06-03
 reviews: 1
 ---
 

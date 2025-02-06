@@ -3,6 +3,7 @@ title: Lo Sport della Lettura
 locale: it
 cefr: a1
 key: sport-reading
+date: 2023-06-10
 ---
 
 A Lilia piace Luca, un ragazzo della sua classe. Lui ama lo sport, ma Lilia no. Lilia ama leggere. Si sente triste -- non ha nessuna possibilità con Luca.

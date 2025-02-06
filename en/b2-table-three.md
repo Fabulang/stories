@@ -3,6 +3,7 @@ title: A Table for Three
 cefr: b2
 locale: en
 key: table-three
+date: 2025-01-26
 reviews: 1
 ---
 

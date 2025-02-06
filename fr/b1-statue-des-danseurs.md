@@ -3,6 +3,7 @@ title: La Statue des Danseurs
 cefr: b1
 locale: fr
 key: dancers-statue
+date: 2023-12-31
 ---
 
 Le taxi est arrivé et Geneviève est montée à l'intérieur. Elle a ouvert son livre *Guide du Touriste*.

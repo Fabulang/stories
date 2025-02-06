@@ -3,6 +3,7 @@ title: En Avance sur Son Temps
 locale: fr
 cefr: c2
 key: ahead-his-time
+date: 2023-06-17
 ---
 
 Charles était un extraordinaire scientifique. Malgré son génie, la prestigieuse revue scientifique, *Nos Époques*, rejetait systématiquement ses articles. La lettre de refus du rédacteur en chef concluait toujours que les idées de Charles étaient d'une radicalité excessive.

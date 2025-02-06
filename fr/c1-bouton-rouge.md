@@ -3,6 +3,7 @@ title: Le Bouton Rouge
 locale: fr
 cefr: c1
 key: red-button
+date: 2023-08-14
 ---
 
 Tout le monde au Commissariat a applaudi et a acclamé lorsque le Détective Corbeau est entré dans la pièce. Il avait résolu une autre affaire de meurtre insoluble. Comment avait-il découvert que c'était la baby-sitter avec si peu d'indices ?

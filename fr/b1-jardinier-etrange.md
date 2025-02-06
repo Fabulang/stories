@@ -3,6 +3,7 @@ title: Le Jardinier Étrange
 locale: fr
 cefr: b1
 key: strange-gardener
+date: 2023-06-10
 ---
 
 Monsieur Thierry vivait seul dans une ville tranquille. Il était un espion à la retraite, donc il gardait un œil sur le quartier. Il cherchait toujours quelque chose de suspect.

@@ -3,6 +3,7 @@ title: La Voix du Comédien
 locale: fr
 cefr: b2
 key: comedians-voice
+date: 2023-06-17
 ---
 
 François, un talent émergent dans le monde du stand-up, était respecté pour son incroyable capacité à imiter les célébrités.

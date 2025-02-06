@@ -3,6 +3,7 @@ title: Non Andare in Vacanza
 cefr: a1
 locale: it
 key: dont-go-holiday
+date: 2023-12-31
 reviewers:
 - giulia-italian-language-hub
 ---

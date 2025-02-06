@@ -3,6 +3,7 @@ title: La Machine à Rêves
 locale: fr
 cefr: c2
 key: dream-machine
+date: 2023-07-13
 ---
 
 "Cela va être une mauvaise nuit," a murmuré Vivienne en regardant la pluie battante.

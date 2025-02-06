@@ -3,6 +3,7 @@ title: Un Antico Potere
 locale: it
 cefr: c1
 key: ancient-power
+date: 2023-07-13
 ---
 
 Giacomina è stata un'archeologa ambiziosa. Nelle sue ricerche, ha trovato numerosi riferimenti a un potente artefatto antico. I suoi colleghi continuavano a dirle che era un mito, ma Giacomina sapeva che le prove erano troppo forti. Doveva davvero esistere.

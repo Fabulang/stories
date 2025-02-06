@@ -3,6 +3,7 @@ title: La Coda del Criceto
 locale: it
 cefr: a1
 key: hamsters-tail
+date: 2023-06-24
 ---
 
 "Prenditi cura del criceto," dice l'insegnante di Elia. Poi va a mangiare.

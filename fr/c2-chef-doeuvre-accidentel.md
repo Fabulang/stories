@@ -3,6 +3,7 @@ title: Chef-d'œuvre Accidentel
 locale: fr
 cefr: c2
 key: accidental-masterpiece
+date: 2023-06-24
 ---
 
 Dans les couloirs tranquilles du Musée de la Ville, Geoffroy, le nouvel assistant, attendait la livraison de la dernière œuvre du maître peintre connu seulement sous le nom de Pinceau.

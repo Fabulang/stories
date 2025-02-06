@@ -3,6 +3,7 @@ title: Nettoyage de Printemps
 locale: fr
 cefr: a2
 key: spring-cleaning
+date: 2023-10-25
 ---
 
 "Tu peux te lever un moment, s'il te plaît ?" a dit Gérard à sa petite amie.

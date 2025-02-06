@@ -3,6 +3,7 @@ title: La Vincitrice Sfortunata
 locale: it
 cefr: a1
 key: unlucky-winner
+date: 2023-06-03
 ---
 
 Lucia vive in una piccola città. Ci sono parchi, alberi e case graziose. È un bel posto dove vivere.

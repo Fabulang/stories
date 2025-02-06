@@ -3,6 +3,7 @@ title: Le Joyau du Royaume
 locale: fr
 cefr: b2
 key: jewel-kingdom
+date: 2023-07-20
 ---
 
 "Tu ne peux pas m'arrêter," a ri Moros, le tyran maléfique. "Maintenant, je vais utiliser le Joyau de Pouvoir pour conquérir le royaume ! Dépose ton arme, Eravon, ou elle meurt."

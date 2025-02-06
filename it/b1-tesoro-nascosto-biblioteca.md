@@ -3,6 +3,7 @@ title: Il Tesoro Nascosto della Biblioteca
 locale: it
 cefr: b1
 key: librarys-hidden-treasure
+date: 2023-06-17
 ---
 
 Edoardo era il bibliotecario della tranquilla biblioteca della città. Viveva tra i libri. Dava libri alle persone e li riprendeva. Ma lui non li ha mai letti.

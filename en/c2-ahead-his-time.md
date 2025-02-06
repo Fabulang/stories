@@ -3,6 +3,7 @@ title: Ahead of His Time
 locale: en
 cefr: c2
 key: ahead-his-time
+date: 2023-06-17
 reviews: 1
 ---
 

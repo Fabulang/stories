@@ -3,6 +3,7 @@ title: "Projet : Contrôle"
 cefr: c2
 locale: fr
 key: project-control
+date: 2025-01-26
 ---
 
 "Ce rapport trimestriel est... insatisfaisant," a déclaré le manager de Colette d'un ton monocorde. "Il n'y a pas assez de détails. Et il y a trop de chiffres sur le graphique. La police devrait être plus grande. Les tableaux devraient utiliser les couleurs de notre marque. Et vous devriez tout dupliquer à la fin."

@@ -3,6 +3,7 @@ title: Little Hot Cup
 locale: en
 cefr: a1
 key: little-hot-cup
+date: 2023-07-08
 reviews: 1
 ---
 

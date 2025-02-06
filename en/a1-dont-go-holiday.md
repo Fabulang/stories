@@ -3,6 +3,7 @@ title: Don't Go on Holiday
 cefr: a1
 locale: en
 key: dont-go-holiday
+date: 2023-12-31
 reviews: 2
 ---
 

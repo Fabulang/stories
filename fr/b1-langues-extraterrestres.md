@@ -3,6 +3,7 @@ title: Langues Extraterrestres
 locale: fr
 cefr: b1
 key: alien-languages
+date: 2023-08-14
 ---
 
 "C'est certainement une langue extraterrestre," a confirmé Alison.

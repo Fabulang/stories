@@ -3,6 +3,7 @@ title: Bakery of the Future
 locale: en
 cefr: b2
 key: bakery-future
+date: 2023-06-24
 reviews: 1
 ---
 

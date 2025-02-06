@@ -3,6 +3,7 @@ title: La Cucina Raffinata della Bambina
 locale: it
 cefr: a2
 key: baby-fine-dining
+date: 2023-07-20
 ---
 
 Mamma e papà erano critici gastronomici, e hanno avuto un problema. La loro bambina non mangiava nessuno dei cibi che le davano.

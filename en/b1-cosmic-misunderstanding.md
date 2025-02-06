@@ -3,6 +3,7 @@ title: A Cosmic Misunderstanding
 locale: en
 cefr: b1
 key: cosmic-misunderstanding
+date: 2023-06-24
 reviews: 1
 ---
 

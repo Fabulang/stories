@@ -3,6 +3,7 @@ title: La Mort de Mme. Chevalier
 locale: fr
 cefr: b2
 key: death-mrs-knight
+date: 2023-07-08
 ---
 
 La Détective Chasseur a traversé l'énorme jardin rempli de roses. Elle est entrée dans la somptueuse maison de M. et Mme. Chevalier et elle est allée dans le bureau. La belle pièce était devenue une scène de crime. Mme. Chevalier était assise dans sa chaise en cuir. Elle semblait s'être endormie sur le bureau. Mais elle était morte.

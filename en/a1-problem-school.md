@@ -3,6 +3,7 @@ title: A Problem at School
 locale: en
 cefr: a1
 key: problem-school
+date: 2024-09-08
 reviews: 1
 ---
 

@@ -3,6 +3,7 @@ title: The Sport of Reading
 locale: en
 cefr: a1
 key: sport-reading
+date: 2023-06-10
 reviews: 1
 ---
 

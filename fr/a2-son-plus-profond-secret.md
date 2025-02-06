@@ -3,6 +3,7 @@ title: Son Plus Profond Secret
 cefr: a2
 locale: fr
 key: her-deepest-secret
+date: 2025-01-26
 ---
 
 "Il y a quelque chose d'étrange dans ce tableau," a dit le guide touristique. "Voyez-vous ce que c'est ?"

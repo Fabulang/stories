@@ -3,6 +3,7 @@ title: Chef Supermarché
 locale: fr
 cefr: a2
 key: supermarket-chef
+date: 2023-06-03
 ---
 
 Joseph avait un travail dans un supermarché. Il voulait une promotion, mais sa patronne disait toujours : "Joseph, vous n'avez pas de talent."

@@ -3,6 +3,7 @@ title: L'Assistente della Mezzanotte
 locale: it
 cefr: a2
 key: midnight-helper
+date: 2023-08-14
 ---
 
 Dionigi stava sognando la matematica. I numeri e i simboli lo stavano attaccando. Non aveva fatto i compiti. Le domande matematiche erano troppo difficili.

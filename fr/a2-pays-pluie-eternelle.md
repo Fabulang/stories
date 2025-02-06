@@ -3,6 +3,7 @@ title: Le Pays de la Pluie Éternelle
 cefr: a2
 locale: fr
 key: land-eternal-rain
+date: 2023-12-31
 reviewers:
  - sweet-french-learning
 ---

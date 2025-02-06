@@ -3,6 +3,7 @@ title: The Potion Master's Apprentice
 locale: en
 cefr: c2
 key: potion-masters-apprentice
+date: 2023-10-25
 reviews: 1
 ---
 

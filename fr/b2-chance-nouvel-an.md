@@ -3,6 +3,7 @@ title: La Chance du Nouvel An
 cefr: b2
 locale: fr
 key: new-years-luck
+date: 2023-12-31
 reviewers:
  - ashlyn-cleys
 ---

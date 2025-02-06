@@ -3,6 +3,7 @@ title: La Citrouille Qui N'était Pas Là
 locale: fr
 cefr: c1
 key: pumpkin-wasnt-there
+date: 2023-06-17
 ---
 
 Arnauld, un jardinier passionné mais maladroit, avait finalement réussi à faire pousser une citrouille géante, sans défaut. Il était sûr de gagner un gros prix à la foire locale, et il avait hâte de la montrer.

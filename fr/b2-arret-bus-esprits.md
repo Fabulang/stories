@@ -3,6 +3,7 @@ title: L'Arrêt de Bus des Esprits
 locale: fr
 cefr: b2
 key: bus-stop-spirits
+date: 2023-10-25
 reviewers:
 - ashlyn-cleys
 reviews: 1

@@ -3,6 +3,7 @@ title: Vivre le Rêve
 locale: fr
 cefr: c2
 key: living-dream
+date: 2023-08-14
 ---
 
 Grâce et Thomas avaient récemment acheté une maison ensemble. Tous deux au début de la vingtaine, ils n'avaient pas beaucoup d'argent. La maison était petite et assez froide. Mais ils étaient heureux de se blottir ensemble avec une grande couverture sur leur canapé déformé.

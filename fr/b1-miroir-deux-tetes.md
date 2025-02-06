@@ -3,6 +3,7 @@ title: Le Miroir à Deux Têtes
 locale: fr
 cefr: b1
 key: two-headed-mirror
+date: 2023-07-13
 ---
 
 Amélie était dans une boutique d'antiquités, à la recherche de quelque chose à mettre sur son mur. Dans l'obscurité à l'arrière, elle a repéré un magnifique miroir ancien. Il avait un cadre orné sculpté en forme de serpent à deux têtes.

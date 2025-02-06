@@ -3,6 +3,7 @@ title: Un Malentendu Cosmique
 locale: fr
 cefr: b1
 key: cosmic-misunderstanding
+date: 2023-06-24
 ---
 
 Claire était une astronome dévouée, toujours à observer les cieux. Une nuit, elle a repéré un énorme météore qui semblait se rapprocher de la Terre.

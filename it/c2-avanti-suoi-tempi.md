@@ -3,6 +3,7 @@ title: Avanti per i Suoi Tempi
 locale: it
 cefr: c2
 key: ahead-his-time
+date: 2023-06-17
 ---
 
 Carlo era uno scienziato straordinario. Nonostante la sua brillantezza, la prestigiosa rivista scientifica, *I Nostri Tempi*, ha costantemente rifiutato i suoi articoli. La lettera di rifiuto del redattore ha sempre concluso che le idee di Carlo erano troppo radicali.

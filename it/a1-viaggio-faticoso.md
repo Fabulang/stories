@@ -3,6 +3,7 @@ title: Un Viaggio Faticoso
 locale: it
 cefr: a1
 key: tiring-trip
+date: 2023-07-20
 ---
 
 Fernando arriva in vacanza. È molto eccitato. Vuole vedere la città. Vuole fare shopping. Ma è molto stanco. Si addormenta nella sua stanza d'albergo.

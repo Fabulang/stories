@@ -3,6 +3,7 @@ title: Un Pouvoir Ancien
 locale: fr
 cefr: c1
 key: ancient-power
+date: 2023-07-13
 ---
 
 Jacqueline était une archéologue ambitieuse. Au cours de ses recherches, elle avait découvert de nombreuses références à un puissant artefact ancien. Ses collègues n'arrêtaient pas de lui dire que c'était un mythe, mais Jacqueline savait que les preuves étaient trop fortes. Il devait vraiment exister.

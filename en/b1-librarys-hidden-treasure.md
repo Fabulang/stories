@@ -3,6 +3,7 @@ title: The Library's Hidden Treasure
 locale: en
 cefr: b1
 key: librarys-hidden-treasure
+date: 2023-06-17
 reviews: 1
 ---
 

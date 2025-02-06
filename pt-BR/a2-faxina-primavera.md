@@ -3,6 +3,7 @@ title: Faxina de Primavera
 locale: pt-BR
 cefr: a2
 key: spring-cleaning
+date: 2024-07-06
 published: false
 ---
 

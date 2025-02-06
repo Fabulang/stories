@@ -3,6 +3,7 @@ title: Ciò che Sperava
 locale: it
 cefr: c1
 key: what-shed-hoped-for
+date: 2023-06-03
 ---
 
 Dopo aver appena laureata, Giulietta ha deciso di intraprendere un viaggio celebrativo zaino in spalla attraverso l'Europa. Anelava avventure emozionanti e sperava di effettuare scoperte che cambiassero la sua vita. Eppure, mentre navigava attraverso il continente, si è trovata disincantata.

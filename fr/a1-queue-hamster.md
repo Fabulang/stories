@@ -3,6 +3,7 @@ title: La Queue du Hamster
 locale: fr
 cefr: a1
 key: hamsters-tail
+date: 2023-06-24
 ---
 
 "Prends soin du hamster," dit la maîtresse de Élie. Elle part manger.

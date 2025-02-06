@@ -3,6 +3,7 @@ title: L'Évasion sur l'Île
 locale: fr
 cefr: a2
 key: island-escape
+date: 2023-06-17
 ---
 
 Jacques habitait dans une petite ville. Tout le monde aimait y vivre, sauf Jacques. Tout le monde pensait que c'était une jolie ville, sauf Jacques.

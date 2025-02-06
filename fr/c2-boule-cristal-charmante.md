@@ -3,6 +3,7 @@ title: La Boule de Cristal Charmante
 locale: fr
 cefr: c2
 key: charming-crystal-ball
+date: 2023-06-10
 ---
 
 Dans les coins poussiéreux du sous-sol de son dortoir universitaire, Noémie, une étudiante toujours superstitieuse, a découvert une relique d'une époque révolue : une vieille boule de cristal. Saisie par la curiosité et un besoin impulsif de guidage, Noémie a décidé d'employer la relique pour prendre des décisions qui changeraient sa vie.

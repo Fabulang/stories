@@ -3,6 +3,7 @@ title: L'Alarme d'Anniversaire
 locale: fr
 cefr: c1
 key: birthday-alarm
+date: 2023-06-24
 ---
 
 Georges était un homme d'affaires très réussi, reconnu pour son acuité et sa mémoire affûtée. Pourtant, il y avait une chose qu'il n'arrivait jamais à se souvenir -- l'anniversaire de sa femme. Sa femme, Marguérite, a toujours été patiente, mais chaque anniversaire oublié était une épine dans son cœur.

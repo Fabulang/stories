@@ -3,6 +3,7 @@ title: Piccola Tazza Calda
 locale: it
 cefr: a1
 key: little-hot-cup
+date: 2023-07-08
 ---
 
 Ogni mattina, Arianna indossa un tailleur e va a lavorare in città. Ma prima, visita sempre *Piccola Tazza Calda*, un caffè sulla sua strada. Fanno il miglior caffè del mondo.

@@ -3,6 +3,7 @@ title: Accidental Masterpiece
 locale: en
 cefr: c2
 key: accidental-masterpiece
+date: 2023-06-24
 reviews: 1
 ---
 

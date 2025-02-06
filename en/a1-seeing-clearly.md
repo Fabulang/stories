@@ -3,6 +3,7 @@ title: Seeing Clearly
 locale: en
 cefr: a1
 key: seeing-clearly
+date: 2023-10-25
 reviews: 1
 ---
 

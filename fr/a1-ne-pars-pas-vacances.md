@@ -3,6 +3,7 @@ title: Ne Pars Pas en Vacances
 cefr: a1
 locale: fr
 key: dont-go-holiday
+date: 2023-12-31
 reviewers:
  - avance-avec-nisa
  - ashlyn-cleys

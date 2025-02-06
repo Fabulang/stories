@@ -3,6 +3,7 @@ title: Le Sport de la Lecture
 locale: fr
 cefr: a1
 key: sport-reading
+date: 2023-06-10
 ---
 
 Lilie aime Luc, un garçon dans sa classe. Il adore le sport, mais Lilie n'aime pas ça. Lilie aime lire. Elle est triste -- elle se sent sans espoir avec Luc.

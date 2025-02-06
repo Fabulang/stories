@@ -3,6 +3,7 @@ title: Pulizie di Primavera
 locale: it
 cefr: a2
 key: spring-cleaning
+date: 2023-10-25
 ---
 
 "Per favore puoi alzarti un attimo?" ha detto Gerardo alla sua ragazza.

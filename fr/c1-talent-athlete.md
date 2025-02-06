@@ -3,6 +3,7 @@ title: Le Talent de l'Athlète
 locale: fr
 cefr: c1
 key: athletes-talent
+date: 2023-10-25
 ---
 
 Les rues de l'ancienne Élis étaient pleines d'activité. Des hommes et des femmes en tuniques vaquaient à leurs affaires, des commerçants poussaient des chariots remplis de marchandises à vendre au marché, et des enfants jouaient à des jeux dans le gravier.

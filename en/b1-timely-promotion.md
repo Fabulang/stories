@@ -3,6 +3,7 @@ title: A Timely Promotion
 locale: en
 cefr: b1
 key: timely-promotion
+date: 2023-06-03
 reviews: 1
 ---
 

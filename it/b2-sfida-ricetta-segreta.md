@@ -3,6 +3,7 @@ title: La Sfida della Ricetta Segreta
 locale: it
 cefr: b2
 key: secret-recipe-challenge
+date: 2023-06-03
 ---
 
 Il Sig. Guardaboschi, noto per i suoi deliziosi dolci fatti in casa, ha lanciato una sfida a Clementina, la sua apprendista. Avrebbe potuto ricreare la sua speciale torta di frutta, senza conoscere la ricetta segreta di famiglia?

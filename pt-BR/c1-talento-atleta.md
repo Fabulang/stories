@@ -3,6 +3,7 @@ title: O Talento do Atleta
 locale: pt-BR
 cefr: c1
 key: athletes-talent
+date: 2024-07-06
 published: false
 ---
 

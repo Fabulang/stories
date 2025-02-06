@@ -3,6 +3,7 @@ title: Tall Tales at the Pool
 locale: en
 cefr: c2
 key: tall-tales-pool
+date: 2023-06-03
 reviews: 1
 ---
 

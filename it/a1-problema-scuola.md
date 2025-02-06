@@ -3,6 +3,7 @@ title: Un Problema a Scuola
 locale: it
 cefr: a1
 key: problem-school
+date: 2024-09-08
 reviewers:
 - giulia-italian-language-hub
 ---

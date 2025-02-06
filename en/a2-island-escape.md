@@ -3,6 +3,7 @@ title: The Island Escape
 locale: en
 cefr: a2
 key: island-escape
+date: 2023-06-17
 reviews: 1
 ---
 

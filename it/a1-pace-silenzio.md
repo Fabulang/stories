@@ -3,6 +3,7 @@ title: Pace e Silenzio
 locale: it
 cefr: a1
 key: peace-quiet
+date: 2023-08-14
 ---
 
 Roberto vive da solo. Gli piace che la sua vita sia pacifica e silenziosa. Ha una routine. Ogni giorno, medita per un'ora dopo il lavoro. Poi cucina un pasto sano e guarda un episodio della *Lo Spettacolo del Giardinaggio* in televisione. Infine, ascolta musica classica e va a dormire.

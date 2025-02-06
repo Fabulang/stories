@@ -3,6 +3,7 @@ title: L'Apprendista del Maestro delle Pozioni
 locale: it
 cefr: c2
 key: potion-masters-apprentice
+date: 2023-10-25
 ---
 
 Il liquido viola all'interno della bottiglia quadrata brillava con scaglie d'oro. Annabella ha versato il contenuto in una ciotola di metallo. Poi ha trovato una scatola di strane pietre gialle. Le ha gettate tutte anche quelle. Infine, c'era un barattolo pieno delle lingue di alcuni animali sfortunati.

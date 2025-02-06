@@ -3,6 +3,7 @@ title: Dei e Gladiatori
 locale: it
 cefr: b2
 key: gods-gladiators
+date: 2024-09-08
 reviewers:
 - giulia-italian-language-hub
 ---

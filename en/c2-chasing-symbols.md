@@ -3,6 +3,7 @@ title: Chasing Symbols
 locale: en
 cefr: c2
 key: chasing-symbols
+date: 2024-09-08
 reviews: 1
 ---
 

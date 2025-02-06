@@ -3,6 +3,7 @@ title: La Voce del Comico
 locale: it
 cefr: b2
 key: comedians-voice
+date: 2023-06-17
 ---
 
 Francesco, un emergente talento nel mondo del cabaret, era rispettato per la sua incredibile capacità di imitare i personaggi famosi.

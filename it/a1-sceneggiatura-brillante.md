@@ -3,6 +3,7 @@ title: Una Sceneggiatura Brillante
 cefr: a1
 locale: it
 key: brilliant-script
+date: 2025-01-26
 ---
 
 Domenico accende la lampada e si siede. Beve il suo caffè. Finalmente, ha un'idea.

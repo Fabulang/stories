@@ -3,6 +3,7 @@ title: Il Vecchio e la Pistola
 locale: it
 cefr: a2
 key: old-man-gun
+date: 2023-07-13
 ---
 
 Molto tempo fa, la vita era pericolosa. C'era una piccola città nel deserto. Un uomo di nome Marco ci viveva. Il compito di Marco era proteggere la città.

@@ -3,6 +3,7 @@ title: La Penna Stilografica del Re
 cefr: c2
 locale: it
 key: kings-fountain-pen
+date: 2023-12-31
 reviews: 1
 ---
 

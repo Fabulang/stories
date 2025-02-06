@@ -3,6 +3,7 @@ title: Ali Magiche
 locale: it
 cefr: a1
 key: magic-wings
+date: 2023-06-17
 ---
 
 Matteo sta imparando a diventare un mago. Pensa di poter diventare un ottimo mago. Ma è nella classe più bassa.

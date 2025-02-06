@@ -3,6 +3,7 @@ title: Les Fines Bouchées du Bébé
 locale: fr
 cefr: a2
 key: baby-fine-dining
+date: 2023-07-20
 ---
 
 Maman et Papa étaient des critiques gastronomiques, et ils avaient un problème. Leur petite fille ne mangeait aucun des aliments qu'ils lui donnaient.

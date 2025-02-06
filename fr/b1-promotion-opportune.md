@@ -3,6 +3,7 @@ title: Une Promotion Opportune
 locale: fr
 cefr: b1
 key: timely-promotion
+date: 2023-06-03
 ---
 
 Le premier travail de Jeanne était dans un bureau animé. C'était un travail ennuyeux. Puis, un jour, elle a eu un étrange accident avec la machine à café qui a changé sa vie.

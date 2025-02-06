@@ -3,6 +3,7 @@ title: À la Poursuite des Symboles
 locale: fr
 cefr: c2
 key: chasing-symbols
+date: 2024-09-08
 ---
 
 De la poussière rouge et sèche. Quand la plupart des gens pensent à Mars, c'est tout ce qu'ils imaginent. Mais pour Philippine, c'était l'endroit le plus fascinant de l'univers.

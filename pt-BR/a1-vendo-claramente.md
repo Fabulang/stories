@@ -3,6 +3,7 @@ title: Vendo Claramente
 locale: pt-BR
 cefr: a1
 key: seeing-clearly
+date: 2024-07-05
 reviewers:
  - joas-martins
 ---

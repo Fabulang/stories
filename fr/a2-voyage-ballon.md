@@ -3,6 +3,7 @@ title: Le Voyage du Ballon
 locale: fr
 cefr: a2
 key: balloons-journey
+date: 2023-06-24
 ---
 
 Un jour ensoleillé, un ballon rouge était dans le parc avec une jeune fille. Tout à coup, le ballon est parti de sa main et il est monté dans le ciel.

@@ -3,6 +3,7 @@ title: Le Piège du Renard
 locale: fr
 cefr: a2
 key: foxs-trap
+date: 2024-09-08
 ---
 
 Mlle Souris était dans sa chambre, dans sa maison dans la forêt. Sa maison était à l'intérieur d'une petite bûche au sol. Elle avait quatre fenêtres, une porte d'entrée, une porte arrière, et une petite cheminée.

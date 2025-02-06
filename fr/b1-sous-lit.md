@@ -1,8 +1,9 @@
 ---
-title: Sous le Lit  
-locale: fr  
-cefr: b1  
-key: under-bed  
+title: Sous le Lit
+locale: fr
+cefr: b1
+key: under-bed
+date: 2024-09-08
 ---
 
 "Fais de beaux rêves, chérie," a dit la maman de Dorothée. Elle a éteint la lumière et a fermé la porte.

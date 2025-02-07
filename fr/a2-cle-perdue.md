@@ -28,7 +28,7 @@ Puis la femme a sorti une vieille boîte en bois de son sac. Elle semblait lourd
 
 Nicolas s'est levé rapidement. Il était très excité alors qu'il lui donnait la clé. Elle a mis la clé dans la serrure et l'a tournée. Puis elle a ouvert la boîte.
 
-Nicolas a cherché pour les pièces d'or. Mais il n'y avait rien à l'intérieur, sauf une vieille lettre. Il s'est rassis, déçu.
+Nicolas a cherché des pièces d'or. Mais il n'y avait rien à l'intérieur, sauf une vieille lettre. Il s'est rassis, déçu.
 
 "Quelle perte de temps," a-t-il dit.
 

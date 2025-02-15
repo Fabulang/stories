@@ -4,6 +4,7 @@ locale: fr
 cefr: b1
 key: living-harmony
 date: 2023-07-20
+reviews: 1
 ---
 
 "Salut, j'emménage aujourd'hui," a dit Jérémy, souriant.
@@ -20,7 +21,7 @@ Ils ont vérifié leurs contrats de nouveau. C'était très clair. Ils ne l'avai
 
 Ils ne se sont pas du tout bien entendus. Victoire était une entrepreneure et avait besoin de calme pour planifier sa stratégie d'entreprise. Jérémy, aspirant musicien, jouait de sa guitare jour et nuit. Jérémy aimait maintenir la maison propre pour avoir l'esprit clair. Victoire, trop occupée, laissait ses vêtements et assiettes partout.
 
-"J'en ai assez!" a crié Victoire. "Arrête de jouer cette horrible guitare ! Tu ne réussiras jamais. Ta musique ressemble à celle d'un âne tombé sur les cordes!"
+"J'en ai assez!" a crié Victoire. "Arrête de jouer de cette horrible guitare ! Tu ne réussiras jamais. Ta musique ressemble à celle d'un âne tombé sur les cordes!"
 
 "Cette maison est un tel désordre, je ne peux pas être créatif!" a rétorqué Jérémy. "Tu es tellement désorganisée, ton entreprise n'aura jamais de clients. Même si quelqu'un te donnait de l'argent, tu le perdrais sous tous ces vêtements!"
 
@@ -44,4 +45,4 @@ Jérémy est entré dans sa chambre. Il a entendu la porte claquer. Il a soupir�
 
 "Elle est entrée dans ma vie / Maintenant, elle s'en va," a-t-il chanté doucement. "Quand elle réalisera son rêve / Je ne serai pas là... pour voir son sourire."
 
-"J'ai dit des choses horribles / Je ne les pensais pas du tout," a chanté Victoire, fausse. Elle était entrée silencieusement dans la pièce. "Je pensais que je voulais le silence / Mais je continue à chanter ses chansons."
+"J'ai dit des choses horribles / Je ne les pensais pas du tout," a fredonné Victoire, en chantant faux. Elle était entrée silencieusement dans la pièce. "Je pensais que je voulais le silence / Mais je continue à chanter ses chansons."

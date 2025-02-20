@@ -12,7 +12,7 @@ Il était si doué pour copier leur voix, leurs gestes, et même leurs expressio
 
 Depuis ses jeunes années, François faisait des imitations. C'était parce qu'il croyait qu'il était une personne ennuyeuse. Mais s'il jouait le rôle de quelqu'un d'autre, les gens le trouvaient divertissant.
 
-Maintenant, il était un comédien professionnel, mais il faisait toujours la même chose. François souhaitait pouvoir exprimer sa propre voix unique.
+Maintenant, il est un comédien professionnel, mais il faisait toujours la même chose. François souhaitait pouvoir exprimer sa propre voix unique.
 
 Pendant une performance une nuit, il a dû s'arrêter un moment quand les lumières intenses de la scène ont brillé dans ses yeux. Quand il s'est remis, François a décidé qu'il en avait assez. Il a arrêté d'imiter un chanteur célèbre et a commencé à improviser.
 

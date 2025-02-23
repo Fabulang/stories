@@ -14,7 +14,7 @@ date: 2025-01-26
 
 "Ma... non c'è bisogno di duplicare tutto. Potrebbe semplicemente stampare il documento due volte, signore."
 
-"Non ti paghiamo per avere idee furbi, Nicoletta. Ti paghiamo per seguire le istruzioni."
+"Non ti paghiamo per avere idee ingegnose, Nicoletta. Ti paghiamo per seguire le istruzioni."
 
 "Mi dispiace, signore," ha mormorato.
 

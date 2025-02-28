@@ -42,6 +42,6 @@ Angélique a souri. "Mais il devra te croire maintenant!"
 
 Jacqueline a mis le feu au parchemin ancien. Angélique ne l'a pas arrêtée, parce qu'elle savait qu'elle avait raison.
 
-Alors que les flammes dansaient, Jacqueline savait qu'elle ne pourrait jamais prouver sa théorie, ni au monde ni à son frère. Mais une fois le parchemin détruit, elle a senti un poids énorme se lever de ses épaules.
+Alors que les flammes dansaient, Jacqueline savait qu'elle ne pourrait jamais prouver sa théorie, ni au monde ni à son frère. Mais une fois le parchemin détruit, elle a senti un poids énorme s'envoler de ses épaules.
 
 "Il est temps de rentrer à la maison," a-t-elle dit avec un grand soupir. "Je vais appeler ton père."

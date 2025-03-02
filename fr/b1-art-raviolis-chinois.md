@@ -6,6 +6,7 @@ key: art-chinese-dumplings
 date: 2023-07-08
 reviewers:
 - ashlyn-cleys
+reviews: 1
 ---
 
 Le blog culinaire de Roxanne était l'un des sites de cuisine les plus populaires sur Internet. Les gens adoraient son blog car il ne contenait que les meilleures recettes qu'elle avait découvertes lors de ses voyages à travers le monde.
@@ -40,6 +41,6 @@ Chaque semaine, elle revenait à la maison de M. Chen et tondait sa pelouse. M. 
 
 Roxanne était agacée, amusée et reconnaissante à la fois.
 
-"Vous vouliez aussi que quelqu'un tond votre pelouse gratuitement," a-t-elle dit en riant.
+"Vous vouliez aussi que quelqu'un tonde votre pelouse gratuitement," a-t-elle dit en riant.
 
 M. Chen a proposé une assiette. "Un ravioli ?"

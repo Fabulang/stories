@@ -34,7 +34,7 @@ L'avvocata ha girato il foglio e ha letto ad alta voce: "La mia casa e tutti i m
 
 "Qualsiasi cosa," ha detto il fratello maggiore. "Decidi tu."
 
-L'avvocato ha tossito. "C'è un'altra cosa," ha detto. Ha continuato a leggere: "Prima dell'asta, ogni figlio può scegliere un oggetto da tenere per ragioni sentimentali."
+L'avvocata ha tossito. "C'è un'altra cosa," ha detto. Ha continuato a leggere: "Prima dell'asta, ogni figlio può scegliere un oggetto da tenere per ragioni sentimentali."
 
 "Prendo la TV," ha detto immediatamente il fratello minore.
 

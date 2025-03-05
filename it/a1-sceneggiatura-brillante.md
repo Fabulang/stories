@@ -16,7 +16,7 @@ Boom! Domenico salta. Il caffè si rovescia sul portatile. Il portatile smette d
 
 Ci sono luci verdi e gialle fuori dalla finestra. Le persone stanno applaudendo. La vicina di Domenico sta facendo una festa. È una famosa regista. Boom! Un altro fuoco d'artificio esplode nel giardino della regista.
 
-Nel cestino, accanto alla scrivania di Domenico, c'è una lettera. Dice: "Per favore, vieni alla mia festa. Stiamo celebrando il mio nuovo film, 'Mi Scusi, Signor Spia'. Anche la tua sceneggiatura parla di una spia, vero? Ti prego, raccontami tutto!"
+Nel cestino, accanto alla scrivania di Domenico, c'è una lettera. Dice: "Per favore, vieni alla mia festa. Stiamo celebrando il mio nuovo film, 'Mi Scusi, Signor Spia'. Anche la tua sceneggiatura parla di una spia, vero? Ti prego, raccontamelo!"
 
 Domenico chiude le tende. Pulisce il portatile. Lo spegne e poi lo riaccende. Ora funziona bene.
 

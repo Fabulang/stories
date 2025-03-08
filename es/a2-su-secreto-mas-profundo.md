@@ -54,7 +54,7 @@ Después de que Luis y su madre se marcharan, un hombre preguntó: "¿Pero cuál
 
 "¿Son... juguetes infantiles?"
 
-"¡Sí! ¿Pero por qué los pintó el artista? Nos está diciendo que la mujer tenía un hijo — su hijo. Su amor era un secreto, pero él quería que lo supiéramos. Ahora, por favor, síganme..."
+"¡Sí! ¿Pero por qué los pintó el artista? Nos está diciendo que la mujer tenía un hijo -- su hijo. Su amor era un secreto, pero él quería que lo supiéramos. Ahora, por favor, síganme..."
 
 "¡Debes aprender a estar callado!" le dijo la madre a Luis mientras salían del museo.
 
@@ -64,4 +64,4 @@ Era de noche y la ciudad estaba llena de gente, ruido y luces brillantes.
 
 "Me alegro de que no lo hicieran. Después de que tu padre muriera, quise quemar el cuadro. Pero me alegro de haberlo vendido, así todavía puedo verlo de vez en cuando."
 
-"¡Pero papá odiaba vivir en secreto! ¡Quería que la gente te entendiera! Por eso te pintó de forma realista — ¡sin reflejo en el espejo!"
+"¡Pero papá odiaba vivir en secreto! ¡Quería que la gente te entendiera! Por eso te pintó de forma realista -- ¡sin reflejo en el espejo!"

@@ -26,7 +26,7 @@ date: 2025-03-08
 
 "Sí, señor."
 
-Nicol volvió a su escritorio – bajando seis tramos de escaleras, atravesando cinco pasillos y entrando en una gran sala iluminada por luces fluorescentes. Había ventanas, pero eran muy pequeñas y estaban situadas en lo alto, por lo que no podía ver el exterior.
+Nicol volvió a su escritorio -- bajando seis tramos de escaleras, atravesando cinco pasillos y entrando en una gran sala iluminada por luces fluorescentes. Había ventanas, pero eran muy pequeñas y estaban situadas en lo alto, por lo que no podía ver el exterior.
 
 Se tomó un trago de café. Estaba tan agotada que parecía no hacer efecto alguno. Durante los últimos meses, su jefe le había asignado cada vez más trabajo. Había preparado tantos informes que, a veces, se olvidaba de qué trataban a mitad de camino.
 

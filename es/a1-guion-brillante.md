@@ -42,4 +42,4 @@ Domingo corre hacia su portátil. Su guion todavía está allí. El portátil es
 
 "Pero yo ---"
 
-"¡Qué idea tan brillante, Domingo, hacer la película aquí, en mi jardín! Todos están listos — empezamos hoy. Lo sé, trabajamos demasiado — ¡pero también hacemos muchas fiestas! ¿Domingo? ¿Estás bien?"
+"¡Qué idea tan brillante, Domingo, hacer la película aquí, en mi jardín! Todos están listos -- empezamos hoy. Lo sé, trabajamos demasiado -- ¡pero también hacemos muchas fiestas! ¿Domingo? ¿Estás bien?"

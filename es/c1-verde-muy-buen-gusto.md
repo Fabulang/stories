@@ -1,5 +1,5 @@
 ---
-title: Un Verde de Muy Buen Gusto
+title: Un verde de muy buen gusto
 cefr: c1
 locale: es
 key: very-tasteful-green

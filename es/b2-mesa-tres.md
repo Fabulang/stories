@@ -1,5 +1,5 @@
 ---
-title: Una Mesa para Tres
+title: Una mesa para tres
 cefr: b2
 locale: es
 key: table-three

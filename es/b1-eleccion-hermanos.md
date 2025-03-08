@@ -1,5 +1,5 @@
 ---
-title: La Elección de los Hermanos
+title: La elección de los hermanos
 cefr: b1
 locale: es
 key: brothers-choice

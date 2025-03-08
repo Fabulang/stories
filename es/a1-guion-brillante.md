@@ -1,5 +1,5 @@
 ---
-title: Un Guion Brillante
+title: Un guion brillante
 cefr: a1
 locale: es
 key: brilliant-script

@@ -6,9 +6,9 @@ key: brothers-choice
 date: 2025-03-15
 ---
 
-„Das ist eine sehr elegante Uhr“, sagte Lawrences Freund, als er im Korridor stehen blieb.
+„Das ist eine sehr elegante Uhr“, sagte Lorenz' Freund, als er im Korridor stehen blieb.
 
-„Natürlich, du bist ein Sammler“, antwortete Lawrence. Er gab seinem Freund das Getränk.
+„Natürlich, du bist ein Sammler“, antwortete Lorenz. Er gab seinem Freund das Getränk.
 
 „Wo hast du sie gekauft?“
 
@@ -20,17 +20,17 @@ date: 2025-03-15
 
 Dreißig Jahre zuvor setzten sich die drei Brüder in dem Büro der Anwältin nieder.
 
-„Sagen Sie uns einfach, was er uns gibt“, sagte Lawrences älterer Bruder.
+„Sagen Sie uns einfach, was er uns gibt“, sagte Lorenz' älterer Bruder.
 
 Die Anwältin drehte das Blatt um und las laut vor: „Mein Haus und all meine Besitztümer sollen auktioniert werden. Das Geld soll meinen Söhnen gegeben werden...“
 
-„Hurra!“, sagte Lawrences jüngerer Bruder.
+„Hurra!“, sagte Lorenz' jüngerer Bruder.
 
 „...die entscheiden müssen, an welche Stiftung sie es spenden.“
 
 „Stiftung?“
 
-„Ich schlage vor, wir spenden es an medizinische Forschung“, sagte Lawrence. „Vaters Krankheit war -“
+„Ich schlage vor, wir spenden es an medizinische Forschung“, sagte Lorenz. „Vaters Krankheit war -“
 
 „Wie auch immer“, sagte der ältere Bruder. „Ihr entscheidet.“
 
@@ -40,11 +40,11 @@ Die Anwältin hüstelte. „Da ist noch etwas“, sagte sie. Sie las weiter: „
 
 „Ich bin nun tot“, fuhr die Anwältin fort, „aber ich habe einen letzten Rat für meine Söhne. Es gibt -“
 
-Lawrences Brüder rannten aus dem Raum. Einige Sekunden später hörte er ihre Autos wegfahren.
+Lorenz' Brüder rannten aus dem Raum. Einige Sekunden später hörte er ihre Autos wegfahren.
 
 „Es gibt nichts Wertvolleres als gute Erinnerungen“, schloss die Anwältin und hob die Augenbraue.
 
-„Was haben deine Brüder genommen?“, fragte Lawrences Freund dreißig Jahre später. „Hat sich dein jüngerer Bruder wirklich den Fernseher ausgesucht?“
+„Was haben deine Brüder genommen?“, fragte Lorenz' Freund dreißig Jahre später. „Hat sich dein jüngerer Bruder wirklich den Fernseher ausgesucht?“
 
 „Es war ein sehr toller Fernseher. Er war gigantisch und hatte hochqualitative Lautsprecher. Vielleicht war er sentimental für ihn. Vater liebte Science-Fiction Filme. Obwohl... hat mein Bruder jemals welche mit ihm gesehen? Ich erinnere mich jetzt nicht.“
 
@@ -56,6 +56,6 @@ Lawrences Brüder rannten aus dem Raum. Einige Sekunden später hörte er ihre A
 
 „Mein Vater baute Uhren auseinander, reparierte jedes Teil und baute sie wieder zusammen. Ich half, indem ich unterschiedliches Werkzeug brachte und er brachte mir bei, wie alles funktionierte. Wir arbeiteten wochenlang an dieser Uhr, als ich vierzehn war. Das sind gute Erinnerungen.“
 
-„Aber Lawrence, merkst du, wie gut deine Wahl war? Das ist eine Ludovic Évrard Horstenbach Uhr! Es muss in der Welt die einzige sein, die in vollständig funktionierendem Zustand ist. Lawrence, du könntest sie für Millionen verkaufen!“
+„Aber Lorenz, merkst du, wie gut deine Wahl war? Das ist eine Ludovic Évrard Horstenbach Uhr! Es muss in der Welt die einzige sein, die in vollständig funktionierendem Zustand ist. Lorenz, du könntest sie für Millionen verkaufen!“
 
 „Ich weiß. Jemand anderes hat mir das auch gesagt. Vor etwa sechsundzwanzig Jahren.“

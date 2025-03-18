@@ -4,6 +4,8 @@ cefr: c1
 locale: es
 key: very-tasteful-green
 date: 2025-03-08
+reviewers:
+- silvia-pastor
 ---
 
 La nueva casa de Andrés estaba situada en una calle tranquila en una zona cara del país. Había ahorrado durante años para poder mudarse allí. La casa no era grande y necesitaba una redecoración, pero estaba encantado de dejar atrás su antiguo barrio.

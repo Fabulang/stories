@@ -4,6 +4,8 @@ cefr: b2
 locale: es
 key: table-three
 date: 2025-03-08
+reviewers:
+- silvia-pastor
 ---
 
 El chef colocó los platos sobre la encimera. El filete estaba perfecto. Las verduras estaban frescas y tiernas. El aroma de la salsa era apetitoso. Enrique recogió los platos y los llevó con elegancia al comedor.

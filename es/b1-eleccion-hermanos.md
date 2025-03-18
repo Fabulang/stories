@@ -4,6 +4,8 @@ cefr: b1
 locale: es
 key: brothers-choice
 date: 2025-03-08
+reviewers:
+- silvia-pastor
 ---
 
 "Este es un reloj muy bonito", dijo el amigo de Lorenzo, deteniéndose en el pasillo.

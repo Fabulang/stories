@@ -4,6 +4,8 @@ cefr: b1
 locale: de
 key: brothers-choice
 date: 2025-03-15
+reviewers:
+- niklas-krechting
 ---
 
 „Das ist eine sehr elegante Uhr“, sagte Lorenz' Freund, als er im Korridor stehen blieb.

@@ -4,6 +4,8 @@ cefr: b2
 locale: de
 key: table-three
 date: 2025-03-15
+reviewers:
+- niklas-krechting
 ---
 
 Der Koch stellte die Teller auf die Theke. Das Steak war perfekt. Das Gemüse war frisch und zart. Der Geruch der Sauce war köstlich. Heinrich nahm die Teller und trug sie gekonnt in den Speisesaal.

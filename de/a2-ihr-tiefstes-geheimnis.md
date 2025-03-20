@@ -56,7 +56,7 @@ Nachdem Ludwig und seine Mutter gegangen waren, fragte ein Mann: „Aber was war
 
 „Ist das... Kinderspielzeug?“
 
-„Ja! Aber warum hat der Künstler es gemalt? Er sagt uns, dass die Frau ein Kind hatte - ihr Kind. Ihre Liebe war ein Geheimnis, aber er wollte, dass wir es wissen. Nun folgen Sie mir bitte...“
+„Ja! Aber warum hat der Künstler es gemalt? Er sagt uns, dass die Frau ein Kind hatte -- ihr Kind. Ihre Liebe war ein Geheimnis, aber er wollte, dass wir es wissen. Nun folgen Sie mir bitte...“
 
 „Du musst lernen, still zu sein!“ sagte die Mutter zu Ludwig, als sie aus dem Museum gingen.
 
@@ -66,4 +66,4 @@ Es war Abend und die Stadt war belebt, laut und voller heller Lichter.
 
 „Ich bin froh darüber. Nachdem dein Vater gestorben war, wollte ich das Gemälde verbrennen. Aber ich bin froh, dass ich es verkauft habe, sodass ich es immer noch sehen kann, von Zeit zu Zeit.“
 
-„Aber Papa hat es gehasst, im Geheimen zu leben! Er wollte, dass die Leute dich verstehen! Deswegen hat er dich realistisch gemalt - ohne eine Reflexion in dem Spiegel!“
+„Aber Papa hat es gehasst, im Geheimen zu leben! Er wollte, dass die Leute dich verstehen! Deswegen hat er dich realistisch gemalt -- ohne eine Reflexion in dem Spiegel!“

@@ -28,7 +28,7 @@ reviewers:
 
 „Ja.“
 
-Nicola lief zurück zu ihrem Schreibtisch - sechs Treppen runter, fünf Korridore entlang und in einen großen, von fluoreszierenden Röhrenlichtern beleuchteten Raum. Es gab Fenster, aber sie waren sehr klein und hochgelegen, sodass sie nicht heraussehen konnte.
+Nicola lief zurück zu ihrem Schreibtisch -- sechs Treppen runter, fünf Korridore entlang und in einen großen, von fluoreszierenden Röhrenlichtern beleuchteten Raum. Es gab Fenster, aber sie waren sehr klein und hochgelegen, sodass sie nicht heraussehen konnte.
 
 Sie schluckte etwas Kaffee hinunter. Sie war so ermüdet, dass er keinen Effekt zu haben schien. Über die letzten Monate hatte ihr Vorgesetzter ihr mehr und mehr Arbeit gegeben. Sie hatte so viele Berichte vorbereitet, dass sie manchmal nach der Hälfte vergaß, worüber sie handelten.
 

@@ -44,4 +44,4 @@ Dominik rennt zu seinem Laptop. Sein Skript ist noch da. Der Laptop verschickt g
 
 „Aber ich ---“
 
-„Was für eine brillante Idee, Dominik, den Film hier zu drehen, in meinem Garten! Alle sind bereit - wir fangen heute an. Ich weiß, wir arbeiten zu hart, aber wir feiern auch viele Partys! Dominik? Geht es dir gut?“
+„Was für eine brillante Idee, Dominik, den Film hier zu drehen, in meinem Garten! Alle sind bereit -- wir fangen heute an. Ich weiß, wir arbeiten zu hart, aber wir feiern auch viele Partys! Dominik? Geht es dir gut?“

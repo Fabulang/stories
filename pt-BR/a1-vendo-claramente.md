@@ -5,7 +5,7 @@ cefr: a1
 key: seeing-clearly
 date: 2024-07-05
 reviewers:
- - joas-martins
+- joas-martins
 ---
 
 "Você está pronta?" grita o marido de Elisa.

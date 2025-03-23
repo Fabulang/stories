@@ -5,7 +5,7 @@ locale: pt-BR
 key: dont-go-holiday
 date: 2024-07-06
 reviewers:
- - joas-martins
+- joas-martins
 ---
 
 "Não saia de férias."

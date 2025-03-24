@@ -32,7 +32,7 @@ Die Anwältin drehte das Blatt um und las laut vor: „Mein Haus und all meine B
 
 „Stiftung?“
 
-„Ich schlage vor, wir spenden es an medizinische Forschung“, sagte Lorenz. „Vaters Krankheit war -“
+„Ich schlage vor, wir spenden es an medizinische Forschung“, sagte Lorenz. „Vaters Krankheit war ---“
 
 „Wie auch immer“, sagte der ältere Bruder. „Ihr entscheidet.“
 
@@ -40,7 +40,7 @@ Die Anwältin hüstelte. „Da ist noch etwas“, sagte sie. Sie las weiter: „
 
 „Ich nehme den Fernseher“, sagte der jüngere Bruder sofort.
 
-„Ich bin nun tot“, fuhr die Anwältin fort, „aber ich habe einen letzten Rat für meine Söhne. Es gibt -“
+„Ich bin nun tot“, fuhr die Anwältin fort, „aber ich habe einen letzten Rat für meine Söhne. Es gibt ---“
 
 Lorenz' Brüder rannten aus dem Raum. Einige Sekunden später hörte er ihre Autos wegfahren.
 

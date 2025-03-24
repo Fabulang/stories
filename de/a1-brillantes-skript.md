@@ -12,7 +12,7 @@ Dominik schaltet die Lampe an und setzt sich hin. Er trinkt seinen Kaffee. Schli
 
 Er fängt an auf seinem Laptop zu schreiben. Er schreibt an einem Skript für einen Film.
 
-„Alles ist still“, schreibt er. „Der Wachmann schläft. Die geheimen Briefe liegen auf dem Schreibtisch. Die Spionin nähert sich. Leise -“
+„Alles ist still“, schreibt er. „Der Wachmann schläft. Die geheimen Briefe liegen auf dem Schreibtisch. Die Spionin nähert sich. Leise ---“
 
 Bumm! Dominik springt auf. Der Kaffee läuft über den Laptop. Der Laptop geht aus. Auf dem Bildschirm steht: „Fehler!“
 

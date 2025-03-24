@@ -46,7 +46,7 @@ Die anderen Touristen nickten und schauten begeistert. Die Mutter schaute nicht.
 
 „Warum denkst du, dass sie gerne reiste?“, fragte der Touristenführer Ludwig.
 
-„Der Stil des Raums ist europäisch. Aber schauen Sie sich um. Der Teppich ist indisch. Dieser Schmuck ist aus Peru, denke ich. Und der Spiegel sieht aus -“
+„Der Stil des Raums ist europäisch. Aber schauen Sie sich um. Der Teppich ist indisch. Dieser Schmuck ist aus Peru, denke ich. Und der Spiegel sieht aus ---“
 
 „Tu, was dir gesagt wird!“, sagte die Mutter, die Handtasche schließend. „Wir gehen.“
 

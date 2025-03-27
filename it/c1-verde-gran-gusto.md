@@ -4,6 +4,8 @@ cefr: c1
 locale: it
 key: very-tasteful-green
 date: 2025-01-26
+reviewers:
+- micaela-poggi
 ---
 
 La nuova casa di Andrea era situata in una strada tranquilla di una zona costosa del paese. Ha risparmiato per anni per potersi trasferire lì. La casa non era grande e aveva bisogno di essere rimessa a nuovo, ma Andrea era felice di lasciarsi alle spalle il suo vecchio quartiere.
@@ -16,7 +18,7 @@ Così ha bussato alla porta del vicino.
 
 "Benvenuto nel quartiere!" ha detto l'uomo. "Io sono Roberto. Entra!"
 
-Roberto sembrava avere circa sessant'anni. Aveva un volto gentile e saggio, e una voce calma. Ad Andrea lo trovò subito simpatico. Roberto ha portato ad Andrea una tazza di tè e qualche biscotto, e si sono seduti nel salotto di Roberto.
+Roberto sembrava avere circa sessant'anni. Aveva un volto gentile e saggio, e una voce calma. Andrea lo trovò subito simpatico. Roberto ha portato ad Andrea una tazza di tè e qualche biscotto, e si sono seduti nel salotto di Roberto.
 
 "È molto gentile da parte tua," ha detto Andrea. "Il mio precedente vicino non mi ha nemmeno mai salutato!"
 
@@ -34,7 +36,7 @@ Tutto in casa sembrava molto di tendenza e nuovo. Le pareti erano lisce e perfet
 
 "Sei sicuro?"
 
-"Assolutamente." Roberto ha riflettuto un attimo. "Che ne dici di questo? Vengo io a ridipingere casa tua! Non intendo farlo gratis. Ti chiederò una piccola somma --- avrei bisogno di qualche soldo in più. Ma sai già che aspetto avrà! E a me piace il lavoro."
+"Assolutamente." Roberto ha riflettuto un attimo. "Che ne dici di una proposta? Vengo io a ridipingere casa tua! Non intendo farlo gratis. Ti chiederò una piccola somma --- avrei bisogno di qualche soldo in più. Ma sai già che aspetto avrà! E a me piace il lavoro."
 
 Andrea è stato entusiasta: la gente era davvero molto più gentile qui. Ha accettato subito la proposta di Roberto.
 

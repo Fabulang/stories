@@ -12,7 +12,7 @@ Tout le monde au Commissariat a applaudi et a acclamé lorsque le Détective Cor
 
 Corbeau a souri et a simplement répondu, "Juste du bon vieux travail de détective, Chef."
 
-Plus tard dans la nuit, Corbeau est descendu dans son sous-sol. Elle était remplie de dossiers, pleins de détails sur des affaires de meurtre non résolues. Sur le bureau, il y avait un dossier ouvert marqué 'Blanche'. Jeanne Blanche avait été trouvée dans la rue, sans rien pour indiquer qui l'avait tuée.
+Plus tard dans la nuit, Corbeau est descendu dans son sous-sol. Il était remplie de dossiers, pleins de détails sur des affaires de meurtre non résolues. Sur le bureau, il y avait un dossier ouvert marqué 'Blanche'. Jeanne Blanche avait été trouvée dans la rue, sans rien pour indiquer qui l'avait tuée.
 
 "Très bien Jeanne," Corbeau a chuchoté. "Ce soir, c'est votre tour."
 

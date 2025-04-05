@@ -34,7 +34,7 @@ Odiava quel lavoro, ma lo stipendio era buono e non sapeva cos'altro avrebbe pot
 
 Il suo telefono ha vibrato. Era arrivato un messaggio.
 
-"NON IGNORARE. Non mi conosci, ma io conosco te. Ti hanno fatto il lavaggio del cervello, Nicoletta. Non vuoi davvero lavorare per loro. Non mi credi? Guarda nella cartella denominata 'Progetto: Controllo'. La password è 'Obbedienza'."
+"NON IGNORARMI. Non mi conosci, ma io conosco te. Ti hanno fatto il lavaggio del cervello, Nicoletta. Non vuoi davvero lavorare per loro. Non mi credi? Guarda nella cartella denominata 'Progetto: Controllo'. La password è 'Obbedienza'."
 
 All'inizio, Nicoletta non sapeva cosa fare. Ma ha cercato la cartella nella rete aziendale e l'ha trovata. Ha inserito la password e, con sua sorpresa, la cartella si è aperta.
 

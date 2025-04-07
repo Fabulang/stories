@@ -4,6 +4,8 @@ cefr: c2
 locale: it
 key: project-control
 date: 2025-01-26
+reviewers:
+- micaela-poggi
 ---
 
 "Questo rapporto trimestrale è... insoddisfacente," ha detto monotonamente il responsabile di Nicoletta. "Non ci sono abbastanza dettagli. E ci sono troppi numeri nel grafico. La dimensione del carattere dovrebbe essere più grande. Le tabelle dovrebbero usare i colori del nostro marchio. E dovresti duplicare tutto alla fine."

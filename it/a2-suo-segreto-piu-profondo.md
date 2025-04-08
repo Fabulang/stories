@@ -4,15 +4,17 @@ cefr: a2
 locale: it
 key: her-deepest-secret
 date: 2025-01-26
+reviewers:
+- alessandro-bucalo
 ---
 
-"C'è qualcosa di strano in questo dipinto," ha detto la guida turistica. "Riuscite a vedere di cosa si tratta?"
+"C'è qualcosa di strano in questo dipinto", ha detto la guida turistica. "Riuscite a vedere di cosa si tratta?"
 
 I turisti hanno osservato attentamente. Dietro di loro, altri turisti giravano per il museo affollato.
 
-"È la vernice. È spessa," ha detto una donna ad alta voce. Indossava occhiali da sole e un grande cappello.
+"È la vernice. È spessa", ha detto una donna ad alta voce. Indossava occhiali da sole e un grande cappello.
 
-"È un dipinto a olio," ha detto la guida turistica. "È normale."
+"È un dipinto a olio", ha detto la guida turistica. "È normale."
 
 "Non è realistico. I colori sono spenti."
 
@@ -22,9 +24,9 @@ I turisti hanno osservato attentamente. Dietro di loro, altri turisti giravano p
 
 "La donna nel dipinto... nessuno sa chi sia. Ma possiamo scoprire molto su di lei osservando con attenzione. In effetti, possiamo scoprire il suo segreto più profondo."
 
-"Era molto intelligente," ha detto il figlio della donna rumorosa. Il ragazzo ha lasciato la mano della madre ed è andato avanti.
+"Era molto intelligente", ha detto il figlio della donna rumorosa. Il ragazzo ha lasciato la mano della madre ed è andato avanti.
 
-"Stai zitto, Luigi," ha detto la madre. "Mi stai mettendo in imbarazzo."
+"Stai zitto, Luigi", ha detto la madre. "Mi stai mettendo in imbarazzo."
 
 "Come fai a saperlo?" ha chiesto la guida turistica.
 
@@ -34,11 +36,11 @@ I turisti hanno osservato attentamente. Dietro di loro, altri turisti giravano p
 
 Gli altri turisti hanno annuito, sembrando impressionati. La madre non stava guardando.
 
-"Le piace viaggiare," ha continuato Luigi.
+"Le piace viaggiare", ha continuato Luigi.
 
 "Luigi!" ha detto la madre. Si è girata verso la guida turistica. "Mi scusi per mio figlio. Non riesco a insegnargli a stare zitto."
 
-"Capisco perché sia difficile per lei," ha detto qualcuno.
+"Capisco perché sia difficile per lei", ha detto qualcuno.
 
 "Sì, è un figlio davvero difficile."
 

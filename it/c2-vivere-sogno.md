@@ -40,6 +40,6 @@ Nei giorni seguenti, un umore strano è calato su di loro. Il loro lavoro non er
 
 Seduti agli estremi opposti del loro divano, scorrevano freneticamente i social media. La loro grande coperta giaceva in un mucchio sul pavimento.
 
-"Non dovremmo seguire solo Raichand", ha detto Tommaso, senza guardare su. "Anche gli altri influencers potrebbero organizzare concorsi. È inevitabile, dato che lui l'ha fatto."
+"Non dovremmo seguire solo Raichand", ha detto Tommaso, senza guardare su. "Anche gli altri influencers potrebbero dare premi. È inevitabile, dato che lui l'ha fatto."
 
 "Buona idea", ha detto Grazia. "Assicurati di fare clic per ricevere le notifiche. Dobbiamo essere i primi a commentare ogni post."

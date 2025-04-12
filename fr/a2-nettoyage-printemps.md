@@ -22,7 +22,7 @@ Sa petite amie voulait reprendre ses lettres, mais Gérard les a déplacées. Il
 
 "C'est le premier jour du mois," a expliqué Gérard.
 
-"Bien sûr," elle a répondu. "Chaque mois, tu nettoies toute la maison. D'accord, comment est-ce que je peux aider ?"
+"Bien sûr," a-t-elle répondu. "Chaque mois, tu nettoies toute la maison. D'accord, comment est-ce que je peux aider ?"
 
 Gérard lui a dit d'essuyer son bureau. Quand elle a fini, il lui a dit d'essuyer tous les robinets. Puis, il lui a dit de laver tous les rideaux.
 

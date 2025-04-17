@@ -12,7 +12,7 @@ Il a allumé la radio, mais il n'y avait pas de signal. Alors il a commencé à 
 
 Quand il a fini, le silence lui a semblé être le son le plus fort de tous.
 
-Adrien a arrêté la voiture brusquement. Une voiture avait percuté un arbre sur le côté de la route. Adrien est sorti.
+Adrien a arrêté brusquement la voiture. Une voiture avait percuté un arbre sur le côté de la route. Adrien est sorti.
 
 "Ça va ?" a-t-il crié.
 

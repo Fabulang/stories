@@ -10,7 +10,7 @@ Roberto vive da solo. Gli piace che la sua vita sia pacifica e silenziosa. Ha un
 
 Un giorno, Roberto cucina una bistecca di tonno. Presto, è pronta da mangiare. Si siede, e prende il coltello e la forchetta. Poi sente un rumore: un tocco leggero. Qualcuno è alla sua porta. È molto insolito. Tutti i suoi vicini sanno che a Roberto piace stare da solo.
 
-Roberto si alza e apre la porta. Non appena la porta si apre, qualcosa picola corre dentro. Roberto vede che è un gattino. Il gattino si posa sulla sedia di Roberto.
+Roberto si alza e apre la porta. Non appena la porta si apre, qualcosa piccolo corre dentro. Roberto vede che è un gattino. Il gattino si posa sulla sedia di Roberto.
 
 "Vattene!" dice Roberto.
 

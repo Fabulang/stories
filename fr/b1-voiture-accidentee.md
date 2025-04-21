@@ -44,7 +44,7 @@ Après qu'Adrien a donné son adresse, il y a eu un long silence.
 
 "Que voulez-vous dire ?"
 
-"Vous alliez à l'endroit où vous *vivez*, en métropole. Mais la métropole n'est pas vraiment *chez vous*, n'est-ce pas ? Vous n'y avez pas grandi. Vous n'y avez pas appris à faire du vélo, ni joué dans les champs avec vos parents, ni chanté avec vos amis. En réalité, vous vous *éloigniez de* chez vous."
+"Vous alliez vers l'endroit où vous *vivez*, en métropole. Mais la métropole n'est pas vraiment *chez vous*, n'est-ce pas ? Vous n'y avez pas grandi. Vous n'y avez pas appris à faire du vélo, ni joué dans les champs avec vos parents, ni chanté avec vos amis. La vérité, c'est que vous étiez en train de vous *éloigner de* chez vous."
 
 "C'est quoi ça ?" a crié Adrien, ressentant de la peur. "Qui êtes-vous ? Est-ce les secours ?"
 

@@ -22,7 +22,7 @@ Quelques semaines plus tard, Amélie regardait dans le miroir pendant qu'elle se
 
 "Reviens !" a exclamé Amélie, sous le choc.
 
-Son reflet a sursauté de peur et s'est retourné. Il la regardait, tout aussi surpris. Pendant un moment, ils se sont juste tenus immobiles et se sont regardées.
+Son reflet a sursauté de peur et s'est retourné. Il la regardait, tout aussi surpris. Pendant un moment, ils se sont juste tenus immobiles et se sont regardés.
 
 "Qui es-tu ?" a demandé Amélie.
 

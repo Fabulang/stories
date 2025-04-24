@@ -12,7 +12,7 @@ La nuova casa di Andrea era situata in una strada tranquilla di una zona costosa
 
 Nella prima settimana, Andrea ha chiesto a diversi decoratori di fare un preventivo, ma i loro prezzi erano troppo alti. Non era sicuro su cosa fare dopo.
 
-'Andrea, questa non è più la tua vecchia città!' ha pensato. 'La gente qui è gentile. Puoi chiedere consiglio al tuo vicino!'
+'Andrea, questo non è più il tuo vecchio paese!' ha pensato. 'La gente qui è gentile. Puoi chiedere consiglio al tuo vicino!'
 
 Così ha bussato alla porta del vicino.
 

@@ -14,7 +14,7 @@ Papa a pressé une boulette de purée pour bébé (appelée *'Délice de Bébé'
 
 Le bébé a tourné la tête.
 
-"Mon chéri," a-t-il dit, "Maman et Papa savent ce qui est le mieux. Nous sommes des critiques gastronomiques. C'est la meilleure marque disponible."
+"Ma chérie," a-t-il dit, "Maman et Papa savent ce qui est le mieux. Nous sommes des critiques gastronomiques. C'est la meilleure marque disponible."
 
 "Peut-être qu'elle préfère des marques plus chères ?" a dit Maman.
 

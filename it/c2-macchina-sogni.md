@@ -6,7 +6,7 @@ key: dream-machine
 date: 2023-07-13
 ---
 
-"Questa sarà una brutta notte," mormorò Viviana guardando la pioggia torrenziale.
+"Questa sarà una brutta notte," ha mormorato Viviana guardando la pioggia torrenziale.
 
 C'è stato un forte bussare alla porta. Viviana ha aperto con forza. Sulla veranda si trovava il Governatore Supremo della città, fiancheggiato da un gruppo di severe guardie del corpo.
 

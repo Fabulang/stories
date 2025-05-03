@@ -4,7 +4,7 @@ cefr: b1
 locale: fr
 key: brothers-choice
 date: 2025-01-26
-reviews: 1
+reviews: 2
 ---
 
 Cette horloge est vraiment magnifique," a dit l'ami de Laurent, s'arrêtant dans le couloir.

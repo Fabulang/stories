@@ -46,6 +46,6 @@ Les applaudissements ont cessé. Les journalistes ont commencé à murmurer.
 
 "Eh bien, qu'est-ce que ça dit?" a dit la Présidente enfin.
 
-Alison a dégluté, et a pris une grande respiration.
+Alison a dégluti, et a pris une grande respiration.
 
 "Les services locaux ne collecteront pas les poubelles qui sont trop pleines."

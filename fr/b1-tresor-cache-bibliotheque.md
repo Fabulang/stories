@@ -24,7 +24,7 @@ Enfin, il a trouvé l'indice final. Il l'a mené à un vieil arbre dans le parc.
 
 Elle disait : "Félicitations ! Vous avez résolu l'énigme de la lecture. Votre prix ? Une vie de connaissance. Continuez à lire !"
 
-Confus et déçu, Édouard est retourné à la bibliothèque. Il a trouvé une femme l'attendant. C'était la professeure Penne, une enseignante de littérature à la retraite connue pour son amour des énigmes.
+Confus et déçu, Édouard est retourné à la bibliothèque. Il a trouvé une femme l'attendant. C'était la professeure Penne, une enseignante de littérature à la retraite, connue pour son amour des énigmes.
 
 "Tu vois, Édouard," a dit la professeure, "le véritable trésor a toujours été entre tes mains -- les livres ! Ils sont remplis d'histoires, de connaissances et de sagesse !"
 

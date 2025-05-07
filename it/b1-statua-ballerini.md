@@ -4,6 +4,7 @@ cefr: b1
 locale: it
 key: dancers-statue
 date: 2023-12-31
+reviews: 1
 ---
 
 Il taxi è arrivato e Ginevra è salita a bordo. Ha aperto il suo libro *Guida Turistica*.
@@ -14,7 +15,7 @@ L'autista del taxi si è girato. Era un giovanotto con occhi brillanti e capelli
 
 Ginevra gli ha mostrato il suo libro.
 
-"Quando è stato pubblicato? Non ha nemmeno le immagini," ha riso. Ha guardato sul retro. "Mille novecento ottantasei!"
+"Quando è stato pubblicato? Non ha nemmeno le immagini," ha riso. Ha guardato il retro del libro. "Mille novecento ottantasei!"
 
 "È una guida classica per i turisti!" ha spiegato Ginevra. "È molto più autentica."
 
@@ -38,29 +39,29 @@ L'autista ci ha pensato su. "Potrebbe essere una di otto statue," ha detto infin
 
 Ginevra sembrava impressionata, ma scettica.
 
-"Non mi fidi ancora? Va bene, ascolta. Ti porterò a ciascuna delle otto statue, una per una. Se non troviamo quella giusta, non pagherai nulla. D'accordo?"
+"Non ti fidi ancora? Va bene, ascolta. Ti porterò da ciascuna delle otto statue, una per una. Se non troviamo quella giusta, non pagherai nulla. D'accordo?"
 
-L'autista ha offerto la mano. Ginevra ha riso e l'ha stretta.
+L'autista ha teso la mano. Ginevra ha riso e l'ha stretta.
 
 "Ugo," ha detto l'autista.
 
 "Ginevra."
 
-Era una bella giornata, e Ginevra ha goduto vedendo la città attraverso il finestrino. Ugo parlava della città mentre guidavano. Grazie a lui, ha notato dettagli incredibili e ha apprezzato la città come un nativo. Presto, Ginevra ha messo via il suo libro.
+Era una bella giornata, e Ginevra si è goduta la città vedendola attraverso il finestrino. Ugo parlava della città mentre guidavano. Grazie a lui, ha notato dettagli incredibili e ha apprezzato la città come una persona nativa. Rapidamente, Ginevra ha messo via il suo libro.
 
-La prima statua non era quella giusta, ma Ugo sorrideva ancora. "Sei fortunata," ha detto. "Ora vedrai il fiume, andando verso la statua numero due."
+La prima statua non era quella giusta, ma Ugo continuava a sorridere. "Sei fortunata," ha detto. "Ora vedrai il fiume, andando verso la statua numero due."
 
 "Neanche questa," ha detto Ginevra quando sono arrivati alla seconda statua, e di nuovo alla terza.
 
 "Anche meglio," ha detto Ugo. "Ora, possiamo prendere una scorciatoia attraverso alcune belle strade, e passeremo dalla vecchia chiesa."
 
-Il tour di Ginevra in città è continuato. Quando sono arrivati alla statua numero otto, era tramonto.
+Il tour di Ginevra in città è proseguito. Quando sono arrivati alla statua numero otto, era già tramonto.
 
 "Neanche questa!" ha detto Ginevra ridendo.
 
 Ugo non ha fatto pagare Ginevra per il viaggio. Si è scusato per non aver trovato la statua.
 
-"Ti prego, non scusarti," ha detto Ginevra. "Ascolta, ti ho fatto guidare in tutta la città, e non ho nemmeno pagato. Posso offrirti cena?"
+"Ti prego, non scusarti," ha detto Ginevra. "Ascolta, ti ho fatto guidare in tutta la città, e non ho nemmeno pagato. Posso offrirti la cena?"
 
 C'era un piccolo ristorante proprio dall'altra parte della strada. Hanno avuto un tavolo velocemente, e Ugo ha aiutato Ginevra a capire il menu. Presto, entrambi stavano gustando del cibo locale delizioso e parlando felicemente.
 

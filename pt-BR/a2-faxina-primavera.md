@@ -50,7 +50,7 @@ Finalmente, sua namorada pegou suas cartas novamente.
 
 "Esta é do nosso senhorio," ela disse.
 
-"O que ela diz?"
+"O que ele diz?"
 
 "Temos que sair em um mês!" disse ela chorando. "E -- e --"
 

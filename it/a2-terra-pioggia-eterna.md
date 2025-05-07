@@ -4,6 +4,7 @@ cefr: a2
 locale: it
 key: land-eternal-rain
 date: 2023-12-31
+reviews: 1
 ---
 
 Anni fa, in un piccolo paese, c'era una strega. La strega faceva piovere ogni giorno. In primavera, estate, autunno e inverno: pioggia, pioggia, pioggia, neve.
@@ -44,7 +45,7 @@ La strega ha riso.
 
 "No."
 
-"Tutti ci apprezzavano. Usavamo la nostra magia per aiutare il paese. Ma un giorno, la gente ha iniziato a dire che la magia era malvagia. Improvvisamente, a nessuno piacevamo più.
+"Tutti ci apprezzavano. Usavamo la nostra magia per aiutare il paese. Ma un giorno, la gente ha iniziato a dire che la magia era malvagia. Improvvisamente, non piacevamo più a nessuno.
 
 "Ci hanno detto di andare al Municipio. Io non ci sono andata. Ma le altre streghe ci sono andate. Sono entrate. Il Municipio era vuoto. La gente ha chiuso le porte e ha dato fuoco all'edificio.
 

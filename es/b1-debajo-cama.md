@@ -6,6 +6,7 @@ key: under-bed
 date: 2025-04-12
 reviewers:
 - silvia-pastor
+reviews: 1
 ---
 
 "Dulces sueños, cariño", dijo la madre de Dorotea. Apagó la luz y cerró la puerta.
@@ -16,7 +17,7 @@ Cerró los ojos, luego los abrió otra vez. Había escuchado un ruido debajo de 
 
 Ella no creía en monstruos. Así que se levantó de la cama y miró debajo. Allí había dos grandes ojos blancos que la miraban.
 
-Dorotea dio un grito ahogado. El monstruo hizo un ruido como un chirrido y corrió hacia la ventana. Dorotea pudo verlo a la luz de la luna. Parecía una gran bola de pelo con dos ojos brillantes.
+Dorotea ahogó un grito. El monstruo hizo un ruido chirriante y corrió hacia la ventana. Dorotea pudo verlo a la luz de la luna. Parecía una gran bola de pelo con dos ojos brillantes.
 
 "No tengas miedo", dijo Dorotea. "Soy una humana. ¿Qué eres tú?"
 
@@ -36,7 +37,7 @@ Dorotea dio un grito ahogado. El monstruo hizo un ruido como un chirrido y corri
 
 "¡Estaba soñando!" gritó Dorotea. El monstruo y ella no podían parar de reír.
 
-Veinte años después, Dorotea estaba relajada en su asiento. Hacía un día precioso. Había muchas nubes, pero Dorotea podía sentir el sol en la piel, porque estaba por encima de las nubes.
+Veinte años después, Dorotea se hallaba relajada en su asiento. Hacía un día precioso. Había muchas nubes, pero Dorotea podía sentir el sol en la piel, porque estaba por encima de ellas.
 
 "Todos los sistemas funcionan con normalidad", le dijo al copiloto. "Estamos en ruta y llegaremos puntuales".
 
@@ -54,9 +55,9 @@ El monstruo de Dorotea había saltado a su regazo.
 
 "Te lo estás imaginando", dijo Dorotea. "Yo no he visto nada".
 
-"Esto es muy serio", dijo el copiloto. Llamó a la azafata principal, y ella entró en la cabina. "Por favor, mire en el bolso de Dorotea".
+"Esto es muy serio", dijo el copiloto. Llamó a la azafata principal, quien acudió a la cabina. "Por favor, mire en el bolso de Dorotea".
 
-Tan pronto como la azafata abrió el bolso, el monstruo saltó fuera. La azafata gritó, y el copiloto se levantó de su asiento. Intentó atrapar al monstruo, pero este rebotó por toda la cabina.
+Tan pronto como la azafata abrió el bolso, el monstruo saltó fuera. La azafata gritó, y el copiloto se levantó de su asiento. Intentó atraparlo, pero este rebotó por toda la cabina.
 
 "¡Déjalo en paz!" gritó Dorotea.
 
@@ -66,7 +67,7 @@ La azafata intentó darle una patada, pero sin querer golpeó los controles de D
 
 Agarró al monstruo y se lo puso en la cabeza.
 
-"¡Idiotas!" gritó Dorotea. "¡Estáis atacando mi peluca!"
+"¡Idiotas!" gritó Dorotea. "¡Estáis atacando a mi peluca!"
 
 "¿Tu peluca?" gritó la azafata. "¡Pero estaba saltando!"
 
@@ -78,7 +79,7 @@ Agarró al monstruo y se lo puso en la cabeza.
 
 El copiloto volvió a su asiento. La azafata volvió a ponerse el sombrero. Más tarde se preguntó: ¿La peluca de la piloto tenía ojos?
 
-Cincuenta años después, Dorotea se metió en la cama y debajo de su cálido edredón. Leyó un libro durante un rato. Era uno de sus favoritos, sobre viajar por el mundo. Finalmente, dejó el libro. La casa estaba muy silenciosa.
+Cincuenta años después, Dorotea se metió en la cama bajo su cálido edredón. Leyó un libro durante un rato. Era uno de sus favoritos, sobre viajar por el mundo. Finalmente, dejó el libro. La casa estaba muy silenciosa.
 
 "Buenas noches", dijo.
 

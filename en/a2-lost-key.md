@@ -33,6 +33,6 @@ Nicholas looked for the gold coins. But there was nothing inside, except an old 
 
 "What a waste of time," he said.
 
-"I haven't read this letter in fifty years," said the woman. Her hands her shaking. She held the letter close to her heart. Nicholas saw that she was crying.
+"I haven't read this letter in fifty years," said the woman. Her hands were shaking. She held the letter close to her heart. Nicholas saw that she was crying.
 
 Nicholas didn't know who wrote the letter. But he could see that it really was a treasure. He thought, "I hope she will share it with me."

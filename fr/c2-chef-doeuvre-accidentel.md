@@ -10,7 +10,7 @@ Dans les couloirs tranquilles du Musée de la Ville, Geoffroy, le nouvel assista
 
 La porte s'est ouverte et une femme livreuse est entrée en portant une grande toile couverte de couleurs étonnantes. Elle ne la portait pas correctement.
 
-«Faites attention !» a crié Geoffroy, prenant le cadre d'elle.
+«Faites attention!» a crié Geoffroy, prenant le cadre d'elle.
 
 «Peu importe», a-t-elle dit, avant de le bousculer et d'entrer dans le bureau du Conservateur, portant beaucoup de papiers.
 
@@ -28,7 +28,7 @@ La confusion de Geoffroy n'a pas duré longtemps. Quelques instants après que l
 
 «Oh, vous avez rencontré Geneviève, notre Nettoyeuse, n'est-ce pas?» a dit le Conservateur.
 
-«Oh, on s'est rencontrés», a dit la Nettoyeuse. «Vous m'avez bousculée quand je portais une des toiles sales du département de restauration à la poubelle. Pourquoi diable la vouliez-vous ? C'est une autre que vous portez ?»
+«Oh, on s'est rencontrés», a dit la Nettoyeuse. «Vous m'avez bousculée quand je portais une des toiles sales du département de restauration à la poubelle. Pourquoi diable la vouliez-vous? C'est une autre que vous portez?»
 
 Geoffroy a réalisé son erreur, et a su qu'il n'y avait aucun moyen de la cacher. Il a dû le dire au Conservateur et à la Nettoyeuse. Le Conservateur est devenu blanc, tandis que Geneviève est tombée par terre en riant hystériquement.
 

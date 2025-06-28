@@ -14,7 +14,7 @@ Fatigué du manque de respect, Émile a conçu un plan. Il a inventé un systèm
 
 Lorsque Mme. Boxeuse a vu pour la première fois le nouveau système, elle a été impressionnée. Le système de classement semblait sophistiqué. Cependant, elle ne pouvait localiser un seul document sans son aide.
 
-«Émile», grommelait-elle, en feuilletant une pile de documents codés, «que signifie ce symbole ? Et pourquoi ce papier est-il violet ?»
+«Émile», grommelait-elle, en feuilletant une pile de documents codés, «que signifie ce symbole? Et pourquoi ce papier est-il violet?»
 
 «C'est tout simplement une partie de mon système très organisé», a déclaré Émile en toute connaissance de cause.
 

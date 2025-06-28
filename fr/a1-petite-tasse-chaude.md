@@ -16,13 +16,13 @@ Elle va à la *Petite Tasse Chaude*. Mais quand elle arrive, quelque chose ne va
 
 Arianne veut pleurer. Elle regarde à travers la fenêtre. Le propriétaire est assis à une table. Lui aussi a l'air triste. Arianne entre.
 
-«Qu'est-ce qui s'est passé ?» demande-t-elle.
+«Qu'est-ce qui s'est passé?» demande-t-elle.
 
 «Mes coûts sont trop élevés», dit le propriétaire. «Je dois fermer.»
 
 Arianne pense qu'elle peut aider. «Je suis comptable», dit-elle. «Peut-être que je peux aider.»
 
-«Vraiment ? C'est formidable !»
+«Vraiment? C'est formidable!»
 
 Le propriétaire montre à Arianne beaucoup de chiffres. «Je ne les comprends pas!» dit-il.
 
@@ -32,4 +32,4 @@ Un an plus tard... Arianne se réveille. Elle se sent fatiguée, mais elle pense
 
 Elle entre. Elle s'assoit et savoure son café pendant cinq minutes. Ensuite, elle va au petit bureau à l'arrière. Elle entre.
 
-«Bienvenue au travail», dit le propriétaire. «Est-ce que je vous ai dit ? Vous êtes la meilleure comptable du monde.»
+«Bienvenue au travail», dit le propriétaire. «Est-ce que je vous ai dit? Vous êtes la meilleure comptable du monde.»

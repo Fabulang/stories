@@ -8,13 +8,13 @@ date: 2023-08-14
 
 Grâce et Thomas avaient récemment acheté une maison ensemble. Tous deux au début de la vingtaine, ils n'avaient pas beaucoup d'argent. La maison était petite et assez froide. Mais ils étaient heureux de se blottir ensemble avec une grande couverture sur leur canapé déformé.
 
-«Oh mon dieu !» a crié Grâce un soir, se levant d'un bond avec son téléphone à la main.
+«Oh mon dieu!» a crié Grâce un soir, se levant d'un bond avec son téléphone à la main.
 
-«Qu'est-ce que c'est, chérie ?» a dit Thomas, se levant à ses côtés, inquiet.
+«Qu'est-ce que c'est, chérie?» a dit Thomas, se levant à ses côtés, inquiet.
 
 Raj Raichand, l'influenceur milliardaire sur les réseaux sociaux, avait annoncé un cadeau surprise. Les cent premières personnes qui avaient commenté sa dernière photo avaient gagné un tour du monde de quatre-vingts jours sur son yacht de luxe, tous frais payés pour deux personnes. Par pur hasard, Grâce avait été la quatre-vingt-neuvième personne à commenter -- sur soixante-dix mille.
 
-Ils se sont jetés dans les bras l'un de l'autre et se sont embrassés. Ils n'avaient jamais été aussi chanceux de leur vie. Grâce ne suivait même pas le compte de Raichand. La photo lui avait été suggérée par l'algorithme. Elle montrait M. Raichand rayonnant de bonheur, tenant un cocktail et une belle femme dans chaque bras. Grâce avait commenté : 'Vivre le rêve !'
+Ils se sont jetés dans les bras l'un de l'autre et se sont embrassés. Ils n'avaient jamais été aussi chanceux de leur vie. Grâce ne suivait même pas le compte de Raichand. La photo lui avait été suggérée par l'algorithme. Elle montrait M. Raichand rayonnant de bonheur, tenant un cocktail et une belle femme dans chaque bras. Grâce avait commenté: 'Vivre le rêve!'
 
 Juste une semaine plus tard, Grâce et Thomas étaient accueillis sur l'immense yacht en se voyant offrir des verres du meilleur champagne. Ils ont rencontré les autres gagnants, le personnel, et l'équipe de tournage qui documenterait leur voyage, mais le milliardaire lui-même était introuvable.
 

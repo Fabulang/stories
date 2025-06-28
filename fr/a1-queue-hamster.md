@@ -14,7 +14,7 @@ Une petite fille entre. «Puis-je le tenir?» demande-t-elle.
 
 «Oui, mais fais attention», dit-il.
 
-Élie prend le hamster et le donne à la fille. Il est chaud et doux, et la fille sourit. Mais le hamster mord son doigt. «Aïe !» dit-elle, et elle fait tomber le hamster.
+Élie prend le hamster et le donne à la fille. Il est chaud et doux, et la fille sourit. Mais le hamster mord son doigt. «Aïe!» dit-elle, et elle fait tomber le hamster.
 
 Le petit animal court par la porte ouverte. «Non!» crie Élie. Lui et la fille courent après. Élie ne peut voir que sa queue, quand il court dans l'herbe. Le hamster a disparu.
 

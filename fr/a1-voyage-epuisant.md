@@ -8,23 +8,23 @@ date: 2023-07-20
 
 Fernand arrive en vacances. Il est très excité. Il veut voir la ville. Il veut faire du shopping. Mais il est très fatigué. Il s'endort dans sa chambre d'hôtel.
 
-Fernand se lève et quitte la chambre. Mais il n'est pas réveillé. Il est en train de somnambuler !
+Fernand se lève et quitte la chambre. Mais il n'est pas réveillé. Il est en train de somnambuler!
 
 Il descend les escaliers et entre dans le hall. Ses yeux sont ouverts, mais il dort. C'est comme un rêve.
 
 «Passez une bonne journée», dit la femme derrière le bureau.
 
-«Choux et pommes de terre !» dit Fernand. (Les gens disent des choses étranges quand ils rêvent.)
+«Choux et pommes de terre!» dit Fernand. (Les gens disent des choses étranges quand ils rêvent.)
 
 Fernand sort. C'est une belle journée ensoleillée. Il entre dans une boutique de glaces.
 
-«Bonjour, monsieur», dit le vendeur. «Quelle glace aimeriez-vous ?»
+«Bonjour, monsieur», dit le vendeur. «Quelle glace aimeriez-vous?»
 
-«Choux et pommes de terre !» dit Fernand.
+«Choux et pommes de terre!» dit Fernand.
 
 «Je suis désolé, monsieur, nous n'avons pas ce parfum. Essayez celle-ci. C'est du chocolat.»
 
-Fernand prend la glace. «Combien ?» demande Fernand, lentement.
+Fernand prend la glace. «Combien?» demande Fernand, lentement.
 
 «Cinq», dit le vendeur.
 
@@ -34,7 +34,7 @@ Fernand donne son portefeuille au vendeur. Le vendeur prend l'argent du portefeu
 
 Fernand mange sa glace pendant qu'il marche. Puis il voit une boutique de souvenirs. Il y entre. Il choisit un joli souvenir.
 
-«Combien ?» dit Fernand, lentement.
+«Combien?» dit Fernand, lentement.
 
 «Cinquante», dit le commerçant.
 
@@ -42,13 +42,13 @@ Fernand mange sa glace pendant qu'il marche. Puis il voit une boutique de souven
 
 «Non, c'est cinquante», dit le commerçant.
 
-«Cinq !» dit Fernand.
+«Cinq!» dit Fernand.
 
 «D'accord, trente», dit le commerçant.
 
-«Cinq !»
+«Cinq!»
 
-«D'accord !» dit le commerçant. «Vous, les touristes, vous devenez de plus en plus malins !»
+«D'accord!» dit le commerçant. «Vous, les touristes, vous devenez de plus en plus malins!»
 
 Quelques heures plus tard... Fernand se réveille. Il est dans sa chambre d'hôtel. Il sourit. «Maintenant je peux faire du shopping», pense Fernand. «Je dois acheter un souvenir. Ils sont très bon marché, ici.»
 

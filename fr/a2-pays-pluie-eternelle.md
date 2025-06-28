@@ -8,11 +8,11 @@ reviewers:
  - sweet-french-learning
 ---
 
-Il y a des années, dans une petite ville, vivait une sorcière. La sorcière faisait pleuvoir tous les jours. Au printemps, en été, en automne et en hiver : pluie, pluie, pluie, neige.
+Il y a des années, dans une petite ville, vivait une sorcière. La sorcière faisait pleuvoir tous les jours. Au printemps, en été, en automne et en hiver: pluie, pluie, pluie, neige.
 
 Un jour, une orpheline, nommée Béatrice, s'est rendue à la Mairie. C'était un grand et beau bâtiment. Il a été construit lorsque Béatrice était bébé.
 
-Béatrice a dit : «Je veux trouver la sorcière. Elle doit arrêter la pluie.»
+Béatrice a dit: «Je veux trouver la sorcière. Elle doit arrêter la pluie.»
 
 Il y avait sept hommes devant elle. C'étaient les dirigeants de la ville.
 
@@ -30,19 +30,19 @@ Les rochers étaient mouillés. Il était difficile de grimper la montagne. Béa
 
 Elle a frappé à la porte. La sorcière a ouvert la porte.
 
-«Entrez, il fait froid dehors !» a dit la sorcière.
+«Entrez, il fait froid dehors!» a dit la sorcière.
 
 Béatrice est entrée. Il y avait un feu. Le château était chaud et confortable. La sorcière lui a donné une tasse de thé et quelques gâteaux chauds. Béatrice a dit merci.
 
 Quand Béatrice a été sèche, elle a dit, «S'il vous plaît, arrêtez la pluie.»
 
-«Savez-vous pourquoi je fais pleuvoir ?» a demandé la sorcière.
+«Savez-vous pourquoi je fais pleuvoir?» a demandé la sorcière.
 
 «Ils ont dit que vous êtiez méchante.»
 
 La sorcière a ri.
 
-«Il y a des années, les sorcières vivaient en ville avec les gens, le saviez-vous ?»
+«Il y a des années, les sorcières vivaient en ville avec les gens, le saviez-vous?»
 
 «Non.»
 
@@ -60,4 +60,4 @@ La sorcière a regardé Béatrice.
 
 «Ne pleurez pas, ma chère. Je veux vous aider. Je ferai tout ce que vous demanderez.»
 
-«Puis-je rester avec vous ?» a demandé Béatrice. «Et, s'il vous plaît, n'arrêtez pas la pluie.»
+«Puis-je rester avec vous?» a demandé Béatrice. «Et, s'il vous plaît, n'arrêtez pas la pluie.»

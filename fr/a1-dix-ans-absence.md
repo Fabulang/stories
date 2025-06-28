@@ -10,7 +10,7 @@ Joséphine rentre chez elle pour rendre visite à sa famille. Elle habite dans u
 
 «Ça fait dix ans que je suis partie», pense Joséphine. «Peut-être que mon pays est mieux que dans mes souvenirs.»
 
-Joséphine arrive dans son pays. Elle quitte l'avion. Immédiatement, elle pense : «Il fait trop chaud ici.»
+Joséphine arrive dans son pays. Elle quitte l'avion. Immédiatement, elle pense: «Il fait trop chaud ici.»
 
 Elle est fatiguée et a faim. Elle conduit en ville. Tous les restaurants sont fermés, sauf un. Elle y entre. Elle est la seule cliente.
 

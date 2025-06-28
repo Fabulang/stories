@@ -13,7 +13,7 @@ reviewers:
 
 Frédérique lit le message sur son téléphone.
 
-«C'est qui ?» écrit-elle.
+«C'est qui?» écrit-elle.
 
 «Je ne peux pas te le dire.»
 
@@ -31,17 +31,17 @@ Frédérique a faim. Elle mange le sandwich.
 
 Le lendemain, Frédérique est malade. Frédérique ne va pas au travail. Elle reste à la maison.
 
-Son téléphone fait du bruit. Il y a un nouveau message. «Tu me crois maintenant ?»
+Son téléphone fait du bruit. Il y a un nouveau message. «Tu me crois maintenant?»
 
 «Arrête ce jeu», écrit Frédérique.
 
 «Ne pars pas en vacances.»
 
-«Pourquoi ?»
+«Pourquoi?»
 
 «Je ne peux pas te le dire.»
 
-«Pourquoi ?»
+«Pourquoi?»
 
 «Je ne peux pas te le dire.»
 
@@ -63,15 +63,15 @@ Elle se réveille dans son lit. Elle ne peut pas bouger. Le médecin dit qu'elle
 
 Un an plus tard, Frédérique retourne au travail. Elle est en fauteuil roulant.
 
-«Bon retour», dit son assistant. «Je suis désolé pour ton accident. Mais il y a une bonne nouvelle : le projet secret est maintenant terminé.»
+«Bon retour», dit son assistant. «Je suis désolé pour ton accident. Mais il y a une bonne nouvelle: le projet secret est maintenant terminé.»
 
-«Comment ?» demande Frédérique.
+«Comment?» demande Frédérique.
 
-«C'est impossible d'envoyer des humains dans le temps, n'est-ce pas ?» dit l'assistant.
+«C'est impossible d'envoyer des humains dans le temps, n'est-ce pas?» dit l'assistant.
 
 «C'est ma théorie, oui.»
 
-«Ta théorie est correcte. Mais on *peut* envoyer des *messages* dans le temps !»
+«Ta théorie est correcte. Mais on *peut* envoyer des *messages* dans le temps!»
 
 «Montre-moi les calculs», dit Frédérique.
 

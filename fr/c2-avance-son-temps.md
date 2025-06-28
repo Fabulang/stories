@@ -20,11 +20,11 @@ Dans ce futur remarquable, Charles a découvert que la revue scientifique, *Nos 
 
 Charles a révélé de manière théâtrale qu'il était un voyageur dans le temps. Il a demandé si la revue envisagerait maintenant de publier son travail.
 
-Le Rédacteur X-9 a marqué une pause. «Voyage dans le temps ?» a-t-il dit.
+Le Rédacteur X-9 a marqué une pause. «Voyage dans le temps?» a-t-il dit.
 
 «Précisément», a dit Charles. «Je peux le prouver. Si vous me permettez de vous montrer ---»
 
-«Oh, ce n'est pas que je ne vous crois pas», a dit le Rédacteur X-9. «Le voyage dans le temps a été découvert il y a des centaines d'années. C'est aussi courant maintenant que de faire du vélo dans le passé. Comment pensez-vous que nous avons autant de dinosaures autour de nous ?»
+«Oh, ce n'est pas que je ne vous crois pas», a dit le Rédacteur X-9. «Le voyage dans le temps a été découvert il y a des centaines d'années. C'est aussi courant maintenant que de faire du vélo dans le passé. Comment pensez-vous que nous avons autant de dinosaures autour de nous?»
 
 Charles était sans voix.
 

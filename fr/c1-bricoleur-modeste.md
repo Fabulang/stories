@@ -14,7 +14,7 @@ Un jour, la directrice a appelé Jean dans son bureau.
 
 «Jean, l'école fait face à une crise budgétaire», a-t-elle dit. «Nous devons réduire considérablement nos coûts, et nous devons le faire rapidement. Jean, vous êtes renvoyé.»
 
-«Mais pourquoi ? Ne fais-je pas un bon travail ?» a demandé Jean.
+«Mais pourquoi? Ne fais-je pas un bon travail?» a demandé Jean.
 
 «Si», a dit la directrice. «Mais j'ai entendu dire par les autres membres du personnel qu'ils ne vous appréciaient pas. Vous êtes inhabituel, et vous sifflez trop. Je ne peux plus me permettre de payer quelqu'un d'aussi désagréable.»
 
@@ -34,7 +34,7 @@ Ils sont tous arrivés dans la salle souterraine. Dans le noir, ils pouvaient vo
 
 Le sous-sol était remplie de l'ancien équipement scientifique et informatique de l'école. La directrice avait demandé à Jean de le jeter l'année dernière, car beaucoup de choses étaient cassées. Au lieu de cela, il avait tout gardé ici, et il l'avait réparé depuis.
 
-«C'est en marche !» s'est exclamé le Chef des Sciences, inspectant l'équipement. «Madame la Directrice, nous avons besoin de Jean pour réparer le reste.»
+«C'est en marche!» s'est exclamé le Chef des Sciences, inspectant l'équipement. «Madame la Directrice, nous avons besoin de Jean pour réparer le reste.»
 
 Tous les enseignants ont hoché la tête et ont fixé la directrice. Elle a pris une grande respiration, a sorti son téléphone et a appelé Jean.
 

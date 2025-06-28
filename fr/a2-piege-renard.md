@@ -12,7 +12,7 @@ Souris se regardait dans son miroir. «Mes oreilles sont tellement grandes», a-
 
 Dehors, M. Renard passait près de la bûche. Il a entendu ce que disait Souris. Il s'est approché en silence.
 
-«J'aimerais être comme Papillon», a continué Souris. «Tout le monde aime Papillon. Elle est tellement jolie. Ses ailes sont tellement attrayantes et colorées. Et de tellement petites oreilles ! La vie est facile pour elle.»
+«J'aimerais être comme Papillon», a continué Souris. «Tout le monde aime Papillon. Elle est tellement jolie. Ses ailes sont tellement attrayantes et colorées. Et de tellement petites oreilles! La vie est facile pour elle.»
 
 «Excuse-moi», a dit Renard.
 
@@ -20,11 +20,11 @@ Souris a sursauté. Elle s'est retournée. Elle pouvait voir un œil de Renard �
 
 La voix de Renard était calme et amicale. «Je te plains. Moi aussi je suis très laid.» Renard a soupiré très fort. «La vie est cruelle. Les souris peuvent utiliser le lac magique pour devenir belles, mais les renards ne peuvent pas.»
 
-«Lac magique ?» a demandé Souris. «De quoi parles-tu ?»
+«Lac magique?» a demandé Souris. «De quoi parles-tu?»
 
-«Il y a un lac magique dans la forêt. Quand les souris nagent dans le lac, elles se transforment en papillons. Tu ne savais pas ?»
+«Il y a un lac magique dans la forêt. Quand les souris nagent dans le lac, elles se transforment en papillons. Tu ne savais pas?»
 
-«Non !» a dit Souris, les yeux grands ouverts.
+«Non!» a dit Souris, les yeux grands ouverts.
 
 «Eh bien, sors de ta bûche, et je t'y emmènerai», a dit Renard.
 
@@ -36,7 +36,7 @@ Les yeux de Renard se sont ouverts grands. «Ce n'est pas un problème du tout»
 
 Le petit cœur de Souris battait vite pendant qu'elle mettait ses chaussures. Elle a ouvert la porte. Renard attendait patiemment. Lentement, Souris a marché vers lui.
 
-Quand Souris était devant la bouche de Renard, il a dit : «Combien de nièces et de neveux ? Et quel âge ont-ils ?»
+Quand Souris était devant la bouche de Renard, il a dit: «Combien de nièces et de neveux? Et quel âge ont-ils?»
 
 «J'ai douze nièces et huit neveux», a dit Souris. «Ils passent tous leurs examens finaux. Ils sont très mignons.»
 
@@ -58,4 +58,4 @@ Il y a eu un grand bruit. Renard a crié. Sa patte était coincée dans un pièg
 
 Souris a sauté de la tête de Renard et a commencé à rentrer chez elle.
 
-«Tu crois que je suis stupide ?» a-t-elle dit.
+«Tu crois que je suis stupide?» a-t-elle dit.

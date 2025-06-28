@@ -11,21 +11,21 @@ reviews: 1
 
 Le blog culinaire de Roxanne était l'un des sites de cuisine les plus populaires sur Internet. Les gens adoraient son blog car il ne contenait que les meilleures recettes qu'elle avait découvertes lors de ses voyages à travers le monde.
 
-Lorsque Roxanne était en Chine, elle savait qu'elle devait trouver la meilleure recette pour les raviolis chinois. Et tout le monde à qui elle a demandé disait la même chose. «Personne ne fait de meilleurs raviolis que M. Chen», disaient-ils. «Mais il ne vous révélera jamais le secret !»
+Lorsque Roxanne était en Chine, elle savait qu'elle devait trouver la meilleure recette pour les raviolis chinois. Et tout le monde à qui elle a demandé disait la même chose. «Personne ne fait de meilleurs raviolis que M. Chen», disaient-ils. «Mais il ne vous révélera jamais le secret!»
 
 Roxanne a trouvé la maison de M. Chen et a frappé à sa porte. L'homme de 80 ans l'a accueillie avec un sourire. Il lui a dit qu'il appréciait son blog et qu'il était ravi de faire ses raviolis pour elle.
 
 Lorsque Roxanne les a essayés, elle pouvait croire qu'ils étaient les meilleurs de toute la Chine. Ils étaient beaux et pleins de saveurs délicieuses. Mais quand Roxanne a demandé la recette, M. Chen a poliment refusé.
 
-«Je promets de ne le dire à personne d'autre», a dit Roxanne. «Je veux juste connaître le secret !»
+«Je promets de ne le dire à personne d'autre», a dit Roxanne. «Je veux juste connaître le secret!»
 
 M. Chen y a réfléchi. «Vous devez le prouver», a-t-il dit.
 
-«Comment puis-je le faire ?»
+«Comment puis-je le faire?»
 
 M. Chen a souri. «Tondez ma pelouse pendant une année entière.»
 
-«Quoi ?»
+«Quoi?»
 
 «Peu importe», a-t-il dit. «Si vous ne voulez pas connaître le secret, ce n'est pas un problème.»
 
@@ -43,4 +43,4 @@ Roxanne était agacée, amusée et reconnaissante à la fois.
 
 «Vous vouliez aussi que quelqu'un tonde votre pelouse gratuitement», a-t-elle dit en riant.
 
-M. Chen a proposé une assiette. «Un ravioli ?»
+M. Chen a proposé une assiette. «Un ravioli?»

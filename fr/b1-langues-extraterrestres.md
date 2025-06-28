@@ -34,11 +34,11 @@ Alison s'est assise face à la Présidente. Les caméras ont flashé.
 
 «Merci», a chuchoté Alison dans le microphone.
 
-«Dites-nous directement : est-ce un message de guerre?»
+«Dites-nous directement: est-ce un message de guerre?»
 
 «Non», a dit Alison, sans lever les yeux.
 
-Les journalistes ont acclamé et applaudi. «Alors c'est un message de paix !» a-t-elle dit, en souriant.
+Les journalistes ont acclamé et applaudi. «Alors c'est un message de paix!» a-t-elle dit, en souriant.
 
 «Non», a dit Alison.
 

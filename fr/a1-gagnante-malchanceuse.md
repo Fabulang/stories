@@ -16,7 +16,7 @@ Mais Lucie n'est pas heureuse. Elle ne connaît personne. Et elle a toujours de 
 
 Un jour, elle a une idée.
 
-«J'ai gagné à la loterie !» dit-elle à tout le monde. Mais ce n'est pas vrai.
+«J'ai gagné à la loterie!» dit-elle à tout le monde. Mais ce n'est pas vrai.
 
 Les gens sont surpris et veulent lui parler. Elle est heureuse. Mais elle ne peut pas dire la vérité.
 

@@ -9,7 +9,7 @@ reviews: 1
 
 «Salut, j'emménage aujourd'hui», a dit Jérémy, souriant.
 
-«Moi aussi !» a dit Victoire, jouant avec ses cheveux.
+«Moi aussi!» a dit Victoire, jouant avec ses cheveux.
 
 Jérémy portait sa valise et sa guitare. Victoire, en costume d'affaires, tenait beaucoup de documents. Ils ont marché ensemble vers l'immeuble d'appartements, discutant joyeusement. Puis ils se sont tous deux arrêtés devant la même porte.
 
@@ -21,7 +21,7 @@ Ils ont vérifié leurs contrats de nouveau. C'était très clair. Ils ne l'avai
 
 Ils ne se sont pas du tout bien entendus. Victoire était une entrepreneure et avait besoin de calme pour planifier sa stratégie d'entreprise. Jérémy, aspirant musicien, jouait de sa guitare jour et nuit. Jérémy aimait maintenir la maison propre pour avoir l'esprit clair. Victoire, trop occupée, laissait ses vêtements et assiettes partout.
 
-«J'en ai assez!» a crié Victoire. «Arrête de jouer de cette horrible guitare ! Tu ne réussiras jamais. Ta musique ressemble à celle d'un âne tombé sur les cordes!»
+«J'en ai assez!» a crié Victoire. «Arrête de jouer de cette horrible guitare! Tu ne réussiras jamais. Ta musique ressemble à celle d'un âne tombé sur les cordes!»
 
 «Cette maison est un tel désordre, je ne peux pas être créatif!» a rétorqué Jérémy. «Tu es tellement désorganisée, ton entreprise n'aura jamais de clients. Même si quelqu'un te donnait de l'argent, tu le perdrais sous tous ces vêtements!»
 

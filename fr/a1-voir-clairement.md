@@ -6,21 +6,21 @@ key: seeing-clearly
 date: 2023-10-25
 ---
 
-«Tu es prête ?» crie le mari d'Élise.
+«Tu es prête?» crie le mari d'Élise.
 
 «Je choisis mes vêtements», répond-elle.
 
-«Mais ça fait deux heures !»
+«Mais ça fait deux heures!»
 
 Élise utilise un peu de parfum. Elle est prête pour la fête avec ses amis. Elle descend les escaliers et va dans la cuisine.
 
 Elle se cogne le genou contre la chaise.
 
-«Aïe !» elle crie.
+«Aïe!» elle crie.
 
-«Quoi ?»
+«Quoi?»
 
-«Rien !»
+«Rien!»
 
 «Élise, tu dois porter tes nouvelles lunettes», dit son mari. «Elles sont toujours dans la boîte.»
 
@@ -36,9 +36,9 @@ Elle se cogne le genou contre la chaise.
 
 Son mari entre.
 
-«Pourquoi as-tu fait ça ?» demande-t-il.
+«Pourquoi as-tu fait ça?» demande-t-il.
 
-«Qu'est-ce que tu veux dire ?»
+«Qu'est-ce que tu veux dire?»
 
 «Il y a une fleur dans le verre de chaque personne. Et tous les coussins sont sur la table basse.»
 
@@ -50,21 +50,21 @@ Un peu plus tard, Élise entend la sonnette. Elle veut ouvrir la porte, mais ell
 
 Elle sort une boîte de son sac à main. Elle sort ses nouvelles lunettes de la boîte. Elle met les lunettes. Maintenant, elle voit clair. Elle ouvre la porte.
 
-«J'adore tes nouvelles lunettes !» dit son amie.
+«J'adore tes nouvelles lunettes!» dit son amie.
 
 Élise et ses amis passent une merveilleuse fête. Avant de partir, tout le monde dit qu'Élise est belle avec ses nouvelles lunettes.
 
 Cette nuit-là, le mari d'Élise rentre à la maison.
 
-«Bienvenue à la maison --- Oh !» dit Élise.
+«Bienvenue à la maison --- Oh!» dit Élise.
 
 Elle arrête de sourire et court dans le salon. Son mari court aussi dans le salon. Il a l'air très inquiet.
 
-«Qu'est-ce qui ne va pas ?» demande-t-il.
+«Qu'est-ce qui ne va pas?» demande-t-il.
 
 «Rien», dit Élise. «C'est juste que... je n'avais pas réalisé...»
 
-«Réalisé quoi ?»
+«Réalisé quoi?»
 
 Élise enlève ses lunettes. Elle sourit. Elle embrasse son mari.
 

@@ -12,7 +12,7 @@ M. Chevalier, son mari, était assis près de la fenêtre, les yeux remplis de l
 
 «Qui a découvert le corps?» a demandé la détective.
 
-«C'était moi», a sangloté M. Chevalier. «Elle avait demandé à rester seule. Mais elle me manquait, alors je lui ai apporté son déjeuner. J'avais préparé son plat préféré : des œufs à la coque avec des toasts beurrés et des asperges. C'est alors que -- c'est alors que --» Le mari n'a pas pu continuer.
+«C'était moi», a sangloté M. Chevalier. «Elle avait demandé à rester seule. Mais elle me manquait, alors je lui ai apporté son déjeuner. J'avais préparé son plat préféré: des œufs à la coque avec des toasts beurrés et des asperges. C'est alors que -- c'est alors que --» Le mari n'a pas pu continuer.
 
 La détective Chasseur a noté cela dans son petit carnet avant de continuer. «Que faisiez-vous avant de trouver votre femme?»
 
@@ -22,7 +22,7 @@ La détective Chasseur a noté cela dans son petit carnet avant de continuer. «
 
 Il a secoué la tête. «Non, rien. C'était une journée normale sous tous les aspects.»
 
-«Est-ce que quelqu'un aurait pu entrer ou sortir de ce bureau en secret ?»
+«Est-ce que quelqu'un aurait pu entrer ou sortir de ce bureau en secret?»
 
 «Je ne pense pas», a dit le mari. «Les portes et les fenêtres grincent fort. J'aurais entendu si quelqu'un y était entré. Elle était seule tout le temps.»
 
@@ -34,7 +34,7 @@ La détective a soigneusement inspecté le couteau. Elle a tenu le manche près 
 
 «M. Chevalier, vous êtes en état d'arrestation», a dit la détective à voix haute.
 
-«Quoi?» a crié-t-il, se levant. «C'est ridicule. Je ne lui aurais jamais fait de mal ! Je l'aimais. Il est évident qu'elle s'est suicidée. Je sais que son entreprise allait mal.»
+«Quoi?» a crié-t-il, se levant. «C'est ridicule. Je ne lui aurais jamais fait de mal! Je l'aimais. Il est évident qu'elle s'est suicidée. Je sais que son entreprise allait mal.»
 
 «Donc vous vouliez son argent, avant qu'elle ne perde tout.»
 

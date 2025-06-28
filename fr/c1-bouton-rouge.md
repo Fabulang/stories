@@ -6,7 +6,7 @@ key: red-button
 date: 2023-08-14
 ---
 
-Tout le monde au Commissariat a applaudi et a acclamé lorsque le Détective Corbeau est entré dans la pièce. Il avait résolu une autre affaire de meurtre insoluble. Comment avait-il découvert que c'était la baby-sitter avec si peu d'indices ?
+Tout le monde au Commissariat a applaudi et a acclamé lorsque le Détective Corbeau est entré dans la pièce. Il avait résolu une autre affaire de meurtre insoluble. Comment avait-il découvert que c'était la baby-sitter avec si peu d'indices?
 
 «Vous avez une sorte de sixième sens, Corbeau», a dit le Chef.
 
@@ -22,7 +22,7 @@ Il était là. La pluie frappait son visage. Jeanne était dans la rue, se dirig
 
 Il détestait toujours cette partie. Il savait qu'il ne pouvait pas intervenir. Quand la scientifique lui avait donné l'appareil top-secret, elle l'avait prévenu que les tentatives de changer le passé pourraient résulter en catastrophe. Il ne pouvait qu'observer et utiliser les informations une fois de retour dans le présent.
 
-Corbeau a reconnu le visage de l'homme : c'était le secrétaire de Jeanne. Corbeau n'avait pas besoin de voir plus. Il a appuyé sur le bouton rouge à nouveau.
+Corbeau a reconnu le visage de l'homme: c'était le secrétaire de Jeanne. Corbeau n'avait pas besoin de voir plus. Il a appuyé sur le bouton rouge à nouveau.
 
 Instantanément, Corbeau était de retour dans son sous-sol. Maintenant qu'il savait qui enquêter, il serait en mesure de trouver les preuves dont il avait besoin.
 
@@ -34,7 +34,7 @@ M. Falkenroth était le directeur de la banque qui avait été retrouvé mort da
 
 Corbeau a sorti le dossier marqué 'Falkenroth' et l'a posé sur le bureau dans son sous-sol. Il s'est imaginé le directeur de la banque, et a appuyé sur le bouton.
 
-Il s'est retrouvé à l'intérieur du coffre-fort, caché derrière des piles de billets de banque. Falkenroth comptait l'argent. Corbeau a regardé autour de lui. Il pouvait voir chaque coin. Il n'y avait personne d'autre là. Il a vérifié la porte : elle était déjà verrouillée. Il l'a observée attentivement.
+Il s'est retrouvé à l'intérieur du coffre-fort, caché derrière des piles de billets de banque. Falkenroth comptait l'argent. Corbeau a regardé autour de lui. Il pouvait voir chaque coin. Il n'y avait personne d'autre là. Il a vérifié la porte: elle était déjà verrouillée. Il l'a observée attentivement.
 
 Il y a eu un cri. Corbeau a sauté de sa cachette. Le directeur de la banque est tombé au sol, avec une blessure par arme blanche dans le dos.
 

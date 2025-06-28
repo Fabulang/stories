@@ -6,13 +6,13 @@ key: secret-recipe-challenge
 date: 2023-06-03
 ---
 
-M. Forestier, qui était connu pour ses délicieux desserts maison, a lancé un défi à Clémentine, son apprentie. Pourrait-elle recréer son gâteau aux fruits spécial, sans connaître la recette secrète de famille ?
+M. Forestier, qui était connu pour ses délicieux desserts maison, a lancé un défi à Clémentine, son apprentie. Pourrait-elle recréer son gâteau aux fruits spécial, sans connaître la recette secrète de famille?
 
 Clémentine voulait prouver ses compétences culinaires, alors elle a accepté le défi calmement, avec un sourire. Mais une fois rentrée chez elle, elle a commencé à se sentir paniquée.
 
 D'abord, elle a lu tous les livres de cuisine de sa collection. Puis, elle a consulté d'innombrables sites de cuisine. Mais aucun d'entre eux n'avait une recette qui ressemblait à celle du gâteau aux fruits spécial de M. Forestier.
 
-Elle a demandé à tous ses amis et à sa famille s'ils avaient déjà vu un gâteau similaire, mais aucun d'entre eux n'en avait vu. Elle a envoyé des e-mails à des chefs célèbres, les suppliant de lui donner un indice ; mais ils ne connaissaient pas non plus la recette. C'était le secret personnel de M. Forestier, et ils souhaitaient tous le connaître aussi.
+Elle a demandé à tous ses amis et à sa famille s'ils avaient déjà vu un gâteau similaire, mais aucun d'entre eux n'en avait vu. Elle a envoyé des e-mails à des chefs célèbres, les suppliant de lui donner un indice; mais ils ne connaissaient pas non plus la recette. C'était le secret personnel de M. Forestier, et ils souhaitaient tous le connaître aussi.
 
 Quelques jours plus tard, alors que Clémentine aidait M. Forestier à préparer une tarte pour un client, elle a remarqué la photo accrochée au mur. Elle montrait M. Forestier et une femme âgée, debout près d'un étrange arbre à fruits dans une forêt. Clémentine n'a rien dit.
 

@@ -18,7 +18,7 @@ Un jour, donc, elle a rassemblé son courage et l'a approché après la classe.
 
 Elle s'attendait à ce qu'il soit surpris. Au lieu de cela, il l'a regardée de haut en bas. Puis il a changé de couleurs pour un rouge passionné.
 
-«Je te veux aussi, Félicie», a dit Xeep dans sa voix douce et mélodique. Félicie est devenue aussi rouge vif. «Pourquoi ne viendrais-tu pas chez moi ce soir ?»
+«Je te veux aussi, Félicie», a dit Xeep dans sa voix douce et mélodique. Félicie est devenue aussi rouge vif. «Pourquoi ne viendrais-tu pas chez moi ce soir?»
 
 Félicie était tellement ravie qu'elle en est restée sans voix. Elle a passé le reste de la journée à se préparer, et elle dansait pratiquement sur le pas de la porte de Xeep ce soir-là.
 
@@ -26,7 +26,7 @@ La maison de Xeep était un fascinant mélange d'esthétiques humaines et extrat
 
 Chaque pièce avait un schéma de couleurs différent -- il y avait du bleu dans le hall d'entrée, du vert dans le salon et elle pouvait voir du violet dans la salle de bains. Certains meubles étaient tellement bizarres que Félicie ne pouvait pas déterminer à quoi ils servaient. Elle voulait poser tant de questions à Xeep, mais elle avait peur de l'offenser. Elle aurait aimé avoir prêté plus attention en classe.
 
-«Puis-je t'offrir un peu de liquide ?» a demandé Xeep, se souvenant que les humains avaient besoin de boire. Il est allé dans sa cuisine, qui était décorée dans des teintes cramoisies. «Tu as besoin d'eau, c'est bien ça ?»
+«Puis-je t'offrir un peu de liquide?» a demandé Xeep, se souvenant que les humains avaient besoin de boire. Il est allé dans sa cuisine, qui était décorée dans des teintes cramoisies. «Tu as besoin d'eau, c'est bien ça?»
 
 Félicie s'est soudainement souvenue de quelque chose, et son cœur battant s'est transformé en glace en un instant.
 

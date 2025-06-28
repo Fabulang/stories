@@ -15,7 +15,7 @@ reviews: 1
 
 «M. Gris a été un voleur toute sa vie. À l'école, il a volé de la nourriture à d'autres enfants. À vingt ans, il a volé quatre-vingts roues de fromage de l'usine locale. Ensuite, il a pris tous les pots de confiture du supermarché. Plus récemment, M. Gris a été pris en train de voler un lot entier de gâteaux frais de la boulangerie. Le stylo-plume du Roi est la dernière addition à ce schéma.
 
-«S'il n'avait pas été attrapé, qui aurait été la prochaine victime ? S'il est relâché, *vous* pourriez être sa prochaine cible.
+«S'il n'avait pas été attrapé, qui aurait été la prochaine victime? S'il est relâché, *vous* pourriez être sa prochaine cible.
 
 «M. Gris a admis qu'il devait beaucoup d'argent à un usurier. Et donc son mobile est clair. Il a donné le stylo à l'usurier, en échange de l'effacement de sa dette.
 
@@ -35,13 +35,13 @@ L'avocat s'est retourné. Il portait un costume rayé, des cheveux noirs lisses 
 
 «Mademoiselle Ancre a vu un homme chauve d'une cinquantaine d'années, d'environ un mètre quatre-vingts, portant un jean et un pull noir. Il y avait des dizaines de visiteurs ce jour-là qui semblaient parfaitement identiques.
 
-«La caméra de sécurité ne voit jamais son visage. Mais que voit-elle *réellement* ? Elle voit une marque de naissance en forme d'étoile au-dessus de son oreille gauche, que M. Gris n'a pas.
+«La caméra de sécurité ne voit jamais son visage. Mais que voit-elle *réellement*? Elle voit une marque de naissance en forme d'étoile au-dessus de son oreille gauche, que M. Gris n'a pas.
 
 «Mesdames et messieurs. Si vous convenez que cette preuve est incohérente, vous devez admettre que M. Gris est innocent.»
 
 Elle s'est assise et a respiré. Dans une affaire avec des preuves aussi accablantes contre son client, elle avait fait de son mieux.
 
-Peu après, le greffier du tribunal a dit à haute voix : «Levez-vous !»
+Peu après, le greffier du tribunal a dit à haute voix: «Levez-vous!»
 
 Le juge a regardé autour de la salle d'audience. L'affaire s'était déroulée exactement comme il s'y attendait. Mais ce qu'il n'attendait pas, c'était que sa perruque était coincée entre la chaise et le bureau.
 

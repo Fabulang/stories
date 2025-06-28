@@ -11,13 +11,13 @@ Le taxi est arrivé et Geneviève est montée à l'intérieur. Elle a ouvert son
 
 «Je veux voir *La Statue des Danseurs*», a-t-elle dit, lisant la page.
 
-Le chauffeur de taxi s'est retourné. C'était un jeune homme aux yeux vifs et aux cheveux en désordre. «Quelle statue ?»
+Le chauffeur de taxi s'est retourné. C'était un jeune homme aux yeux vifs et aux cheveux en désordre. «Quelle statue?»
 
 Geneviève lui a montré son livre.
 
-«C'est de quand, cette publication ? Il n'y a même pas de photos», a-t-il ri. Il a regardé au dos. «Mille neuf cent quatre-vingt-six !»
+«C'est de quand, cette publication? Il n'y a même pas de photos», a-t-il ri. Il a regardé au dos. «Mille neuf cent quatre-vingt-six!»
 
-«C'est un guide classique pour les touristes !» a expliqué Geneviève. «C'est bien plus authentique.»
+«C'est un guide classique pour les touristes!» a expliqué Geneviève. «C'est bien plus authentique.»
 
 «Vous devriez l'apporter au Musée, ils l'adoreraient.»
 
@@ -27,19 +27,19 @@ Geneviève lui a montré son livre.
 
 «Qui a commencé après mille neuf cent quatre-vingt-six», a dit Geneviève.
 
-«Écoutez, nous sommes fiers de notre histoire. La statue est toujours là, mais le nom a dû changer. Pouvez-vous la décrire pour moi ?»
+«Écoutez, nous sommes fiers de notre histoire. La statue est toujours là, mais le nom a dû changer. Pouvez-vous la décrire pour moi?»
 
-«Pourquoi ? Il y a des centaines de statues dans cette ville !»
+«Pourquoi? Il y a des centaines de statues dans cette ville!»
 
-«J'ai dit que je connaissais chaque recoin. Vous ne me croyez pas ?»
+«J'ai dit que je connaissais chaque recoin. Vous ne me croyez pas?»
 
-«Eh bien... J'ai vu une photo à la bibliothèque. Mais que puis-je dire ? Elle est en pierre. Les danseurs dansent. Ils portent des vêtements traditionnels.»
+«Eh bien... J'ai vu une photo à la bibliothèque. Mais que puis-je dire? Elle est en pierre. Les danseurs dansent. Ils portent des vêtements traditionnels.»
 
 Le chauffeur a réfléchi. «Il pourrait y avoir huit statues», a-t-il fini par dire.
 
 Geneviève avait l'air impressionnée, mais sceptique.
 
-«Vous ne me faites toujours pas confiance ? Bon, écoutez. Je vais vous emmener voir chacune des huit statues, une par une. Si nous ne trouvons pas la bonne, vous ne paierez rien. Marché conclu ?»
+«Vous ne me faites toujours pas confiance? Bon, écoutez. Je vais vous emmener voir chacune des huit statues, une par une. Si nous ne trouvons pas la bonne, vous ne paierez rien. Marché conclu?»
 
 Le chauffeur a tendu la main. Geneviève a ri et l'a serrée.
 
@@ -57,11 +57,11 @@ La première statue n'était pas la bonne, mais Hugues souriait toujours. «Vous
 
 La visite de la ville par Geneviève s'est poursuivie. Lorsqu'ils sont arrivés à la huitième statue, c'était le coucher du soleil.
 
-«Ce n'est pas celle-ci non plus !» a dit Geneviève en riant.
+«Ce n'est pas celle-ci non plus!» a dit Geneviève en riant.
 
 Hugues n'a pas fait payer Geneviève pour le trajet. Il s'est excusé de ne pas avoir trouvé la statue.
 
-«S'il vous plaît, ne vous excusez pas», a dit Geneviève. «Écoutez, je vous ai fait conduire dans toute la ville, et je n'ai même pas payé. Puis-je vous offrir le dîner ?»
+«S'il vous plaît, ne vous excusez pas», a dit Geneviève. «Écoutez, je vous ai fait conduire dans toute la ville, et je n'ai même pas payé. Puis-je vous offrir le dîner?»
 
 Il y avait un petit restaurant juste de l'autre côté de la route. Ils ont rapidement eu une table, et Hugues a aidé Geneviève à comprendre le menu. Bientôt, ils dégustaient tous les deux de délicieux plats locaux, discutant joyeusement.
 

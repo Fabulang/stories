@@ -26,7 +26,7 @@ Tout était sombre à l'intérieur, à l'exception d'une lumière étrange. Un o
 
 Jacqueline a ouvert son sac et a pris l'orbe. Dès que sa main l'a touchée, elle a reçu son pouvoir. Tout à coup, elle pouvait lire dans l'esprit d'Angélique. Elle a su son secret.
 
-«Pourquoi ne m'as-tu pas dit que tu es ma nièce ?» lui a-t-elle demandé, étonnée.
+«Pourquoi ne m'as-tu pas dit que tu es ma nièce?» lui a-t-elle demandé, étonnée.
 
 «Je suis désolée. Mon père et toi ne vous parlez plus», a répondu Angélique. «Je pensais que tu ne me parlerais pas non plus, si tu savais qui j'étais.»
 

@@ -8,7 +8,7 @@ date: 2023-06-17
 
 Matthieu apprend à devenir un sorcier. Il pense qu'il peut être un très bon sorcier. Mais il est dans la classe inférieure.
 
-Un jour, il essaie un grand sortilège. Il veut avoir des ailes, pour pouvoir voler. Cela montrera à ses professeurs qu'il est un sorcier puissant. Mais il fait une erreur !
+Un jour, il essaie un grand sortilège. Il veut avoir des ailes, pour pouvoir voler. Cela montrera à ses professeurs qu'il est un sorcier puissant. Mais il fait une erreur!
 
 Beaucoup de canards apparaissent. Ils ne sont pas des canards normaux. Ce sont des canards très amicaux. Ils aiment beaucoup Matthieu. Ils l'accompagnent partout. Ils marchent derrière lui. Ils le câlinent avec leurs ailes.
 

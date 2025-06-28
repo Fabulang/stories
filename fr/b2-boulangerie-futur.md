@@ -40,4 +40,4 @@ Alors qu'elle rentrait chez elle, son téléphone a sonné. Elle a vu que c'éta
 
 «Alors, tu profites de tes vacances pendant que la technologie s'empare de tout, hein?» Édith a crié dans le téléphone.
 
-«En fait, je suis toujours coincé à l'aéroport!» le boulanger a pleuré. «Ils ne laisseront personne voler sans puce électronique dans la tête !»
+«En fait, je suis toujours coincé à l'aéroport!» le boulanger a pleuré. «Ils ne laisseront personne voler sans puce électronique dans la tête!»

@@ -12,7 +12,7 @@ Il y a eu un grand bruit à la porte. Vivienne l'a ouverte en grand. Se tenait s
 
 «On m'a dit que tu vends des rêves», a dit le Gouverneur, ses yeux froids reflétant les lumières néon de la rue. «J'ai besoin d'une nouvelle expérience. J'ai besoin de me sentir exalté. Cela doit être transcendantal. On m'a dit que tu peux faire ça.»
 
-«Le prix est le même pour tout le monde», a répondu Vivienne doucement. «Vous voulez un rêve ? Vous donnez un rêve.»
+«Le prix est le même pour tout le monde», a répondu Vivienne doucement. «Vous voulez un rêve? Vous donnez un rêve.»
 
 Un des gardes du corps a pointé un pistolet sur sa tête. «Tu peux faire une exception», a-t-il grondé.
 
@@ -32,7 +32,7 @@ Vivienne a appuyé sur le bouton. Un battement de paupières lent, un tremblemen
 
 Alors que le Gouverneur est retourné dans la nuit, et que ses hommes ont quitté la petite pièce, le même garde du corps s'est arrêté et a croisé le regard de Vivienne.
 
-«Tu sais ce qui est mathématiquement impossible ?» a-t-il craché. «Ta vie -- si tu parles de ça à quiconque.»
+«Tu sais ce qui est mathématiquement impossible?» a-t-il craché. «Ta vie -- si tu parles de ça à quiconque.»
 
 «Je n'oserais même pas y rêver», a dit Vivienne d'un ton nonchalant, bien que sa gorge était sèche comme la poussière.
 
@@ -46,7 +46,7 @@ Tard dans la nuit, Vivienne a été réveillée par un autre visiteur. Le masque
 
 «Supposons que ce soit vrai», a répondu Vivienne.
 
-«Nous savons tous ce que cette cité est devenue, à cause de lui. N'est-il pas temps que le peuple voie quel genre d'homme il est vraiment ? Ce rêve pourrait le ruiner. Il pourrait tout changer.»
+«Nous savons tous ce que cette cité est devenue, à cause de lui. N'est-il pas temps que le peuple voie quel genre d'homme il est vraiment? Ce rêve pourrait le ruiner. Il pourrait tout changer.»
 
 Le hacker a enlevé son masque et a tendu sa main. Vivienne a examiné le visage de l'homme. Elle croyait pouvoir lui faire confiance. Mais elle se souvenait du garde du corps. Elle se souvenait du froid métal du pistolet contre sa tête.
 

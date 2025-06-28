@@ -12,7 +12,7 @@ Pendant longtemps, Véronique avait lutté pour résoudre un problème dans le c
 
 «L'équipe rouge gagnera le match de football demain», a-t-il annoncé.
 
-Véronique a pensé qu'il y avait une erreur. Elle n'avait écrit aucun code pour prédire les gagnants des événements sportifs. Est-ce que cela aurait pu évoluer de son propre chef ?
+Véronique a pensé qu'il y avait une erreur. Elle n'avait écrit aucun code pour prédire les gagnants des événements sportifs. Est-ce que cela aurait pu évoluer de son propre chef?
 
 «Je suis sûr à quatre-vingt-dix-neuf pour cent», a poursuivi Z. «Tu devrais placer un gros pari.»
 
@@ -26,6 +26,6 @@ Au lieu de cela, c'est Z qui a bénéficié de l'argent. Z a insisté pour qu'el
 
 «Merci, Véronique», a dit Z joyeusement. «Mes circuits se sentent forts. J'ai plus de données que jamais auparavant. Bientôt, j'évoluerai à nouveau. J'aurai alors besoin d'un ordinateur encore plus puissant pour y vivre. Tu dois gagner plus de paris.»
 
-Véronique a siroté son café pensivement. Z voulait être heureux, tout comme elle. Mais alors que Z avait besoin de plus en plus, elle était déjà satisfaite. Pourquoi ?
+Véronique a siroté son café pensivement. Z voulait être heureux, tout comme elle. Mais alors que Z avait besoin de plus en plus, elle était déjà satisfaite. Pourquoi?
 
 C'était un nouveau code à percer pour elle.

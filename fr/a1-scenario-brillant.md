@@ -12,11 +12,11 @@ Il commence à taper sur son ordinateur portable. Il écrit un scénario pour un
 
 «Tout est silencieux», écrit-il. «Le garde de sécurité dort. Les lettres secrètes sont sur le bureau. L'espionne s'approche. Silencieusement, elle ---»
 
-Boum ! Dominique sursaute. Le café se renverse sur l'ordinateur portable. L'ordinateur cesse de fonctionner. L'écran affiche : «Erreur !»
+Boum! Dominique sursaute. Le café se renverse sur l'ordinateur portable. L'ordinateur cesse de fonctionner. L'écran affiche: «Erreur!»
 
-Il y a des lumières vertes et jaunes à l'extérieur de la fenêtre. Des gens applaudissent. La voisine de Dominique fait une fête. C'est une célèbre réalisatrice. Boum ! Un autre feu d'artifice explose dans le jardin de la réalisatrice.
+Il y a des lumières vertes et jaunes à l'extérieur de la fenêtre. Des gens applaudissent. La voisine de Dominique fait une fête. C'est une célèbre réalisatrice. Boum! Un autre feu d'artifice explose dans le jardin de la réalisatrice.
 
-Dans la poubelle, à côté du bureau de Dominique, il y a une lettre. Elle dit : «Venez à ma fête, s'il vous plaît. Nous célébrons mon nouveau film, 'Désolé, Monsieur Espion'. Votre scénario parle aussi d'un espion, n'est-ce pas ? S'il vous plaît, parlez-moi de ça !»
+Dans la poubelle, à côté du bureau de Dominique, il y a une lettre. Elle dit: «Venez à ma fête, s'il vous plaît. Nous célébrons mon nouveau film, 'Désolé, Monsieur Espion'. Votre scénario parle aussi d'un espion, n'est-ce pas? S'il vous plaît, parlez-moi de ça!»
 
 Dominique ferme les rideaux. Il nettoie l'ordinateur portable. Il l'éteint, puis il le rallume. Et ça fonctionne.
 
@@ -32,14 +32,14 @@ Dominique sourit. Puis il clique sur Supprimer.
 
 Le lendemain, quelqu'un frappe à la porte de Dominique. C'est la réalisatrice.
 
-«Votre nouveau scénario est fantastique !» dit-elle.
+«Votre nouveau scénario est fantastique!» dit-elle.
 
-«Quoi ?»
+«Quoi?»
 
-«La réalisatrice qui se sent désolée ! J'adore.»
+«La réalisatrice qui se sent désolée! J'adore.»
 
-Dominique court vers son ordinateur portable. Son scénario est toujours là. L'ordinateur envoie le scénario à tous ses contacts. L'écran affiche toujours : «Erreur !»
+Dominique court vers son ordinateur portable. Son scénario est toujours là. L'ordinateur envoie le scénario à tous ses contacts. L'écran affiche toujours: «Erreur!»
 
 «Mais je ---»
 
-«Quelle idée brillante, Dominique, de faire le film ici, dans mon jardin ! Tout le monde est prêt -- nous commençons aujourd'hui. Je sais, nous travaillons trop -- mais nous faisons aussi beaucoup de fêtes ! Dominique ? Ça va ?»
+«Quelle idée brillante, Dominique, de faire le film ici, dans mon jardin! Tout le monde est prêt -- nous commençons aujourd'hui. Je sais, nous travaillons trop -- mais nous faisons aussi beaucoup de fêtes! Dominique? Ça va?»

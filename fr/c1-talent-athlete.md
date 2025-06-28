@@ -12,7 +12,7 @@ Mais Elpidios était assis, la tête entre les genoux. Il était venu à Élis p
 
 Tous les entraîneurs étaient d'accord, il avait du talent. Mais ils ne voulaient pas d'élèves qui avaient du talent. Ils voulaient des élèves qui avaient de l'argent.
 
-«Tu rêves des Jeux Olympiques ?» une voix a dit.
+«Tu rêves des Jeux Olympiques?» une voix a dit.
 
 Elpidios a levé la tête. Un vieil homme à la longue barbe lui parlait.
 
@@ -36,11 +36,11 @@ Après la course, le vieil homme a retrouvé Elpidios, la tête entre les jambes
 
 «La deuxième place, c'est un exploit extraordinaire», a dit l'entraîneur.
 
-«Mais je n'ai pas gagné. Je ne recevrai aucun honneur. J'ai échoué !»
+«Mais je n'ai pas gagné. Je ne recevrai aucun honneur. J'ai échoué!»
 
 «Il ne me reste qu'une leçon à t'apprendre, Elpidios. Il y a quarante ans, j'étais un agriculteur, comme toi. Je rêvais de participer aux Jeux Olympiques. J'ai réalisé mon rêve. J'ai couru dans la course. Je suis arrivé deuxième.»
 
-Elpidios était étonné. «Qu'as-tu fait ensuite ?»
+Elpidios était étonné. «Qu'as-tu fait ensuite?»
 
 «J'étais en colère. J'avais honte. Je n'ai plus jamais couru. J'ai gaspillé mon talent.»
 

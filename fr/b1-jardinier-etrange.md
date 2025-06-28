@@ -12,17 +12,17 @@ Un jour, de nouveaux voisins ont emménagé à côté. Monsieur Thierry les a ob
 
 Chaque soir, ils allaient dans leur jardin. Ils jardinaient. Encore plus étrange, ils chuchotaient en même temps.
 
-"C'est suspect," pensait Monsieur Thierry, en les regardant de sa fenêtre. "De quoi parlent-ils en chuchotant ? Ils cachent quelque chose."
+«C'est suspect», pensait Monsieur Thierry, en les regardant de sa fenêtre. «De quoi parlent-ils en chuchotant ? Ils cachent quelque chose.»
 
 Monsieur Thierry a décidé d'enquêter. Cette nuit-là, il est allé dans leur jardin. Mais il a renversé une bêche, et cela a fait un grand bruit.
 
-Son voisin a ouvert sa fenêtre de chambre. "Qui est là ?" a-t-il dit.
+Son voisin a ouvert sa fenêtre de chambre. «Qui est là ?» a-t-il dit.
 
-"Heu... juste un chat !" a dit Monsieur Thierry, dans un moment de confusion.
+«Heu... juste un chat !» a dit Monsieur Thierry, dans un moment de confusion.
 
 La nuit suivante, il a essayé d'écouter à travers sa clôture, mais il n'a entendu que des discussions sur les roses et les marguerites.
 
-"Des codes, sûrement," pensait-il. "J'ai besoin de plus d'informations."
+«Des codes, sûrement», pensait-il. «J'ai besoin de plus d'informations.»
 
 Alors, la nuit suivante, il a envoyé son aspirateur robot sous la clôture. Il avait fixé une petite caméra dessus.
 
@@ -32,14 +32,14 @@ Monsieur Thierry perdait espoir. Mais alors, tout a été révélé.
 
 Cet après-midi-là, il a vu arriver de nombreuses camionnettes. Beaucoup de gens sont sortis et ont couru dans la maison des voisins. Ensuite, les voisins sont sortis avec eux et ont attendu dans leur jardin.
 
-"Enfin, la vérité !" s'est exclamé Monsieur Thierry, en regardant attentivement.
+«Enfin, la vérité !» s'est exclamé Monsieur Thierry, en regardant attentivement.
 
-Les gens ont sorti une grande pancarte du camion, et l'ont placée devant la maison. Elle disait : "Bienvenue à l'émission de Jardinage". Ils ont sorti de grosses caméras, et les ont allumées.
+Les gens ont sorti une grande pancarte du camion, et l'ont placée devant la maison. Elle disait : «Bienvenue à l'émission de Jardinage». Ils ont sorti de grosses caméras, et les ont allumées.
 
 Tout le monde a applaudi, et le couple a souri aux caméras.
 
-"Ils se préparaient pour passer à la télévision !" a dit Monsieur Thierry à lui-même, en riant.
+«Ils se préparaient pour passer à la télévision !» a dit Monsieur Thierry à lui-même, en riant.
 
 Quand l'émission est passée à la télévision, Monsieur Thierry l'a regardée.
 
-"Nous aimons jardiner le soir," a dit son voisin, "quand il ne fait pas tellement chaud. Mais si nous avons besoin de parler, nous chuchotons toujours, pour ne pas réveiller notre voisin, Monsieur Thierry. Il est très étrange !"
+«Nous aimons jardiner le soir», a dit son voisin, «quand il ne fait pas tellement chaud. Mais si nous avons besoin de parler, nous chuchotons toujours, pour ne pas réveiller notre voisin, Monsieur Thierry. Il est très étrange !»

@@ -12,11 +12,11 @@ Lucie vit dans une petite ville. Il y a des parcs, des arbres et de jolies maiso
 
 Mais Lucie n'est pas heureuse. Elle ne connaît personne. Et elle a toujours de la malchance.
 
-"Si je gagne à la loterie, je serai heureuse," pense-t-elle. "Mais j'ai toujours de la malchance."
+«Si je gagne à la loterie, je serai heureuse», pense-t-elle. «Mais j'ai toujours de la malchance.»
 
 Un jour, elle a une idée.
 
-"J'ai gagné à la loterie !" dit-elle à tout le monde. Mais ce n'est pas vrai.
+«J'ai gagné à la loterie !» dit-elle à tout le monde. Mais ce n'est pas vrai.
 
 Les gens sont surpris et veulent lui parler. Elle est heureuse. Mais elle ne peut pas dire la vérité.
 
@@ -24,11 +24,11 @@ Elle doit acheter des cadeaux pour tout le monde. Elle perd beaucoup d'argent. M
 
 Ensuite, une compagnie de télévision vient chez elle. Ils veulent parler de sa bonne chance. Lucie a peur.
 
-"Je n'ai pas gagné," leur dit-elle.
+«Je n'ai pas gagné», leur dit-elle.
 
 Ils sont choqués.
 
-"Mais tu achètes tant de cadeaux pour tout le monde," disent-ils.
+«Mais tu achètes tant de cadeaux pour tout le monde», disent-ils.
 
 Ils racontent l'histoire de Lucie à la télévision. Des milliers de personnes entendent l'histoire.
 

@@ -12,16 +12,16 @@ Venant tout juste d'obtenir son diplôme, Juliette a décidé de partir pour un 
 
 Déçue, Juliette a décidé de rentrer chez elle plus tôt. Alors qu'elle attendait à l'aéroport, elle s'est retrouvée assise à côté d'un jeune homme avec un sac à dos usé. Ils ont engagé la conversation, et elle a appris que son nom était Auguste.
 
-"J'espérais découvrir quelque chose d'incroyable dans mon voyage," a dit Auguste. "Mais partout où je suis allé -- Paris, Rome, Londres -- quelque chose manquait."
+«J'espérais découvrir quelque chose d'incroyable dans mon voyage», a dit Auguste. «Mais partout où je suis allé -- Paris, Rome, Londres -- quelque chose manquait.»
 
 Juliette a décrit son propre désenchantement.
 
 Tout à coup, une annonce a résonné dans le terminal. Leur vol a été annulé en raison de circonstances imprévues.
 
-"Quelle nuisance!" a crié Juliette.
+«Quelle nuisance!» a crié Juliette.
 
-"Peut-être que c'est un signe," a dit Auguste. "On n'est pas censés rentrer chez nous pour le moment."
+«Peut-être que c'est un signe», a dit Auguste. «On n'est pas censés rentrer chez nous pour le moment.»
 
-Auguste s'est tourné vers Juliette avec une étincelle audacieuse dans ses yeux. "Et si on continuait notre aventure ensemble?" a-t-il suggéré.
+Auguste s'est tourné vers Juliette avec une étincelle audacieuse dans ses yeux. «Et si on continuait notre aventure ensemble?» a-t-il suggéré.
 
-Pour la première fois depuis le début de son voyage, Juliette a ressenti un frisson d'excitation. "Peut-être," a-t-elle pensé, "l'aventure que j'espérais vient de commencer."
+Pour la première fois depuis le début de son voyage, Juliette a ressenti un frisson d'excitation. «Peut-être», a-t-elle pensé, «l'aventure que j'espérais vient de commencer.»

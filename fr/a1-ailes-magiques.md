@@ -20,4 +20,4 @@ Mais la directrice ne rit pas. Elle convoque Matthieu dans son bureau. Matthieu 
 
 Dans le bureau de la directrice, Matthieu tremble. La directrice est derrière son bureau. Elle le regarde. Puis, elle sourit.
 
-"Tu es très doué en magie," dit-elle. "Tu as fait apparaître quinze canards, avec un seul sort. Seul un sorcier puissant peut faire ça. Tu es prêt pour la classe supérieure."
+«Tu es très doué en magie», dit-elle. «Tu as fait apparaître quinze canards, avec un seul sort. Seul un sorcier puissant peut faire ça. Tu es prêt pour la classe supérieure.»

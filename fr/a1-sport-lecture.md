@@ -14,18 +14,18 @@ Mais Lilie a une idée. Elle ramasse le livre. Elle l'emmène chez elle et lit t
 
 Le lendemain, Lilie voit Luc. Elle lui rend son livre.
 
-"J'ai lu ton livre," dit-elle.
+«J'ai lu ton livre», dit-elle.
 
-Luc semble surpris. "Est-ce que tu l'as aimé?" demande-t-il.
+Luc semble surpris. «Est-ce que tu l'as aimé?» demande-t-il.
 
-"J'aime lire," dit Lilie. "Maintenant, je connais le football, le cricket, le hockey et le tennis. On peut en parler."
+«J'aime lire», dit Lilie. «Maintenant, je connais le football, le cricket, le hockey et le tennis. On peut en parler.»
 
-Luc rit. "Mais *moi*, je n'aime pas le sport," dit-il.
+Luc rit. «Mais *moi*, je n'aime pas le sport», dit-il.
 
-"Quoi?" dit Lilie.
+«Quoi?» dit Lilie.
 
-"Mes parents et mes professeurs me poussent à le faire," dit Luc. "En fait, j'aime aussi lire."
+«Mes parents et mes professeurs me poussent à le faire», dit Luc. «En fait, j'aime aussi lire.»
 
-"Vraiment?"
+«Vraiment?»
 
-"Viens à la bibliothèque avec moi. C'est mon endroit préféré. Je vais te montrer un livre plus intéressant que *Tout Sur le Sport*."
+«Viens à la bibliothèque avec moi. C'est mon endroit préféré. Je vais te montrer un livre plus intéressant que *Tout Sur le Sport*.»

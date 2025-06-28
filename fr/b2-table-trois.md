@@ -12,13 +12,13 @@ Il n'y avait qu'une seule table dans la pièce richement décorée. Dans un coin
 
 Henri a placé une assiette devant chacun des trois hommes, puis il a commencé à servir le vin.
 
-"Alors, elle a été élue," a dit un homme aux cheveux bruns. "Mais sans mon soutien, elle n'est rien."
+«Alors, elle a été élue», a dit un homme aux cheveux bruns. «Mais sans mon soutien, elle n'est rien.»
 
-Un homme chauve a pris la parole. "Ça fait dix-sept gouvernements que tu contrôles maintenant, n'est-ce pas ? Sacré diable rusé !"
+Un homme chauve a pris la parole. «Ça fait dix-sept gouvernements que tu contrôles maintenant, n'est-ce pas ? Sacré diable rusé !»
 
-"Je te demande pardon !" a répondu l'homme, vexé. "C'est dix-huit."
+«Je te demande pardon !» a répondu l'homme, vexé. «C'est dix-huit.»
 
-"Tu es en train de me rattraper."
+«Tu es en train de me rattraper.»
 
 Les hommes ont trinqué avec leurs verres.
 
@@ -32,16 +32,16 @@ Il s'est de nouveau lavé les mains, est retourné à la cuisine, et a aidé à 
 
 Quand Henri a apporté le dessert dans la salle à manger, les trois hommes riaient.
 
-"Je me fiche bien de savoir si la Présidente croit au changement climatique," a dit un homme aux cheveux bouclés. "J'ai des refuges secrets sous terre sur tous les continents. Elle peut brûler avec tout le monde."
+«Je me fiche bien de savoir si la Présidente croit au changement climatique», a dit un homme aux cheveux bouclés. «J'ai des refuges secrets sous terre sur tous les continents. Elle peut brûler avec tout le monde.»
 
-"Sous terre ?" a ri l'homme aux cheveux bruns. "Profite bien de ta vie de taupe. Je te ferai signe depuis l'orbite."
+«Sous terre ?» a ri l'homme aux cheveux bruns. «Profite bien de ta vie de taupe. Je te ferai signe depuis l'orbite.»
 
-Le troisième homme a ricané. "L'espace ? Moi, je reste ici sur Terre. S'il fait chaud, j'ai la climatisation. S'il fait froid, j'ai le chauffage. Si j'ai besoin de quelque chose, j'ai une armée de robots."
+Le troisième homme a ricané. «L'espace ? Moi, je reste ici sur Terre. S'il fait chaud, j'ai la climatisation. S'il fait froid, j'ai le chauffage. Si j'ai besoin de quelque chose, j'ai une armée de robots.»
 
 Henri a regardé les tartes au chocolat. Il s'est senti mal. Il en a placé une devant chaque homme et a servi plus de vin.
 
-"Vous savez, parfois, j'ai de la peine pour eux," a dit l'homme chauve. "Des milliards de gens, travaillant si dur, pour si peu. Comme notre serveur."
+«Vous savez, parfois, j'ai de la peine pour eux», a dit l'homme chauve. «Des milliards de gens, travaillant si dur, pour si peu. Comme notre serveur.»
 
 Henri s'est figé.
 
-"Regardez cet homme. Vous vous rendez compte qu'il a travaillé pendant cinq ans juste pour être ici ce soir ?"
+«Regardez cet homme. Vous vous rendez compte qu'il a travaillé pendant cinq ans juste pour être ici ce soir ?»

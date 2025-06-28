@@ -13,21 +13,21 @@ Il fait sombre. Il n'y a pas de lune dans le ciel. Deux personnes marchent rapid
 
 Ils s'arrêtent à l'entrée principale.
 
-"Troisième porte ---" dit l'homme. Il a peur. Il n'arrive pas à parler.
+«Troisième porte ---» dit l'homme. Il a peur. Il n'arrive pas à parler.
 
-"Vous êtes en sécurité ici," dit la femme.
+«Vous êtes en sécurité ici», dit la femme.
 
-L'homme respire. "Traversez le hall principal. Puis, c'est la troisième porte à gauche."
+L'homme respire. «Traversez le hall principal. Puis, c'est la troisième porte à gauche.»
 
-L'homme lui tend une lampe torche. "Prenez ceci." Elle la repousse.
+L'homme lui tend une lampe torche. «Prenez ceci.» Elle la repousse.
 
-"Mais c'est dangereux, Mlle Acier ! La personne précédente qui..."
+«Mais c'est dangereux, Mlle Acier ! La personne précédente qui...»
 
-"Je ne peux pas l'utiliser. Dans mon métier, Directeur... je dois travailler dans le noir. Mes... outils... sont dans mon sac."
+«Je ne peux pas l'utiliser. Dans mon métier, Directeur... je dois travailler dans le noir. Mes... outils... sont dans mon sac.»
 
-Le visage de l'homme est pâle. "Je ne veux pas savoir ce qu'il y a là-dedans," dit-il. "S'il vous plaît, résolvez simplement notre... problème."
+Le visage de l'homme est pâle. «Je ne veux pas savoir ce qu'il y a là-dedans», dit-il. «S'il vous plaît, résolvez simplement notre... problème.»
 
-"Envoyez simplement le deuxième paiement à temps," dit Mlle Acier. Puis elle entre dans l'école. La porte claque derrière elle.
+«Envoyez simplement le deuxième paiement à temps dit Mlle Acier. Puis elle entre dans l'école. La porte claque derrière elle.
 
 Il n'y a pas du tout de lumière. Elle ne voit rien. Elle touche les murs avec ses mains. La pierre est froide.
 
@@ -45,28 +45,28 @@ Lentement, Mlle Acier s'approche. Elle se tient derrière le garçon. Il écrit 
 
 Elle doit s'approcher encore plus.
 
-"Je peux m'asseoir avec toi ?" demande-t-elle doucement.
+«Je peux m'asseoir avec toi ?» demande-t-elle doucement.
 
 Le garçon ne répond pas. La craie tape et gratte. Lentement, Mlle Acier s'assoit. Le garçon est très froid. Elle peut le sentir.
 
-"Es-tu un autre tueur de fantômes ?" dit soudainement le garçon. "Je peux te faire du mal aussi."
+«Es-tu un autre tueur de fantômes ?» dit soudainement le garçon. «Je peux te faire du mal aussi.»
 
-"Je ne veux pas te faire de mal," dit rapidement Mlle Acier. Trop rapidement.
+«Je ne veux pas te faire de mal», dit rapidement Mlle Acier. Trop rapidement.
 
-"Cinq cent dix-sept mille deux cent quarante-six," dit le garçon. Il regarde l'ardoise. Il y a des chiffres partout. "Divisé par quarante-deux mille huit cent douze..."
+«Cinq cent dix-sept mille deux cent quarante-six», dit le garçon. Il regarde l'ardoise. Il y a des chiffres partout. «Divisé par quarante-deux mille huit cent douze...»
 
-"Tu... fais des maths ?"
+«Tu... fais des maths ?»
 
-"Je suis mauvais en maths !" crie le garçon. "Alors le professeur m'a puni. Il m'a donné cette question. Il a dit : 'Tu ne peux pas partir tant que tu n'as pas trouvé la réponse !' Cinq cent dix-sept mille..."
+«Je suis mauvais en maths !» crie le garçon. «Alors le professeur m'a puni. Il m'a donné cette question. Il a dit : "Tu ne peux pas partir tant que tu n'as pas trouvé la réponse !" Cinq cent dix-sept mille...»
 
-"Et tu essaies encore ? Depuis combien de temps... ?"
+«Et tu essaies encore ? Depuis combien de temps... ?»
 
-"Je ne sais pas... la bougie est encore... oh... où est la bougie ?"
+«Je ne sais pas... la bougie est encore... oh... où est la bougie ?»
 
 Le garçon cherche la bougie des yeux. Il ne regarde pas Mlle Acier.
 
 Silencieusement, Mlle Acier ouvre son sac. En regardant le garçon, elle cherche à l'intérieur de son sac. Lentement, elle sort un petit objet noir. Elle le pose sur la table.
 
-"Qu'est-ce que c'est ?" dit soudainement le garçon.
+«Qu'est-ce que c'est ?» dit soudainement le garçon.
 
-"Ça s'appelle une calculatrice."
+«Ça s'appelle une calculatrice.»

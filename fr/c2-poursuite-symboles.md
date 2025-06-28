@@ -8,25 +8,25 @@ date: 2024-09-08
 
 De la poussière rouge et sèche. Quand la plupart des gens pensent à Mars, c'est tout ce qu'ils imaginent. Mais pour Philippine, c'était l'endroit le plus fascinant de l'univers.
 
-"Donnez-moi votre avis quand vous aurez examiné les preuves," a dit Philippine sèchement.
+«Donnez-moi votre avis quand vous aurez examiné les preuves», a dit Philippine sèchement.
 
-"Mon temps est précieux, ma chère. Moi, je fais du travail sérieux."
+«Mon temps est précieux, ma chère. Moi, je fais du travail sérieux.»
 
 La plupart des scientifiques de la station martienne travaillaient sur le même projet : construire la première ville sur Mars. Philippine, elle, menait ses propres recherches.
 
-"J'ai trouvé le même symbole sur des dizaines de roches à travers Mars," a insisté Philippine. "Un carré avec une ligne et un point. C'est une langue ancienne. Il a dû y avoir une civilisation sur Mars dans le passé. Comment pouvez-vous l'expliquer autrement?"
+«J'ai trouvé le même symbole sur des dizaines de roches à travers Mars», a insisté Philippine. «Un carré avec une ligne et un point. C'est une langue ancienne. Il a dû y avoir une civilisation sur Mars dans le passé. Comment pouvez-vous l'expliquer autrement?»
 
-"Un carré avec une ligne et un point ! Des dizaines !" s'est moquée l'autre femme. "Je ne suis pas surprise que le gouvernement te renvoie sur Terre. Combien d'argent ont-ils gaspillé pour te laisser jouer à des jeux ?"
+«Un carré avec une ligne et un point ! Des dizaines !» s'est moquée l'autre femme. «Je ne suis pas surprise que le gouvernement te renvoie sur Terre. Combien d'argent ont-ils gaspillé pour te laisser jouer à des jeux ?»
 
 Philippine savait qu'elle avait eu de la chance d'avoir reçu autant de financements. Mais sans preuve tangible après trois missions, le gouvernement avait refusé de financer une quatrième. C'était le dernier jour qu'elle passerait jamais sur Mars.
 
-"Ils se fichent de sa théorie," a ri l'homme assis de l'autre côté de la table. "Elle est la seule assez folle pour explorer cette partie des grottes. Ses cartes sont des œuvres d'art. C'est une aubaine."
+«Ils se fichent de sa théorie», a ri l'homme assis de l'autre côté de la table. «Elle est la seule assez folle pour explorer cette partie des grottes. Ses cartes sont des œuvres d'art. C'est une aubaine.»
 
-"Tu aurais dû être artiste, ma chère. De quelle couleur étaient tes anciens extraterrestres ? Rouges ou verts ?"
+«Tu aurais dû être artiste, ma chère. De quelle couleur étaient tes anciens extraterrestres ? Rouges ou verts ?»
 
 Tous les scientifiques ont éclaté de rire, sauf le jeune homme assis à côté de Philippine. Il avait l'air compatissant.
 
-"Peut-être qu'il est temps d'accepter la réalité, Philippine ?" a-t-il dit. "C'est juste une coïncidence. C'était une bonne théorie. J'aurais aimé qu'elle soit vraie. Cela changerait tout ! Mais en tant que scientifique, vous devez accepter de vous tromper."
+«Peut-être qu'il est temps d'accepter la réalité, Philippine ?» a-t-il dit. «C'est juste une coïncidence. C'était une bonne théorie. J'aurais aimé qu'elle soit vraie. Cela changerait tout ! Mais en tant que scientifique, vous devez accepter de vous tromper.»
 
 Philippine a tenté de sourire au jeune homme. Peut-être avaient-ils raison. Elle fixait sa soupe. Sa cuillère avait tracé un motif intriguant à la surface.
 

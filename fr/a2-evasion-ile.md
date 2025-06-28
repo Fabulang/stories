@@ -14,11 +14,11 @@ La troisième nuit, il y a eu une grande tempête. Le vent et les vagues poussai
 
 Jacques s'est réveillé sur une île. C'était magnifique. Il y avait des arbres avec des fruits savoureux, et beaucoup de poissons dans la mer. Jacques était seul, mais il était heureux.
 
-"Ce pays est magnifique," s'est dit Jacques. "C'est là que je voulais vivre."
+«Ce pays est magnifique», s'est dit Jacques. «C'est là que je voulais vivre.»
 
 Un jour, il a grimpé un grand arbre. Il a regardé autour de lui et a vu quelque chose. Il y avait des lumières au loin. Il a regardé attentivement. Puis il a été surpris.
 
-"C'est ma ville!" a-t-il dit. "C'est ma maison!"
+«C'est ma ville!» a-t-il dit. «C'est ma maison!»
 
 Son île n'était pas loin de sa ville. Il a ri. Son pays était plus beau qu'il ne le savait.
 

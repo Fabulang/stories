@@ -24,10 +24,10 @@ Tôt le lendemain matin, elle a préparé méticuleusement le gâteau. La cuisin
 
 Lorsque le gâteau fut prêt, Clémentine l'a fièrement présenté à M. Forestier. Il a soigneusement pris une bouchée. Ses yeux se sont écarquillés, et lentement il a commencé à sourire.
 
-"Je ne m'attendais pas à ce que vous trouviez le secret," a-t-il ri. "Je voulais voir comment vous créeriez une saveur similaire. C'était un test de vos connaissances sur les différents ingrédients."
+«Je ne m'attendais pas à ce que vous trouviez le secret», a-t-il ri. «Je voulais voir comment vous créeriez une saveur similaire. C'était un test de vos connaissances sur les différents ingrédients.»
 
 Clémentine craignait d'avoir échoué au défi.
 
-"Au lieu de cela, vous m'avez montré que vous êtes déterminée et pleine de ressources. C'est quelque chose d'encore plus important, parce que je ne peux pas vous enseigner ces choses."
+«Au lieu de cela, vous m'avez montré que vous êtes déterminée et pleine de ressources. C'est quelque chose d'encore plus important, parce que je ne peux pas vous enseigner ces choses.»
 
 Clémentine rayonnait de fierté. Des années plus tard, elle a lancé le même défi à son propre apprenti. Elle se demandait s'il remarquerait la photo d'elle avec M. Forestier accrochée au mur.

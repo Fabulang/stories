@@ -24,7 +24,7 @@ Une lumière fantomatique a rempli la scène, et le fantôme d'Adélaïde la Mag
 
 Puis elle a commencé à chanter. C'était le son le plus triste que Chrétien avait jamais entendu. Sa voix tremblait d'émotion alors qu'elle glissait lentement sur la scène. Lorsqu'elle a chanté la dernière note, Chrétien était en larmes.
 
-Il a sauté de son siège et a applaudi fort. "Magnifique !" a-t-il crié.
+Il a sauté de son siège et a applaudi fort. «Magnifique !» a-t-il crié.
 
 Le fantôme l'a vu. Elle avait l'air surprise. Puis elle s'est inclinée profondément. Elle ne s'est pas relevée. Elle a simplement disparu.
 

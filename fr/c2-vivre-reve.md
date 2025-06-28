@@ -8,9 +8,9 @@ date: 2023-08-14
 
 Grâce et Thomas avaient récemment acheté une maison ensemble. Tous deux au début de la vingtaine, ils n'avaient pas beaucoup d'argent. La maison était petite et assez froide. Mais ils étaient heureux de se blottir ensemble avec une grande couverture sur leur canapé déformé.
 
-"Oh mon dieu !" a crié Grâce un soir, se levant d'un bond avec son téléphone à la main.
+«Oh mon dieu !» a crié Grâce un soir, se levant d'un bond avec son téléphone à la main.
 
-"Qu'est-ce que c'est, chérie ?" a dit Thomas, se levant à ses côtés, inquiet.
+«Qu'est-ce que c'est, chérie ?» a dit Thomas, se levant à ses côtés, inquiet.
 
 Raj Raichand, l'influenceur milliardaire sur les réseaux sociaux, avait annoncé un cadeau surprise. Les cent premières personnes qui avaient commenté sa dernière photo avaient gagné un tour du monde de quatre-vingts jours sur son yacht de luxe, tous frais payés pour deux personnes. Par pur hasard, Grâce avait été la quatre-vingt-neuvième personne à commenter -- sur soixante-dix mille.
 
@@ -24,13 +24,13 @@ Ils ont visité les îles envoûtantes de la Méditerranée et les côtes vibran
 
 La dernière nuit de la croisière, ils ont enfin aperçu M. Raichand lui-même. Il était debout seul, regardant la mer. Ils se sont approchés de lui.
 
-"Nous ne pouvons pas assez vous remercier," a dit Grâce.
+«Nous ne pouvons pas assez vous remercier», a dit Grâce.
 
-"Ceci a été un cadeau tellement généreux," a dit Thomas.
+«Ceci a été un cadeau tellement généreux», a dit Thomas.
 
 M. Raichand n'a pas répondu. Il n'a pas tourné la tête, ni même bougé.
 
-"Laissons-le tranquille," Grâce a chuchoté. Ils sont tous les deux retournés à la fête d'adieu.
+«Laissons-le tranquille», Grâce a chuchoté. Ils sont tous les deux retournés à la fête d'adieu.
 
 Après quatre-vingts jours incroyables, Grâce et Thomas se sont retrouvés une fois de plus dans leur petit salon, dans leur petite et froide maison, sur leur canapé déformé. Le souvenir des plages de sable et de l'océan scintillant était encore vif, mais il s'effaçait. Ils ont passé la soirée à regarder toutes les vidéos que l'équipe de tournage avait créées.
 
@@ -38,6 +38,6 @@ Au cours des jours suivants, une étrange humeur s'est abattue sur eux. Leurs em
 
 Ils étaient assis aux extrémités opposées de leur canapé, faisant défiler fébrilement les réseaux sociaux. Leur grande couverture gisait en tas sur le sol.
 
-"Nous ne devrions pas seulement suivre Raichand," a dit Thomas, sans lever les yeux. "D'autres influenceurs pourraient aussi offrir des cadeaux à gagner. Ils le feront certainement, puisqu'il l'a fait."
+«Nous ne devrions pas seulement suivre Raichand», a dit Thomas, sans lever les yeux. «D'autres influenceurs pourraient aussi offrir des cadeaux à gagner. Ils le feront certainement, puisqu'il l'a fait.»
 
-"Bonne idée," a dit Grâce. "Assure-toi aussi de cliquer pour recevoir les notifications. Nous devons être les premiers à commenter chaque publication."
+«Bonne idée», a dit Grâce. «Assure-toi aussi de cliquer pour recevoir les notifications. Nous devons être les premiers à commenter chaque publication.»

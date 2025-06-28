@@ -20,20 +20,20 @@ Le septième jour, Håkon entendit beaucoup de cris. Il y avait des pas lourds s
 
 Håkon a couru sur le pont. Tout le monde était trop paniqué pour le remarquer. Ils jetaient des choses à l'eau -- des lances, des tonneaux, des casques. Puis Håkon a vu ce qu'ils attaquaient. Un immense tentacule balançait dans l'air. C'était un calmar géant, deux fois plus grand que le navire.
 
-"Levez la voile!" a crié Håkon.
+«Levez la voile!» a crié Håkon.
 
-Les guerriers l'ont vu. Ils n'avaient pas le temps de demander pourquoi il était là. "Faites-le!" a crié le capitaine.
+Les guerriers l'ont vu. Ils n'avaient pas le temps de demander pourquoi il était là. «Faites-le!» a crié le capitaine.
 
 Håkon a aidé les hommes à lever la voile aussi vite qu'ils le pouvaient. Bientôt, le vent a augmenté leur vitesse, et ils se sont éloignés du monstre. Mais il avait encore faim. Il les a poursuivis avec une énergie féroce.
 
 Håkon a crié d'autres instructions, et l'équipage a travaillé rapidement. Il a utilisé sa connaissance détaillée de la conception du navire pour trouver des moyens de le faire naviguer encore plus vite. Mais le calmar était imparable.
 
-"Il nous rattrape!" a crié l'un des guerriers.
+«Il nous rattrape!» a crié l'un des guerriers.
 
 Ils ont regardé avec horreur le calmar lever sa tête énorme et laide et enrouler ses tentacules autour du mât du navire.
 
-Le capitaine a donné une lance à Håkon. "C'est la dernière," a-t-il dit.
+Le capitaine a donné une lance à Håkon. «C'est la dernière», a-t-il dit.
 
 Håkon a saisi la lance en bois. Il a senti son poids. Des années de travail avec des outils avaient rendu ses mains habiles, ses bras forts, ses yeux aiguisés. Il a lancé la lance. Elle a touché le calmar géant au centre de son unique œil rouge.
 
-"Et c'est ainsi que je suis devenu un guerrier," a dit Håkon à son petit-fils, alors qu'il terminait son histoire. "J'étais un humble constructeur de navires. J'ai osé suivre mon cœur. Maintenant, les gens m'appellent le 'Pourfendeur des Géants'."
+«Et c'est ainsi que je suis devenu un guerrier», a dit Håkon à son petit-fils, alors qu'il terminait son histoire. «J'étais un humble constructeur de navires. J'ai osé suivre mon cœur. Maintenant, les gens m'appellent le 'Pourfendeur des Géants'.»

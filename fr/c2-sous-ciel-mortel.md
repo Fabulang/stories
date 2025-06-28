@@ -6,9 +6,9 @@ key: beneath-deadly-sky
 date: 2023-07-20
 ---
 
-"Parle-moi du monde au-dessus," a demandé Évelyne.
+«Parle-moi du monde au-dessus», a demandé Évelyne.
 
-"C'était un endroit magnifique," a répondu sa grand-mère. "Le soleil était chaud, l'air était clair et frais. Il y avait des millions d'espèces d'animaux, certains qui marchaient, certains qui nageaient, certains qui volaient. Tout cela n'existe plus maintenant."
+«C'était un endroit magnifique», a répondu sa grand-mère. «Le soleil était chaud, l'air était clair et frais. Il y avait des millions d'espèces d'animaux, certains qui marchaient, certains qui nageaient, certains qui volaient. Tout cela n'existe plus maintenant.»
 
 Depuis cette conversation, Évelyne s'est obstinée à trouver un moyen pour que les humains puissent retourner à la surface de la Terre.
 
@@ -18,15 +18,15 @@ La vie souterraine était morose. Ils vivaient dans un petit bunker en métal. D
 
 Cela a rendu Évelyne encore plus déterminée. Elle a commencé à concevoir un appareil qui pourrait nettoyer l'atmosphère. Très vite, son travail a été remarqué. Elle a été invitée à parler au Haut Conseiller -- le dirigeant des humains souterrains.
 
-"Savez-vous que le virus a été créé par les humains?" a dit le Haut Conseiller, en offrant un verre de vin à Évelyne. "Il y avait une entreprise qui se spécialisait dans la recherche génétique. Le virus devait être bénéfique. Il devait maintenir les gens en bonne santé."
+«Savez-vous que le virus a été créé par les humains?» a dit le Haut Conseiller, en offrant un verre de vin à Évelyne. «Il y avait une entreprise qui se spécialisait dans la recherche génétique. Le virus devait être bénéfique. Il devait maintenir les gens en bonne santé.»
 
-"Qu'est-ce qui a mal tourné?" a demandé Évelyne.
+«Qu'est-ce qui a mal tourné?» a demandé Évelyne.
 
-"Qui sait? Le virus n'a pas attaqué les bonnes cibles. Il devait protéger les gens contre d'autres maladies. Au lieu de cela, il est devenu la plus grande maladie de tous."
+«Qui sait? Le virus n'a pas attaqué les bonnes cibles. Il devait protéger les gens contre d'autres maladies. Au lieu de cela, il est devenu la plus grande maladie de tous.»
 
-"Je vais le tuer. Nous ne serons plus prisonniers sous terre pendant très longtemps."
+«Je vais le tuer. Nous ne serons plus prisonniers sous terre pendant très longtemps.»
 
-"J'admire votre détermination, ma chère," a soupiré le Conseiller vieillissant. "Nous suivrons de près vos progrès."
+«J'admire votre détermination, ma chère», a soupiré le Conseiller vieillissant. «Nous suivrons de près vos progrès.»
 
 Évelyne a continué à travailler sur son appareil. Enfin, le prototype était prêt. Quelqu'un devait aller dehors pour le tester. La superviseur d'Évelyne s'est portée volontaire.
 
@@ -38,18 +38,18 @@ La nuit avant le test, Évelyne ne pouvait pas dormir. Elle ne pouvait pas laiss
 
 Lentement, avec des mains tremblantes, Évelyne a enlevé son casque. Puis, elle a pris une grande respiration. Si elle avait tort, mieux vaut mourir rapidement. Mais elle n'a ressenti aucune douleur. L'air était doux. Le virus avait disparu.
 
-"Maintenant vous savez," a dit le Haut Conseiller.
+«Maintenant vous savez», a dit le Haut Conseiller.
 
 Évelyne s'est retournée. Il était derrière elle, portant une combinaison protectrice, tenant un pistolet.
 
-"Conseiller?"
+«Conseiller?»
 
-"Nous étions une entreprise. C'était notre devoir de faire des profits!" a crié le Conseiller. "Nous avons donné une mutation génétique spécial aux personnes qui pouvaient payer notre prix. Le virus ne devait protéger que les personnes avec cette mutation génétique."
+«Nous étions une entreprise. C'était notre devoir de faire des profits!» a crié le Conseiller. «Nous avons donné une mutation génétique spécial aux personnes qui pouvaient payer notre prix. Le virus ne devait protéger que les personnes avec cette mutation génétique.»
 
-"Mais le virus n'a pas fonctionné," a dit Évelyne, commençant à comprendre. "Il *tuait* les personnes avec cette mutation."
+«Mais le virus n'a pas fonctionné», a dit Évelyne, commençant à comprendre. «Il *tuait* les personnes avec cette mutation.»
 
-"Au début, il tuait indistinctement. Finalement, il s'est concentré sur la cible prévue. Des personnes comme moi. Des personnes comme les autres conseillers et les superviseurs, et toutes nos familles. Les descendants de tous ceux qui ont reçu la mutation génétique."
+«Au début, il tuait indistinctement. Finalement, il s'est concentré sur la cible prévue. Des personnes comme moi. Des personnes comme les autres conseillers et les superviseurs, et toutes nos familles. Les descendants de tous ceux qui ont reçu la mutation génétique.»
 
-"Le virus est toujours là," a réalisé Évelyne. "Mais il n'est dangereux que pour vous! Alors... tout le monde peut sortir?"
+«Le virus est toujours là», a réalisé Évelyne. «Mais il n'est dangereux que pour vous! Alors... tout le monde peut sortir?»
 
-"Non, Évelyne," a dit le Conseiller d'un ton calme. "C'est exactement le point. Aucun de vous ne peut partir. Vous devez rester souterrains, avec nous. Personne ne peut jamais découvrir la vérité. Et -- je suis désolé, ma chère -- personne ne le saura."
+«Non, Évelyne», a dit le Conseiller d'un ton calme. «C'est exactement le point. Aucun de vous ne peut partir. Vous devez rester souterrains, avec nous. Personne ne peut jamais découvrir la vérité. Et -- je suis désolé, ma chère -- personne ne le saura.»

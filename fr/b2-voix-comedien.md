@@ -16,7 +16,7 @@ Maintenant, il est un comédien professionnel, mais il faisait toujours la même
 
 Pendant une performance une nuit, il a dû s'arrêter un moment quand les lumières intenses de la scène ont brillé dans ses yeux. Quand il s'est remis, François a décidé qu'il en avait assez. Il a arrêté d'imiter un chanteur célèbre et a commencé à improviser.
 
-"Vous savez, je chante sous la douche tous les jours," a-t-il commencé. Il ne savait pas où allait sa blague. "Avez-vous remarqué à quel point votre voix sonne bien dans la salle de bain ? Je pense souvent que je devrais arrêter la comédie et devenir une pop star. Puis je sors et je me vois dans le miroir."
+«Vous savez, je chante sous la douche tous les jours», a-t-il commencé. Il ne savait pas où allait sa blague. «Avez-vous remarqué à quel point votre voix sonne bien dans la salle de bain ? Je pense souvent que je devrais arrêter la comédie et devenir une pop star. Puis je sors et je me vois dans le miroir.»
 
 François a continué à partager des histoires personnelles sur sa routine matinale, le comportement bizarre de son animal de compagnie, et un entretien d'embauche passé où il avait accidentellement porté son costume à l'envers.
 

@@ -8,15 +8,15 @@ date: 2023-06-24
 
 Un jour ensoleillé, un ballon rouge était dans le parc avec une jeune fille. Tout à coup, le ballon est parti de sa main et il est monté dans le ciel.
 
-"Reviens!" a dit la fille.
+«Reviens!» a dit la fille.
 
 Il voulait redescendre. Mais le ballon est monté de plus en plus.
 
 D'abord, il a flotté au-dessus des arbres. Il y avait un vieil oiseau qui se reposait au sommet.
 
-"Ne monte pas plus haut," a dit le vieil oiseau. "Tu n'aimeras pas ça."
+«Ne monte pas plus haut», a dit le vieil oiseau. «Tu n'aimeras pas ça.»
 
-"Je dois," a dit le ballon.
+«Je dois», a dit le ballon.
 
 Le ballon a flotté au-dessus du parc. Il a vu des enfants qui jouaient et riaient. Certains d'entre eux jouaient au football. Il y avait un garçon qui était tout seul. Il regardait les enfants jouer. Les autres enfants ne l'incluaient pas dans leur jeu.
 

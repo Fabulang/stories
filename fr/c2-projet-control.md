@@ -1,5 +1,5 @@
 ---
-title: «Projet : Contrôle»
+title: "Projet : Contrôle"
 cefr: c2
 locale: fr
 key: project-control

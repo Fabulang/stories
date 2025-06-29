@@ -25,7 +25,7 @@ Un autre message arrive. «Ne mange pas de sandwich.»
 
 Frédérique regarde son sandwich. C'est un sandwich au jambon, avec de la laitue et des tomates. Il est sur une assiette, sur la table.
 
-'Ça doit être mon assistant,' pense Frédérique. 'Elle sait que je mange toujours un sandwich pour le déjeuner.'
+'Ça doit être mon assistant', pense Frédérique. 'Elle sait que je mange toujours un sandwich pour le déjeuner.'
 
 Frédérique a faim. Elle mange le sandwich.
 

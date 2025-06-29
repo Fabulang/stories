@@ -8,7 +8,7 @@ date: 2023-06-24
 
 «Prends soin du hamster», dit la maîtresse de Élie. Elle part manger.
 
-Élie est assis dans la salle de classe. Il regarde le petit hamster. Il court dans sa roue, très vite. 'C'est l'heure du déjeuner,' pense-t-il. 'Je dois le nourrir.' Il lui donne de la nourriture et de l'eau. Le hamster mange et boit.
+Élie est assis dans la salle de classe. Il regarde le petit hamster. Il court dans sa roue, très vite. 'C'est l'heure du déjeuner', pense-t-il. 'Je dois le nourrir.' Il lui donne de la nourriture et de l'eau. Le hamster mange et boit.
 
 Une petite fille entre. «Puis-je le tenir?» demande-t-elle.
 
@@ -18,7 +18,7 @@ Une petite fille entre. «Puis-je le tenir?» demande-t-elle.
 
 Le petit animal court par la porte ouverte. «Non!» crie Élie. Lui et la fille courent après. Élie ne peut voir que sa queue, quand il court dans l'herbe. Le hamster a disparu.
 
-Élie est très inquiet. 'Je suis dans le pétrin,' pense-t-il.
+Élie est très inquiet. 'Je suis dans le pétrin', pense-t-il.
 
 Il sort son téléphone et appelle sa maman.
 

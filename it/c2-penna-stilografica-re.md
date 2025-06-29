@@ -25,9 +25,9 @@ reviews: 1
 
 L'avvocato si è girato. Indossava un vestito a righe, aveva i capelli neri lucidi e un sorriso costante. Mentre si sedeva, ha strizzato l'occhio all'avvocato del signor Grigio, una donna piccola in un abito semplice. Sembrava quasi preoccupata quanto il signor Grigio stesso. Ha sistemato i suoi documenti, si è lisciato i capelli e si è alzato in piedi.
 
-"Proceda pure," ha detto il giudice con voce annoiata.
+"Proceda pure", ha detto il giudice con voce annoiata.
 
-"Signore e signori della giuria," ha iniziato l'avvocata.
+"Signore e signori della giuria", ha iniziato l'avvocata.
 
 "Il signor Grigio è stato sfortunato nella vita. Ha fatto cattive amicizie, che l'hanno intrappolato in un ciclo di debiti. Ma da quando è uscito di prigione, il signor Grigio ha cambiato vita. Ha trovato un lavoro, ha fondato una famiglia ed è in collaborazione con la polizia per portare lo strozzino alla giustizia.
 

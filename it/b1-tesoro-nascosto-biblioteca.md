@@ -10,7 +10,7 @@ Edoardo era il bibliotecario della tranquilla biblioteca della città. Viveva tr
 
 Un giorno, ha trovato una strana nota in un libro restituito. Conteneva un enigma.
 
-"Hmm," ha detto Edoardo, incuriosito. "Questo sembra una caccia al tesoro. Se la risolvo, sarò ricco!"
+"Hmm", ha detto Edoardo, incuriosito. "Questo sembra una caccia al tesoro. Se la risolvo, sarò ricco!"
 
 L'enigma descriveva una famosa statua. Edoardo ci è andato, e ha trovato un'altra nota, nella mano della statua. La nuova nota aveva un altro enigma, ma aveva anche il titolo di un libro.
 
@@ -26,7 +26,7 @@ Diceva: "Congratulazioni! Hai risolto l'enigma della lettura. Il tuo premio? Una
 
 Confuso e deluso, Edoardo è tornato in biblioteca. Ha trovato una donna ad aspettarlo. Era la Professoressa Calamo, un'insegnante di letteratura in pensione nota per il suo amore per gli enigmi.
 
-"Vedi, Edoardo," ha detto la professoressa, "il vero tesoro è sempre stato nelle tue mani -- i libri! Sono pieni di storie, conoscenze e saggezza!"
+"Vedi, Edoardo", ha detto la professoressa, "il vero tesoro è sempre stato nelle tue mani -- i libri! Sono pieni di storie, conoscenze e saggezza!"
 
 Edoardo ha riso, realizzando la verità. Aveva letto i libri così da poter trovare il tesoro, ma aveva anche davvero apprezzato leggere i libri.
 

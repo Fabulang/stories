@@ -6,9 +6,9 @@ key: beneath-deadly-sky
 date: 2023-07-20
 ---
 
-"Raccontami del mondo di sopra," ha detto Evelina.
+"Raccontami del mondo di sopra", ha detto Evelina.
 
-"È stato un luogo bellissimo," ha detto sua nonna. "Il sole era caldo, e l'aria era limpida e fresca. C'erano milioni di tipi di animali, alcuni che camminavano, alcuni che nuotavano, alcuni che volavano. Ora è tutto scomparso."
+"È stato un luogo bellissimo", ha detto sua nonna. "Il sole era caldo, e l'aria era limpida e fresca. C'erano milioni di tipi di animali, alcuni che camminavano, alcuni che nuotavano, alcuni che volavano. Ora è tutto scomparso."
 
 Da quella conversazione in poi, Evelina si è ossessionata nel trovare un modo per far ritornare gli umani sulla superficie della Terra.
 
@@ -26,7 +26,7 @@ Ciò ha reso Evelina ancora più determinata. Ha cominciato a progettare un disp
 
 "Lo eliminerò. Non saremo prigionieri sottoterra ancora per molto."
 
-"Ammiro la tua determinazione, mia cara," ha sospirato il vecchio Consigliere. "Seguiremo attentamente i tuoi progressi."
+"Ammiro la tua determinazione, mia cara", ha sospirato il vecchio Consigliere. "Seguiremo attentamente i tuoi progressi."
 
 Evelina ha continuato a lavorare sul suo dispositivo. Finalmente, il prototipo era pronto. Qualcuno doveva uscire per testarlo. Il supervisore di Evelina si è offerto volontario.
 
@@ -38,7 +38,7 @@ Evelina ha guardato attorno a se con stupore. Ha visto un mondo ricoperto di erb
 
 Lentamente, con le mani tremanti, Evelina si è tolta l'elmetto. Poi ha preso un respiro profondo. Se si fosse sbagliata, era meglio morire velocemente. Ma non ha sentito alcun dolore. L'aria era dolce. Il virus era sparito.
 
-"Adesso sai," ha detto l'Alto Consigliere.
+"Adesso sai", ha detto l'Alto Consigliere.
 
 Evelina si è girata di scatto. Lui stava dietro di lei, indossando una tuta protettiva, tenendo in mano una pistola.
 
@@ -46,10 +46,10 @@ Evelina si è girata di scatto. Lui stava dietro di lei, indossando una tuta pro
 
 "Eravamo un'azienda. Era nostro dovere fare profitto!" ha gridato il Consigliere. "Abbiamo dato una mutazione genetica speciale a persone che potevano permettersi il nostro prezzo. Il virus avrebbe protetto solo le persone con quella mutazione genetica."
 
-"Ma il virus non ha funzionato," ha detto Evelina, cominciando a capire. "Esso *uccideva* le persone con quella mutazione."
+"Ma il virus non ha funzionato", ha detto Evelina, cominciando a capire. "Esso *uccideva* le persone con quella mutazione."
 
 "All'inizio ha ucciso indiscriminatamente. Alla fine, si è concentrato sull'obiettivo prefissato. Persone come me. Persone come gli altri consiglieri e i supervisori, e tutte le nostre famiglie. I discendenti di tutti coloro che hanno ricevuto la mutazione genetica."
 
-"Il virus è ancora qui," si è resa conto Evelina. "Ma è pericoloso solo per voi! Quindi... tutti gli altri possono uscire?"
+"Il virus è ancora qui", si è resa conto Evelina. "Ma è pericoloso solo per voi! Quindi... tutti gli altri possono uscire?"
 
-"No, Evelina," ha detto il Consigliere con calma. "È proprio questo il punto. Voi dovete rimanere sotterranei, con noi. Nessuno può mai scoprire la verità. E -- mi dispiace, mia cara -- nessuno lo scoprirà."
+"No, Evelina", ha detto il Consigliere con calma. "È proprio questo il punto. Voi dovete rimanere sotterranei, con noi. Nessuno può mai scoprire la verità. E -- mi dispiace, mia cara -- nessuno lo scoprirà."

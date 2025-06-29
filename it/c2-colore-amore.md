@@ -14,11 +14,11 @@ Felicia stava fallendo nel corso, perché passava troppo tempo ad ammirare Xeep.
 
 Così, un giorno, ha raccolto il suo coraggio e si è avvicinata a lui dopo la lezione.
 
-"Ti voglio, Xeep," ha detto timidamente, il cuore che le batteva.
+"Ti voglio, Xeep", ha detto timidamente, il cuore che le batteva.
 
 Si aspettava che lui fosse preso alla sprovvista. Invece, lui l'ha guardata da capo a piedi. Poi è cambiato colore in un rosso appassionato.
 
-"Anche io ti voglio, Felicia," ha detto Xeep con la sua voce dolce e melodiosa. Anche Felicia è diventata rosso vivo. "Perché non vieni a casa mia stasera?"
+"Anche io ti voglio, Felicia", ha detto Xeep con la sua voce dolce e melodiosa. Anche Felicia è diventata rosso vivo. "Perché non vieni a casa mia stasera?"
 
 Felicia era senza parole di gioia. Ha passato il resto della giornata a prepararsi, e quella notte era praticamente danzante sulla porta di Xeep.
 
@@ -30,12 +30,12 @@ Ogni stanza aveva una diversa combinazione di colori -- c'era il blu nell'ingres
 
 Felicia ha ricordato all'improvviso qualcosa, e il suo cuore che batteva è diventato di ghiaccio in un istante.
 
-Ha iniziato a recedere verso la porta, spingendo attraverso le piante appese che avevano iniziato a brillare di un rosso fuoco. "Mi dispiace Xeep," ha balbettato. "Mi scuso. Ho appena ricordato... mi sento male. Ti dispiacerebbe se io ---"
+Ha iniziato a recedere verso la porta, spingendo attraverso le piante appese che avevano iniziato a brillare di un rosso fuoco. "Mi dispiace Xeep", ha balbettato. "Mi scuso. Ho appena ricordato... mi sento male. Ti dispiacerebbe se io ---"
 
 Ha raggiunto la porta, si è girata rapidamente e ha cercato di aprirla. Era chiusa a chiave.
 
 "Cosa c'è che non va, mio piccolo dolce?" ha chiesto Xeep, con un grande sorriso che mostrava i denti.
 
-"Nella cultura umana," ha mormorato lei, "il rosso rappresenta l'amore e il desiderio. Ma nella tua cultura..."
+"Nella cultura umana", ha mormorato lei, "il rosso rappresenta l'amore e il desiderio. Ma nella tua cultura..."
 
-"Fame," ha detto Xeep.
+"Fame", ha detto Xeep.

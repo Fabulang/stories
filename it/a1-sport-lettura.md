@@ -14,17 +14,17 @@ Ma Lilia ha un'idea. Raccoglie il libro. Lo porta a casa e lo legge tutto.
 
 Il giorno dopo, Lilia vede Luca. Gli restituisce il suo libro.
 
-"Ho letto il tuo libro," dice.
+"Ho letto il tuo libro", dice.
 
 Luca sembra sorpreso. "Ti è piaciuto?" chiede.
 
-"Adoro leggere," dice Lilia. "Ora so tutto su calcio, cricket, hockey e tennis. Possiamo parlarne."
+"Adoro leggere", dice Lilia. "Ora so tutto su calcio, cricket, hockey e tennis. Possiamo parlarne."
 
-Luca ride. "Ma a *me* non piace lo sport," dice.
+Luca ride. "Ma a *me* non piace lo sport", dice.
 
 "Cosa?" dice Lilia.
 
-"I miei genitori e i miei insegnanti mi dicono di giocare," dice Luca. "In realtà, adoro leggere, anch'io."
+"I miei genitori e i miei insegnanti mi dicono di giocare", dice Luca. "In realtà, adoro leggere, anch'io."
 
 "Veramente?"
 

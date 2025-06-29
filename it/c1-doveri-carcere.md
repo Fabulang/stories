@@ -18,15 +18,15 @@ Enrica sapeva che i guardiani erano troppo ubriachi per rendersi conto di ciò c
 
 Mentre suonava l'ultima nota, improvvisamente le luci si sono accese. Il Capo del Carcere stava nella porta. I guardiani hanno smesso di ballare e hanno salutato.
 
-"Basta così, ragazzi," ha detto il Capo. "Riportatela nella sua cella e andate a letto."
+"Basta così, ragazzi", ha detto il Capo. "Riportatela nella sua cella e andate a letto."
 
 Enrica trattenne il respiro. Il Capo aveva sentito cosa stava suonando? Ma lui era già uscito. Lei ha respirato. Era stata stupida a correre un rischio del genere. Se avesse suonato solo qualche secondo in più...
 
 Uno dei guardiani ha chiuso Enrica nella sua cella. Enrica era una donna piccola e fragile, quindi anche un guardiano ubriaco era sufficiente come sicurezza. Inoltre, non era né forte né agile abbastanza per scappare.
 
-"Devi scappare con noi," ha sussurrato il compagno di cella di Enrica dopo che il guardiano se ne è andato.
+"Devi scappare con noi", ha sussurrato il compagno di cella di Enrica dopo che il guardiano se ne è andato.
 
-"Mio caro, non posso," ha sospirato Enrica.
+"Mio caro, non posso", ha sospirato Enrica.
 
 "Fidati di me, Enrica. Abbiamo osservato per mesi. Alle dodici preciso, i guardiani al cancello del cortile vanno a pranzo -- partono sempre in orario. Almeno due minuti dopo, arrivano i prossimi guardiani -- sono sempre in ritardo. Devi solo uscire con noi e salire sulla macchina di mio fratello."
 
@@ -48,15 +48,15 @@ Enrica si è alzata e ha camminato lentamente verso il Capo.
 
 "Cosa vuoi?"
 
-"Per favore, Signore," ha detto Enrica. "Non mi sento molto bene. Potrei unirmi agli altri prigionieri nel cortile? Ho bisogno di aria."
+"Per favore, Signore", ha detto Enrica. "Non mi sento molto bene. Potrei unirmi agli altri prigionieri nel cortile? Ho bisogno di aria."
 
 Il Capo ha posato la forchetta. L'ha guardata a lungo.
 
-"Va bene," ha detto.
+"Va bene", ha detto.
 
 Enrica ha guardato l'orologio. Restava un minuto. Cerca di apparire calma mentre camminava verso la porta.
 
-Dietro di lei, ha sentito due guardiani alzarsi. "Dovremmo andare anche noi," ha detto uno. "Questo pomeriggio dobbiamo sorvegliare il cancello del cortile. Vorrei arrivare lì in anticipo per una volta."
+Dietro di lei, ha sentito due guardiani alzarsi. "Dovremmo andare anche noi", ha detto uno. "Questo pomeriggio dobbiamo sorvegliare il cancello del cortile. Vorrei arrivare lì in anticipo per una volta."
 
 Si sono messi a marciare davanti a Enrica. Lei ha continuato a camminare. Poi si è seduta al pianoforte. Ha preso un respiro profondo e ha iniziato a suonare il più forte possibile.
 

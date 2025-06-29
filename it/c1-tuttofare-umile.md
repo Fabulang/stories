@@ -12,23 +12,23 @@ Giovanni era un uomo tranquillo e felice di lavorare da solo. Fischiettava una m
 
 Un giorno, la preside ha chiamato Giovanni nel suo ufficio.
 
-"Giovanni, la scuola sta affrontando una crisi di bilancio," ha detto. "Dobbiamo ridurre molto i nostri costi e dobbiamo farlo rapidamente. Giovanni, sei licenziato."
+"Giovanni, la scuola sta affrontando una crisi di bilancio", ha detto. "Dobbiamo ridurre molto i nostri costi e dobbiamo farlo rapidamente. Giovanni, sei licenziato."
 
 "Ma perché? Non faccio un buon lavoro?" ha chiesto Giovanni.
 
-"Lo fai," ha detto la preside. "Ma tutto il resto del personale mi ha detto che non gli piaci. Sei insolito e fischietti troppo. Non posso più permettermi di pagare qualcuno così sgradevole."
+"Lo fai", ha detto la preside. "Ma tutto il resto del personale mi ha detto che non gli piaci. Sei insolito e fischietti troppo. Non posso più permettermi di pagare qualcuno così sgradevole."
 
 Dopo che Giovanni se n'è andato, la preside ha mangiato una barretta di cioccolato e ha giocato a freccette. Ma i costi della scuola erano ancora troppo alti. Nelle settimane successive, ha cancellato i pranzi scolastici, ha interrotto le lezioni di musica e ha chiuso il campo sportivo.
 
 Infine, è andata nel laboratorio di scienze e ha radunato tutti gli insegnanti.
 
-"Dobbiamo vendere tutte le attrezzature scientifiche e informatiche," ha spiegato.
+"Dobbiamo vendere tutte le attrezzature scientifiche e informatiche", ha spiegato.
 
 "Ma è tutto nuovo di zecca!" ha esclamato il capo del dipartimento di scienze. "Lo abbiamo appena comprato! Come dovremmo insegnare senza di essa?"
 
 "Perché non licenzi il tuttofare invece?" ha chiesto un altro insegnante. "Non fa niente di utile." Gli altri insegnanti erano d'accordo. Sono rimasti sorpresi nell'apprendere che era andato via settimane prima.
 
-"Non ha senso lamentarsi," ha concluso la preside. "Una volta vendute le attrezzature, la crisi di bilancio sarà finita. Dovrete semplicemente insegnare la scienza come si faceva nel 1900. Così ha imparato la scienza Einstein, quindi mi aspetto risultati eccellenti. Venite ad aiutarmi a prelevare le lavagne e il gesso dal seminterrato."
+"Non ha senso lamentarsi", ha concluso la preside. "Una volta vendute le attrezzature, la crisi di bilancio sarà finita. Dovrete semplicemente insegnare la scienza come si faceva nel 1900. Così ha imparato la scienza Einstein, quindi mi aspetto risultati eccellenti. Venite ad aiutarmi a prelevare le lavagne e il gesso dal seminterrato."
 
 Sono arrivati tutti nella stanza sotterranea. Al buio, vedevano alcune luci lampeggianti. La preside ha acceso la luce principale e tutti hanno trattenuto il fiato.
 
@@ -38,7 +38,7 @@ Il seminterrato era pieno di vecchie attrezzature scientifiche e informatiche de
 
 Tutti gli insegnanti hanno annuito e hanno fissato la preside. Lei ha preso un respiro profondo, ha tirato fuori il telefono e ha chiamato Giovanni.
 
-"Capisco," ha concluso, mettendo giù il telefono.
+"Capisco", ha concluso, mettendo giù il telefono.
 
 "Cosa ha detto?" hanno chiesto gli altri insegnanti.
 

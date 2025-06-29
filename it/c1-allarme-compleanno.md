@@ -8,11 +8,11 @@ date: 2023-06-24
 
 Giorgio è stato un imprenditore di grande successo, noto per il suo acume e la memoria acuta. Tuttavia, c'era una cosa che non è riuscito mai a ricordare -- il compleanno di sua moglie. Sua moglie, Margherita, è stata sempre paziente, ma ogni compleanno dimenticato è stato un pugno al cuore.
 
-Un anno, Giorgio ha fatto un solenne voto. "Margherita," ha detto, "giuro sulla mia vita, non dimenticherò il prossimo anno."
+Un anno, Giorgio ha fatto un solenne voto. "Margherita", ha detto, "giuro sulla mia vita, non dimenticherò il prossimo anno."
 
-"Dici lo stesso ogni anno," ha detto Margherita, abbattuta.
+"Dici lo stesso ogni anno", ha detto Margherita, abbattuta.
 
-"Ma questa volta non posso fallire," ha detto Giorgio.
+"Ma questa volta non posso fallire", ha detto Giorgio.
 
 "Come mai?" ha chiesto lei.
 

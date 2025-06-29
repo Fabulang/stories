@@ -10,7 +10,7 @@ date: 2023-10-25
 
 "La *cosa*?" ha chiesto Elisabetta. Lavorava nell'ufficio turistico solo da una settimana, ma viveva in zona da anni. Sapeva che non c'era molto da vedere, e sicuramente non c'era una celebre fermata del bus.
 
-"La *Fermata del Bus degli Spiriti*," ha ripetuto l'uomo. "È uno dei luoghi più importanti dell'intera zona. Ne ho letto online. Posso arrivarci a piedi da qui, o ho bisogno di un taxi?"
+"La *Fermata del Bus degli Spiriti*", ha ripetuto l'uomo. "È uno dei luoghi più importanti dell'intera zona. Ne ho letto online. Posso arrivarci a piedi da qui, o ho bisogno di un taxi?"
 
 "O magari un bus?" ha suggerito Elisabetta.
 
@@ -22,7 +22,7 @@ Era venerdì e quasi fine giornata. Elisabetta non voleva discussioni. Voleva ch
 
 Ha pensato a una delle tante fermate del bus del paese. "Sì, puoi raggiungere la nostra fermata del bus di fama mondiale a piedi. Segui quel sentiero verso il fiume, è sulla tua destra. È la fermata con il cartello che dice 'Vietato ai Cani'."
 
-"Fantastico," ha detto l'uomo. "Puoi dirmi qualcosa sulla sua storia?"
+"Fantastico", ha detto l'uomo. "Puoi dirmi qualcosa sulla sua storia?"
 
 Elisabetta ha fatto un respiro profondo. "Ehm... beh... c'era un... coltivatore di cavoli... che era arrabbiato perché l'autobus era in ritardo. Allora lo ha maledetto. Ora, gli autobus non arrivano mai puntuali lì. A meno che... tu non stia portando un cavolo."
 
@@ -40,7 +40,7 @@ Quando Elisabetta è arrivata al lavoro lunedì mattina, c'era una lunga fila di
 
 Elisabetta ha guardato sulla copertina e ha indicato l'etichetta. Non poteva credere al prezzo.
 
-"Dammene tre," ha detto la donna.
+"Dammene tre", ha detto la donna.
 
 Elisabetta ha venduto gli opuscoli tutta la mattina. Quando i turisti se ne sono finalmente andati, era esausta. Si è appoggiata sulla sedia e ha chiuso gli occhi. Finalmente c'era silenzio.
 

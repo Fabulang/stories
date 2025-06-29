@@ -16,21 +16,21 @@ L'assistente robotico ha risposto, "Buongiorno Signora. Io sono il panettiere ro
 
 A Editta non è piaciuto affatto.
 
-"Vorrei una pagnotta di pane, per favore," ha brontolato Editta.
+"Vorrei una pagnotta di pane, per favore", ha brontolato Editta.
 
 "Certo, posso scansionare il suo occhio per il pagamento?" ha risposto il robot, e un attrezzo appuntito è uscito dal suo corpo e si è avvicinato al suo viso.
 
 "Stai lontano!" ha gridato, balzando indietro. "Cosa c'è che non va con una banconota?"
 
-Il robot ha lampeggiato le sue luci LED, apparentemente confuso. "Mi scuso, ma accettiamo solo pagamenti elettronici, con verifica oculare," ha spiegato.
+Il robot ha lampeggiato le sue luci LED, apparentemente confuso. "Mi scuso, ma accettiamo solo pagamenti elettronici, con verifica oculare", ha spiegato.
 
 "Questa è follia! Voglio solo comprare del pane!"
 
-"Mi scuso Signora. Offriamo un'alternativa," ha detto il robot.
+"Mi scuso Signora. Offriamo un'alternativa", ha detto il robot.
 
 "Cos'è?" ha chiesto Editta.
 
-"Se ascolta tre pubblicità e condivide la nostra pagina sui social media, può avere una pagnotta di pane gratis," ha detto il robot con entusiasmo.
+"Se ascolta tre pubblicità e condivide la nostra pagina sui social media, può avere una pagnotta di pane gratis", ha detto il robot con entusiasmo.
 
 Editta si è voltata e è uscita furiosa dal negozio senza dire altro.
 

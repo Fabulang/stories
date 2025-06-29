@@ -6,11 +6,11 @@ key: jewel-kingdom
 date: 2023-07-20
 ---
 
-"Non potete fermarmi," ha riso Moros, il tiranno malvagio. "Ora userò il Gioiello del Potere per conquistare il regno! Lascia cadere la tua arma, Eravon, o lei muore."
+"Non potete fermarmi", ha riso Moros, il tiranno malvagio. "Ora userò il Gioiello del Potere per conquistare il regno! Lascia cadere la tua arma, Eravon, o lei muore."
 
 Moros teneva la sua spada contro il collo della Principessa.
 
-"Gli dei ci hanno veramente dimenticati," ha detto Eravon.
+"Gli dei ci hanno veramente dimenticati", ha detto Eravon.
 
 Una lacrima gli è scesa lungo la guancia mentre lasciava cadere a terra il suo arco. Non c'era più speranza. Moros aveva vinto.
 
@@ -34,7 +34,7 @@ Gabriella ha capito che, in qualche modo, si trovava dentro la sua stessa storia
 
 Gabriella ha dovuto inventare qualcosa che il suo eroe avrebbe creduto.
 
-"Sono lo Spirito del Destino," ha detto. "Devi agire ora. Questa è la tua ultima possibilità di salvare il regno. Capisci?"
+"Sono lo Spirito del Destino", ha detto. "Devi agire ora. Questa è la tua ultima possibilità di salvare il regno. Capisci?"
 
 "Fai strada!" ha gridato Eravon.
 
@@ -52,7 +52,7 @@ Moros ha riso a crepapelle. Ha preso il Gioiello in mano. Immediatamente, è sem
 
 "È mio!" ha gridato Moros. "Ora, nessuno può fermarmi!"
 
-"Tranne me," ha sussurrato Gabriella.
+"Tranne me", ha sussurrato Gabriella.
 
 "Tu?" ha urlato Moros. "Tu non sei nessuno!"
 
@@ -62,10 +62,10 @@ Moros è rimasto così scioccato che ha lasciato cadere sia la sua spada che il 
 
 "Cosa è successo?" ha chiesto la Principessa, stupita.
 
-"Il Gioiello concede tutto il potere del mondo," ha spiegato Gabriella. "Ma il mio potere è ancora più grande."
+"Il Gioiello concede tutto il potere del mondo", ha spiegato Gabriella. "Ma il mio potere è ancora più grande."
 
 "Chi sei veramente?" ha chiesto Eravon.
 
-"Sono l'*autrice*," ha detto Gabriella. "Ho creato questo mondo."
+"Sono l'*autrice*", ha detto Gabriella. "Ho creato questo mondo."
 
 Eravon ha asciugato le sue lacrime e ha aiutato la Principessa a rialzarsi. Gli dei non li avevano dimenticati, dopo tutto.

@@ -24,14 +24,14 @@ Ma la voce del "mostro marino" non è rimasta entro i confini della piscina. Il 
 
 "Di che sciocchezze sta parlando?" ha risposto il gestore.
 
-"Il ragazzo della piscina, Giosué, ha svelato il vostro gioco," hanno spiegato. "E non ci piace. Non vogliamo che i nostri figli nuotino nella stessa piscina di un mostro marino."
+"Il ragazzo della piscina, Giosué, ha svelato il vostro gioco", hanno spiegato. "E non ci piace. Non vogliamo che i nostri figli nuotino nella stessa piscina di un mostro marino."
 
-"Non preoccupatevi," ha risposto il gestore con un'espressione severa. "Porrò fine a tutto questo."
+"Non preoccupatevi", ha risposto il gestore con un'espressione severa. "Porrò fine a tutto questo."
 
 Più tardi, il gestore ha convocato Giosué nel suo ufficio. Mentre si dirigeva lì, il cuore di Giosué batteva nel petto. Era sicuro che stava per essere licenziato. È entrato e il gestore ha chiuso la porta. La stanza era silenziosa tranne che per il ticchettio dell'orologio.
 
-Il gestore si è spostato sul tavolo, il viso severo. "Giosué," ha detto lentamente, "mi dica solo. Quanto vuole?"
+Il gestore si è spostato sul tavolo, il viso severo. "Giosué", ha detto lentamente, "mi dica solo. Quanto vuole?"
 
 Giosué ha strizzato gli occhi per la sorpresa, la paura è svanita nella confusione. "Cosa?" ha chiesto, sorpreso.
 
-"Il mostro marino," ha spiegato il gestore. "Quanto denaro vuole per stare zitto?"
+"Il mostro marino", ha spiegato il gestore. "Quanto denaro vuole per stare zitto?"

@@ -16,7 +16,7 @@ Ora, era un comico professionista, ma stava ancora facendo la stessa cosa. Franc
 
 Durante uno spettacolo una notte, ha dovuto fermarsi per un momento quando le intense luci del palco gli hanno accecato gli occhi. Quando si è ripreso, Francesco ha deciso che ne aveva abbastanza. Ha smesso di imitare un famoso cantante e ha iniziato a improvvisare.
 
-"Sapete, canto sotto la doccia ogni giorno," ha iniziato. Non sapeva dove stava andando con il suo scherzo. "Avete notato quanto sia bello il vostro canto nel bagno? Spesso penso, forse dovrei lasciare la comicità e diventare una popstar. Poi esco e mi vedo allo specchio."
+"Sapete, canto sotto la doccia ogni giorno", ha iniziato. Non sapeva dove stava andando con il suo scherzo. "Avete notato quanto sia bello il vostro canto nel bagno? Spesso penso, forse dovrei lasciare la comicità e diventare una popstar. Poi esco e mi vedo allo specchio."
 
 Francesco ha continuato a condividere storie personali sulla sua routine mattutina, il comportamento strano del suo animale domestico, e un passato colloquio di lavoro in cui aveva indossato accidentalmente il suo abito al rovescio.
 

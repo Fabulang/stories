@@ -22,12 +22,12 @@ Guardava le stelle -- la sua nuova casa. Poi il meteorite è passato davanti all
 
 Chiara ha guardato il meteorite, e ha capito qualcosa. Non era affatto un meteorite -- era un satellite!
 
-"Un attimo," ha detto, guardando più da vicino. "Questo è il *Guardiano Spaziale*, il satellite perduto progettato per identificare meteore pericolose!"
+"Un attimo", ha detto, guardando più da vicino. "Questo è il *Guardiano Spaziale*, il satellite perduto progettato per identificare meteore pericolose!"
 
 Chiara ha indossato la sua tuta e è uscita nello spazio con i suoi attrezzi. È volata verso il satellite e ha iniziato a lavorare. Alla fine, è riuscita a riavviare il satellite. Lo ha rimandato nella sua missione.
 
 Quando è tornata sulla Terra, è stata ricevuta con sorpresa e ammirazione.
 
-"Chiara," ha detto uno scienziato, "perché hai riparato il *Guardiano Spaziale*, siamo riusciti a identificare un oggetto pericoloso. Stava venendo verso la Terra a una velocità incredibile. Con il *Guardiano Spaziale*, siamo riusciti a fermarlo!"
+"Chiara", ha detto uno scienziato, "perché hai riparato il *Guardiano Spaziale*, siamo riusciti a identificare un oggetto pericoloso. Stava venendo verso la Terra a una velocità incredibile. Con il *Guardiano Spaziale*, siamo riusciti a fermarlo!"
 
 Chiara era diventata una scienziata famosa. E aveva imparato che anche un malinteso può portare a grandi cose -- se si riesce a guardare oltre le stelle.

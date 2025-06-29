@@ -14,7 +14,7 @@ Annabella si è svegliata presto, come sempre. Come apprendista del maestro dell
 
 Annabella è entrata in cucina e ha iniziato a preparare la pappa d'avena. Il cane del maestro delle pozioni si è seduto accanto a lei e Annabella lo ha accarezzato.
 
-"Oh, che piacere," ha detto il cane.
+"Oh, che piacere", ha detto il cane.
 
 Annabella è saltata e ha lanciato la pappa d'avena in tutto il soffitto.
 

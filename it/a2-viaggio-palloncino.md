@@ -14,9 +14,9 @@ Voleva scendere di nuovo. Ma il palloncino è salito sempre più in alto.
 
 Prima, è galleggiato sopra gli alberi. C'era un vecchio uccello che riposava in cima.
 
-"Non andare più in alto," ha detto il vecchio uccello. "Non ti piacerà."
+"Non andare più in alto", ha detto il vecchio uccello. "Non ti piacerà."
 
-"Devo," ha detto il palloncino.
+"Devo", ha detto il palloncino.
 
 Il palloncino è galleggiato sopra il parco. Ha visto i bambini giocare e ridere. Alcuni di loro stavano giocando a calcio. C'era un ragazzo che era da solo. Stava guardando i bambini giocare. Gli altri bambini non giocavano con lui.
 

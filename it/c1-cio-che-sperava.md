@@ -12,7 +12,7 @@ A Parigi, mentre ammirava la Torre Eiffel e si concedeva delle crêpes, la citt�
 
 Delusa, Giulietta ha deciso di tornare a casa in anticipo. Mentre aspettava all'aeroporto, si è ritrovata seduta accanto a un giovane con uno zaino consumato. Hanno iniziato a parlare, e lei ha scoperto che si chiamava Augusto.
 
-"Speravo di scoprire qualcosa di sorprendente nel mio viaggio," ha detto Augusto. "Ma ovunque andassi -- Parigi, Roma, Londra -- mancava qualcosa."
+"Speravo di scoprire qualcosa di sorprendente nel mio viaggio", ha detto Augusto. "Ma ovunque andassi -- Parigi, Roma, Londra -- mancava qualcosa."
 
 Giulietta ha descritto la propria disillusione.
 
@@ -20,8 +20,8 @@ Improvvisamente, un annuncio ha riecheggiato nel terminal. Il loro volo è stato
 
 "Che fastidio!" ha esclamato Giulietta.
 
-"Forse è un segno," ha detto Augusto. "Non siamo destinati a tornare a casa ancora."
+"Forse è un segno", ha detto Augusto. "Non siamo destinati a tornare a casa ancora."
 
 Augusto si è rivolto a Giulietta con una scintilla audace negli occhi. "Che ne dici di continuare la nostra avventura insieme?" ha suggerito.
 
-Per la prima volta da quando era iniziato il suo viaggio, Giulietta ha sentito un brivido di eccitazione. "Forse," ha pensato, "l'avventura che speravo è appena cominciata."
+Per la prima volta da quando era iniziato il suo viaggio, Giulietta ha sentito un brivido di eccitazione. "Forse", ha pensato, "l'avventura che speravo è appena cominciata."

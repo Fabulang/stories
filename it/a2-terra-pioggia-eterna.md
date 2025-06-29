@@ -15,11 +15,11 @@ Beatrice ha detto: "Voglio trovare la strega. Deve smettere di far piovere."
 
 Davanti a lei c'erano sette uomini. Erano i capi del paese.
 
-"Vai a giocare fuori," ha detto l'uomo più anziano.
+"Vai a giocare fuori", ha detto l'uomo più anziano.
 
-"È troppo bagnato," ha detto Beatrice.
+"È troppo bagnato", ha detto Beatrice.
 
-"Allora rimani dentro," ha detto l'uomo anziano.
+"Allora rimani dentro", ha detto l'uomo anziano.
 
 "Voglio aiutare il paese."
 
@@ -55,7 +55,7 @@ La strega ha guardato Beatrice.
 
 "Mi dispiace, cara. Sei turbata."
 
-"Sto bene," ha detto Beatrice. Stava piangendo.
+"Sto bene", ha detto Beatrice. Stava piangendo.
 
 "Per favore, non piangere, mia cara. Voglio aiutarti. Farò tutto ciò che mi chiederai."
 

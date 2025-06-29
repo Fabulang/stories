@@ -6,9 +6,9 @@ key: brothers-choice
 date: 2025-01-26
 ---
 
-"Questo è un orologio davvero bello," ha detto l'amico di Lorenzo, fermandosi nel corridoio.
+"Questo è un orologio davvero bello", ha detto l'amico di Lorenzo, fermandosi nel corridoio.
 
-"Ah, già, sei un collezionista," ha risposto Lorenzo. Ha porso la bevanda al suo amico.
+"Ah, già, sei un collezionista", ha risposto Lorenzo. Ha porso la bevanda al suo amico.
 
 "Dove l'hai preso?"
 
@@ -20,7 +20,7 @@ date: 2025-01-26
 
 Trent'anni prima, i tre fratelli si erano seduti nell'ufficio dell'avvocata.
 
-"Dicci solo cosa ci sta lasciando," ha detto il fratello maggiore di Lorenzo.
+"Dicci solo cosa ci sta lasciando", ha detto il fratello maggiore di Lorenzo.
 
 L'avvocata ha girato il foglio e ha letto ad alta voce: "La mia casa e tutti i miei beni saranno messi all'asta. Il denaro sarà dato ai miei figli..."
 
@@ -30,19 +30,19 @@ L'avvocata ha girato il foglio e ha letto ad alta voce: "La mia casa e tutti i m
 
 "Beneficenza?!"
 
-"Propongo di donarlo alla ricerca medica," ha detto Lorenzo. "La malattia di papà era ---"
+"Propongo di donarlo alla ricerca medica", ha detto Lorenzo. "La malattia di papà era ---"
 
-"Qualsiasi cosa," ha detto il fratello maggiore. "Decidi tu."
+"Qualsiasi cosa", ha detto il fratello maggiore. "Decidi tu."
 
-L'avvocata ha tossito. "C'è un'altra cosa," ha detto. Ha continuato a leggere: "Prima dell'asta, ogni figlio può scegliere un oggetto da tenere per ragioni sentimentali."
+L'avvocata ha tossito. "C'è un'altra cosa", ha detto. Ha continuato a leggere: "Prima dell'asta, ogni figlio può scegliere un oggetto da tenere per ragioni sentimentali."
 
-"Prendo la TV," ha detto immediatamente il fratello minore.
+"Prendo la TV", ha detto immediatamente il fratello minore.
 
-"Ormai sono morto," ha continuato l'avvocata, "ma ho un ultimo consiglio per i miei figli. Non c'è ---"
+"Ormai sono morto", ha continuato l'avvocata, "ma ho un ultimo consiglio per i miei figli. Non c'è ---"
 
 I fratelli di Lorenzo sono usciti correndo dalla stanza. Pochi secondi dopo, lui ha sentito le loro macchine partire.
 
-"Non c'è niente di più prezioso dei bei ricordi," ha concluso l'avvocata, sollevando le sopracciglia.
+"Non c'è niente di più prezioso dei bei ricordi", ha concluso l'avvocata, sollevando le sopracciglia.
 
 "Cosa hanno scelto i tuoi fratelli?" ha chiesto l'amico di Lorenzo, trent'anni dopo. "Il tuo fratello minore ha davvero preso la TV?"
 

@@ -12,11 +12,11 @@ Tuttavia, alla vigilia della fiera, ha scoperto che la sua zucca era sparita. C'
 
 Arnoldo ha affrontato il suo vicino. "Hai preso la mia zucca?" ha chiesto.
 
-"Non mi prenderei mai la briga di prendere un ortaggio così patetico," ha risposto bruscamente il vicino.
+"Non mi prenderei mai la briga di prendere un ortaggio così patetico", ha risposto bruscamente il vicino.
 
-"Era una zucca molto rispettabile," ha insistito Arnoldo. "E qualcuno l'ha presa. Sospetto che abbiano pensato che l'unico modo per vincere fosse sabotare la mia candidatura."
+"Era una zucca molto rispettabile", ha insistito Arnoldo. "E qualcuno l'ha presa. Sospetto che abbiano pensato che l'unico modo per vincere fosse sabotare la mia candidatura."
 
-"È un'accusa scandalosa," ha detto il vicino. "Sei sempre stato un giardiniere incapace. La tua zucca non avrebbe vinto un premio, nemmeno se assegnassero premi per gli ortaggi peggiori sulla terra."
+"È un'accusa scandalosa", ha detto il vicino. "Sei sempre stato un giardiniere incapace. La tua zucca non avrebbe vinto un premio, nemmeno se assegnassero premi per gli ortaggi peggiori sulla terra."
 
 Arnoldo è stato ferito e è tornato a casa infuriato.
 
@@ -28,7 +28,7 @@ Improvvisamente, ci è stato un trambusto all'ingresso della tenda. La zucca di 
 
 I giudici sono rimasti sbalorditi. "Guardate le dimensioni di quella zucca!" hanno esclamato. Il vicino sembrava molto preoccupato.
 
-Il giudice senior si è avvicinato ad Arnoldo. "Visto che abbiamo già assegnato il primo premio, non possiamo toglierlo," ha detto. "Ma se la tua zucca fosse arrivata in tempo, sicuramente avrebbe vinto."
+Il giudice senior si è avvicinato ad Arnoldo. "Visto che abbiamo già assegnato il primo premio, non possiamo toglierlo", ha detto. "Ma se la tua zucca fosse arrivata in tempo, sicuramente avrebbe vinto."
 
 Il vicino sembrava soddisfatto, e ha agitato il suo trofeo verso Arnoldo.
 

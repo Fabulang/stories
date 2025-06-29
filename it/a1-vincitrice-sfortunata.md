@@ -10,7 +10,7 @@ Lucia vive in una piccola città. Ci sono parchi, alberi e case graziose. È un 
 
 Ma Lucia non è felice. Non conosce nessuno. Ed è sempre sfortunata.
 
-"Se vincessi alla lotteria, sarei felice," pensa. "Ma sono sempre sfortunata."
+"Se vincessi alla lotteria, sarei felice", pensa. "Ma sono sempre sfortunata."
 
 Un giorno, ha un'idea.
 
@@ -22,11 +22,11 @@ Deve comprare regali per tutti. Perde un sacco di soldi. Ma diventa amica di tut
 
 Poi, una compagnia televisiva viene a casa sua. Vogliono parlare della sua fortuna. Lucia ha paura.
 
-"Non ho vinto," dice loro.
+"Non ho vinto", dice loro.
 
 Sono scioccati.
 
-"Ma compri tanti regali per tutti," dicono.
+"Ma compri tanti regali per tutti", dicono.
 
 Raccontano la storia di Lucia alle notizie. Migliaia di persone ascoltano la storia.
 

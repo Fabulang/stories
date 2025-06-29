@@ -16,7 +16,7 @@ Frederica legge il messaggio sul suo telefono.
 
 "Non posso dirtelo."
 
-Frederica ride. "Bello scherzo," scrive.
+Frederica ride. "Bello scherzo", scrive.
 
 Frederica mette giù il telefono. Riflette per un momento. Al lavoro, il suo assistente è sempre molto spiritoso. Deve essere il suo assistente.
 
@@ -24,7 +24,7 @@ Arriva un altro messaggio. "Non mangiare il panino."
 
 Frederica guarda il suo panino. È un panino con prosciutto, lattuga e pomodori. È su un piatto, sul tavolo.
 
-'Deve essere il mio assistente,' pensa Frederica. 'Sa che mangio sempre un panino a pranzo.'
+"Deve essere il mio assistente", pensa Frederica. 'Sa che mangio sempre un panino a pranzo.'
 
 Frederica ha fame. Mangia il panino.
 
@@ -32,7 +32,7 @@ Il giorno dopo, Frederica sta molto male. Frederica non va al lavoro. Rimane a c
 
 Il suo telefono emette un suono. C'è un nuovo messaggio. "Adesso mi credi?"
 
-"Smettila con questo gioco," scrive Frederica.
+"Smettila con questo gioco", scrive Frederica.
 
 "Non andare in vacanza."
 
@@ -62,7 +62,7 @@ Si sveglia nel letto dell'ospedale. Non può muoversi. Il dottore dice che deve 
 
 Un anno dopo, Frederica finalmente torna al lavoro. È in sedia a rotelle.
 
-"Bentornata," dice il suo assistente. "Mi dispiace per il tuo incidente. Ma c'è una buona notizia: il progetto segreto è ora completato."
+"Bentornata", dice il suo assistente. "Mi dispiace per il tuo incidente. Ma c'è una buona notizia: il progetto segreto è ora completato."
 
 "Come?" chiede Frederica.
 
@@ -72,12 +72,12 @@ Un anno dopo, Frederica finalmente torna al lavoro. È in sedia a rotelle.
 
 "La tua teoria è corretta. Ma possiamo mandare *messaggi* attraverso il tempo!"
 
-"Fammi vedere i calcoli," dice Frederica.
+"Fammi vedere i calcoli", dice Frederica.
 
 Il suo assistente le dà i documenti.
 
-"Capisco," dice Frederica. "Il messaggio non deve rivelare che viene dal futuro."
+"Capisco", dice Frederica. "Il messaggio non deve rivelare che viene dal futuro."
 
-"Esattamente," dice l'assistente. "È importante per la sicurezza."
+"Esattamente", dice l'assistente. "È importante per la sicurezza."
 
 "Ottimo lavoro. Prepara subito il primo test." Frederica dà il suo telefono all'assistente. "Ecco la lista dei messaggi."

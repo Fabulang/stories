@@ -20,4 +20,4 @@ Ma la preside non ride. Chiama Matteo nel suo ufficio. Matteo è molto spaventat
 
 Nell'ufficio della preside, Matteo tremava. La preside è dietro la sua scrivania. Lo guarda. Poi, sorride.
 
-"Sei molto bravo con la magia," dice. "Hai fatto apparire quindici anatre, con un solo incantesimo. Solo un potente mago può farlo. Sei pronto per la classe più alta."
+"Sei molto bravo con la magia", dice. "Hai fatto apparire quindici anatre, con un solo incantesimo. Solo un potente mago può farlo. Sei pronto per la classe più alta."

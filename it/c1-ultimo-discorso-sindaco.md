@@ -8,7 +8,7 @@ date: 2024-09-08
 
 Una grande folla di cittadini preoccupati si era radunata per ascoltare il discorso del sindaco.
 
-"Tre anni fa, mi avete onorato con il vostro voto," ha detto. "Ma vi ho delusi. La città è rimasta senza soldi.
+"Tre anni fa, mi avete onorato con il vostro voto", ha detto. "Ma vi ho delusi. La città è rimasta senza soldi.
 
 "Dove sono finiti tutti i soldi?" ha gridato il macellaio.
 
@@ -16,17 +16,17 @@ Una grande folla di cittadini preoccupati si era radunata per ascoltare il disco
 
 L'anno scorso, la città aveva votato per organizzare un sontuoso festival della birra. Nella sua campagna, il sindaco aveva detto che avrebbe rilanciato l'economia locale. Centinaia di tendoni erano stati costruiti, con illuminazione, impianti idraulici e decorazioni rustiche. Migliaia di persone erano venute a festeggiare per due settimane.
 
-"Stiamo ancora spazzando i rifiuti," ha spiegato il sindaco. "Abbiamo immagazzinato i tendoni nel seminterrato del museo, ma ora sono ammuffiti... e anche il seminterrato lo è."
+"Stiamo ancora spazzando i rifiuti", ha spiegato il sindaco. "Abbiamo immagazzinato i tendoni nel seminterrato del museo, ma ora sono ammuffiti... e anche il seminterrato lo è."
 
 "E qual è il tuo programma?" ha chiesto qualcuno.
 
-"Ho esaurite tutte le idee," ha ammesso il sindaco. "Ecco perché mi dimetto e lascio la città... con vergogna." Si è asciugato una lacrima con la sua cravatta.
+"Ho esaurite tutte le idee", ha ammesso il sindaco. "Ecco perché mi dimetto e lascio la città... con vergogna." Si è asciugato una lacrima con la sua cravatta.
 
 La folla ha mormorato con preoccupazione.
 
 "Non dire così!" ha detto una donna in un vestito rosa. "Hai fatto del tuo meglio. Non devi lasciarci."
 
-"Devo," ha detto il sindaco tristemente. "Come posso vivere con voi tutti, sapendo che vi ho deluso? Ho già fatto le valigie. Non voglio clamore. Il mio treno parte tra due ore."
+"Devo", ha detto il sindaco tristemente. "Come posso vivere con voi tutti, sapendo che vi ho deluso? Ho già fatto le valigie. Non voglio clamore. Il mio treno parte tra due ore."
 
 "Aspetta -- possiamo ancora salvare la città! Possiamo aprire la cripta dei Bellocampo!"
 

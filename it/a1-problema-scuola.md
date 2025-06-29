@@ -14,7 +14,7 @@ Si fermano all'ingresso principale.
 
 "La terza porta ---" dice l'uomo. È spaventato. Non riesce a parlare.
 
-"Qui sei al sicuro," dice la donna.
+"Qui sei al sicuro", dice la donna.
 
 L'uomo respira. "Attraversa l'atrio principale. Poi è la terza porta a sinistra."
 
@@ -24,9 +24,9 @@ L'uomo le porge una torcia. "Prendi questa." Lei la respinge.
 
 "Non posso usarla. Nella mia professione, Preside... devo lavorare al buio. I miei... strumenti... sono nella mia borsa."
 
-Il viso dell'uomo è pallido. "Non voglio sapere cosa c'è lì dentro," dice. "Per favore, risolvi solo il nostro... problema."
+Il viso dell'uomo è pallido. "Non voglio sapere cosa c'è lì dentro", dice. "Per favore, risolvi solo il nostro... problema."
 
-"Assicurati solo che il secondo pagamento arrivi in tempo," dice la signorina Acciaio. Poi entra nella scuola. La porta si chiude rumorosamente dietro di lei.
+"Assicurati solo che il secondo pagamento arrivi in tempo", dice la signorina Acciaio. Poi entra nella scuola. La porta si chiude rumorosamente dietro di lei.
 
 Non c'è alcuna luce. Non riesce a vedere niente. Tocca le pareti con le mani. La pietra è fredda.
 
@@ -50,9 +50,9 @@ Il ragazzino non risponde. Il gesso ticchetta e graffia. Lentamente, la signorin
 
 "Sei un'altra ammazza fantasmi?" dice improvvisamente il ragazzino. "Posso farti del male anche io."
 
-"Non voglio farti del male," dice subito la signorina Acciaio. Troppo in fretta.
+"Non voglio farti del male", dice subito la signorina Acciaio. Troppo in fretta.
 
-"Cinquecentodiciassettemila... duecentoquarantasei," dice il ragazzino. Sta guardando la lavagna. Ci sono numeri dappertutto. "Diviso quarantaduemila... ottocentododici..."
+"Cinquecentodiciassettemila... duecentoquarantasei", dice il ragazzino. Sta guardando la lavagna. Ci sono numeri dappertutto. "Diviso quarantaduemila... ottocentododici..."
 
 "Stai... facendo matematica?"
 

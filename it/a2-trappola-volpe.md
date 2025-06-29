@@ -9,13 +9,13 @@ reviews: 1
 
 Sig.na Topo era nella sua stanza, nella sua casa nella foresta. La sua casa era dentro un piccolo tronco a terra. Aveva quattro finestre, una porta d'ingresso e una porta sul retro, e un piccolo camino.
 
-Topo si stava guardando allo specchio. "Le mie orecchie sono così grandi," ha detto tristemente. "Gli altri animali ridono di me." Ha sospirato.
+Topo si stava guardando allo specchio. "Le mie orecchie sono così grandi", ha detto tristemente. "Gli altri animali ridono di me." Ha sospirato.
 
 Fuori dal tronco, Sig. Volpe stava passando. Ha sentito quello che ha detto Topo. Si è avvicinato silenziosamente.
 
-"Vorrei essere come Farfalla," ha continuato Topo. "Tutti amano Farfalla. È così carina. Le sue ali sono così attraenti e colorate. E che orecchie piccole! La vita è facile per lei."
+"Vorrei essere come Farfalla", ha continuato Topo. "Tutti amano Farfalla. È così carina. Le sue ali sono così attraenti e colorate. E che orecchie piccole! La vita è facile per lei."
 
-"Scusami," ha detto Volpe.
+"Scusami", ha detto Volpe.
 
 Topo ha sobbalzato. Si è girata. Poteva vedere uno degli occhi di Volpe in ogni finestra.
 
@@ -27,31 +27,31 @@ La voce di Volpe era calma e amichevole. "Mi dispiace per te. Anch'io sono molto
 
 "No!" ha detto Topo, con gli occhi spalancati.
 
-"Beh, esci dal tuo tronco e ti ci porterò," ha detto Volpe.
+"Beh, esci dal tuo tronco e ti ci porterò", ha detto Volpe.
 
 Topo ha riflettuto attentamente. Si è guardata di nuovo allo specchio. Ha visto le sue grandi orecchie.
 
-"Ma devo restare a casa," ha detto Topo. "Quasi dimenticavo. I miei nipoti vengono a trovarmi dopo la scuola. Devo aspettarli."
+"Ma devo restare a casa", ha detto Topo. "Quasi dimenticavo. I miei nipoti vengono a trovarmi dopo la scuola. Devo aspettarli."
 
-Ora gli occhi di Volpe erano spalancati. "Non è affatto un problema," ha detto. "Ti porterò io. Prima andiamo alla Scuola dei Topi. Poi andremo tutti insieme al lago magico."
+Ora gli occhi di Volpe erano spalancati. "Non è affatto un problema", ha detto. "Ti porterò io. Prima andiamo alla Scuola dei Topi. Poi andremo tutti insieme al lago magico."
 
 Il cuoricino del Topo batteva veloce mentre si metteva le scarpe. Ha aperto la porta. Volpe stava aspettando pazientemente. Lentamente, Topo ha camminato verso di lui.
 
 Quando Topo era davanti alla bocca di Volpe, lui ha detto, "Quanti nipoti? Quanto sono piccoli?"
 
-"Ho dodici nipoti femmine e otto nipoti maschi," ha detto Topo. "Tutti stanno facendo gli esami finali. Sono molto carini."
+"Ho dodici nipoti femmine e otto nipoti maschi", ha detto Topo. "Tutti stanno facendo gli esami finali. Sono molto carini."
 
 "Non vedo l'ora di conoscerli."
 
 Topo è salita sulla testa di Volpe.
 
-"Vai tra quei cespugli, segui il fiume, poi la scuola è nel campo," ha detto Topo.
+"Vai tra quei cespugli, segui il fiume, poi la scuola è nel campo", ha detto Topo.
 
 Volpe ha iniziato a correre. Topo poteva vedere la lingua di Volpe, che si leccava le labbra.
 
-"Ho solo bisogno di un po' d'acqua," ha detto Volpe. "Correre è faticoso."
+"Ho solo bisogno di un po' d'acqua", ha detto Volpe. "Correre è faticoso."
 
-"Mi dispiace," ha detto Topo. "È proprio lì."
+"Mi dispiace", ha detto Topo. "È proprio lì."
 
 Potevano vedere il campo tra due grandi alberi. Volpe ha corso velocemente.
 

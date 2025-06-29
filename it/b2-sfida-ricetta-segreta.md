@@ -24,7 +24,7 @@ La mattina seguente, ha preparato meticolosamente la torta. La cucina profumava 
 
 Quando la torta è stata pronta, Clementina l'ha presentata con orgoglio al Sig. Guardaboschi. Lui ha preso attentamente un morso. Gli occhi si sono spalancati, e lentamente ha cominciato a sorridere.
 
-"Non mi aspettavo che scoprisse il segreto," ha riso. "Volevo vedere come avrebbe creato un sapore simile. Era una prova della sua conoscenza dei diversi ingredienti."
+"Non mi aspettavo che scoprisse il segreto", ha riso. "Volevo vedere come avrebbe creato un sapore simile. Era una prova della sua conoscenza dei diversi ingredienti."
 
 Clementina temeva di aver fallito la sfida.
 

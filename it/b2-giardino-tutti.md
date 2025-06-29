@@ -26,7 +26,7 @@ Era una delle persone che abitavano nel palazzo. Era affacciata alla finestra.
 
 "Tue?" ha chiesto Amanda, sconcertata.
 
-"Giusto," ha risposto bruscamente la vicina. "Stai nel mio pezzo di giardino. Esci di lì!"
+"Giusto", ha risposto bruscamente la vicina. "Stai nel mio pezzo di giardino. Esci di lì!"
 
 "*Tuo* pezzo di giardino?"
 
@@ -38,6 +38,6 @@ Qualche anno dopo, Amanda viveva in una parte diversa della città. Aveva quasi 
 
 "Non è lì che abitavi, cara?" le ha chiesto il marito.
 
-Amanda ha riso. "Sì, credo tu abbia ragione," ha detto.
+Amanda ha riso. "Sì, credo tu abbia ragione", ha detto.
 
 Il marito ha guardato più attentamente, osservando tutto intorno all'edificio. "Che orribile groviglio di erbacce."

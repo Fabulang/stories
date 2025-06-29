@@ -8,7 +8,7 @@ reviewers:
 - giulia-italian-language-hub
 ---
 
-"Fai dei bei sogni, tesoro," ha detto la mamma di Dorotea. Ha spento la luce e ha chiuso la porta.
+"Fai dei bei sogni, tesoro", ha detto la mamma di Dorotea. Ha spento la luce e ha chiuso la porta.
 
 Dorotea si sentiva al sicuro. Il suo cuscino era morbido e il piumone era spesso e caldo. Intorno al suo letto c'erano i suoi giocattoli preferiti: tanti aerei di diversi tipi. Il suo sogno era diventare pilota.
 
@@ -18,17 +18,17 @@ Non credeva nei mostri. Così è scesa dal letto e ha guardato sotto. C'erano du
 
 Dorotea ha sussultato. Il mostro ha emesso un suono stridulo ed è corso verso la finestra. Dorotea è riuscita a vederlo al chiaro di luna. Sembrava una grande palla di pelo con due occhi luminosi.
 
-"Non avere paura," ha detto Dorotea. "Io sono un essere umano. Tu cosa sei?"
+"Non avere paura", ha detto Dorotea. "Io sono un essere umano. Tu cosa sei?"
 
-"Non so cosa sono," ha detto il mostro. Aveva una voce stridula. "Vivo sotto i letti. Tutti hanno paura di me. Quando qualcuno mi trova, devo trovare un nuovo letto."
+"Non so cosa sono", ha detto il mostro. Aveva una voce stridula. "Vivo sotto i letti. Tutti hanno paura di me. Quando qualcuno mi trova, devo trovare un nuovo letto."
 
-"Puoi vivere sotto il mio letto," ha detto Dorotea. "Hai fame? Cosa mangi?"
+"Puoi vivere sotto il mio letto", ha detto Dorotea. "Hai fame? Cosa mangi?"
 
 "Polvere, capelli, unghie..."
 
 "Che schifo!" ha riso Dorotea.
 
-"Ragni, mosche," ha continuato il mostro, ridendo anche lui. "Porcellini di terra, formiche..."
+"Ragni, mosche", ha continuato il mostro, ridendo anche lui. "Porcellini di terra, formiche..."
 
 "Smettila!" ha riso Dorotea.
 
@@ -38,9 +38,9 @@ Dorotea ha sussultato. Il mostro ha emesso un suono stridulo ed è corso verso l
 
 Vent'anni dopo, Dorotea si rilassava sul suo sedile. Era una bellissima giornata. C'erano molte nuvole, ma Dorotea poteva sentire il sole sulla pelle, perché era sopra le nuvole.
 
-"Tutti i sistemi sono normali," ha detto al copilota. "Siamo in rotta e arriveremo in orario."
+"Tutti i sistemi sono normali", ha detto al copilota. "Siamo in rotta e arriveremo in orario."
 
-"Non sono state segnalate tempeste," ha detto il copilota. "Questo sarà un volo facile e tranquillo. Oh mio Dio, cos'è quello?"
+"Non sono state segnalate tempeste", ha detto il copilota. "Questo sarà un volo facile e tranquillo. Oh mio Dio, cos'è quello?"
 
 Il mostro di Dorotea le era saltato in grembo.
 
@@ -52,9 +52,9 @@ Il mostro di Dorotea le era saltato in grembo.
 
 "Era un gatto? Non puoi portare il tuo animale in cabina!"
 
-"Ti stai facendo delle fantasie," ha detto Dorotea. "Non ho visto niente."
+"Ti stai facendo delle fantasie", ha detto Dorotea. "Non ho visto niente."
 
-"Questo è molto grave," ha detto il copilota. Ha chiamato il capo degli assistente di volo, che è entrata nella cabina di pilotaggio. "Per favore, controlli nella borsa di Dorotea."
+"Questo è molto grave", ha detto il copilota. Ha chiamato il capo degli assistente di volo, che è entrata nella cabina di pilotaggio. "Per favore, controlli nella borsa di Dorotea."
 
 Appena l'assistente di volo ha aperto la borsa, il mostro è saltato fuori. L'assistente di volo ha urlato, e il copilota si è alzato dalla sua sedia. Ha cercato di catturare il mostro, ma questo rimbalzava dappertutto nella cabina di pilotaggio.
 
@@ -80,8 +80,8 @@ Il copilota è tornato al suo posto. L'assistente di volo si è rimessa il cappe
 
 Cinquant'anni dopo, Dorotea si è infilata a letto sotto il suo piumone caldo. Ha letto un libro per un po'. Era uno dei suoi preferiti, che parlava di viaggi nel mondo. Alla fine ha posato il libro. La casa era molto silenziosa.
 
-"Buonanotte," ha detto.
+"Buonanotte", ha detto.
 
 Pian piano, il mostro è uscito da sotto il letto. Si è seduto sulle sue ginocchia. Tutti i suoi peli erano grigi. Dorotea l'ha accarezzato.
 
-"Fai dei bei sogni, Dorotea," ha gracchiato il mostro. È tornato sotto il letto e Dorotea ha spento la luce.
+"Fai dei bei sogni, Dorotea", ha gracchiato il mostro. È tornato sotto il letto e Dorotea ha spento la luce.

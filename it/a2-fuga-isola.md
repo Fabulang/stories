@@ -14,7 +14,7 @@ La terza notte, c'è stata una grande tempesta. Il vento e le onde spingevano la
 
 Giacomo si è svegliato su un'isola. Era bellissima. C'erano alberi con frutta gustosa, e molti pesci nel mare. Giacomo era solo, ma era felice.
 
-"Questo paese è bellissimo," ha detto Giacomo a se stesso. "È qui che volevo vivere."
+"Questo paese è bellissimo", ha detto Giacomo a se stesso. "È qui che volevo vivere."
 
 Un giorno, è salito su un albero alto. Ha guardato attorno e ha visto qualcosa. C'erano luci in lontananza. Ha guardato attentamente. Poi è rimasto sorpreso.
 

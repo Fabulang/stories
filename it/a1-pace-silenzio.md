@@ -22,11 +22,11 @@ Alla fine, Roberto è sudato. Si siede e mangia la sua bistecca di tonno. Il gat
 
 Taglia un pezzo della bistecca di tonno e lo dà al gattino. Il gattino lo mangia con delizia.
 
-Diversi mesi dopo, Roberto arriva a casa la sera. "Benvenuta nel mio appartamento," dice. Sta parlando a una donna. Lei entra con lui.
+Diversi mesi dopo, Roberto arriva a casa la sera. "Benvenuta nel mio appartamento", dice. Sta parlando a una donna. Lei entra con lui.
 
-"È un appartamento adorabile," dice la donna. "Hai coinquilini? O vivi da solo?"
+"È un appartamento adorabile", dice la donna. "Hai coinquilini? O vivi da solo?"
 
-"Non esattamente *da solo*," dice Roberto.
+"Non esattamente *da solo*", dice Roberto.
 
 Due gatti vengono a trovarli. Roberto si inginocchia e li accarezza. Fanno le fusa. Uno di loro ha il pelo nero, e l'altro ha il pelo rosso.
 
@@ -34,4 +34,4 @@ Poi, otto gattini corrono verso di loro. Miagolano tutti insieme. Hanno fame.
 
 "Come si chiamano?" chiede la donna. Il miagolio è così forte che quasi deve gridare.
 
-"Questo si chiama Pace," dice forte, accarezzando il gatto nero. "E questo si chiama Silenzio." Accarezza il gatto rosso. La donna vede che ha solo un orecchio.
+"Questo si chiama Pace", dice forte, accarezzando il gatto nero. "E questo si chiama Silenzio." Accarezza il gatto rosso. La donna vede che ha solo un orecchio.

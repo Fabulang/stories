@@ -8,19 +8,19 @@ date: 2024-09-08
 
 Polvere secca, rossa. Quando la maggior parte delle persone pensa a Marte, è l'unica cosa che riesce a immaginare. Ma per Filippa, era il luogo più affascinante dell'universo.
 
-"Dammi la tua opinione quando avrai esaminato le prove," ha detto Filippa bruscamente.
+"Dammi la tua opinione quando avrai esaminato le prove", ha detto Filippa bruscamente.
 
 "Il mio tempo è prezioso, cara. Sto facendo un lavoro importante."
 
 La maggior parte degli scienziati della base di Marte stava lavorando allo stesso progetto: costruire la prima città su Marte. Filippa stava facendo le sue ricerche.
 
-"Ho trovato lo stesso simbolo su decine di rocce vari luoghi su Marte," ha insistito Filippa. "Un quadrato con una linea e un punto. È una lingua antica. Deve esserci stata una civiltà su Marte in passato. Altrimenti, come lo spieghi?"
+"Ho trovato lo stesso simbolo su decine di rocce vari luoghi su Marte", ha insistito Filippa. "Un quadrato con una linea e un punto. È una lingua antica. Deve esserci stata una civiltà su Marte in passato. Altrimenti, come lo spieghi?"
 
 "Un quadrato con una linea e un punto! Decine!" l'altra donna l'ha derisa. "Non mi sorprende che il governo ti stia rimandando sulla Terra. Quanti soldi hanno sprecato per farti giocare?"
 
 Filippa sapeva di essere stata fortunata a ricevere così tanti finanziamenti. Ma senza prove concrete dopo tre missioni, il governo aveva rifiutato di pagare per una quarta. Quello era l'ultimo giorno che avrebbe mai trascorso su Marte.
 
-"A loro non interessa la sua teoria," ha riso l'uomo dall'altra parte del tavolo da pranzo. "È l'unica persona abbastanza pazza da esplorare quella parte delle grotte. Le sue mappe sono opere d'arte. È un vero affare."
+"A loro non interessa la sua teoria", ha riso l'uomo dall'altra parte del tavolo da pranzo. "È l'unica persona abbastanza pazza da esplorare quella parte delle grotte. Le sue mappe sono opere d'arte. È un vero affare."
 
 "Saresti dovuta diventare un'artista, cara. Di che colore erano i tuoi antichi alieni? Rossi o verdi?"
 

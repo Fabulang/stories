@@ -8,13 +8,13 @@ date: 2023-08-14
 
 Tutti nel Dipartimento di Polizia hanno applaudito e acclamato quando l'Investigatore Corvo è entrato nella stanza. Ha risolto l'ennesimo caso di omicidio intrattabile. Come ha capito che era stata la babysitter con così pochi indizi?
 
-"Hai una sorta di sesto senso, Corvo," ha detto il Capo.
+"Hai una sorta di sesto senso, Corvo", ha detto il Capo.
 
 Corvo ha sorriso e ha semplicemente risposto: "Solo metodi investigativi tradizionali, Capo."
 
 Più tardi quella notte, Corvo è sceso nel suo scantinato. Era pieno di fascicoli, contenenti i dettagli di casi di omicidio irrisolti. Sulla scrivania c'era un fascicolo aperto contrassegnato 'Bianca'. Giovanna Bianca era stata trovata in strada, senza nulla che indicasse chi l'avesse uccisa.
 
-"Stasera tocca a te, Giovanna," ha sussurrato Corvo.
+"Stasera tocca a te, Giovanna", ha sussurrato Corvo.
 
 Corvo ha aperto una cassettina con lucchetto e ha tirato fuori un piccolo apparecchio. Era un piccolo cubo nero senza caratteristiche, tranne un singolo pulsante rosso. Corvo ha chiuso gli occhi, immaginando Giovanna la notte della sua morte. Poi ha premuto il pulsante.
 
@@ -28,7 +28,7 @@ Istantaneamente, Corvo era tornato nel suo scantinato. Ora che sapeva chi indaga
 
 Entro una settimana, il segretario è stato dietro le sbarre, e il Dipartimento di Polizia è stato di nuovo sbalordito.
 
-"A questo ritmo, risolverai il caso Falkenroth," lo prendeva in giro.
+"A questo ritmo, risolverai il caso Falkenroth", lo prendeva in giro.
 
 Il signor Falkenroth era il direttore di una banca che era stato trovato morto all'interno della cassaforte di banca, accoltellato alla schiena. Non c'era nessun altro nella cassaforte, ed era stata chiusa dall'interno. Era un caso sconcertante che è rimasto irrisolto per dieci anni.
 

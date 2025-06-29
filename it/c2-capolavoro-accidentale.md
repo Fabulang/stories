@@ -12,7 +12,7 @@ La porta si è aperta e una corriere è entrata portando una grande tela ricoper
 
 "Fai attenzione!" ha gridato Goffredo, prendendo il telaio da lei.
 
-"Chissene," ha detto lei, prima di scontrarsi con lui e entrare nell'ufficio del Curatore, portando un sacco di documenti.
+"Chissene", ha detto lei, prima di scontrarsi con lui e entrare nell'ufficio del Curatore, portando un sacco di documenti.
 
 Goffredo ha preso attentamente il dipinto e lo ha portato al luogo più prestigioso del museo, appeso alla parete.
 
@@ -22,13 +22,13 @@ Nel corso della settimana successiva, man mano che più persone hanno letto gli 
 
 Poi, alla fine della settimana, prima di chiudere il museo, Goffredo ha sentito bussare. Era arrivato un corriere.
 
-"Mi scuso profondamente per essere arrivato con una settimana di ritardo con questa consegna," ha detto, mentre consegnava attentamente a Goffredo la vera opera d'arte.
+"Mi scuso profondamente per essere arrivato con una settimana di ritardo con questa consegna", ha detto, mentre consegnava attentamente a Goffredo la vera opera d'arte.
 
 La confusione di Goffredo non è durata a lungo. Pochi istanti dopo che l'uomo delle consegne se ne è andato, la stessa donna delle consegne di prima è uscita dall'ufficio del Curatore con il Curatore.
 
 "Oh, hai conosciuto Ginevra, la nostra Bidella, vero?" ha detto il Curatore.
 
-"Oh, ci siamo conosciuti," ha detto la Bidella. "Mi ha urtato quando stavo portando una delle tele sporche dal dipartimento di restauro al bidone. Perché mai l'avrebbe voluta? È un'altra quella che sta portando?"
+"Oh, ci siamo conosciuti", ha detto la Bidella. "Mi ha urtato quando stavo portando una delle tele sporche dal dipartimento di restauro al bidone. Perché mai l'avrebbe voluta? È un'altra quella che sta portando?"
 
 Goffredo ha capito il suo errore, e sapeva che non c'era modo di nasconderlo. Doveva dirlo al Curatore e alla Bidella. Il Curatore è diventato bianco, mentre Ginevra è caduta a terra in una risata isterica.
 

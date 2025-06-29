@@ -8,7 +8,7 @@ date: 2023-07-13
 
 Amalia era in un negozio di antiquariato, alla ricerca di qualcosa da mettere sulla sua parete. Nell'oscurità sul fondo, ha notato uno specchio antico e bellissimo. Aveva una cornice ornata scolpita a forma di serpente con due teste.
 
-"Non vorrai quello," è arrivata una voce aspra. Era l'antiquario.
+"Non vorrai quello", è arrivata una voce aspra. Era l'antiquario.
 
 "Ma io lo voglio!" ha detto Amalia. "Lo voglio davvero. Pagherò qualsiasi prezzo."
 
@@ -26,13 +26,13 @@ Il suo riflesso è saltato spaventato e si è girato di nuovo. La fissava, altre
 
 "Chi sei tu?" ha chiesto Amalia.
 
-"Sono io," ha detto il suo riflesso. "Sono Amalia."
+"Sono io", ha detto il suo riflesso. "Sono Amalia."
 
-"No, *io* sono Amalia," ha insistito Amalia. "Tu sei il mio riflesso."
+"No, *io* sono Amalia", ha insistito Amalia. "Tu sei il mio riflesso."
 
-"Non voglio essere maleducata," ha detto il suo riflesso, "ma quello che dici è assurdo. Non vivo solo in questa stanza, sai. Ho una vita intera. C'è un mondo intero qui."
+"Non voglio essere maleducata", ha detto il suo riflesso, "ma quello che dici è assurdo. Non vivo solo in questa stanza, sai. Ho una vita intera. C'è un mondo intero qui."
 
-"Beh, anche qui," ha detto Amalia. "Ma la tua vita è solo un riflesso della mia. Non esistevi finché non ho messo lo specchio sulla mia parete."
+"Beh, anche qui", ha detto Amalia. "Ma la tua vita è solo un riflesso della mia. Non esistevi finché non ho messo lo specchio sulla mia parete."
 
 "Di cosa stai parlando?" ha detto il suo riflesso. "*Io* ho messo lo specchio sulla *mia* parete."
 

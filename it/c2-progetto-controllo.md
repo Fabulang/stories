@@ -8,7 +8,7 @@ reviewers:
 - micaela-poggi
 ---
 
-"Questo rapporto trimestrale è... insoddisfacente," ha detto monotonamente il responsabile di Nicoletta. "Non ci sono abbastanza dettagli. E ci sono troppi numeri nel grafico. La dimensione del carattere dovrebbe essere più grande. Le tabelle dovrebbero usare i colori del nostro marchio. E dovresti duplicare tutto alla fine."
+"Questo rapporto trimestrale è... insoddisfacente", ha detto monotonamente il responsabile di Nicoletta. "Non ci sono abbastanza dettagli. E ci sono troppi numeri nel grafico. La dimensione del carattere dovrebbe essere più grande. Le tabelle dovrebbero usare i colori del nostro marchio. E dovresti duplicare tutto alla fine."
 
 "Duplicarlo, signore?"
 
@@ -18,7 +18,7 @@ reviewers:
 
 "Non ti paghiamo per avere idee ingegnose, Nicoletta. Ti paghiamo per seguire le istruzioni."
 
-"Mi dispiace, signore," ha mormorato.
+"Mi dispiace, signore", ha mormorato.
 
 "Cosa hai detto? Non riesco a sentirti."
 

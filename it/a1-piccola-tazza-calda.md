@@ -18,18 +18,18 @@ Arianna ha voglia di piangere. Guarda attraverso la finestra. Il proprietario è
 
 "Cosa è successo?" chiede lei.
 
-"I miei costi sono troppo alti," dice il proprietario. "Devo chiudere."
+"I miei costi sono troppo alti", dice il proprietario. "Devo chiudere."
 
-Arianna pensa di poter aiutare. "Sono un contabile," dice lei. "Forse posso aiutare."
+Arianna pensa di poter aiutare. "Sono un contabile", dice lei. "Forse posso aiutare."
 
 "Davvero? È meraviglioso!"
 
 Il proprietario mostra ad Arianna un sacco di numeri. "Non li capisco!" dice lui.
 
-Ma Arianna capisce subito i numeri. Dà al proprietario alcune idee. Dice "Buona fortuna," e va a lavorare.
+Ma Arianna capisce subito i numeri. Dà al proprietario alcune idee. Dice "Buona fortuna", e va a lavorare.
 
 Un anno dopo... Arianna si sveglia. Si sente stanca, ma pensa a *Piccola Tazza Calda*. Ci va con un sorriso. Le luci sono accese. La porta è aperta. L'odore del caffè è fantastico.
 
 Entra. Si siede e si gode il suo caffè per cinque minuti. Poi va nel piccolo ufficio in fondo. Entra.
 
-"Benvenuta al lavoro," dice il proprietario. "Te l'ho detto? Sei la miglior contabile del mondo."
+"Benvenuta al lavoro", dice il proprietario. "Te l'ho detto? Sei la miglior contabile del mondo."

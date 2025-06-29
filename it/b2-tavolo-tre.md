@@ -12,7 +12,7 @@ C'era solo un tavolo nella stanza riccamente decorata. In un angolo, una donna s
 
 Enrico ha posato un piatto davanti a ciascuno dei tre uomini e ha iniziato a versare il vino.
 
-"Quindi, è stata eletta," ha detto un uomo dai capelli castani. "Ma senza il mio supporto, lei è niente."
+"Quindi, è stata eletta", ha detto un uomo dai capelli castani. "Ma senza il mio supporto, lei è niente."
 
 Un uomo calvo ha parlato. "Sono diciassette i governi che controlli adesso, vero? Sei proprio un diavolo furbo!"
 
@@ -32,7 +32,7 @@ Si è lavato di nuovo le mani, è tornato in cucina e ha aiutato a preparare il 
 
 Quando Enrico ha portato il dessert nella sala da pranzo, i tre uomini stavano ridendo.
 
-"Non mi interessa se la Presidente crede o no nel cambiamento climatico," ha detto un uomo con i capelli ricci. "Io ho case segrete sotterranee su ogni continente. Lei può bruciare insieme a tutti gli altri."
+"Non mi interessa se la Presidente crede o no nel cambiamento climatico", ha detto un uomo con i capelli ricci. "Io ho case segrete sotterranee su ogni continente. Lei può bruciare insieme a tutti gli altri."
 
 "Sotterranee?" ha riso l'uomo dai capelli castani. "Goditi la tua vita da talpa. Io ti saluterò dall'orbita."
 
@@ -40,7 +40,7 @@ Il terzo uomo ha sbuffato. "Spazio? Io resto qui sulla Terra. Se fa caldo, ho l'
 
 Enrico ha guardato le torte al cioccolato. Si è sentito male. Ne ha posata una davanti a ciascun uomo e ha versato altro vino.
 
-"Sapete, a volte mi dispiace per loro," ha detto l'uomo calvo. "Miliardi di persone, che lavorano così duramente, per così poco. Come il nostro cameriere."
+"Sapete, a volte mi dispiace per loro", ha detto l'uomo calvo. "Miliardi di persone, che lavorano così duramente, per così poco. Come il nostro cameriere."
 
 Enrico si è bloccato.
 

@@ -32,8 +32,8 @@ Håkon ha gridato altre istruzioni e l'equipaggio ha lavorato rapidamente. Ha ut
 
 Hanno guardato con orrore mentre il calamaro alzava la sua enorme e brutta testa e avvolgeva i suoi tentacoli attorno all'albero della nave.
 
-Il capitano ha passato una lancia a Håkon. "È l'ultima," ha detto.
+Il capitano ha passato una lancia a Håkon. "È l'ultima", ha detto.
 
 Håkon ha afferrato la lancia di legno. Ha sentito il suo peso. Anni di lavoro con gli attrezzi avevano reso le sue mani abili, le sue braccia forti, i suoi occhi acuti. Ha scaraventato la lancia. Ha colpito il calamaro gigante nel centro del suo unico occhio rosso.
 
-"E così sono diventato un guerriero," ha detto Håkon a suo nipote, mentre terminava di raccontare la storia. "Ero un umile costruttore di navi. Ho osato seguire il mio cuore. Ora la gente mi chiama 'l'Uccisore di Giganti'."
+"E così sono diventato un guerriero", ha detto Håkon a suo nipote, mentre terminava di raccontare la storia. "Ero un umile costruttore di navi. Ho osato seguire il mio cuore. Ora la gente mi chiama 'l'Uccisore di Giganti'."

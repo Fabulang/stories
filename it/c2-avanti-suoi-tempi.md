@@ -8,7 +8,7 @@ date: 2023-06-17
 
 Carlo era uno scienziato straordinario. Nonostante la sua brillantezza, la prestigiosa rivista scientifica, *I Nostri Tempi*, ha costantemente rifiutato i suoi articoli. La lettera di rifiuto del redattore ha sempre concluso che le idee di Carlo erano troppo radicali.
 
-I suoi amici lo hanno consolato. "Carlo, sei avanti per i tuoi tempi," dicevano.
+I suoi amici lo hanno consolato. "Carlo, sei avanti per i tuoi tempi", dicevano.
 
 Il pensiero ha suscitato un'idea. Se era avanti rispetto al suo tempo, poteva inventare un modo per viaggiare nel futuro, in una società che avrebbe apprezzato il suo genio.
 
@@ -22,9 +22,9 @@ Carlo ha rivelato drammaticamente di essere un viaggiatore nel tempo. Ha chiesto
 
 Editor X-9 ha fatto una pausa. "Viaggio nel tempo?" ha detto.
 
-"Precisamente," ha detto Carlo. "Posso provarlo. Se mi permetterà di mostrarvi ---"
+"Precisamente", ha detto Carlo. "Posso provarlo. Se mi permetterà di mostrarvi ---"
 
-"Oh, non è che non le credo," ha detto Editor X-9. "Il viaggio nel tempo è stato scoperto centinaia di anni fa. È comune ora come andare in bicicletta era nel passato. Come pensa che abbiamo così tanti dinosauri in giro?"
+"Oh, non è che non le credo", ha detto Editor X-9. "Il viaggio nel tempo è stato scoperto centinaia di anni fa. È comune ora come andare in bicicletta era nel passato. Come pensa che abbiamo così tanti dinosauri in giro?"
 
 Carlo è rimasto senza parole.
 
@@ -32,4 +32,4 @@ Carlo è rimasto senza parole.
 
 "Ma ---"
 
-"Purtroppo, non possiamo ancora pubblicare il suo lavoro," ha concluso l'editore. "Sembra, Carlo, che lei sia ora dietro i tempi."
+"Purtroppo, non possiamo ancora pubblicare il suo lavoro", ha concluso l'editore. "Sembra, Carlo, che lei sia ora dietro i tempi."

@@ -14,7 +14,7 @@ Papà ha strizzato una pallina di cibo per bebè (chiamato *"Delizia del Bambino
 
 La bambina si è girata dall'altra parte.
 
-"Amore mio," ha detto lui, "Mamma e papà sanno cosa è meglio per te. Siamo critici gastronomici. Questo è il miglior marchio disponibile."
+"Amore mio", ha detto lui, "Mamma e papà sanno cosa è meglio per te. Siamo critici gastronomici. Questo è il miglior marchio disponibile."
 
 "Forse preferisce marchi più costosi?" ha detto mamma.
 
@@ -38,7 +38,7 @@ La bambina ha sorriso e ha annuito. Poi ha indicato di nuovo.
 
 La bambina l'ha afferrata. Poi ha indicato un sacco di spinaci.
 
-"Questa combinazione non è affatto alla moda," ha detto mamma. "Ma se è quello che vuoi, tesoro..."
+"Questa combinazione non è affatto alla moda", ha detto mamma. "Ma se è quello che vuoi, tesoro..."
 
 Mamma ha cucinato le verdure e le ha mescolate insieme. Quando le ha dato il cibo alla bambina, la bambina l'ha mangiato felicemente. Ha battuto le mani e ha riso.
 

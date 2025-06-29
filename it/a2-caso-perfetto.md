@@ -12,15 +12,15 @@ L'investigatore privato sedeva alla sua scrivania. Nessuno lo aveva assunto da m
 
 "Esatto. Come posso aiutarla, signora?"
 
-"Voglio che lei segua un individuo sospetto," ha detto lei.
+"Voglio che lei segua un individuo sospetto", ha detto lei.
 
-"Questo sembra interessante," ha detto l'investigatore. "Raccontami di più."
+"Questo sembra interessante", ha detto l'investigatore. "Raccontami di più."
 
 Era eccitato. Era il grande caso che stava aspettando.
 
 "Ha un viso rotondo, un grosso naso, e piccole orecchie. Entra sempre nei giardini degli altri e talvolta nelle loro case."
 
-"È terribile," ha detto l'investigatore. "Cosa altro?"
+"È terribile", ha detto l'investigatore. "Cosa altro?"
 
 "Spesso mi guarda, o mi segue in giro. Penso che mi stia spiando."
 
@@ -40,11 +40,11 @@ L'investigatore ha capito che questo non era il grande caso che stava aspettando
 
 "Dove posso trovare questo alieno?" ha detto.
 
-"Nella mia casa," ha detto la donna. "È il mio gatto."
+"Nella mia casa", ha detto la donna. "È il mio gatto."
 
-"Capisco," ha detto l'investigatore. Le ha aperto la porta.
+"Capisco", ha detto l'investigatore. Le ha aperto la porta.
 
-Ma la donna ha scritto un numero su un pezzo di carta. "Questo è quanto le pagherò per l'indagine," ha detto lei.
+Ma la donna ha scritto un numero su un pezzo di carta. "Questo è quanto le pagherò per l'indagine", ha detto lei.
 
 L'investigatore ha sbattuto la porta.
 

@@ -10,7 +10,7 @@ reviewers:
 
 "Sei pronta?" grida il marito di Elisa.
 
-"Sto scegliendo i miei vestiti," risponde lei.
+"Sto scegliendo i miei vestiti", risponde lei.
 
 "Ma sono passate due ore!"
 
@@ -24,11 +24,11 @@ Colpisce il ginocchio contro una sedia.
 
 "Niente!"
 
-"Elisa, devi metterti i tuoi nuovi occhiali," dice suo marito. "Sono ancora nella scatola."
+"Elisa, devi metterti i tuoi nuovi occhiali", dice suo marito. "Sono ancora nella scatola."
 
 "Non ho bisogno degli occhiali."
 
-"Sono qui, tesoro," dice il marito.
+"Sono qui, tesoro", dice il marito.
 
 "Non mi piacciono i miei occhiali."
 
@@ -44,9 +44,9 @@ Suo marito entra.
 
 "C'è un fiore nel bicchiere di ogni persona. E tutti i cuscini sono sul tavolino."
 
-"È il nuovo stile," dice velocemente Elisa. "È molto moderno."
+"È il nuovo stile", dice velocemente Elisa. "È molto moderno."
 
-Suo marito la saluta. La festa è per Elisa e le sue amiche. "Goditi il film," dice Elisa. Il marito se ne va. Va al cinema.
+Suo marito la saluta. La festa è per Elisa e le sue amiche. "Goditi il film", dice Elisa. Il marito se ne va. Va al cinema.
 
 Un po' più tardi, Elisa sente il campanello. Vuole aprire la porta, ma non trova la chiave.
 
@@ -64,10 +64,10 @@ Lei smette di sorridere e corre al salotto. Anche il marito corre al salotto. Se
 
 "Cosa c'è che non va?" chiede.
 
-"Niente," dice Elisa. "È solo che... non mi sono resa conto..."
+"Niente", dice Elisa. "È solo che... non mi sono resa conto..."
 
 "Resa conto di cosa?"
 
 Elisa si toglie gli occhiali. Sorride. Bacia il marito.
 
-"Che sei così bello," dice.
+"Che sei così bello", dice.

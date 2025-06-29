@@ -8,7 +8,7 @@ date: 2023-08-14
 
 Dionigi stava sognando la matematica. I numeri e i simboli lo stavano attaccando. Non aveva fatto i compiti. Le domande matematiche erano troppo difficili.
 
-Dionigi si è svegliato. "La mia insegnante sarà arrabbiata con me, domani," ha pensato.
+Dionigi si è svegliato. "La mia insegnante sarà arrabbiata con me, domani", ha pensato.
 
 Poi ha sentito un suono strano. Era come una matita che scriveva su un foglio. All'inizio, ha pensato che fosse un fantasma, ed era spaventato. Poi ha pensato: "Sto ancora sognando." Si addormentò di nuovo.
 
@@ -24,7 +24,7 @@ Sono passate alcune settimane in questo modo e gli insegnanti di Dionigi sono ri
 
 Un giorno, l'insegnante ha chiamato Dionigi alla sua scrivania.
 
-"Lo so," ha detto.
+"Lo so", ha detto.
 
 Come aveva scoperto del fantasma? Dionigi doveva dire la verità. "Non ho chiesto al fantasma di farlo. Ma è stato così d'aiuto..."
 
@@ -36,6 +36,6 @@ Come aveva scoperto del fantasma? Dionigi doveva dire la verità. "Non ho chiest
 
 "Due X meno quattro è uguale a zero. Qual è X?" ha detto Dionigi.
 
-"Ora leggi la tua risposta," ha detto l'insegnante.
+"Ora leggi la tua risposta", ha detto l'insegnante.
 
 Dionigi ha letto ciò che aveva scritto: "X è uguale a quattro diviso per due. Quindi X è uguale a due, con affetto da Susanna."

@@ -16,19 +16,19 @@ Ha posato le sue lettere e si è alzata. Gerardo ha pulito tutti i cuscini sul d
 
 La sua ragazza voleva riprendere le sue lettere, ma Gerardo le ha spostate. Ha usato un panno per pulire il tavolo.
 
-"Grazie," ha detto Gerardo. L'ha baciata.
+"Grazie", ha detto Gerardo. L'ha baciata.
 
-"So che ti piace quando il nostro appartamento è molto pulito," ha detto lei. "Ma è sabato. Perché non ti rilassi?"
+"So che ti piace quando il nostro appartamento è molto pulito", ha detto lei. "Ma è sabato. Perché non ti rilassi?"
 
-"È il primo giorno del mese," ha spiegato Gerardo.
+"È il primo giorno del mese", ha spiegato Gerardo.
 
-"Certo," ha risposto lei. "Ogni mese pulisci tutta la casa. Va bene, come posso aiutare?"
+"Certo", ha risposto lei. "Ogni mese pulisci tutta la casa. Va bene, come posso aiutare?"
 
 Gerardo le ha detto di pulire la sua scrivania. Quando lei ha finito, le ha detto di pulire tutti i rubinetti. Poi le ha detto di lavare tutte le tende.
 
 "Abbiamo finito?" ha chiesto lei, qualche ora dopo.
 
-"È il primo giorno di primavera," ha spiegato Gerardo.
+"È il primo giorno di primavera", ha spiegato Gerardo.
 
 "Certo. Ogni primavera..."
 
@@ -46,7 +46,7 @@ Erano molto stanchi. I loro vestiti erano sporchi. Avevano sapone su braccia e g
 
 Alla fine, la sua ragazza ha ripreso in mano le sue lettere.
 
-"Questa è dal nostro padrone di casa," ha detto.
+"Questa è dal nostro padrone di casa", ha detto.
 
 "Cosa dice?"
 

@@ -12,7 +12,7 @@ Un giorno, si sono trasferiti dei nuovi vicini nella casa accanto. Il signor Tom
 
 Ogni sera, andavano nel loro giardino. Stavano giardinando. Ancora più strano, stavano sussurrando allo stesso tempo.
 
-"È sospetto," pensò il signor Tommaso, guardandoli dalla sua finestra. "Di cosa stanno sussurrando? Nascondono qualcosa."
+"È sospetto", pensò il signor Tommaso, guardandoli dalla sua finestra. "Di cosa stanno sussurrando? Nascondono qualcosa."
 
 Il signor Tommaso ha deciso di indagare. Quella notte, è entrato nel loro giardino. Ma ha rovesciato una pala e ha fatto un rumore forte.
 
@@ -22,7 +22,7 @@ Il suo vicino ha aperto la finestra della sua camera da letto. "Chi è lì?" ha 
 
 La notte successiva, ha provato ad ascoltare attraverso il suo recinto, ma ha sentito solo discussioni su rose e margherite.
 
-"Parole in codice, sicuramente," ha pensato. "Ho bisogno di più informazioni."
+"Parole in codice, sicuramente", ha pensato. "Ho bisogno di più informazioni."
 
 Quindi, la notte successiva, ha mandato il suo aspirapolvere robotico sotto la recinzione. Aveva attaccato una piccola telecamera sopra.
 
@@ -42,4 +42,4 @@ Tutti hanno applaudito, e la coppia ha sorriso alle telecamere.
 
 Quando il programma è andato in onda in televisione, il signor Tommaso lo ha guardato.
 
-"Ci piace fare giardinaggio la sera," ha detto il suo vicino, "quando non fa così caldo. Ma se dobbiamo parlare, sussurriamo sempre, per non svegliare il nostro vicino, il signor Tommaso. È molto strano!"
+"Ci piace fare giardinaggio la sera", ha detto il suo vicino, "quando non fa così caldo. Ma se dobbiamo parlare, sussurriamo sempre, per non svegliare il nostro vicino, il signor Tommaso. È molto strano!"

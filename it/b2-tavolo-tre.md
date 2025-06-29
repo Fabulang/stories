@@ -1,5 +1,5 @@
 ---
-title: Un Tavolo per Tre
+title: Un tavolo per tre
 cefr: b2
 locale: it
 key: table-three

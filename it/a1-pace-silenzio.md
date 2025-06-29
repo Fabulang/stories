@@ -1,5 +1,5 @@
 ---
-title: Pace e Silenzio
+title: Pace e silenzio
 locale: it
 cefr: a1
 key: peace-quiet

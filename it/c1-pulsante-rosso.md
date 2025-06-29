@@ -1,5 +1,5 @@
 ---
-title: Il Pulsante Rosso
+title: Il pulsante rosso
 locale: it
 cefr: c1
 key: red-button

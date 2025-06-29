@@ -1,5 +1,5 @@
 ---
-title: La Trappola di Volpe
+title: La trappola di volpe
 locale: it
 cefr: a2
 key: foxs-trap

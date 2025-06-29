@@ -1,5 +1,5 @@
 ---
-title: L'Évasion sur l'Île
+title: L'évasion sur l'île
 locale: fr
 cefr: a2
 key: island-escape

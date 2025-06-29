@@ -1,5 +1,5 @@
 ---
-title: Son Plus Profond Secret
+title: Son plus profond secret
 cefr: a2
 locale: fr
 key: her-deepest-secret

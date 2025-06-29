@@ -1,5 +1,5 @@
 ---
-title: Sotto un Cielo Mortale
+title: Sotto un cielo mortale
 locale: it
 cefr: c2
 key: beneath-deadly-sky

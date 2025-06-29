@@ -1,5 +1,5 @@
 ---
-title: Il Gioiello del Regno
+title: Il gioiello del regno
 locale: it
 cefr: b2
 key: jewel-kingdom

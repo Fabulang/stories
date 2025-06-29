@@ -1,5 +1,5 @@
 ---
-title: Avanti per i Suoi Tempi
+title: Avanti per i suoi tempi
 locale: it
 cefr: c2
 key: ahead-his-time

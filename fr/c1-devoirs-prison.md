@@ -1,5 +1,5 @@
 ---
-title: Devoirs de Prison
+title: Devoirs de prison
 cefr: c1
 locale: fr
 key: prison-duties

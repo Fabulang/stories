@@ -1,5 +1,5 @@
 ---
-title: Una Promozione Puntuale
+title: Una promozione puntuale
 locale: it
 cefr: b1
 key: timely-promotion

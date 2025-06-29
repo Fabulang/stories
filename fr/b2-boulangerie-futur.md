@@ -1,5 +1,5 @@
 ---
-title: Boulangerie du Futur
+title: Boulangerie du futur
 locale: fr
 cefr: b2
 key: bakery-future

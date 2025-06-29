@@ -1,5 +1,5 @@
 ---
-title: Il Tesoro Nascosto della Biblioteca
+title: Il tesoro nascosto della biblioteca
 locale: it
 cefr: b1
 key: librarys-hidden-treasure

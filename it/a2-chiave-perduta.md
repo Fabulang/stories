@@ -1,5 +1,5 @@
 ---
-title: La Chiave Perduta
+title: La chiave perduta
 locale: it
 cefr: a2
 key: lost-key

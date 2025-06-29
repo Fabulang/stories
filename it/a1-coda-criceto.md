@@ -1,5 +1,5 @@
 ---
-title: La Coda del Criceto
+title: La coda del criceto
 locale: it
 cefr: a1
 key: hamsters-tail

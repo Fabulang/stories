@@ -1,5 +1,5 @@
 ---
-title: Il Vecchio e la Pistola
+title: Il vecchio e la pistola
 locale: it
 cefr: a2
 key: old-man-gun

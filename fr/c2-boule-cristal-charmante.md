@@ -1,5 +1,5 @@
 ---
-title: La Boule de Cristal Charmante
+title: La boule de cristal charmante
 locale: fr
 cefr: c2
 key: charming-crystal-ball

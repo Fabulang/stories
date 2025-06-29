@@ -1,5 +1,5 @@
 ---
-title: Capolavoro Accidentale
+title: Capolavoro accidentale
 locale: it
 cefr: c2
 key: accidental-masterpiece

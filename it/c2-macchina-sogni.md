@@ -1,5 +1,5 @@
 ---
-title: La Macchina dei Sogni
+title: La macchina dei sogni
 locale: it
 cefr: c2
 key: dream-machine

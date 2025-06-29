@@ -1,5 +1,5 @@
 ---
-title: Sotto il Letto
+title: Sotto il letto
 locale: it
 cefr: b1
 key: under-bed

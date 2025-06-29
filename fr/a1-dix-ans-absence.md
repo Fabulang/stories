@@ -1,5 +1,5 @@
 ---
-title: Dix Ans d'Absence
+title: Dix ans d'absence
 locale: fr
 cefr: a1
 key: ten-years-away

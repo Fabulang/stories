@@ -1,5 +1,5 @@
 ---
-title: Un Sistema di Archiviazione Rivoluzionario
+title: Un sistema di archiviazione rivoluzionario
 locale: it
 cefr: c1
 key: revolutionary-filing-system

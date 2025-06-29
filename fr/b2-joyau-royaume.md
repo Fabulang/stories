@@ -1,5 +1,5 @@
 ---
-title: Le Joyau du Royaume
+title: Le joyau du royaume
 locale: fr
 cefr: b2
 key: jewel-kingdom

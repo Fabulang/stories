@@ -1,5 +1,5 @@
 ---
-title: L'Ultimo Discorso del Sindaco
+title: L'ultimo discorso del sindaco
 locale: it
 cefr: c1
 key: mayors-last-speech

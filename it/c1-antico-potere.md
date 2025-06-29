@@ -1,5 +1,5 @@
 ---
-title: Un Antico Potere
+title: Un antico potere
 locale: it
 cefr: c1
 key: ancient-power

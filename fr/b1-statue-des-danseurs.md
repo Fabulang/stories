@@ -1,5 +1,5 @@
 ---
-title: La Statue des Danseurs
+title: La statue des danseurs
 cefr: b1
 locale: fr
 key: dancers-statue

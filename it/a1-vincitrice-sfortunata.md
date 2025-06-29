@@ -1,5 +1,5 @@
 ---
-title: La Vincitrice Sfortunata
+title: La vincitrice sfortunata
 locale: it
 cefr: a1
 key: unlucky-winner

@@ -1,5 +1,5 @@
 ---
-title: Ce Qu'elle Espérait
+title: Ce qu'elle espérait
 locale: fr
 cefr: c1
 key: what-shed-hoped-for

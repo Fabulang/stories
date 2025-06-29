@@ -1,5 +1,5 @@
 ---
-title: La Morte della Sig.ra Cavaliere
+title: La morte della Sig.ra Cavaliere
 locale: it
 cefr: b2
 key: death-mrs-knight

@@ -1,5 +1,5 @@
 ---
-title: L'Assistente della Mezzanotte
+title: L'assistente della mezzanotte
 locale: it
 cefr: a2
 key: midnight-helper

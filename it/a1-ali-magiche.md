@@ -1,5 +1,5 @@
 ---
-title: Ali Magiche
+title: Ali magiche
 locale: it
 cefr: a1
 key: magic-wings

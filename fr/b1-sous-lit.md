@@ -1,5 +1,5 @@
 ---
-title: Sous le Lit
+title: Sous le lit
 locale: fr
 cefr: b1
 key: under-bed

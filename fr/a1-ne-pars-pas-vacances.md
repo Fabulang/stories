@@ -1,5 +1,5 @@
 ---
-title: Ne Pars Pas en Vacances
+title: Ne pars pas en vacances
 cefr: a1
 locale: fr
 key: dont-go-holiday

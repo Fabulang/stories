@@ -1,5 +1,5 @@
 ---
-title: L'Apprentie du Maître des Potions
+title: L'apprentie du maître des potions
 locale: fr
 cefr: c2
 key: potion-masters-apprentice

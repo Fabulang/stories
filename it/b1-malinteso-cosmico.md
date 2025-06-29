@@ -1,5 +1,5 @@
 ---
-title: Un Malinteso Cosmico
+title: Un malinteso cosmico
 locale: it
 cefr: b1
 key: cosmic-misunderstanding

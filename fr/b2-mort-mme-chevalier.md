@@ -1,5 +1,5 @@
 ---
-title: La Mort de Mme. Chevalier
+title: La mort de Mme. Chevalier
 locale: fr
 cefr: b2
 key: death-mrs-knight

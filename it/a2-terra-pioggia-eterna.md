@@ -1,5 +1,5 @@
 ---
-title: La Terra della Pioggia Eterna
+title: La terra della pioggia eterna
 cefr: a2
 locale: it
 key: land-eternal-rain

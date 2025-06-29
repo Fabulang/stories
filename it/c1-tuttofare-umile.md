@@ -1,5 +1,5 @@
 ---
-title: Il Tuttofare Umile
+title: Il tuttofare umile
 locale: it
 cefr: c1
 key: humble-handyman

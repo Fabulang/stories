@@ -1,5 +1,5 @@
 ---
-title: Vivere in Armonia
+title: Vivere in armonia
 locale: it
 cefr: b1
 key: living-harmony

@@ -1,5 +1,5 @@
 ---
-title: L'Art des Raviolis Chinois
+title: L'art des raviolis chinois
 locale: fr
 cefr: b1
 key: art-chinese-dumplings

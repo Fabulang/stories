@@ -1,5 +1,5 @@
 ---
-title: La Voce del Comico
+title: La voce del comico
 locale: it
 cefr: b2
 key: comedians-voice

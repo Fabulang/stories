@@ -1,5 +1,5 @@
 ---
-title: Vivre le Rêve
+title: Vivre le rêve
 locale: fr
 cefr: c2
 key: living-dream

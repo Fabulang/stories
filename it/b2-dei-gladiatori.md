@@ -1,5 +1,5 @@
 ---
-title: Dei e Gladiatori
+title: Dei e gladiatori
 locale: it
 cefr: b2
 key: gods-gladiators

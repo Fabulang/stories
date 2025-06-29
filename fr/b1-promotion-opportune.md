@@ -1,5 +1,5 @@
 ---
-title: Une Promotion Opportune
+title: Une promotion opportune
 locale: fr
 cefr: b1
 key: timely-promotion

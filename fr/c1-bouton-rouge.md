@@ -1,5 +1,5 @@
 ---
-title: Le Bouton Rouge
+title: Le bouton rouge
 locale: fr
 cefr: c1
 key: red-button

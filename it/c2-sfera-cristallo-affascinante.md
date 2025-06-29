@@ -1,5 +1,5 @@
 ---
-title: La Sfera di Cristallo Affascinante
+title: La sfera di cristallo affascinante
 locale: it
 cefr: c2
 key: charming-crystal-ball

@@ -1,5 +1,5 @@
 ---
-title: Nettoyage de Printemps
+title: Nettoyage de printemps
 locale: fr
 cefr: a2
 key: spring-cleaning

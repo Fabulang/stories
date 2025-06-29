@@ -1,5 +1,5 @@
 ---
-title: Chef-d'œuvre Accidentel
+title: Chef-d'œuvre accidentel
 locale: fr
 cefr: c2
 key: accidental-masterpiece

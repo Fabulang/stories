@@ -1,5 +1,5 @@
 ---
-title: Le Voyage du Ballon
+title: Le voyage du ballon
 locale: fr
 cefr: a2
 key: balloons-journey

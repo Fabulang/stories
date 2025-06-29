@@ -1,5 +1,5 @@
 ---
-title: Le Théâtre du Fantôme
+title: Le théâtre du fantôme
 locale: fr
 cefr: b2
 key: ghosts-theatre

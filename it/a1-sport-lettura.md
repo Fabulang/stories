@@ -1,5 +1,5 @@
 ---
-title: Lo Sport della Lettura
+title: Lo sport della lettura
 locale: it
 cefr: a1
 key: sport-reading

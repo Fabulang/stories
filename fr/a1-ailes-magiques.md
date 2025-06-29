@@ -1,5 +1,5 @@
 ---
-title: Ailes Magiques
+title: Ailes magiques
 locale: fr
 cefr: a1
 key: magic-wings

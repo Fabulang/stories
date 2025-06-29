@@ -1,5 +1,5 @@
 ---
-title: L'auto Schiantata
+title: L'auto schiantata
 locale: it
 cefr: b1
 key: crashed-car

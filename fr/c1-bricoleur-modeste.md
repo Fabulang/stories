@@ -1,5 +1,5 @@
 ---
-title: Le Bricoleur Modeste
+title: Le bricoleur modeste
 locale: fr
 cefr: c1
 key: humble-handyman

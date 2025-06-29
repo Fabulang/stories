@@ -1,5 +1,5 @@
 ---
-title: La Chance du Nouvel An
+title: La chance du nouvel an
 cefr: b2
 locale: fr
 key: new-years-luck

@@ -1,5 +1,5 @@
 ---
-title: L'Uccisore di Giganti
+title: L'uccisore di giganti
 locale: it
 cefr: c1
 key: giant-slayer

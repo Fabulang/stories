@@ -1,5 +1,5 @@
 ---
-title: La Zucca Che Non C'era
+title: La zucca che non c'era
 locale: it
 cefr: c1
 key: pumpkin-wasnt-there

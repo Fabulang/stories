@@ -1,5 +1,5 @@
 ---
-title: Inseguendo Simboli
+title: Inseguendo simboli
 locale: it
 cefr: c2
 key: chasing-symbols

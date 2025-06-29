@@ -1,5 +1,5 @@
 ---
-title: Lo Specchio a Due Teste
+title: Lo specchio a due teste
 locale: it
 cefr: b1
 key: two-headed-mirror

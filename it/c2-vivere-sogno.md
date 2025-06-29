@@ -1,5 +1,5 @@
 ---
-title: Vivere il Sogno
+title: Vivere il sogno
 locale: it
 cefr: c2
 key: living-dream

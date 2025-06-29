@@ -1,5 +1,5 @@
 ---
-title: Le Jardinier Étrange
+title: Le jardinier étrange
 locale: fr
 cefr: b1
 key: strange-gardener

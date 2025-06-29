@@ -1,5 +1,5 @@
 ---
-title: La Fermata del Bus degli Spiriti
+title: La fermata del bus degli spiriti
 locale: it
 cefr: b2
 key: bus-stop-spirits

@@ -1,5 +1,5 @@
 ---
-title: La Panetteria del Futuro
+title: La panetteria del futuro
 locale: it
 cefr: b2
 key: bakery-future

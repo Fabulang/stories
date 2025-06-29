@@ -1,5 +1,5 @@
 ---
-title: Un Système de Classement Révolutionnaire
+title: Un système de classement révolutionnaire
 locale: fr
 cefr: c1
 key: revolutionary-filing-system

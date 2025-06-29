@@ -1,5 +1,5 @@
 ---
-title: La Cucina Raffinata della Bambina
+title: La cucina raffinata della bambina
 locale: it
 cefr: a2
 key: baby-fine-dining

@@ -1,5 +1,5 @@
 ---
-title: L'Aide de Minuit
+title: L'aide de minuit
 locale: fr
 cefr: a2
 key: midnight-helper

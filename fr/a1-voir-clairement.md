@@ -1,5 +1,5 @@
 ---
-title: Voir Clairement
+title: Voir clairement
 locale: fr
 cefr: a1
 key: seeing-clearly

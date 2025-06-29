@@ -1,5 +1,5 @@
 ---
-title: Vivre en Harmonie
+title: Vivre en harmonie
 locale: fr
 cefr: b1
 key: living-harmony

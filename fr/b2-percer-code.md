@@ -1,5 +1,5 @@
 ---
-title: Percer le Code
+title: Percer le code
 locale: fr
 cefr: b2
 key: cracking-code

@@ -1,5 +1,5 @@
 ---
-title: Des Histoires Rocambolesques à la Piscine
+title: Des histoires rocambolesques à la piscine
 locale: fr
 cefr: c2
 key: tall-tales-pool

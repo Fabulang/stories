@@ -1,5 +1,5 @@
 ---
-title: En Avance sur Son Temps
+title: En avance sur son temps
 locale: fr
 cefr: c2
 key: ahead-his-time

@@ -1,5 +1,5 @@
 ---
-title: La Couleur de l'Amour
+title: La couleur de l'amour
 locale: fr
 cefr: c2
 key: colour-love

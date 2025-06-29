@@ -1,5 +1,5 @@
 ---
-title: Le Miroir à Deux Têtes
+title: Le miroir à deux têtes
 locale: fr
 cefr: b1
 key: two-headed-mirror

@@ -1,5 +1,5 @@
 ---
-title: Le Stylo-plume du Roi
+title: Le stylo-plume du roi
 cefr: c2
 locale: fr
 key: kings-fountain-pen

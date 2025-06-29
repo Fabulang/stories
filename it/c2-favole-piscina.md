@@ -1,5 +1,5 @@
 ---
-title: Favole in Piscina
+title: Favole in piscina
 locale: it
 cefr: c2
 key: tall-tales-pool

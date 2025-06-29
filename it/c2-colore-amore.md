@@ -1,5 +1,5 @@
 ---
-title: Il Colore dell'Amore
+title: Il colore dell'amore
 locale: it
 cefr: c2
 key: colour-love

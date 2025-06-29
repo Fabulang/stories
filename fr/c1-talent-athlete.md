@@ -1,5 +1,5 @@
 ---
-title: Le Talent de l'Athlète
+title: Le talent de l'athlète
 locale: fr
 cefr: c1
 key: athletes-talent

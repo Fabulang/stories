@@ -1,5 +1,5 @@
 ---
-title: La Fuga sull'Isola
+title: La fuga sull'isola
 locale: it
 cefr: a2
 key: island-escape

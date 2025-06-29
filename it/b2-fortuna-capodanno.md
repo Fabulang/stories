@@ -1,5 +1,5 @@
 ---
-title: La Fortuna del Capodanno
+title: La fortuna del capodanno
 cefr: b2
 locale: it
 key: new-years-luck

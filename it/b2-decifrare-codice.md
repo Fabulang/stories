@@ -1,5 +1,5 @@
 ---
-title: Decifrare il Codice
+title: Decifrare il codice
 locale: it
 cefr: b2
 key: cracking-code

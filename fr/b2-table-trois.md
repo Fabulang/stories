@@ -1,5 +1,5 @@
 ---
-title: Une Table pour Trois
+title: Une table pour trois
 cefr: b2
 locale: fr
 key: table-three

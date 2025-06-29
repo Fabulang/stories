@@ -1,5 +1,5 @@
 ---
-title: Un Voyage Épuisant
+title: Un voyage épuisant
 locale: fr
 cefr: a1
 key: tiring-trip

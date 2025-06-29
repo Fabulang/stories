@@ -1,5 +1,5 @@
 ---
-title: Paix et Tranquillité
+title: Paix et tranquillité
 locale: fr
 cefr: a1
 key: peace-quiet

@@ -1,5 +1,5 @@
 ---
-title: Lingue Extraterrestri
+title: Lingue extraterrestri
 locale: it
 cefr: b1
 key: alien-languages

@@ -1,5 +1,5 @@
 ---
-title: Il Cuoco del Supermercato
+title: Il cuoco del supermercato
 locale: it
 cefr: a2
 key: supermarket-chef

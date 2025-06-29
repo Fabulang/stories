@@ -1,5 +1,5 @@
 ---
-title: Un Viaggio Faticoso
+title: Un viaggio faticoso
 locale: it
 cefr: a1
 key: tiring-trip

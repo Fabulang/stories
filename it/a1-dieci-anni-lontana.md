@@ -1,5 +1,5 @@
 ---
-title: Dieci Anni Lontana
+title: Dieci anni lontana
 locale: it
 cefr: a1
 key: ten-years-away

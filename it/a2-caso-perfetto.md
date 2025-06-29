@@ -1,5 +1,5 @@
 ---
-title: Il Caso Perfetto
+title: Il caso perfetto
 locale: it
 cefr: a2
 key: perfect-case

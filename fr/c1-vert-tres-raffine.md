@@ -1,5 +1,5 @@
 ---
-title: Un Vert Très Raffiné
+title: Un vert très raffiné
 cefr: c1
 locale: fr
 key: very-tasteful-green

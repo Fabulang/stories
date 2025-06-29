@@ -1,5 +1,5 @@
 ---
-title: L'Arrêt de Bus des Esprits
+title: L'arrêt de bus des esprits
 locale: fr
 cefr: b2
 key: bus-stop-spirits

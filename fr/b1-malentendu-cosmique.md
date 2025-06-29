@@ -1,5 +1,5 @@
 ---
-title: Un Malentendu Cosmique
+title: Un malentendu cosmique
 locale: fr
 cefr: b1
 key: cosmic-misunderstanding

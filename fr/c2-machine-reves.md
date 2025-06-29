@@ -1,5 +1,5 @@
 ---
-title: La Machine à Rêves
+title: La machine à rêves
 locale: fr
 cefr: c2
 key: dream-machine

@@ -1,5 +1,5 @@
 ---
-title: La Penna Stilografica del Re
+title: La penna stilografica del re
 cefr: c2
 locale: it
 key: kings-fountain-pen

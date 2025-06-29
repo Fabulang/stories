@@ -1,5 +1,5 @@
 ---
-title: La Statua dei Ballerini
+title: La statua dei ballerini
 cefr: b1
 locale: it
 key: dancers-statue

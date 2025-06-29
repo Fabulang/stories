@@ -1,5 +1,5 @@
 ---
-title: Il Giardiniere Strano
+title: Il giardiniere strano
 locale: it
 cefr: b1
 key: strange-gardener

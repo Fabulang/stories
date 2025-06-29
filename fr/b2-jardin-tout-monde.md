@@ -1,5 +1,5 @@
 ---
-title: Le Jardin de Tout le Monde
+title: Le jardin de tout le monde
 locale: fr
 cefr: b2
 key: everyones-garden

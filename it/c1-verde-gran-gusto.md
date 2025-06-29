@@ -1,5 +1,5 @@
 ---
-title: Un Verde di Gran Gusto
+title: Un verde di gran gusto
 cefr: c1
 locale: it
 key: very-tasteful-green

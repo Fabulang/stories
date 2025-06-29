@@ -1,5 +1,5 @@
 ---
-title: L'Apprendista del Maestro delle Pozioni
+title: L'apprendista del maestro delle pozioni
 locale: it
 cefr: c2
 key: potion-masters-apprentice

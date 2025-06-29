@@ -1,5 +1,5 @@
 ---
-title: Un Problème à l'École
+title: Un problème à l'école
 locale: fr
 cefr: a1
 key: problem-school

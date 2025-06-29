@@ -1,5 +1,5 @@
 ---
-title: Ciò che Sperava
+title: Ciò che sperava
 locale: it
 cefr: c1
 key: what-shed-hoped-for

@@ -1,5 +1,5 @@
 ---
-title: Il Giardino di Tutti
+title: Il giardino di tutti
 locale: it
 cefr: b2
 key: everyones-garden

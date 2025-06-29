@@ -1,5 +1,5 @@
 ---
-title: Dieux et Gladiateurs
+title: Dieux et gladiateurs
 locale: fr
 cefr: b2
 key: gods-gladiators

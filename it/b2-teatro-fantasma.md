@@ -1,5 +1,5 @@
 ---
-title: Il Teatro del Fantasma
+title: Il teatro del fantasma
 locale: it
 cefr: b2
 key: ghosts-theatre

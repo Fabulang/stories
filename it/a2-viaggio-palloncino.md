@@ -1,5 +1,5 @@
 ---
-title: Il Viaggio del Palloncino
+title: Il viaggio del palloncino
 locale: it
 cefr: a2
 key: balloons-journey

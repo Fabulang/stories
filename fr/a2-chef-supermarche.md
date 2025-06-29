@@ -1,5 +1,5 @@
 ---
-title: Chef Supermarché
+title: Chef supermarché
 locale: fr
 cefr: a2
 key: supermarket-chef

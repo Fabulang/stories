@@ -1,5 +1,5 @@
 ---
-title: Non Andare in Vacanza
+title: Non andare in vacanza
 cefr: a1
 locale: it
 key: dont-go-holiday

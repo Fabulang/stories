@@ -29,7 +29,7 @@ Ce dépôt contient une série de courtes histoires conçues pour aider les pers
 
 Veuillez nous informer de toute erreur dans le texte, ou des améliorations de formulation. Vous pouvez soit :
 
-* **Signaler un problème** sur l'onglet Issues ; ou
+* **Signaler un problème** sur l'onglet Issues ; ou
 * **Modifier directement un fichier**. Il suffit de naviguer jusqu'à l'histoire que vous souhaitez modifier, cliquer sur l'icône Modifier, et apporter vos changements. Cela ajoutera vos modifications comme proposition, que nous examinerons. C'est l'approche préférée.
 
 Pour l'une ou l'autre des options ci-dessus, vous aurez d'abord besoin d'un compte gratuit sur ce site, GitHub. Nous utilisons GitHub pour stocker les fichiers et permettre à d'autres de les voir et de commenter.

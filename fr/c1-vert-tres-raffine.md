@@ -37,17 +37,17 @@ Tout dans la maison semblait très à la mode et neuf. Les murs étaient lisses 
 
 «Vous en êtes sûr?»
 
-«Absolument.» Robert a réfléchi un instant. «Que diriez vous de cela? Je viendrai redécorer votre maison pour vous! Je ne le ferai pas gratuitement. Je vous facturerai un petit montant; j'aurais bien besoin d'un peu d'argent supplémentaire. Mais vous savez à quoi cela ressemblera! Et j'aime ce travail.»
+«Absolument.» Robert a réfléchi un instant. «Que diriez vous de cela? Je viendrai redécorer votre maison pour vous! Je ne le ferai pas gratuitement. Je vous facturerai un petit montant... j'aurais bien besoin d'un peu d'argent supplémentaire. Mais vous savez à quoi cela ressemblera! Et j'aime ce travail.»
 
-André était ravi -- les gens étaient vraiment beaucoup plus gentils ici. Il a accepté l'offre de Robert immédiatement.
+André était ravi: les gens étaient vraiment beaucoup plus gentils ici. Il a accepté l'offre de Robert immédiatement.
 
 Le lendemain, Robert a frappé à la porte d'André. Il portait deux pots de peinture verte.
 
-«On aura besoin de quatre pots en plus», a expliqué Robert. «Prenez ceux-ci, et je vais les acheter.»
+«On aura besoin de quatre pots en plus», a expliqué Robert. «Prenez ceux-là, et je vais les acheter.»
 
 «Je vais vous donner l'argent», a dit André. «Combien?» Robert lui a indiqué le prix. «Je vois. C'est une peinture chère.»
 
-«En effet», a convenu Robert. «C'est pour cela que ça a l'air si beau.»
+«En effet» a convenu Robert. «C'est pour cela que ça a l'air si beau.»
 
 André a hoché la tête et a donné l'argent à Robert. Robert est parti en voiture.
 

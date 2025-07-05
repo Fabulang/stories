@@ -24,7 +24,7 @@ Arriva un altro messaggio. "Non mangiare il panino."
 
 Frederica guarda il suo panino. È un panino con prosciutto, lattuga e pomodori. È su un piatto, sul tavolo.
 
-"Deve essere il mio assistente", pensa Frederica. 'Sa che mangio sempre un panino a pranzo.'
+"Deve essere il mio assistente", pensa Frederica. "Sa che mangio sempre un panino a pranzo."
 
 Frederica ha fame. Mangia il panino.
 

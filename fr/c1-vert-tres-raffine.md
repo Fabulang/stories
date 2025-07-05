@@ -51,7 +51,7 @@ Le lendemain, Robert a frappé à la porte d'André. Il portait deux pots de pei
 
 André a hoché la tête et a donné l'argent à Robert. Robert est parti en voiture.
 
-André a chanté une chanson pendant qu'il posait des bâches en plastique sur le sol de toutes les pièces. À l'heure du déjeuner, il a préparé un sandwich et s'est assis sur le sol pour le manger.
+André a chanté une chanson pendant qu'il posait des bâches en plastique sur le sol de toutes les pièces. À l'heure du déjeuner, il a préparé un sandwich et s'est assis par terre pour le manger.
 
 Robert n'était pas revenu dans l'après-midi, mais André ne voulait pas le presser. Robert lui rendait un grand service. Mais quand le ciel s'est assombri, et que Robert n'était toujours pas venu, André s'est inquiété. 'Il avait l'air assez âgé', a pensé André. 'Et s'il est tombé?'
 

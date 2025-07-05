@@ -4,6 +4,7 @@ cefr: b1
 locale: it
 key: brothers-choice
 date: 2025-01-26
+reviews: 1 # carlotta-belluzzi
 ---
 
 "Questo è un orologio davvero bello", ha detto l'amico di Lorenzo, fermandosi nel corridoio.
@@ -20,7 +21,7 @@ date: 2025-01-26
 
 Trent'anni prima, i tre fratelli si erano seduti nell'ufficio dell'avvocata.
 
-"Dicci solo cosa ci sta lasciando", ha detto il fratello maggiore di Lorenzo.
+"Dicci solo cosa ci lascia", ha detto il fratello maggiore di Lorenzo.
 
 L'avvocata ha girato il foglio e ha letto ad alta voce: "La mia casa e tutti i miei beni saranno messi all'asta. Il denaro sarà dato ai miei figli..."
 
@@ -32,11 +33,11 @@ L'avvocata ha girato il foglio e ha letto ad alta voce: "La mia casa e tutti i m
 
 "Propongo di donarlo alla ricerca medica", ha detto Lorenzo. "La malattia di papà era ---"
 
-"Qualsiasi cosa", ha detto il fratello maggiore. "Decidi tu."
+"Come vuoi", ha detto il fratello maggiore. "Decidi tu."
 
 L'avvocata ha tossito. "C'è un'altra cosa", ha detto. Ha continuato a leggere: "Prima dell'asta, ogni figlio può scegliere un oggetto da tenere per ragioni sentimentali."
 
-"Prendo la TV", ha detto immediatamente il fratello minore.
+"Io prendo la TV", ha detto immediatamente il fratello minore.
 
 "Ormai sono morto", ha continuato l'avvocata, "ma ho un ultimo consiglio per i miei figli. Non c'è ---"
 
@@ -56,6 +57,6 @@ I fratelli di Lorenzo sono usciti correndo dalla stanza. Pochi secondi dopo, lui
 
 "Mio padre smontava gli orologi, riparava ogni pezzo e poi li rimetteva insieme. Io lo aiutavo portandogli vari attrezzi, e lui mi insegnava come funzionava tutto. Abbiamo lavorato su questo orologio per settimane, quando avevo circa quattordici anni. Quelli sono bei ricordi."
 
-"Ma, Lorenzo, ti rendi conto di quanto sia stata giusta la tua scelta? Questo è un orologio di Ludovic Évrard Horstenbach! Deve essere l'unico al mondo in perfette condizioni di funzionamento. Lorenzo, potresti venderlo per milioni!"
+"Ma, Lorenzo, ti rendi conto di quanto sia stata giusta la tua scelta? Questo è un orologio di Ludovic Évrard Horstenbach! Di sicuro è l'unico al mondo in perfette condizioni di funzionamento. Lorenzo, potresti venderlo per milioni!"
 
 "Lo so. Qualcun altro me lo ha detto... circa ventisei anni fa."

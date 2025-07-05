@@ -42,9 +42,9 @@ Tutto in casa sembrava molto di tendenza e nuovo. Le pareti erano lisce e perfet
 
 Andrea era entusiasta: la gente era davvero molto più gentile qui. Ha accettato subito la proposta di Roberto.
 
-Il giorno successivo, Roberto ha bussato alla porta di Andrea. Aveva due barattoli di vernice verde.
+Il giorno successivo, Roberto ha bussato alla porta di Andrea. Portava con sé due barattoli di vernice verde.
 
-"Avremo bisogno di altri quattro barattoli", ha spiegato Roberto. "Tieni questi, io vado a comprarli."
+"Avremo bisogno di altri quattro barattoli", ha spiegato Roberto. "Tieni questi e io vado a comprarli."
 
 "Ti do i soldi", ha detto Andrea. "Quant'è?" Roberto gli ha detto il prezzo. "Capisco. È una vernice costosa."
 

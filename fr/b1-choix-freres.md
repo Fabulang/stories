@@ -4,16 +4,18 @@ cefr: b1
 locale: fr
 key: brothers-choice
 date: 2025-01-26
-reviews: 2
+reviews: 3 # melissa
+# reviewers:
+# - melissa-martinez
 ---
 
-Cette horloge est vraiment magnifique», a dit l'ami de Laurent, s'arrêtant dans le couloir.
+Cette horloge est vraiment magnifique», a dit l'ami de Laurent en s'arrêtant dans le couloir.
 
 «Bien sûr, tu es un collectionneur», a répondu Laurent. Il a tendu le verre à son ami.
 
 «Où l'as-tu trouvée?»
 
-«C'était celle de mon père. Lui aussi collectionnait les horloges. Il les achetait aux enchères, même si elles étaient vieilles, cassées et sales. Ensuite, il les réparait et les rendait belles. Celle-ci était sa préférée.»
+«C'était celle de mon père. Lui aussi collectionnait les horloges. Il les achetait aux enchères, même si elles étaient vieilles, cassées et sales. Ensuite, il les réparait et les rendait à nouveau belles. Celle-ci était sa préférée.»
 
 «Mais je pensais que ton père ne t'avait rien laissé dans son testament?»
 
@@ -29,7 +31,7 @@ L'avocate a retourné le document et a lu à voix haute: «Ma maison et tous mes
 
 «...qui devront décider à quelle association caritative le donner.»
 
-«Une association?!»
+«Une association caritative?!»
 
 «Je propose qu'on le donne à la recherche médicale», a dit Laurent. «La maladie de papa était ---»
 
@@ -39,11 +41,11 @@ L'avocate a toussoté. «Il y a autre chose», a-t-elle dit. Elle a repris la le
 
 «Je prends la télé», a déclaré immédiatement le frère cadet.
 
-«Je suis désormais mort», a poursuivi l'avocate, «mais j'ai un dernier conseil pour mes fils. Il y a ---»
+«Je suis désormais mort», a poursuivi l'avocate, «mais j'ai un dernier conseil pour mes fils. Il n'y a ---»
 
 Les frères de Laurent sont sortis en courant de la pièce. Quelques secondes plus tard, il a entendu leurs voitures démarrer.
 
-«Il n'y a rien de plus précieux que de bons souvenirs», a conclu l'avocate, levant les sourcils.
+«Il n'y a rien de plus précieux que de bons souvenirs» a conclu l'avocate, en haussant les sourcils.
 
 «Qu'ont pris tes frères?» a demandé l'ami de Laurent, trente ans plus tard. «Ton frère cadet a vraiment choisi la télé?»
 

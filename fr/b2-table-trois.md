@@ -4,6 +4,9 @@ cefr: b2
 locale: fr
 key: table-three
 date: 2025-01-26
+reviews: 1 # veronica
+# reviewers:
+# - veronica-montserrat
 ---
 
 Le chef a posé les assiettes sur le comptoir. Le steak était parfait. Les légumes étaient frais et tendres. L'odeur de la sauce était alléchante. Henri a pris les assiettes et les a portées avec élégance dans la salle à manger.
@@ -14,13 +17,13 @@ Henri a placé une assiette devant chacun des trois hommes, puis il a commencé 
 
 «Alors, elle a été élue», a dit un homme aux cheveux bruns. «Mais sans mon soutien, elle n'est rien.»
 
-Un homme chauve a pris la parole. «Ça fait dix-sept gouvernements que tu contrôles maintenant, n'est-ce pas? Sacré diable rusé!»
+Un homme chauve a pris la parole. «Ça fait dix-sept gouvernements que tu contrôles maintenant, n'est-ce pas? Petit malin!»
 
-«Je te demande pardon!» a répondu l'homme, vexé. «C'est dix-huit.»
+«Je te demande pardon!» a répondu l'homme, vexé. «Dix-huit.»
 
 «Tu es en train de me rattraper.»
 
-Les hommes ont trinqué avec leurs verres.
+Les hommes ont trinqué.
 
 Henri s'est incliné, a quitté la pièce et est retourné à la cuisine. Il s'est lavé les mains, puis il est allé aux toilettes. Dans une cabine, il a vérifié sa caméra cachée. L'appareil fonctionnait toujours correctement.
 
@@ -40,7 +43,7 @@ Le troisième homme a ricané. «L'espace? Moi, je reste ici sur Terre. S'il fai
 
 Henri a regardé les tartes au chocolat. Il s'est senti mal. Il en a placé une devant chaque homme et a servi plus de vin.
 
-«Vous savez, parfois, j'ai de la peine pour eux», a dit l'homme chauve. «Des milliards de gens, travaillant si dur, pour si peu. Comme notre serveur.»
+«Vous savez, parfois, j'ai de la peine pour eux», a dit l'homme chauve. «Des milliards de gens travaillant si dur, pour si peu. Comme notre serveur.»
 
 Henri s'est figé.
 

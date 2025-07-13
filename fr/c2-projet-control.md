@@ -4,11 +4,15 @@ cefr: c2
 locale: fr
 key: project-control
 date: 2025-01-26
+reviews: 2 # veronica, melissa
+# reviewers:
+# - veronica-montserrat
+# - melissa-martinez
 ---
 
 «Ce rapport trimestriel est... insatisfaisant», a déclaré le manager de Colette d'un ton monocorde. «Il n'y a pas assez de détails. Et il y a trop de chiffres sur le graphique. La police devrait être plus grande. Les tableaux devraient utiliser les couleurs de notre marque. Et vous devriez tout dupliquer à la fin.»
 
-«Le dupliquer, monsieur?»
+«Tout dupliquer, monsieur?»
 
 «Une copie pour moi, et une autre pour le chef de service.»
 
@@ -18,15 +22,15 @@ date: 2025-01-26
 
 «Je suis désolée, monsieur», a-t-elle marmonné.
 
-«Qu'est-ce que c'était? Je ne vous entends pas.»
+«Qu'avez-vous dit? Je ne vous entends pas.»
 
 «Monsieur, j'ai vraiment tout donné. J'ai travaillé tard, et le week-end.»
 
-«Cela n'a aucune importance. Dans cette entreprise, nous ne pouvons pas tolérer une performance médiocre. Si vous ne répondez pas à nos exigences, alors votre salaire devrait être réduit. N'êtes-vous pas d'accord?»
+«Cela n'a aucune importance. Dans cette entreprise, nous ne pouvons pas tolérer le travail médiocre. Si vous ne répondez pas à nos exigences, alors votre salaire devra être réduit. N'êtes-vous pas d'accord?»
 
 «Oui, monsieur.»
 
-Colette est retournée à son bureau -- en descendant six étages, en parcourant cinq couloirs, et en entrant dans une grande salle éclairée par des tubes fluorescents. Il y avait des fenêtres, mais elles étaient très petites et placées très haut, de sorte qu'elle ne pouvait pas voir l'extérieur.
+Colette est retournée à son bureau -- en descendant six étages, en parcourant cinq couloirs, et en entrant dans une grande salle éclairée par des néons. Il y avait des fenêtres, mais elles étaient très petites et placées très haut, de sorte qu'elle ne pouvait pas voir l'extérieur.
 
 Elle a avalé un peu de café. Elle était tellement épuisée que cela ne semblait avoir aucun effet. Au cours des derniers mois, son manager lui avait donné de plus en plus de travail. Elle avait préparé tellement de rapports qu'elle en oubliait parfois le contenu, en cours de route.
 
@@ -34,9 +38,9 @@ Elle détestait ce travail, mais le salaire était bon, et elle ne savait pas qu
 
 Son téléphone a vibré. Il y avait un message.
 
-«N'IGNOREZ PAS CE MESSAGE. Vous ne me connaissez pas mais moi je vous connais. Votre cerveau a été lavé, Colette. Vous ne voulez pas vraiment travailler pour eux. Vous ne me croyez pas? Regardez dans le dossier intitulé 'Projet: Contrôle'. Le mot de passe est 'Obéissance'.»
+«N'IGNOREZ PAS CE MESSAGE. Vous ne me connaissez pas, mais moi, je vous connais. Vous avez subi un lavage de cerveau, Colette. Vous ne voulez pas vraiment travailler pour eux. Vous ne me croyez pas? Regardez dans le dossier intitulé 'Projet: Contrôle'. Le mot de passe est 'Obéissance'.»
 
-Au début, Colette n'a pas su quoi faire. Mais elle a cherché le dossier sur le réseau de l'entreprise et l'a trouvé. Elle a entré le mot de passe et, à sa grande surprise, le dossier s'est ouvert.
+Au début, Colette n'a pas su quoi faire. Mais elle a cherché le dossier dans le système informatique de l'entreprise et l'a trouvé. Elle a entré le mot de passe et, à sa grande surprise, le dossier s'est ouvert.
 
 À l'intérieur, il y avait des centaines de fichiers, chacun portant le nom d'un employé différent. Quand Colette a trouvé un fichier à son nom, elle a retenu son souffle. Elle a ouvert le fichier.
 
@@ -52,7 +56,7 @@ Elle a pris l'engin. C'était très compliqué, avec des microprocesseurs et des
 
 Ce n'était pas une blague. Les fichiers étaient réels. La bombe était réelle.
 
-Colette n'en revenait pas d'elle-même. Elle n'avait pas peur. Pour la première fois depuis des années, elle s'est sentie aux commandes. Elle avait l'impression de se soucier vraiment de quelque chose. Elle allait le faire.
+Colette n'en revenait pas. Elle n'avait pas peur. Pour la première fois depuis des années, elle s'est sentie aux commandes. Elle avait l'impression de se soucier vraiment de quelque chose. Elle allait le faire.
 
 «Colette!» a crié son manager.
 

@@ -4,9 +4,8 @@ cefr: a1
 locale: es
 key: dont-go-holiday
 date: 2025-07-13
-reviews: 1 # antonio
-#reviewers:
-#- antonio-gonzalez
+reviewers:
+- antonio-gonzalez
 ---
 
 "Ni se te ocurra irte de vacaciones."

@@ -18,7 +18,7 @@ Les fleurs ont éclos, l'été est arrivé, et les fruits ont poussé. Le jardin
 
 Le week-end, Amanda se promenait dans son nouveau jardin. Elle effleurait les feuilles du bout des doigts. Elle sentait le parfum frais des fleurs. Elle sentait l'herbe douce sous ses pieds, réchauffée par le soleil.
 
-Beaucoup de fruits étaient mûrs. Amanda a cueilli une fraise et l'a mangée. C'était douce, juteuse et parfumée. Elle a savouré le goût.
+Beaucoup de fruits étaient mûrs. Amanda a cueilli une fraise et l'a mangée. C'était doux, juteux et parfumé. Elle a savouré le goût.
 
 «Hé!» a retenti une voix en colère. «Ce sont les miennes!»
 

@@ -17,7 +17,7 @@ reviews: 1
 
 «Ou un bus, peut-être?» a suggéré Élisabeth.
 
-«Je veux parler à votre manager.»
+«Je veux parler à votre gérant.»
 
 «Ce ne sera pas nécessaire, monsieur!» a dit rapidement Élisabeth. «L'Arrêt de Bus des Esprits. Bien sûr! Je plaisantais seulement.»
 
@@ -27,7 +27,7 @@ Elle a pensé à l'un des nombreux arrêts de bus de la ville. «Oui, vous pouve
 
 «Fantastique», a dit l'homme. «Pouvez-vous me dire un peu de son histoire?»
 
-Élisabeth a pris une grande respiration. «Euh... bon... il y avait un... agriculteur de choux... qui était en colère parce que le bus était en retard. Alors il l'a maudit. Maintenant, les bus n'arrivent jamais à l'heure là-bas. À moins que... vous n'ayez un chou avec vous.»
+Élisabeth a pris une grande respiration. «Euh... bon... il y avait un... fermier de choux... qui était en colère parce que le bus était en retard. Alors il l'a maudit. Maintenant, les bus n'arrivent jamais à l'heure là-bas. À moins que... vous n'ayez un chou avec vous.»
 
 «Et quel âge a-t-il?» a demandé le touriste, les yeux écarquillés.
 
@@ -47,6 +47,6 @@ Quand Élisabeth est arrivée au travail lundi matin, il y avait une longue file
 
 Élisabeth a vendu les brochures toute la matinée. Quand les touristes étaient enfin partis, elle était épuisée. Elle s'est penchée en arrière dans sa chaise et a fermé les yeux. C'était enfin calme.
 
-Il y avait une voix qui venait du bureau derrière elle. Son manager était au téléphone.
+Il y avait une voix qui venait du bureau derrière elle. Son gérant était au téléphone.
 
-«Votre article sur un arrêt de bus a fait des merveilles!» disait-il. «Combien me demanderiez-vous pour en écrire un autre? ... D'accord, j'enverrai l'argent. ... Oh, qu'est-ce que ça peut faire? Faites-le sur les feux de circulation.»
+«Votre article sur un arrêt de bus a fait des merveilles!» disait-il. «Combien me demanderiez-vous pour en écrire un autre? ... D'accord, j'enverrai les monnaies. ... Oh, qu'est-ce que ça peut faire? Faites-le sur les feux de circulation.»

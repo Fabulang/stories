@@ -32,7 +32,7 @@ Todo en la casa parecía muy moderno y nuevo. Las paredes eran lisas y estaban i
 
 "Me encanta ese color verde que has elegido," dijo Andrés. "Es de muy buen gusto. ¿Te importaría si elijo algo similar para mi casa?"
 
-"¡Por supuesto que no!" dijo Berto. "Me alagas. De hecho, me queda un poco de esa pintura en el garaje. ¿La querrías?"
+"¡Por supuesto que no!" dijo Berto. "Me alabas. De hecho, me queda un poco de esa pintura en el garaje. ¿La querrías?"
 
 "¿Estás seguro?"
 

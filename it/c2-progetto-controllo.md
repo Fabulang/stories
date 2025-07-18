@@ -6,6 +6,8 @@ key: project-control
 date: 2025-01-26
 reviewers:
 - micaela-poggi
+- tiziana-neroni
+- carlotta-beluzzi
 ---
 
 "Questo rapporto trimestrale è... insoddisfacente", ha detto monotonamente il responsabile di Nicoletta. "Non ci sono abbastanza dettagli. E ci sono troppi numeri nel grafico. La dimensione del carattere dovrebbe essere più grande. Le tabelle dovrebbero usare i colori del nostro marchio. E dovresti duplicare tutto alla fine."
@@ -28,17 +30,17 @@ reviewers:
 
 "Sì, signore."
 
-Nicoletta è tornata alla sua scrivania -- giù per sei rampe di scale, lungo cinque corridoi e in una grande stanza illuminata da tubi fluorescenti. C'erano finestre, ma erano molto piccole e posizionate in alto, quindi non riusciva a vedere fuori.
+Nicoletta è tornata alla sua scrivania -- giù per sei rampe di scale, lungo cinque corridoi e in una grande stanza illuminata da lampade fluorescenti. Le finestre c'erano, ma erano molto piccole e posizionate in alto, quindi non riusciva a vedere fuori.
 
 Ha inghiottito un po' di caffè. Era così esausta che non sembrava farle alcun effetto. Negli ultimi mesi, il suo responsabile le aveva assegnato sempre più incarichi. Aveva preparato così tanti rapporti che a volte, a metà strada, dimenticava di cosa parlassero.
 
-Odiava quel lavoro, ma lo stipendio era buono e non sapeva cos'altro avrebbe potuto fare. Probabilmente altre aziende sarebbero state anche peggiori. Se lavorasse sodo qui, forse alla fine verrebbe promossa.
+Odiava quel lavoro, ma lo stipendio era buono e non sapeva cos'altro avrebbe potuto fare. Probabilmente altre aziende sarebbero state anche peggiori. Se avesse lavorato sodo qui, forse alla fine sarebbe stata promossa.
 
 Il suo telefono ha vibrato. Era arrivato un messaggio.
 
-"NON IGNORARMI. Non mi conosci, ma io conosco te. Ti hanno fatto il lavaggio del cervello, Nicoletta. Non vuoi davvero lavorare per loro. Non mi credi? Guarda nella cartella denominata 'Progetto: Controllo'. La password è 'Obbedienza'."
+"NON IGNORARMI. Non mi conosci, ma io conosco te. Ti hanno fatto il lavaggio del cervello, Nicoletta. Tu non vuoi davvero lavorare per loro. Non mi credi? Guarda nella cartella chiamata 'Progetto: Controllo'. La password è 'Obbedienza'."
 
-All'inizio, Nicoletta non sapeva cosa fare. Ma ha cercato la cartella nella rete aziendale e l'ha trovata. Ha inserito la password e, con sua sorpresa, la cartella si è aperta.
+All'inizio Nicoletta non sapeva cosa fare. Ma ha cercato la cartella nella rete aziendale e l'ha trovata. Ha inserito la password e, con sua sorpresa, la cartella si è aperta.
 
 Dentro c'erano centinaia di file, ognuno con il nome di un dipendente diverso. Quando Nicoletta ha trovato un file con il suo nome, ha trattenuto il fiato. Ha aperto il file.
 
@@ -48,7 +50,7 @@ Nicoletta ha sputato il caffè. È arrivato un altro messaggio.
 
 "Producono il farmaco al Livello B-Sei. Il codice è quattro due sette otto. C'è una bomba sotto la tua scrivania. Portala al laboratorio. Ci sono due pulsanti; premili contemporaneamente e tienili premuti per cinque secondi. Poi avrai dieci minuti. Puoi farcela. Tutti contano su di te."
 
-Con mani tremanti, Nicoletta ha cercato sotto la scrivania. C'era qualcosa di pesante vicino al fondo, nascosto tra i cavi di alimentazione. Si è guardata intorno. Tutti gli altri stavano digitando rapidamente, fissando gli schermi senza battere ciglio.
+Con mani tremanti, Nicoletta ha cercato sotto la scrivania. C'era qualcosa di pesante vicino al retro, nascosto tra i cavi di alimentazione. Si è guardata intorno. Tutti gli altri stavano scrivendo al computer rapidamente, fissando gli schermi senza battere ciglio.
 
 Ha preso il dispositivo. Era molto complicato, con microchip e fili aggrovigliati intorno a tre tubi rossi.
 
@@ -56,10 +58,10 @@ Non era uno scherzo. I file erano reali. La bomba era reale.
 
 Nicoletta non poteva credere a sé stessa. Non era spaventata. Per la prima volta da anni, si sentiva padrona della situazione. Sentiva di avere a cuore qualcosa. Lo avrebbe fatto.
 
-"Nicoletta!" ha il suo responsabile le aveva assegnato
+"Nicoletta!" ha gridato il suo responsabile.
 
-Nicoletta ha alzato la testa. Si era addormentata sulla scrivania del responsabile, nel suo ufficio. Si è alzata, sentendosi confusa. Si è strofinata gli occhi e si è sistemata la giacca.
+Nicoletta ha alzato la testa. Si era addormentata sulla scrivania nell'ufficio del responsabile. Si è alzata, sentendosi confusa. Si è strofinata gli occhi e si è sistemata la giacca.
 
-"Sono stato molto indulgente con te, Nicoletta, nonostante il tuo atteggiamento poco professionale, il tuo impegno a metà e il tuo continuo disprezzo per la gerarchia di questa organizzazione!" ha sibilato il responsabile. "Ma questo è troppo! Sei licenziata!"
+"Sono stato molto indulgente con te, Nicoletta, nonostante il tuo atteggiamento poco professionale, il tuo fiacco impegno, e il tuo continuo disprezzo per la gerarchia di questa organizzazione!" ha detto il responsabile fremendo di rabbia. "Ma questo è troppo! Sei licenziata!"
 
 Qualche lacrima brillava sulle guance di Nicoletta. "Oh..." ha detto, sorridendo. "Grazie, signore!"

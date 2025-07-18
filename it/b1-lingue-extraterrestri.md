@@ -6,7 +6,7 @@ key: alien-languages
 date: 2023-08-14
 ---
 
-"È decisamente un lingua extraterrestre", ha confermato Alison.
+"È decisamente una lingua extraterrestre", ha confermato Alison.
 
 Il Generale ha annuito in silenzio. Alison si trovava all'interno di una base militare segreta. C'era attrezzatura informatica dappertutto. C'erano due soldati con le armi in mano vicino alla porta.
 

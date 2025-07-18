@@ -6,8 +6,8 @@ key: very-tasteful-green
 date: 2025-01-26
 reviewers:
 - micaela-poggi
-#- carlotta-belluzzi
-#- laura-baro
+- carlotta-belluzzi
+- laura-baro
 ---
 
 La nuova casa di Andrea era situata in una strada tranquilla di una regione costosa del Paese. Aveva risparmiato per anni per potersi trasferire lì. La casa non era grande e aveva bisogno di essere rimessa a nuovo, ma Andrea era felice di lasciarsi alle spalle il suo vecchio quartiere.
@@ -30,7 +30,7 @@ Hanno parlato per un po', prima che Andrea menzionasse la sua difficoltà con i 
 
 "Hai decorato per conto tuo?" ha detto Andrea con stupore, guardandosi intorno.
 
-Tutto in casa sembrava molto di tendenza e nuovo. Le pareti erano lisce e perfette.
+Tutto in casa sembrava nuovo e di tendenza. Le pareti erano lisce e perfette.
 
 "Adoro questo colore verde che hai scelto", ha detto Andrea. "È davvero di buon gusto. Ti dispiacerebbe se scegliessi qualcosa di simile per casa mia?"
 

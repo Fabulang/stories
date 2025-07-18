@@ -4,9 +4,8 @@ cefr: c1
 locale: fr
 key: very-tasteful-green
 date: 2025-01-26
-reviews: 1 # Mélissa Martinez
-#reviewers:
-#- melissa-martinez
+reviewers:
+- melissa-martinez
 ---
 
 La nouvelle maison d'André était située dans une rue calme dans un quartier cher du pays. Il avait économisé pendant des années pour pouvoir y déménager. La maison n'était pas grande et avait besoin d'être redécorée, mais il était ravi de laisser derrière lui son ancien quartier.

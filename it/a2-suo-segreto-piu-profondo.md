@@ -6,7 +6,7 @@ key: her-deepest-secret
 date: 2025-01-26
 reviewers:
 - alessandro-bucalo
-#- virna-bazzo
+- virna-bazzo
 ---
 
 "C'è qualcosa di strano in questo dipinto", ha detto la guida turistica. "Riuscite a vedere di cosa si tratta?"
@@ -67,4 +67,4 @@ Era sera e la città era affollata, rumorosa e piena di luci brillanti.
 
 "Sono contenta che non l'abbiano fatto. Dopo la morte di tuo padre, volevo bruciare il dipinto. Ma sono felice di averlo venduto, così posso ancora vederlo, di tanto in tanto."
 
-"Ma papà odiava vivere in segreto! Voleva che le persone ti conoscessero davvero! È per questo che ti ha dipinto in modo realistico -- senza un riflesso nello specchio!"
+"Ma papà odiava vivere in segreto! Voleva che le persone ti conoscessero davvero! È per questo che ti ha dipinto in modo realistico... senza un riflesso nello specchio!"

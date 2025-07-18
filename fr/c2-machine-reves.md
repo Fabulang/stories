@@ -16,11 +16,11 @@ Il y a eu un grand bruit à la porte. Vivienne l'a ouverte en grand. Se tenait s
 
 Un des gardes du corps a pointé un pistolet sur sa tête. «Tu peux faire une exception», a-t-il grondé.
 
-Vivienne a ignoré le pistolet. «Le rêve est pris au hasard et complètement anonymisé», a-t-elle expliqué calmement. «Il est mathématiquement impossible d'identifier le rêveur original.»
+Vivienne a ignoré le pistolet. «Le rêve est pris au hasard et complètement anonymisé», elle a expliqué calmement. «Il est mathématiquement impossible d'identifier le rêveur original.»
 
 «Détends-toi, c'est du business», a dit le Gouverneur, poussant le pistolet du garde du corps vers le bas. «Je paierai ton prix, femme. Donne-moi juste ce que je veux.»
 
-Les hommes ont fait irruption. Le Gouverneur s'est installé confortablement dans un fauteuil à l'ancienne qui se trouvait au milieu de l'appartement. Vivienne a attaché un câble à son front. Puis elle a choisi une carte mémoire, et l'a insérée dans la machine à rêves.
+Les hommes ont foncé à l'intérieur. Le Gouverneur s'est installé confortablement dans un fauteuil à l'ancienne qui se trouvait au milieu de l'appartement. Vivienne a attaché un câble à son front. Puis elle a choisi une carte mémoire, et l'a insérée dans la machine à rêves.
 
 «Prêt?» a-t-elle susurré.
 
@@ -32,7 +32,7 @@ Vivienne a appuyé sur le bouton. Un battement de paupières lent, un tremblemen
 
 Alors que le Gouverneur est retourné dans la nuit, et que ses hommes ont quitté la petite pièce, le même garde du corps s'est arrêté et a croisé le regard de Vivienne.
 
-«Tu sais ce qui est mathématiquement impossible?» a-t-il craché. «Ta vie -- si tu parles de ça à quiconque.»
+«Tu sais ce qui est mathématiquement impossible?» il a craché. «Ta vie -- si tu parles de ça à quiconque.»
 
 «Je n'oserais même pas y rêver», a dit Vivienne d'un ton nonchalant, bien que sa gorge était sèche comme la poussière.
 
@@ -46,7 +46,7 @@ Tard dans la nuit, Vivienne a été réveillée par un autre visiteur. Le masque
 
 «Supposons que ce soit vrai», a répondu Vivienne.
 
-«Nous savons tous ce que cette cité est devenue, à cause de lui. N'est-il pas temps que le peuple voie quel genre d'homme il est vraiment? Ce rêve pourrait le ruiner. Il pourrait tout changer.»
+«Nous savons tous ce que cette cité est devenue, à cause de lui. N'est-il pas temps que le peuple voie quel genre d'homme il est vraiment? Ce rêve pourrait le ruiner. Ça pourrait tout changer.»
 
 Le hacker a enlevé son masque et a tendu sa main. Vivienne a examiné le visage de l'homme. Elle croyait pouvoir lui faire confiance. Mais elle se souvenait du garde du corps. Elle se souvenait du froid métal du pistolet contre sa tête.
 

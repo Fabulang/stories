@@ -17,7 +17,7 @@ reviews: 1
 
 «Ou un bus, peut-être?» a suggéré Élisabeth.
 
-«Je veux parler à votre gérant.»
+«Je veux parler à votre supérieur.»
 
 «Ce ne sera pas nécessaire, monsieur!» a dit rapidement Élisabeth. «L'Arrêt de Bus des Esprits. Bien sûr! Je plaisantais seulement.»
 
@@ -47,6 +47,6 @@ Quand Élisabeth est arrivée au travail lundi matin, il y avait une longue file
 
 Élisabeth a vendu les brochures toute la matinée. Quand les touristes étaient enfin partis, elle était épuisée. Elle s'est penchée en arrière dans sa chaise et a fermé les yeux. C'était enfin calme.
 
-Il y avait une voix qui venait du bureau derrière elle. Son gérant était au téléphone.
+Il y avait une voix qui venait du bureau derrière elle. Son supérieur était au téléphone.
 
 «Votre article sur un arrêt de bus a fait des merveilles!» disait-il. «Combien me demanderiez-vous pour en écrire un autre? ... D'accord, j'enverrai les monnaies. ... Oh, qu'est-ce que ça peut faire? Faites-le sur les feux de circulation.»

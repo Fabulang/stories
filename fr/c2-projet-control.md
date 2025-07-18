@@ -4,13 +4,13 @@ cefr: c2
 locale: fr
 key: project-control
 date: 2025-01-26
-reviews: 2 # veronica, melissa
-# reviewers:
+reviews: 1 # veronica
+reviewers:
 # - veronica-montserrat
-# - melissa-martinez
+- melissa-martinez
 ---
 
-«Ce rapport trimestriel est... insatisfaisant», a déclaré le manager de Colette d'un ton monocorde. «Il n'y a pas assez de détails. Et il y a trop de chiffres sur le graphique. La police devrait être plus grande. Les tableaux devraient utiliser les couleurs de notre marque. Et vous devriez tout dupliquer à la fin.»
+«Ce rapport trimestriel est... insatisfaisant», a déclaré le responsable de Colette d'un ton monocorde. «Il n'y a pas assez de détails. Et il y a trop de chiffres sur le graphique. La police devrait être plus grande. Les tableaux devraient utiliser les couleurs de notre marque. Et vous devriez tout dupliquer à la fin.»
 
 «Tout dupliquer, monsieur?»
 
@@ -32,7 +32,7 @@ reviews: 2 # veronica, melissa
 
 Colette est retournée à son bureau -- en descendant six étages, en parcourant cinq couloirs, et en entrant dans une grande salle éclairée par des néons. Il y avait des fenêtres, mais elles étaient très petites et placées très haut, de sorte qu'elle ne pouvait pas voir l'extérieur.
 
-Elle a avalé un peu de café. Elle était tellement épuisée que cela ne semblait avoir aucun effet. Au cours des derniers mois, son manager lui avait donné de plus en plus de travail. Elle avait préparé tellement de rapports qu'elle en oubliait parfois le contenu, en cours de route.
+Elle a avalé un peu de café. Elle était tellement épuisée que cela ne semblait avoir aucun effet. Au cours des derniers mois, son responsable lui avait donné de plus en plus de travail. Elle avait préparé tellement de rapports qu'elle en oubliait parfois le contenu, en cours de route.
 
 Elle détestait ce travail, mais le salaire était bon, et elle ne savait pas quoi faire d'autre. D'autres entreprises seraient probablement encore pires. Si elle travaillait dur ici, peut-être qu'elle finirait par être promue.
 
@@ -58,10 +58,10 @@ Ce n'était pas une blague. Les fichiers étaient réels. La bombe était réell
 
 Colette n'en revenait pas. Elle n'avait pas peur. Pour la première fois depuis des années, elle s'est sentie aux commandes. Elle avait l'impression de se soucier vraiment de quelque chose. Elle allait le faire.
 
-«Colette!» a crié son manager.
+«Colette!» a crié son responsable.
 
-Colette a relevé la tête. Elle s'était assoupie sur le bureau du manager, dans son espace de travail. Elle s'est levée, confuse. Elle s'est frotté les yeux et a ajusté sa veste.
+Colette a relevé la tête. Elle s'était assoupie sur le bureau du responsable, dans son espace de travail. Elle s'est levée, confuse. Elle s'est frotté les yeux et a ajusté sa veste.
 
-«J'ai été très indulgent avec vous, Colette, malgré votre attitude non professionnelle, vos efforts à moitié faits et votre mépris continu pour la hiérarchie de cette organisation!» a sifflé le manager. «Mais c'en est trop! Vous êtes virée!»
+«J'ai été très indulgent avec vous, Colette, malgré votre attitude non professionnelle, vos efforts à moitié faits et votre mépris continu pour la hiérarchie de cette organisation!» a sifflé le responsable. «Mais c'en est trop! Vous êtes virée!»
 
 Quelques larmes ont brillé sur les joues de Colette. «Oh...» a-t-elle dit en souriant. «Merci, monsieur!»

@@ -29,7 +29,7 @@ Several months later, Bob arrives home in the evening. "Welcome to my flat," he 
 
 "Not exactly *alone*," says Bob.
 
-Two cats come to meet them. Bob kneels down and strokes them. They pur. One of them has black fur, and the other has ginger fur.
+Two cats come to meet them. Bob kneels down and strokes them. They purr. One of them has black fur, and the other has ginger fur.
 
 Then, eight kittens run towards them. They all meow at once. They're hungry.
 

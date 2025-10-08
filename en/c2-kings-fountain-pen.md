@@ -9,7 +9,7 @@ reviews: 1
 
 "Ladies and gentlemen of the jury. The evidence is conclusive.
 
-"Miss Anchor saw a bald man, matching Mr. Grey's description, leave the tourist section of the palace, and steal the King's priceless fountain pen from his private room.
+"Miss Ana saw a bald man, matching Mr. Gregorio's description, leave the tourist section of the palace, and steal the King's priceless fountain pen from his private room.
 
 "The security cameras saw exactly the same thing. And Mr. Grey's visitor ticket was found on the King's desk, where it fell from his pocket.
 

@@ -18,7 +18,7 @@ Annabella è entrata in cucina e ha iniziato a preparare la pappa d'avena. Il ca
 
 "Oh, che piacere", ha detto il cane.
 
-Annabella è saltata dalla paura, e la pappa d’avena è schizzata su tutto il soffitto.
+Annabella è saltata dalla paura, e la pappa d'avena è schizzata su tutto il soffitto.
 
 "Attenta!" ha abbaiato il cane. "Mi hai quasi colpito!"
 

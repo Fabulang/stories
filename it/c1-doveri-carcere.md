@@ -22,11 +22,11 @@ Mentre suonava l'ultima nota, improvvisamente le luci si sono accese. Il capo de
 
 "Basta così, ragazzi", ha detto il capo. "Riportatela nella sua cella e andate a letto."
 
-Enrica ha trattenuto il respiro. Il capo aveva sentito cosa stava suonando? Ma lui se n’era già andato. Lei ha respirato. Era stata stupida a correre un rischio del genere. Se avesse suonato solo qualche secondo in più...
+Enrica ha trattenuto il respiro. Il capo aveva sentito cosa stava suonando? Ma lui se n'era già andato. Lei ha respirato. Era stata stupida a correre un rischio del genere. Se avesse suonato solo qualche secondo in più...
 
 Una delle guardie ha chiuso Enrica nella sua cella. Enrica era una donna piccola e fragile, quindi anche una guardia ubriaca era sufficiente come sicurezza. Inoltre, non era né abbastanza forte né agile per scappare.
 
-"Devi scappare con noi", ha sussurrato il compagno di cella di Enrica dopo che la guardia se n’era  andata.
+"Devi scappare con noi", ha sussurrato il compagno di cella di Enrica dopo che la guardia se n'era  andata.
 
 "Mio caro, non posso", ha sospirato Enrica.
 

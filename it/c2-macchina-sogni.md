@@ -4,21 +4,23 @@ locale: it
 cefr: c2
 key: dream-machine
 date: 2023-07-13
+reviewers:
+- carlotta-beluzzi
 ---
 
 "Questa sarà una brutta notte", ha mormorato Viviana guardando la pioggia torrenziale.
 
-C'è stato un forte bussare alla porta. Viviana ha aperto con forza. Sulla veranda si trovava il Governatore Supremo della città, fiancheggiato da un gruppo di severe guardie del corpo.
+C'è stato un forte colpo alla porta. Viviana ha aperto con forza. Sulla veranda si trovava il Governatore Supremo della città, fiancheggiato da un gruppo di severe guardie del corpo.
 
-"Ho sentito che tu vendi sogni", ha detto il Governatore, i suoi occhi freddi riflettevano i lampioni al neon della strada. "Ho bisogno di una nuova esperienza. Ho bisogno di sentirmi estasiato. Deve essere trascendentale. Ho sentito che tu possa farlo."
+"Ho sentito che tu vendi sogni", ha detto il Governatore, mentre i suoi occhi freddi riflettevano i lampioni al neon della strada. "Ho bisogno di una nuova esperienza. Ho bisogno di sentirmi estasiato. Deve essere trascendentale. Ho sentito dire che tu puoi farlo."
 
 "Il costo è lo stesso per tutti", ha risposto dolcemente Viviana. "Vuoi un sogno? Dai un sogno."
 
-Uno tra la guardia del corpo le ha puntato una pistola alla testa. "Puoi fare un'eccezione", ha ringhiato.
+Una delle guardie del corpo le ha puntato una pistola alla testa. "Puoi fare un'eccezione", ha ringhiato.
 
 Viviana ha ignorato la pistola. "Il sogno viene prelevato a caso e completamente anonimizzato", ha spiegato con calma. "È matematicamente impossibile identificare il sognatore originale."
 
-"Tranquilla, è un affare", ha detto il Governatore, abbassando la pistola della guardia del corpo. "Pagherò il tuo prezzo, signora. Dammi solo quello che voglio."
+"Tranquillo, è solo business", ha detto il Governatore, abbassando la pistola della guardia del corpo. "Pagherò il tuo prezzo, signora. Ma dammi quello che voglio."
 
 Gli uomini hanno fatto irruzione. Il Governatore si è accomodato in una poltrona d'epoca che si trovava al centro dell'appartamento. Viviana ha attaccato un cavo alla sua fronte. Poi ha scelto una scheda di memoria e l'ha inserita nella macchina dei sogni.
 
@@ -30,17 +32,17 @@ Viviana ha premuto il pulsante. Un lento battito di ciglia, un tremito, e tutto 
 
 "Quello... quello era... mio Dio..." ha mormorato il Governatore.
 
-Mentre il Governatore usciva nel buio di notte, e i suoi uomini uscivano dalla piccola stanza, la stessa guardia del corpo si è fermata e ha incrociato lo sguardo con Viviana.
+Mentre il Governatore usciva nel buio della notte, e i suoi uomini uscivano dalla piccola stanza, la stessa guardia del corpo di prima si è fermata e ha incrociato lo sguardo di Viviana.
 
-"Sai cosa è matematicamente impossibile?" ha sibilato. "La tua vita -- se ne parli a qualcuno."
+"Sai cosa è matematicamente impossibile?" ha sibilato. "La tua vita, se ne parli a qualcuno."
 
-"Non mi sognerei mai", ha detto Viviana con nonchalance, sebbene la gola fosse secca come polvere.
+"Non mi sognerei mai", ha detto Viviana con nonchalance, sebbene la sua gola fosse secca come polvere.
 
-Quando gli uomini sono stati finalmente andati via, Viviana ha indossato i suoi occhiali video e ha guardato il sogno che era stato prelevato dal Governatore.
+Quando gli uomini erano finalmente andati via, Viviana ha indossato i suoi occhiali video e ha guardato il sogno che era stato prelevato dal Governatore.
 
-All'inizio, non era sicura di quello che vedeva. Poi si è strappata gli occhiali dal viso e ha strappato la scheda di memoria dalla macchina. Ha aperto la sua cassaforte, ha gettato la scheda al suo interno e ha chiuso violentemente.
+All'inizio, non era sicura di quello che vedeva. Poi si è strappata gli occhiali dal viso e ha strappato la scheda di memoria dalla macchina. Ha aperto la sua cassaforte, ha gettato la scheda al suo interno e l'ha chiusa violentemente.
 
-Tardi quella notte, Viviana è stata svegliata da un altro visitatore. La maschera viola dell'uomo le ha detto immediatamente che era di *Miglior Sistema*, il gruppo di hacker vigilanti.
+Più tardi quella stessa notte, Viviana è stata svegliata da un altro visitatore. La maschera viola dell'uomo le ha rivelato immediatamente che era di *Miglior Sistema*, il gruppo di hacker vigilanti.
 
 "Io so una cosa, e tu ne sai un'altra", ha sussurrato l'hacker. "*Io* so che, da qualche parte in questo appartamento, c'è una scheda di memoria contenente il sogno del Governatore Supremo. *Tu* sai quale è."
 

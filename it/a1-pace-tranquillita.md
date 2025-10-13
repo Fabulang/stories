@@ -1,12 +1,14 @@
 ---
-title: Pace e silenzio
+title: Pace e tranquillità
 locale: it
 cefr: a1
 key: peace-quiet
 date: 2023-08-14
+reviewers:
+- carlotta-beluzzi
 ---
 
-Roberto vive da solo. Gli piace che la sua vita sia pacifica e silenziosa. Ha una routine. Ogni giorno, medita per un'ora dopo il lavoro. Poi cucina un pasto sano e guarda un episodio della *Lo Spettacolo del Giardinaggio* in televisione. Infine, ascolta musica classica e va a dormire.
+Roberto vive da solo. Gli piace che la sua vita sia pacifica e silenziosa. Ha una routine. Ogni giorno, medita per un'ora dopo il lavoro. Poi cucina un pasto sano e guarda un episodio de *Lo Spettacolo del Giardinaggio* in televisione. Infine, ascolta musica classica e va a dormire.
 
 Un giorno, Roberto cucina una bistecca di tonno. Presto, è pronta da mangiare. Si siede, e prende il coltello e la forchetta. Poi sente un rumore: un tocco leggero. Qualcuno è alla sua porta. È molto insolito. Tutti i suoi vicini sanno che a Roberto piace stare da solo.
 
@@ -26,7 +28,7 @@ Diversi mesi dopo, Roberto arriva a casa la sera. "Benvenuta nel mio appartament
 
 "È un appartamento adorabile", dice la donna. "Hai coinquilini? O vivi da solo?"
 
-"Non esattamente *da solo*", dice Roberto.
+"Non proprio *da solo*", dice Roberto.
 
 Due gatti vengono a trovarli. Roberto si inginocchia e li accarezza. Fanno le fusa. Uno di loro ha il pelo nero, e l'altro ha il pelo rosso.
 
@@ -34,4 +36,4 @@ Poi, otto gattini corrono verso di loro. Miagolano tutti insieme. Hanno fame.
 
 "Come si chiamano?" chiede la donna. Il miagolio è così forte che quasi deve gridare.
 
-"Questo si chiama Pace", dice forte, accarezzando il gatto nero. "E questo si chiama Silenzio." Accarezza il gatto rosso. La donna vede che ha solo un orecchio.
+"Questo si chiama Pace", dice forte, accarezzando il gatto nero. "E questo si chiama Tranquillità." Accarezza il gatto rosso. La donna vede che ha solo un orecchio.

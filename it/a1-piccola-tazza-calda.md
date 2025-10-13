@@ -4,15 +4,17 @@ locale: it
 cefr: a1
 key: little-hot-cup
 date: 2023-07-08
+reviewers:
+- carlotta-beluzzi
 ---
 
-Ogni mattina, Arianna indossa un tailleur e va a lavorare in città. Ma prima, visita sempre *Piccola Tazza Calda*, un caffè sulla sua strada. Fanno il miglior caffè del mondo.
+Ogni mattina, Arianna indossa un tailleur e va a lavorare in città. Ma prima, visita sempre *Piccola Tazza Calda*, un bar sulla sua strada. Fanno il miglior caffè del mondo.
 
-Arianna si siede e beve il suo caffè per cinque minuti. È tranquillo, e il caffè è delizioso. A lei non piace il suo lavoro. Lavora molto duramente. Ma ama bere il suo caffè. È il suo momento preferito della giornata.
+Arianna si siede e beve il suo caffè per cinque minuti. È tranquillo, e il caffè è delizioso. A lei non piace il suo lavoro. Lavora molto duramente. Ma ama bere il suo caffè. È il momento preferito della sua giornata.
 
 Un lunedì, Arianna si sveglia. Si sente stanca. Non vuole andare a lavorare. Ma pensa al caffè, e si sente felice.
 
-Va a *Piccola Tazza Calda*. Ma quando arriva, qualcosa non va. Le luci sono spente. La porta è chiusa. C'è un pezzo di carta sulla porta. Dice "Chiuso Definitivamente".
+Va da *Piccola Tazza Calda*. Ma quando arriva, qualcosa non va. Le luci sono spente. La porta è chiusa. C'è un pezzo di carta sulla porta. Dice "Chiuso Definitivamente".
 
 Arianna ha voglia di piangere. Guarda attraverso la finestra. Il proprietario è seduto a un tavolo. Anche lui sembra triste. Arianna entra.
 

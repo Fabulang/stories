@@ -4,9 +4,11 @@ locale: it
 cefr: b1
 key: crashed-car
 date: 2023-10-25
+reviewers:
+- carlotta-beluzzi
 ---
 
-Non c'erano altre auto sulla strada quella notte. Adriano stava guidando verso casa attraverso una grande foresta, sentendosi triste e solo. Tra gli alberi era completamente buio.
+Non c'erano altre auto sulla strada quella notte. Adriano stava guidando verso casa attraverso una grande foresta, sentendosi triste e solo. Tra gli alberi tutto era completamente buio.
 
 Ha acceso la radio, ma non c'era nessun segnale. Allora ha iniziato a cantare una vecchia canzone della sua gioventù. Ha cantato l'ultima strofa a squarciagola: "Il mio cuore sarà -- sempre -- con -- te!"
 
@@ -26,7 +28,7 @@ Adriano ha chiamato i soccorsi.
 
 "Grazie signore. Conosciamo quella strada. Ci sono molti incidenti lì. Arriveremo presto. Stava guidando da solo, signore?"
 
-"Sì, io -- stavo solo tornando a casa."
+"Sì, io -- io stavo solo tornando a casa."
 
 "E dove abita, signore? Ho bisogno delle informazioni per compilare un rapporto completo."
 
@@ -34,19 +36,19 @@ Dopo che Adriano ha dato il suo indirizzo, c'è stata una lunga pausa.
 
 "Quell'indirizzo non corrisponde a nessuno dei miei archivi, signore."
 
-"Cosa? --- Ah, forse avete il mio vecchio indirizzo." Lo ha dato.
+"Cosa? --- Ah, forse avete il mio vecchio indirizzo." Glielo ha dato.
 
 "È una bella città, signore. È da lì che veniva questa sera?"
 
 "Sì -- stavo visitando i miei genitori. Quello è l'indirizzo dei miei genitori. È importante?"
 
-"Ha detto che stava guidando *a casa*, signore. Ma non è vero, vero?"
+"Ha detto che stava tornando a *casa*, signore. Ma non è vero, giusto?"
 
 "Cosa vuol dire?"
 
-"Stava guidando verso il luogo dove *vive*, in città. Ma la città non è la sua *casa*, vero? Non ci è cresciuto. Non ha imparato a andare in bicicletta lì, o a giocare nei campi con i suoi genitori, o a cantare con i suoi amici. La verità è che lei stava *allontanandosi dalla* sua casa."
+"Stava guidando verso il luogo dove *vive*, in città. Ma la città non è la sua *casa*, vero? Non ci è cresciuto. Non ha imparato a andare in bicicletta lì, o a giocare nei campi con i suoi genitori, o a cantare con i suoi amici. La verità è che lei si stava *allontanando dalla* sua casa."
 
-"Cos'è questo?" ha gridato Adriano, sentendosi spaventato. "Chi sei? È questo il servizio di emergenza?"
+"Che succede?" ha gridato Adriano, sentendosi spaventato. "Chi sei? È questo il servizio di emergenza?"
 
 L'altra persona ha chiuso la chiamata.
 

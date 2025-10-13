@@ -5,19 +5,21 @@ cefr: c1
 key: athletes-talent
 date: 2023-10-25
 reviews: 1
+reviewers:
+- carlotta-beluzzi
 ---
 
-Le strade dell'antica Elide erano piene di attività. Uomini e donne in tunica svolgevano le loro faccende, i commercianti spingevano carretti pieni di merci da vendere al mercato e i bambini giocavano sui ciottoli.
+Le strade dell'antica Elide erano molto affollate. Uomini e donne in tunica svolgevano le loro faccende, i commercianti spingevano carretti pieni di merci da vendere al mercato, e i bambini giocavano sui ciottoli.
 
 Ma Elpidios era seduto con la testa tra le ginocchia. Era venuto a Elide per seguire il suo sogno e diventare un atleta. Ma era un povero contadino e non poteva permettersi di pagare qualcuno per allenarlo.
 
 Tutti gli allenatori erano d'accordo che avesse talento. Ma loro non volevano studenti che avevano talento. Volevano studenti che avevano soldi.
 
-"Sogni le Olimpiadi?" si è sentita una voce.
+"Sogni le Olimpiadi?" ha detto una voce.
 
 Elpidios ha alzato lo sguardo. Un anziano con una lunga barba gli stava parlando.
 
-"Sì", ha sospirato Elpidios. "Sono veloce. So che posso vincere la corsa attraverso lo stadio, se mi alleno. Ma non posso permettermi un allenatore. Sono un fallito. Ho viaggiato per mezza Grecia ---"
+"Sì", ha sospirato Elpidios. "Sono veloce. So che posso vincere la corsa nello stadio, se mi alleno. Ma non posso permettermi un allenatore. Sono un fallito. Ho viaggiato per mezza Grecia ---"
 
 "Taci e alzati", lo ha interrotto l'anziano, con severità.
 
@@ -31,7 +33,7 @@ I mesi sono passati, fino a quando finalmente sono iniziate le Olimpiadi. Elpidi
 
 "Ricorda tutto quello che ti ho insegnato", ha detto l'anziano prima che iniziasse la corsa. "Ma soprattutto, ricorda che ora sei un atleta olimpico. Goditi il tuo sogno."
 
-Gli atleti si sono tolti i vestiti e si sono allineati a un'estremità dello stadio. Elpidios ha piazzato il piede contro la pietra di partenza. Ha respirato profondamente. L'altra estremità dello stadio sembrava molto lontana. Poi la corda è caduta e i corridori si sono lanciati in avanti come fulmini.
+Gli atleti si sono tolti i vestiti e si sono allineati a un'estremità dello stadio. Elpidios ha piazzato il piede contro la pietra di partenza. Ha respirato profondamente. L'altra estremità dello stadio sembrava molto lontana. Poi la corda è caduta, e i corridori si sono lanciati in avanti come fulmini.
 
 Dopo la corsa, l'anziano ha trovato Elpidios con la testa tra le gambe, fuori dallo stadio.
 

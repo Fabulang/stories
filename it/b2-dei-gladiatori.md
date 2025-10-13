@@ -6,6 +6,7 @@ key: gods-gladiators
 date: 2024-09-08
 reviewers:
 - giulia-italian-language-hub
+- carlotta-beluzzi
 ---
 
 I gladiatori erano pronti a combattere. Uno era un uomo grande con muscoli possenti. L'altro era magro e basso.
@@ -18,11 +19,11 @@ Il padrone le ha dato uno schiaffo. "Non disturbarmi mentre sto scommettendo", h
 
 "Sei molto duro con i tuoi schiavi", ha detto l'amico del padrone.
 
-"Questo li fa lavorare velocemente. Non come i tuoi schiavi, che sorridono tutto il giorno."
+"Così lavorano velocemente. Non come i tuoi schiavi, che sorridono tutto il giorno."
 
 Dieci minuti dopo, la folla esultava. Il gladiatore magro stava sanguinando, ma è uscito correndo dall'arena.
 
-"Che sfortuna", ha detto l'amico del padrone con simpatia.
+"Che sfortuna", ha detto l'amico del padrone con empatia.
 
 Il padrone è rimasto in silenzio mentre ha consegnato le monete al suo amico, una per una.
 

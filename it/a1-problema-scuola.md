@@ -6,6 +6,7 @@ key: problem-school
 date: 2024-09-08
 reviewers:
 - giulia-italian-language-hub
+- carlotta-beluzzi
 ---
 
 È buio. Non c'è luna nel cielo. Due persone camminano velocemente verso la scuola. È un edificio vecchio, fatto di pietra. Sembra quasi un castello.
@@ -40,13 +41,13 @@ Entra nella stanza. La porta scricchiola rumorosamente. La stanza è grande, con
 
 Un ragazzino è seduto su una delle sedie. La luce viola proviene da lui.
 
-Lentamente, la signorina Acciaio si avvicina. Si ferma dietro al ragazzino. Lui sta scrivendo su una lavagna con un pezzo di gesso. Può vedere la scritta bianca attraverso la schiena del ragazzino.
+Lentamente, la signorina Acciaio si avvicina. Si ferma dietro al ragazzino. Lui sta scrivendo su una lavagna con un pezzo di gesso. Lei vede la scritta bianca attraverso la schiena del ragazzino.
 
 Ha bisogno di avvicinarsi di più.
 
 "Posso sedermi con te?" chiede tranquillamente.
 
-Il ragazzino non risponde. Il gesso ticchetta e graffia. Lentamente, la signorina Acciaio si siede. Il ragazzino è molto freddo. Lei può sentirlo.
+Il ragazzino non risponde. Il gesso ticchetta e graffia. Lentamente, la signorina Acciaio si siede. Il ragazzino è molto freddo. Lei lo sente.
 
 "Sei un'altra ammazza fantasmi?" dice improvvisamente il ragazzino. "Posso farti del male anche io."
 

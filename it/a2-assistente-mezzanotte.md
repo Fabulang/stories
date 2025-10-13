@@ -4,19 +4,21 @@ locale: it
 cefr: a2
 key: midnight-helper
 date: 2023-08-14
+reviewers:
+- carlotta-beluzzi
 ---
 
 Dionigi stava sognando la matematica. I numeri e i simboli lo stavano attaccando. Non aveva fatto i compiti. Le domande matematiche erano troppo difficili.
 
 Dionigi si è svegliato. "La mia insegnante sarà arrabbiata con me, domani", ha pensato.
 
-Poi ha sentito un suono strano. Era come una matita che scriveva su un foglio. All'inizio, ha pensato che fosse un fantasma, ed era spaventato. Poi ha pensato: "Sto ancora sognando." Si addormentò di nuovo.
+Poi ha sentito un suono strano. Era come una matita che scriveva su un foglio. All'inizio, ha pensato che fosse un fantasma, ed era spaventato. Poi ha pensato: "Sto ancora sognando." Si è addormentato di nuovo.
 
 La mattina, Dionigi ha trovato un foglio di carta sulla sua scrivania. C'erano un sacco di numeri sulla carta. Erano le risposte ai suoi compiti di matematica! Ha copiato in fretta le risposte sul suo quaderno. Poi è andato a scuola.
 
 Quella sera, Dionigi aveva altri compiti da fare. Non sapeva come risolvere le equazioni. Ma forse non ne aveva bisogno. Ha lasciato i compiti sulla sua scrivania. La mattina, ha trovato un biglietto con tutte le risposte.
 
-"È un fantasma d'aiuto!" ha pensato Dionigi. "I fantasmi non mi danno fastidio se fanno i miei compiti!"
+"È un fantasma che aiuta!" ha pensato Dionigi. "I fantasmi non mi danno fastidio se fanno i miei compiti!"
 
 Ancora una volta, ha copiato le risposte in fretta, poi è andato a scuola.
 
@@ -24,7 +26,7 @@ Sono passate alcune settimane in questo modo e gli insegnanti di Dionigi sono ri
 
 Un giorno, l'insegnante ha chiamato Dionigi alla sua scrivania.
 
-"Lo so", ha detto.
+"Lo so", ha detto lei.
 
 Come aveva scoperto del fantasma? Dionigi doveva dire la verità. "Non ho chiesto al fantasma di farlo. Ma è stato così d'aiuto..."
 

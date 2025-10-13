@@ -1,20 +1,22 @@
 ---
-title: Dieci anni lontana
+title: A dieci anni di distanza
 locale: it
 cefr: a1
 key: ten-years-away
 date: 2023-07-13
+reviewers:
+- carlotta-beluzzi
 ---
 
-Giuseppina sta viaggiando per tornare a casa a trovare la sua famiglia. Vive in un altro paese, quindi sta viaggiando in aereo. Non vuole tornare. Non le piace il suo paese.
+Giuseppina sta viaggiando per tornare a casa a trovare la sua famiglia. Vive in un altro Paese, quindi sta viaggiando in aereo. Non vuole tornare. Non le piace il suo Paese.
 
-"Sono stata via per dieci anni", pensa Giuseppina. "Forse il mio paese è migliore di quanto ricordo."
+"Sono stata via per dieci anni", pensa Giuseppina. "Forse il mio Paese è migliore di quanto ricordo."
 
-Giuseppina arriva nel suo paese. Lascia l'aereo. Immediatamente, pensa: "Fa troppo caldo qui."
+Giuseppina arriva nel suo Paese. Scende dall'aereo. Immediatamente, pensa: "Fa troppo caldo qui."
 
 È stanca e affamata. Guida fino in città. Tutti i ristoranti sono chiusi, tranne uno. Entra. È l'unica cliente.
 
-Guarda il menù. "Ricordo questo cibo", pensa. "Non mi piace il cibo di questo paese."
+Guarda il menù. "Ricordo questo cibo", pensa. "Non mi piace il cibo di questo Paese."
 
 Il cameriere le chiede l'ordine. È un uomo grasso con la barba. A Giuseppina non piace.
 
@@ -22,7 +24,7 @@ Il cameriere le chiede l'ordine. È un uomo grasso con la barba. A Giuseppina no
 
 "Non abbiamo più pollo", dice il cameriere.
 
-"Allora, posso avere il salmone con i porri."
+"Va bene, allora, vorrei il salmone con i porri."
 
 "Mi dispiace, non ci sono più porri."
 
@@ -34,13 +36,13 @@ Il cameriere le chiede l'ordine. È un uomo grasso con la barba. A Giuseppina no
 
 "Zuppa di pollo e porri", dice il cameriere.
 
-Giuseppina è molto arrabbiata, ma parla con calma. "Zuppa di pollo e porri, per favore", dice lei. "E un bicchiere d'acqua. Avete acqua, vero?"
+Giuseppina è molto arrabbiata, ma parla con calma. "Zuppa di pollo e porri, per favore", dice lei. "E un bicchiere d'acqua. Avete l'acqua, vero?"
 
 Il cameriere se ne va. Giuseppina aspetta per quarantacinque minuti. "Dov'è la zuppa?" pensa. "È peggio di quanto ricordo."
 
 Finalmente, il cameriere porta il cibo. La zuppa è rossa. È zuppa di pomodoro. Giuseppina è contrariata. Non le piacciono i pomodori. Mangia il pane. È duro e freddo.
 
-"Odio questo paese", dice Giuseppina. "Spero di poter partire presto."
+"Odio questo Paese", dice Giuseppina. "Spero di poter partire presto."
 
 Il cameriere vede che Giuseppina è triste, e ancora affamata. Le porta un dolce.
 

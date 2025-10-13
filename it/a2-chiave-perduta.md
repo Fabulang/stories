@@ -4,17 +4,19 @@ locale: it
 cefr: a2
 key: lost-key
 date: 2023-07-08
+reviewers:
+- carlotta-beluzzi
 ---
 
 Nicola si è trasferito in una grande, vecchia casa. Trecento anni fa, vi abitava un famoso pirata.
 
 All'interno, molte cose erano rotte. "Ho molto lavoro da fare", ha pensato Nicola.
 
-Ha dipinto le pareti, ha riparato le scale e ha cambiato i tappeti. Fu allora che ha trovato la chiave d'oro. Era sotto il tappeto nel soggiorno. Sembrava molto vecchia.
+Ha dipinto le pareti, ha riparato le scale e ha cambiato i tappeti. È allora che ha trovato la chiave d'oro. Era sotto il tappeto nel soggiorno. Sembrava molto vecchia.
 
 "Mamma mia, deve essere la chiave del tesoro del pirata!" ha pensato Nicola.
 
-Nicola ha cercato in tutta la casa. Ha guardato in cucina, nelle camere da letto e nel bagno. Ma non c'erano armadi nascosti o porte segrete. Ha cercato intorno alla casa, e persino sul tetto, ma non è riuscito a trovare un buco della chiave.
+Nicola ha cercato in tutta la casa. Ha guardato in cucina, nelle camere da letto e nel bagno. Ma non c'erano armadi nascosti o porte segrete. Ha cercato intorno alla casa, e persino sul tetto, ma non è riuscito a trovare una serratura.
 
 Nicola non è riuscito a trovare il tesoro. Il pirata aveva vinto.
 
@@ -24,7 +26,7 @@ Una settimana dopo, una vecchia signora si è presentata alla sua porta.
 
 "Prego, entri", ha detto Nicola. Le ha offerto da bere e si sono seduti.
 
-Poi la donna ha tirato fuori dal suo sacco un vecchio cofanetto di legno. Sembrava pesante e resistente. Lo ha messo sul tavolo. Aveva un grosso buco per la chiave.
+Poi la donna ha tirato fuori dal suo sacco un vecchio cofanetto di legno. Sembrava pesante e resistente. Lo ha messo sul tavolo. Aveva una grande serratura.
 
 Nicola si è alzato velocemente. Era molto eccitato mentre le dava la chiave. Lei ha infilato la chiave nel buco e l'ha girata. Poi ha aperto il cofanetto.
 

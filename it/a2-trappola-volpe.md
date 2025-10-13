@@ -1,17 +1,19 @@
 ---
-title: La trappola di volpe
+title: La trappola di Volpe
 locale: it
 cefr: a2
 key: foxs-trap
 date: 2024-09-08
 reviews: 1
+reviewers:
+- carlotta-beluzzi
 ---
 
-Sig.na Topo era nella sua stanza, nella sua casa nella foresta. La sua casa era dentro un piccolo tronco a terra. Aveva quattro finestre, una porta d'ingresso e una porta sul retro, e un piccolo camino.
+La signorina Topo era nella sua stanza, nella sua casa nella foresta. La sua casa era dentro un piccolo tronco a terra. Aveva quattro finestre, una porta d'ingresso e una porta sul retro, e un piccolo camino.
 
 Topo si stava guardando allo specchio. "Le mie orecchie sono così grandi", ha detto tristemente. "Gli altri animali ridono di me." Ha sospirato.
 
-Fuori dal tronco, Sig. Volpe stava passando. Ha sentito quello che ha detto Topo. Si è avvicinato silenziosamente.
+Fuori dal tronco, il signor Volpe stava passando. Ha sentito quello che ha detto Topo. Si è avvicinato silenziosamente.
 
 "Vorrei essere come Farfalla", ha continuato Topo. "Tutti amano Farfalla. È così carina. Le sue ali sono così attraenti e colorate. E che orecchie piccole! La vita è facile per lei."
 
@@ -33,9 +35,9 @@ Topo ha riflettuto attentamente. Si è guardata di nuovo allo specchio. Ha visto
 
 "Ma devo restare a casa", ha detto Topo. "Quasi dimenticavo. I miei nipoti vengono a trovarmi dopo la scuola. Devo aspettarli."
 
-Ora gli occhi di Volpe erano spalancati. "Non è affatto un problema", ha detto. "Ti porterò io. Prima andiamo alla Scuola dei Topi. Poi andremo tutti insieme al lago magico."
+Ora gli occhi di Volpe erano spalancati. "Non è affatto un problema", ha detto. "Ti porterò io. Prima andiamo alla scuola dei topi. Poi andremo tutti insieme al lago magico."
 
-Il cuoricino del Topo batteva veloce mentre si metteva le scarpe. Ha aperto la porta. Volpe stava aspettando pazientemente. Lentamente, Topo ha camminato verso di lui.
+Il cuoricino di Topo batteva veloce mentre si metteva le scarpe. Ha aperto la porta. Volpe stava aspettando pazientemente. Lentamente, Topo ha camminato verso di lui.
 
 Quando Topo era davanti alla bocca di Volpe, lui ha detto, "Quanti nipoti? Quanto sono piccoli?"
 

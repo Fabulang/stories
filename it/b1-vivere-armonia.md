@@ -4,23 +4,25 @@ locale: it
 cefr: b1
 key: living-harmony
 date: 2023-07-20
+reviewers:
+- carlotta-beluzzi
 ---
 
-"Ciao, mi sto trasferendo oggi", ha detto Geremia, sorridente.
+"Ciao, mi trasferisco oggi", ha detto Geremia, sorridente.
 
 "Oh, anch'io!" ha detto Vittoria, attorcigliandosi i capelli.
 
-Geremia ha trasportato la sua valigia e la sua chitarra. Vittoria indossava un abito da lavoro e teneva in mano un mucchio di fogli. Sono entrati insieme nel condominio, parlando allegramente. Poi si sono fermati entrambi davanti alla stessa porta.
+Geremia ha trasportato la sua valigia e la sua chitarra. Vittoria indossava un tailleur e teneva in mano un mucchio di fogli. Sono entrati insieme nel condominio, parlando allegramente. Poi si sono fermati entrambi davanti alla stessa porta.
 
 Hanno controllato nuovamente i loro contratti. Era molto chiaro. Non se ne erano accorti prima. Ma adesso era troppo tardi. Sarebbero stati coinquilini.
 
 "Non ho mai vissuto con qualcun altro", ha detto Vittoria, preoccupata.
 
-"Sono sicuro che andremo d'accordo molto bene", ha detto Geremia.
+"Sono sicuro che andremo d'accordo", ha detto Geremia.
 
 Non sono andati affatto d'accordo. Vittoria era un'imprenditrice, e aveva bisogno di pace e tranquillità per pianificare la sua strategia aziendale. Geremia era un musicista in erba, e suonava la sua chitarra sia di giorno che di notte. A Geremia piaceva tenere pulita la casa, per schiarirsi le idee. Vittoria era troppo impegnata, e lasciava ovunque i suoi vestiti e i piatti.
 
-"Ne ho abbastanza!" ha gridato Vittoria. "Smettila di suonare quell'orribile chitarra! Non avrai mai successo. La tua musica sembra che un asino sia caduto sulle corde!"
+"Ne ho abbastanza!" ha gridato Vittoria. "Smettila di suonare quell'orribile chitarra! Non avrai mai successo. La tua musica suona come un asino che è caduto sulle corde!"
 
 "Questa casa è un tale disastro, non riesco a essere creativo!" ha replicato Geremia. "Sei così disordinata, la tua azienda non avrà mai clienti. Anche se qualcuno ti desse dei soldi, li perderesti sotto tutti questi vestiti!"
 

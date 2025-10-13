@@ -4,6 +4,8 @@ locale: it
 cefr: a1
 key: hamsters-tail
 date: 2023-06-24
+reviewers:
+- carlotta-beluzzi
 ---
 
 "Prenditi cura del criceto", dice l'insegnante di Elia. Poi va a mangiare.
@@ -16,7 +18,7 @@ Una bambina entra. "Posso tenerlo?" chiede.
 
 Elia prende il criceto e lo dà alla bambina. È caldo e morbido, e la bambina sorride. Ma il criceto la morde sul dito. "Ahi!" dice, e lascia cadere il criceto.
 
-Il piccolo animale corre fuori dalla porta aperta. "No!" grida Elia. Lui e la bambina corrono dietro. Elia riesce a vedere solo la sua coda, quando si infila nell'erba. Il criceto è sparito.
+Il piccolo animale corre fuori dalla porta aperta. "No!" grida Elia. Lui e la bambina gli corrono dietro. Elia riesce a vedere solo la sua coda, quando si infila nell'erba. Il criceto è sparito.
 
 Elia è molto preoccupato. "Sono nei guai", pensa.
 

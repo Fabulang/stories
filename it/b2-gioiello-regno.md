@@ -1,16 +1,18 @@
 ---
-title: Il gioiello del regno
+title: Il Gioiello del Regno
 locale: it
 cefr: b2
 key: jewel-kingdom
 date: 2023-07-20
+reviewers:
+- carlotta-beluzzi
 ---
 
 "Non potete fermarmi", ha riso Moros, il tiranno malvagio. "Ora userò il Gioiello del Potere per conquistare il regno! Lascia cadere la tua arma, Eravon, o lei muore."
 
-Moros teneva la sua spada contro il collo della Principessa.
+Moros teneva la sua spada contro il collo della principessa.
 
-"Gli dei ci hanno veramente dimenticati", ha detto Eravon.
+"Gli dèi ci hanno veramente dimenticati", ha detto Eravon.
 
 Una lacrima gli è scesa lungo la guancia mentre lasciava cadere a terra il suo arco. Non c'era più speranza. Moros aveva vinto.
 
@@ -18,7 +20,7 @@ Gabriella ha lasciato cadere la penna. L'ultima battaglia tra Eravon e Moros era
 
 Era tardi. Gabriella ha guardato la pagina. Doveva finire il capitolo. Le parole le danzavano davanti agli occhi. Lentamente, la sua testa è caduta sul tavolo.
 
-Quando Gabrielle si è svegliata, si è trovata in piedi in una foresta, fuori da un castello.
+Quando Gabriella si è svegliata, si è trovata in piedi in una foresta, fuori da un castello.
 
 "Chi sei?" ha detto qualcuno.
 
@@ -28,11 +30,11 @@ L'uomo è apparso da dietro gli alberi. Era giovane e bello, e portava un arco.
 
 Gabriella ha capito che, in qualche modo, si trovava dentro la sua stessa storia. E sapeva di che parte si trattava.
 
-"Sbrigati!" ha gridato. "Moros ha catturato la Principessa. È nel castello proprio adesso, e sta per prendere il Gioiello!"
+"Sbrigati!" ha gridato. "Moros ha catturato la principessa. È nel castello proprio adesso, e sta per prendere il Gioiello!"
 
 "Come lo sai? Sei una strega? Puoi vedere cose lontane? Conosci il futuro?"
 
-Gabriella ha dovuto inventare qualcosa che il suo eroe avrebbe creduto.
+Gabriella ha dovuto inventare qualcosa a cui il suo eroe avrebbe creduto.
 
 "Sono lo Spirito del Destino", ha detto. "Devi agire ora. Questa è la tua ultima possibilità di salvare il regno. Capisci?"
 
@@ -42,7 +44,7 @@ Eravon e Gabriella si sono gettati nel castello. Sono entrati da una piccola por
 
 Sono corsi su scale a chiocciola e attraverso sale grandiose, fino ad arrivare nella camera segreta dove era custodito il magico Gioiello del Potere.
 
-Moros era lì. Gabriella lo aveva descritto molte volte, ma di persona era spaventoso. Teneva la sua spada contro il collo della Principessa. Stava per prendere il Gioiello.
+Moros era lì. Gabriella lo aveva descritto molte volte, ma di persona era spaventoso. Teneva la sua spada contro il collo della principessa. Stava per prendere il Gioiello.
 
 "Per favore, non farle del male!" ha gridato Eravon.
 
@@ -56,11 +58,11 @@ Moros ha riso a crepapelle. Ha preso il Gioiello in mano. Immediatamente, è sem
 
 "Tu?" ha urlato Moros. "Tu non sei nessuno!"
 
-Ha gettato da parte la Principessa, è avanzato alla carica e ha attaccato Gabriella con la sua spada fiammeggiante. Ci è stato un lampo di luce. La spada di Moros è rimbalzata sulla pelle di Gabriella. Non ha lasciato nemmeno un segno.
+Ha gettato da parte la principessa, è avanzato alla carica e ha attaccato Gabriella con la sua spada fiammeggiante. C'è stato un lampo di luce. La spada di Moros è rimbalzata sulla pelle di Gabriella. Non ha lasciato nemmeno un segno.
 
-Moros è rimasto così scioccato che ha lasciato cadere sia la sua spada che il Gioiello. Per un attimo, l'ha guardata solo con incredulità. Poi ha avvolto il suo mantello nero attorno a sé, e è sparito in una nuvola di fumo.
+Moros è rimasto così scioccato che ha lasciato cadere sia la sua spada che il Gioiello. Per un attimo, l'ha guardata con incredulità. Poi ha avvolto il suo mantello nero attorno a sé, ed è sparito in una nuvola di fumo.
 
-"Cosa è successo?" ha chiesto la Principessa, stupita.
+"Cosa è successo?" ha chiesto la principessa, stupita.
 
 "Il Gioiello concede tutto il potere del mondo", ha spiegato Gabriella. "Ma il mio potere è ancora più grande."
 
@@ -68,4 +70,4 @@ Moros è rimasto così scioccato che ha lasciato cadere sia la sua spada che il 
 
 "Sono l'*autrice*", ha detto Gabriella. "Ho creato questo mondo."
 
-Eravon ha asciugato le sue lacrime e ha aiutato la Principessa a rialzarsi. Gli dei non li avevano dimenticati, dopo tutto.
+Eravon ha asciugato le sue lacrime e ha aiutato la principessa a rialzarsi. Gli dèi non li avevano dimenticati, dopo tutto.

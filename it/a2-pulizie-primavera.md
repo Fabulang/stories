@@ -1,14 +1,16 @@
 ---
-title: Pulizie di primavera
+title: Pulizie di Primavera
 locale: it
 cefr: a2
 key: spring-cleaning
 date: 2023-10-25
+reviewers:
+- carlotta-beluzzi
 ---
 
-"Per favore puoi alzarti un attimo?" ha detto Gerardo alla sua ragazza.
+"Per favore, puoi alzarti un attimo?" ha detto Gerardo alla sua ragazza.
 
-Lei era seduta sul divano, a leggere le sue lettere. Non lo sentì. Gerardo stava usando l'aspirapolvere. Ha cominciato a pulire il divano.
+Lei era seduta sul divano, a leggere le sue lettere. Non lo ha sentito. Gerardo stava usando l'aspirapolvere. Ha cominciato a pulire il divano.
 
 "Scusa!" ha detto la sua ragazza.
 
@@ -22,7 +24,7 @@ La sua ragazza voleva riprendere le sue lettere, ma Gerardo le ha spostate. Ha u
 
 "È il primo giorno del mese", ha spiegato Gerardo.
 
-"Certo", ha risposto lei. "Ogni mese pulisci tutta la casa. Va bene, come posso aiutare?"
+"Certo", ha risposto lei. "Ogni mese pulisci tutta la casa. Va bene, come posso aiutarti?"
 
 Gerardo le ha detto di pulire la sua scrivania. Quando lei ha finito, le ha detto di pulire tutti i rubinetti. Poi le ha detto di lavare tutte le tende.
 

@@ -5,11 +5,13 @@ locale: it
 key: land-eternal-rain
 date: 2023-12-31
 reviews: 1
+reviewers:
+- carlotta-beluzzi
 ---
 
 Anni fa, in un piccolo paese, c'era una strega. La strega faceva piovere ogni giorno. In primavera, estate, autunno e inverno: pioggia, pioggia, pioggia, neve.
 
-Un giorno, un'orfana di nome Beatrice è andata al Municipio. Era un edificio grande e bellissimo. Era stato costruito quando Beatrice era una bambina.
+Un giorno, un'orfana di nome Beatrice è andata al Municipio. Era un edificio grande e bellissimo. Era stato costruito quando Beatrice era appena nata.
 
 Beatrice ha detto: "Voglio trovare la strega. Deve smettere di far piovere."
 
@@ -49,7 +51,7 @@ La strega ha riso.
 
 "Ci hanno detto di andare al Municipio. Io non ci sono andata. Ma le altre streghe ci sono andate. Sono entrate. Il Municipio era vuoto. La gente ha chiuso le porte e ha dato fuoco all'edificio.
 
-"Ho usato la magia per far piovere. Ma era troppo lento. Il fuoco ha bruciato il Municipio. Non è rimasto nulla."
+"Ho usato la magia per far piovere. Ma la pioggia è stata troppo lenta. Il fuoco ha bruciato il Municipio. Non è rimasto nulla."
 
 La strega ha guardato Beatrice.
 

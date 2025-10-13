@@ -4,7 +4,8 @@ cefr: b1
 locale: it
 key: brothers-choice
 date: 2025-01-26
-reviews: 1 # carlotta-belluzzi
+reviewers:
+- carlotta-belluzzi
 ---
 
 "Questo è un orologio davvero bello", ha detto l'amico di Lorenzo, fermandosi nel corridoio.

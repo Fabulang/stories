@@ -4,21 +4,23 @@ locale: it
 cefr: b1
 key: alien-languages
 date: 2023-08-14
+reviewers:
+- carlotta-beluzzi
 ---
 
 "È decisamente una lingua extraterrestre", ha confermato Alison.
 
-Il Generale ha annuito in silenzio. Alison si trovava all'interno di una base militare segreta. C'era attrezzatura informatica dappertutto. C'erano due soldati con le armi in mano vicino alla porta.
+Il Generale ha annuito in silenzio. Alison si trovava all'interno di una base militare segreta. C'era attrezzatura informatica dappertutto. C'erano due soldati armati vicino alla porta.
 
 Alison era una linguista esperta. Non appena i satelliti hanno ricevuto il segnale strano, i militari l'hanno portata alla base.
 
-"Questo è un problema di estrema importanza per l'intero pianeta", ha detto il Generale. "È la priorità assoluta della Presidente. Dimmi chiunque tu abbia bisogno, e lo metterò nella tua squadra. Dobbiamo capire cosa dice quel messaggio."
+"Questo è un problema di estrema importanza per l'intero pianeta", ha detto il Generale. "È la priorità assoluta della Presidente. Dimmi di chiunque tu abbia bisogno, e lo metterò nella tua squadra. Dobbiamo capire cosa dice quel messaggio."
 
-Alison gli ha dato un elenco di ricercatori con cui aveva lavorato nel passato. Il Generale se ne è andato. I soldati hanno salutato.
+Alison gli ha dato un elenco di ricercatori con cui aveva lavorato nel passato. Il Generale se ne è andato. I soldati hanno fatto il saluto.
 
 Alison e il suo team hanno lavorato giorno e notte per decifrare il messaggio alieno. All'inizio, i progressi sono stati lenti. Poi, hanno iniziato a fare scoperte. Hanno imparato a capire la grammatica insolita della lingua aliena. Una dopo l'altra, le parole hanno cominciato ad avere un senso.
 
-Alcune settimane dopo, Alison ha riportato al Generale.
+Alcune settimane dopo, Alison ha fatto rapporto al Generale.
 
 "Abbiamo finito la traduzione", ha detto Alison timidamente, guardando i suoi piedi. "Dice ---"
 
@@ -28,13 +30,13 @@ Il giorno dopo, la Presidente è arrivata con una schiera di consiglieri, minist
 
 "Questo è il tuo momento", ha detto il Generale. Ha spinto Alison avanti.
 
-Alison si è seduta di fronte alla Presidente. I lampi delle fotocamere hanno lampeggiato.
+Alison si è seduta di fronte alla Presidente. I flash delle fotocamere hanno lampeggiato.
 
 "Alison, il mondo intero ti ringrazia e ringrazia la tua squadra per il vostro diligente lavoro per determinare il significato di questo segnale alieno", ha detto la Presidente.
 
 "Grazie", ha sussurrato Alison nel microfono.
 
-"Dìci subito: è un messaggio di guerra?"
+"Dicci subito: è un messaggio di guerra?"
 
 "No", ha detto Alison, senza alzare lo sguardo.
 

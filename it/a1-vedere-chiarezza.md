@@ -1,11 +1,12 @@
 ---
-title: Vedere chiaramente
+title: Vedere con chiarezza
 locale: it
 cefr: a1
 key: seeing-clearly
 date: 2023-10-25
 reviewers:
 - danielle-dipietro-hawkins
+- carlotta-beluzzi
 ---
 
 "Sei pronta?" grida il marito di Elisa.
@@ -14,9 +15,9 @@ reviewers:
 
 "Ma sono passate due ore!"
 
-Elisa si mette un po' di profumo. Ora è pronta per la festa che fa per le sue amiche. Scende le scale e va in cucina.
+Elisa si mette un po' di profumo. Ora è pronta per la festa con le sue amiche. Scende le scale e va in cucina.
 
-Colpisce il ginocchio contro una sedia.
+Il suo ginocchio colpisce una sedia.
 
 "Ahi!" grida.
 
@@ -50,7 +51,7 @@ Suo marito la saluta. La festa è per Elisa e le sue amiche. "Goditi il film", d
 
 Un po' più tardi, Elisa sente il campanello. Vuole aprire la porta, ma non trova la chiave.
 
-Prende una scatola dalla sua borsa. Tira fuori i suoi nuovi occhiali dalla scatola. Si mette gli occhiali. Finalmente riesce a vedere chiaramente. Apre la porta.
+Prende una scatola dalla sua borsa. Tira fuori i suoi nuovi occhiali dalla scatola. Si mette gli occhiali. Finalmente riesce a vedere con chiarezza. Apre la porta.
 
 "Adoro i tuoi nuovi occhiali!" dice la sua amica.
 
@@ -60,11 +61,11 @@ Più tardi quella sera, il marito di Elisa torna a casa.
 
 "Bentornato a casa --- Oh!" dice Elisa.
 
-Lei smette di sorridere e corre al salotto. Anche il marito corre al salotto. Sembra molto preoccupato.
+Lei smette di sorridere e corre in salotto. Anche il marito corre in salotto. Sembra molto preoccupato.
 
 "Cosa c'è che non va?" chiede.
 
-"Niente", dice Elisa. "È solo che... non mi sono resa conto..."
+"Niente", dice Elisa. "È solo che... non mi ero resa conto..."
 
 "Resa conto di cosa?"
 

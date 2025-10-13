@@ -5,7 +5,7 @@ cefr: b2
 key: jewel-kingdom
 date: 2023-07-20
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 "Non potete fermarmi", ha riso Moros, il tiranno malvagio. "Ora userò il Gioiello del Potere per conquistare il regno! Lascia cadere la tua arma, Eravon, o lei muore."

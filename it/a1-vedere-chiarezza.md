@@ -6,7 +6,7 @@ key: seeing-clearly
 date: 2023-10-25
 reviewers:
 - danielle-dipietro-hawkins
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 "Sei pronta?" grida il marito di Elisa.

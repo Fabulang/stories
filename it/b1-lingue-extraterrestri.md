@@ -5,7 +5,7 @@ cefr: b1
 key: alien-languages
 date: 2023-08-14
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 "È decisamente una lingua extraterrestre", ha confermato Alison.

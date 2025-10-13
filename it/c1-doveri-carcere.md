@@ -5,7 +5,7 @@ locale: it
 key: prison-duties
 date: 2023-12-31
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 "Continua a suonare!" ha gridato una delle guardie.

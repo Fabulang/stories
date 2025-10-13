@@ -6,7 +6,7 @@ key: kings-fountain-pen
 date: 2023-12-31
 reviews: 1
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 "Signore e signori della giuria. Le prove sono convincenti.

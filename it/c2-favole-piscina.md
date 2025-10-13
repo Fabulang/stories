@@ -5,7 +5,7 @@ cefr: c2
 key: tall-tales-pool
 date: 2023-06-03
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 Giosué era un adolescente qualunque bloccato nel noioso e monotono lavoro estivo di pulizia delle piscine. Giorno dopo giorno, raccoglieva foglie e strofinava piastrelle nella piscina comunale del vicinato.

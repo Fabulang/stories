@@ -5,7 +5,7 @@ cefr: b2
 key: bakery-future
 date: 2023-06-24
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 A Editta non piaceva quanto la tecnologia fosse diffusa al giorno d'oggi. Quando era giovane, le cose erano molto più semplici. Ora, tutto aveva una batteria, o luci lampeggianti, o intelligenza artificiale. Era troppo per lei.

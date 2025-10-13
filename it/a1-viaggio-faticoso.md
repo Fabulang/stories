@@ -5,7 +5,7 @@ cefr: a1
 key: tiring-trip
 date: 2023-07-20
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 Fernando arriva in vacanza. È molto emozionato. Vuole vedere la città. Vuole fare shopping. Ma è molto stanco. Si addormenta nella sua stanza d'albergo.

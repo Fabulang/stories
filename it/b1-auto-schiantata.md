@@ -5,7 +5,7 @@ cefr: b1
 key: crashed-car
 date: 2023-10-25
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 Non c'erano altre auto sulla strada quella notte. Adriano stava guidando verso casa attraverso una grande foresta, sentendosi triste e solo. Tra gli alberi tutto era completamente buio.

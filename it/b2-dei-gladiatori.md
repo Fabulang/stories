@@ -6,7 +6,7 @@ key: gods-gladiators
 date: 2024-09-08
 reviewers:
 - giulia-italian-language-hub
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 I gladiatori erano pronti a combattere. Uno era un uomo grande con muscoli possenti. L'altro era magro e basso.

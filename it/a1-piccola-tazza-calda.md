@@ -5,7 +5,7 @@ cefr: a1
 key: little-hot-cup
 date: 2023-07-08
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 Ogni mattina, Arianna indossa un tailleur e va a lavorare in città. Ma prima, visita sempre *Piccola Tazza Calda*, un bar sulla sua strada. Fanno il miglior caffè del mondo.

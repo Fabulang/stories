@@ -5,7 +5,7 @@ cefr: a2
 key: midnight-helper
 date: 2023-08-14
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 Dionigi stava sognando la matematica. I numeri e i simboli lo stavano attaccando. Non aveva fatto i compiti. Le domande matematiche erano troppo difficili.

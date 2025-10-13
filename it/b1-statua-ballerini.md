@@ -6,7 +6,7 @@ key: dancers-statue
 date: 2023-12-31
 reviews: 1
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 Il taxi è arrivato e Ginevra è salita a bordo. Ha aperto il suo libro, *Guida Turistica*.

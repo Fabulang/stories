@@ -5,7 +5,7 @@ cefr: b1
 key: cosmic-misunderstanding
 date: 2023-06-24
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 Chiara era un'astronoma dedicata, sempre a guardare il cielo. Una notte, ha avvistato un enorme meteorite che sembrava avvicinarsi sempre di più alla Terra.

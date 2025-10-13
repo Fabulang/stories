@@ -6,7 +6,7 @@ key: land-eternal-rain
 date: 2023-12-31
 reviews: 1
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 Anni fa, in un piccolo paese, c'era una strega. La strega faceva piovere ogni giorno. In primavera, estate, autunno e inverno: pioggia, pioggia, pioggia, neve.

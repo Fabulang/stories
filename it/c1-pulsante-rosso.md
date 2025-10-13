@@ -5,7 +5,7 @@ cefr: c1
 key: red-button
 date: 2023-08-14
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 Tutti nel dipartimento di polizia hanno applaudito e acclamato quando l'investigatore Corvo è entrato nella stanza. Aveva risolto l'ennesimo caso di omicidio irrisolvibile. Come aveva capito che era stata la babysitter con così pochi indizi?

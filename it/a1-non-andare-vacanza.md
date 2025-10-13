@@ -6,7 +6,7 @@ key: dont-go-holiday
 date: 2023-12-31
 reviewers:
 - giulia-italian-language-hub
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 "Non andare in vacanza."

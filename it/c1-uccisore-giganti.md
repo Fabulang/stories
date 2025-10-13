@@ -5,7 +5,7 @@ cefr: c1
 key: giant-slayer
 date: 2023-07-20
 reviewers:
-- carlotta-beluzzi
+- carlotta-belluzzi
 ---
 
 Le navi che Håkon costruiva erano l'orgoglio della flotta dei Vichinghi, e il terrore dei loro nemici. Tagliavano le onde come spade, ed erano forti e affidabili come l'acciaio.

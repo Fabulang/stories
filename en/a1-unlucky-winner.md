@@ -7,7 +7,7 @@ date: 2023-06-03
 reviews: 1
 ---
 
-Lucy lives in a small town. There were parks, trees, and pretty houses. It was a great place to live.
+Lucy lives in a small town. There are parks, trees, and pretty houses. It is a great place to live.
 
 But Lucy isn't happy. She doesn't know anyone. And she is always unlucky.
 
@@ -35,4 +35,4 @@ Now, Lucy is famous. People from all over the world hear about her. They underst
 
 Lucy gets money from a company to write a book. In the book, she tells her whole story. She goes on television to talk about her book.
 
-Soon, Lucy has a lot of money and friends. She is happy. And she never won the lottery.
+Very soon, Lucy has a lot of money and friends. She is happy. And she never won the lottery.

@@ -12,13 +12,13 @@ reviewers:
 
 "Era un luogo bellissimo", ha detto sua nonna. "Il sole era caldo, e l'aria era limpida e fresca. C'erano milioni di tipi di animali, alcuni che camminavano, alcuni che nuotavano, alcuni che volavano. Ora è tutto scomparso."
 
-Da quella conversazione in poi, Evelina si era ossessionata con voler trovare un modo per far ritornare gli umani sulla superficie della Terra.
+Da quella conversazione in poi, Evelina era ossessionata dal voler trovare un modo per far ritornare gli umani sulla superficie della Terra.
 
 La vita sotterranea era cupa. Vivevano in un piccolo bunker di metallo. Fuori dalla sua porta c'era un sistema di corridoi metallici. C'erano degli spazi più grandi dove si andava a scuola, e poi all'università. Ma nessun corridoio portava all'esterno. Nemmeno l'aria poteva entrare o uscire, senza passare attraverso l'enorme sistema di filtraggio.
 
 Evelina è diventata un ingegnere. Manteneva i filtri, e ha sviluppato un metodo migliore per filtrare il virus micidiale. Un giorno, ha visto in prima persona quanto fosse micidiale il virus, quando c'era stata una perdita. Il supervisore principale era stato esposto, ed era morto quasi all'istante.
 
-Ciò ha reso Evelina ancora più determinata. Ha cominciato a progettare un dispositivo che potesse pulire l'atmosfera. Non è passato molto tempo prima che i suoi sforzi fossero notati. È stata invitata a parlare con l'Alto Consigliere -- il capo degli umani sotterranei.
+Ciò ha reso Evelina ancora più determinata. Ha cominciato a progettare un dispositivo che potesse pulire l'atmosfera. Non è passato molto tempo prima che i suoi sforzi fossero notati. È stata invitata a parlare con l'Alto Consigliere: il capo degli umani sotterranei.
 
 "Sapevi che il virus è stato creato dagli umani?" ha detto l'Alto Consigliere, porgendo a Evelina un bicchiere di vino. "C'era un'azienda che si specializzava nella ricerca genetica. Doveva essere un virus benefico. Avrebbe mantenuto le persone sane."
 

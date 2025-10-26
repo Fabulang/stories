@@ -62,7 +62,7 @@ Poi l'astronave si è riempita di luce. La luce proveniva dalle finestre, dallo 
 
 Era una supernova -- un'enorme esplosione di energia da una stella vicina. Era una possibilità su un miliardo.
 
-Un po' di tempo dopo tutto l'equipaggio era in piedi insieme, a guardare fuori dalla finestra. La supernova era più bella di qualsiasi fuoco d'artificio che potessero immaginare, e aveva una dimensione di cento trilioni di chilometri. Sono rimasti tutti in silenzio per molto tempo.
+Un po' di tempo dopo, tutto l'equipaggio era in piedi insieme, a guardare fuori dalla finestra. La supernova era più bella di qualsiasi fuoco d'artificio che potessero immaginare, e aveva una dimensione di cento trilioni di chilometri. Sono rimasti tutti in silenzio per molto tempo.
 
 "Sapete", ha detto Alessandro infine, sorridendo all'equipaggio, "mi *sento* fortunato."
 

@@ -4,9 +4,8 @@ cefr: b2
 locale: fr
 key: table-three
 date: 2025-01-26
-reviews: 1 # veronica
-# reviewers:
-# - veronica-montserrat
+reviewers:
+- veronica-montserrat
 ---
 
 Le chef a posé les assiettes sur le comptoir. Le steak était parfait. Les légumes étaient frais et tendres. L'odeur de la sauce était alléchante. Henri a pris les assiettes et les a portées avec élégance dans la salle à manger.

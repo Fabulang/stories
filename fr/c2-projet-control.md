@@ -4,9 +4,8 @@ cefr: c2
 locale: fr
 key: project-control
 date: 2025-01-26
-reviews: 1 # veronica
 reviewers:
-# - veronica-montserrat
+- veronica-montserrat
 - melissa-martinez
 ---
 

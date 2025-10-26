@@ -4,6 +4,8 @@ locale: it
 cefr: a1
 key: unlucky-winner
 date: 2023-06-03
+reviewers:
+- laura-baro
 ---
 
 Lucia vive in una piccola città. Ci sono parchi, alberi e case graziose. È un bel posto dove vivere.
@@ -20,7 +22,7 @@ La gente è sorpresa e vuole parlare con lei. Lei è felice. Ma non può dire la
 
 Deve comprare regali per tutti. Perde un sacco di soldi. Ma diventa amica di tutti in città.
 
-Poi, una compagnia televisiva viene a casa sua. Vogliono parlare della sua fortuna. Lucia ha paura.
+Poi, una compagnia televisiva va a casa sua. Vogliono parlare della sua fortuna. Lucia ha paura.
 
 "Non ho vinto", dice loro.
 
@@ -28,10 +30,10 @@ Sono scioccati.
 
 "Ma compri tanti regali per tutti", dicono.
 
-Raccontano la storia di Lucia alle notizie. Migliaia di persone ascoltano la storia.
+Raccontano la storia di Lucia al telegiornale. Migliaia di persone ascoltano la storia.
 
-Ora, Lucia è famosa. La gente di tutto il mondo sente parlare di lei. Capiscono che è una donna gentile che vuole avere amici.
+Ora, Lucia è famosa. La gente di tutto il mondo sente parlare di lei. Capiscono che è una donna gentile che vuole avere degli amici.
 
-Lucia riceve dei soldi da una compagnia per scrivere un libro. Nel libro, racconta tutta la sua storia. Va in televisione per parlare del suo libro.
+Lucia riceve dei soldi da una società per scrivere un libro. Nel libro, racconta tutta la sua storia. Va in televisione per parlare del suo libro.
 
 Ben presto, Lucia ha molti soldi e amici. È felice. E non ha mai vinto alla lotteria.

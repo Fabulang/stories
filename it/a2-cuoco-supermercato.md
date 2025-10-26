@@ -4,6 +4,8 @@ locale: it
 cefr: a2
 key: supermarket-chef
 date: 2023-06-03
+reviewers:
+- laura-baro
 ---
 
 Giuseppe aveva un lavoro in un supermercato. Desiderava una promozione, ma il suo capo diceva sempre: "Giuseppe, non sei talentuoso."
@@ -14,7 +16,7 @@ Un giorno, un uomo ha chiesto aiuto a Giuseppe.
 
 "Mi segua, signore", ha detto Giuseppe.
 
-Giuseppe ha trovato gli articoli rapidamente.
+Giuseppe ha trovato i prodotti rapidamente.
 
 "Ora ho bisogno di pane e cioccolato", ha detto l'uomo.
 
@@ -24,16 +26,16 @@ Giuseppe ha pensato per un momento. Ha capito che l'uomo stava preparando un pia
 
 "Qual è?" ha chiesto l'uomo.
 
-Giuseppe ha scritto la sua ricetta su un pezzo di carta e l'ha data all'uomo. L'uomo era molto eccitato.
+Giuseppe ha scritto la sua ricetta su un pezzo di carta e l'ha data all'uomo. L'uomo era entusiasta.
 
-Il capo di Giuseppe lo ha trovato. "Giuseppe, stai perdendo tempo. Dovresti essere alla cassa", ha detto. Giuseppe ha detto addio all'uomo.
+Il capo di Giuseppe l'ha trovato. "Giuseppe, stai perdendo tempo. Dovresti essere alla cassa", ha detto. Giuseppe ha salutato l'uomo.
 
-Il giorno successivo, l'uomo è tornato. Il capo di Giuseppe ha detto: "Ieri, hai perso tempo a causa di lui. Non parlargli. Dìgli di andarsene."
+Il giorno successivo, l'uomo è tornato. Il capo di Giuseppe ha detto: "Ieri, hai perso tempo a causa sua. Non parlargli. Digli di andarsene."
 
 Ma l'uomo aveva una sorpresa. Si è tolto il cappello e gli occhiali.
 
-Ora, Giuseppe e il suo capo hanno riconosciuto l'uomo. Era un famoso cuoco.
+Allora, Giuseppe e il suo capo hanno riconosciuto l'uomo. Era un famoso cuoco.
 
 "Giuseppe, la tua ricetta era deliziosa", ha detto. "Sei molto talentuoso. Voglio che tu partecipi al mio programma televisivo."
 
-Sono partiti nell'auto di lusso del cuoco. Giuseppe poteva sentire il suo capo gridare: "Ho detto di non parlargli!"
+Sono partiti con l'auto di lusso del cuoco. Giuseppe sentiva il suo capo gridare: "Ho detto di non parlargli!"

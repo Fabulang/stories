@@ -4,13 +4,15 @@ locale: it
 cefr: a1
 key: sport-reading
 date: 2023-06-10
+reviewers:
+- laura-baro
 ---
 
-A Lilia piace Luca, un ragazzo della sua classe. Lui ama lo sport, ma Lilia no. Lilia ama leggere. Si sente triste -- non ha nessuna possibilità con Luca.
+A Lilia piace Luca, un ragazzo della sua classe. Lui ama lo sport, ma Lilia no. Lilia ama leggere. Si sente triste: non ha nessuna possibilità con Luca.
 
-Un giorno, Lilia vede Luca lasciar cadere un libro. Lilia è eccitata. A Luca piace leggere? Poi vede il titolo del libro. Si chiama *Tutto Sullo Sport*.
+Un giorno, Lilia vede Luca far cadere un libro. Lilia è emozionata. A Luca piace leggere? Poi vede il titolo del libro. Si chiama *Tutto sullo sport*.
 
-Ma Lilia ha un'idea. Raccoglie il libro. Lo porta a casa e lo legge tutto.
+Lilia, però, ha un'idea. Raccoglie il libro. Lo porta a casa e lo legge tutto.
 
 Il giorno dopo, Lilia vede Luca. Gli restituisce il suo libro.
 
@@ -28,4 +30,4 @@ Luca ride. "Ma a *me* non piace lo sport", dice.
 
 "Veramente?"
 
-"Vieni in biblioteca con me. È il mio posto preferito. Ti mostrerò un libro più interessante di *Tutto Sullo Sport*."
+"Vieni in biblioteca con me. È il mio posto preferito. Ti mostrerò un libro più interessante di *Tutto sullo sport*."

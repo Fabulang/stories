@@ -30,11 +30,11 @@ La foule a murmuré, inquiète.
 
 «Si», a répondu tristement le maire. «Comment puis-je vivre avec vous tous, sachant que je vous ai déçus? J'ai déjà fait mes valises. Je ne veux pas de cérémonie. Mon train part dans deux heures.»
 
-«Attendez -- on peut encore sauver la ville! On peut ouvrir le caveau des Beauchamp!»
+«Attendez... on peut encore sauver la ville! On peut ouvrir le caveau des Beauchamp!»
 
 Depuis des générations, les Beauchamp étaient la famille la plus riche de la ville. Quand la dernière Beauchamp était décédée, elle avait laissé des instructions stipulant que son caveau familial resterait fermé pendant cent ans. Après cela, le contenu du caveau deviendrait la propriété de la ville. Il devait être ouvert l'année prochaine.
 
-«Mais... non!» s'est écrié le maire. «Les Beauchamp ont fait beaucoup pour cette ville. Ils ont construit les écoles, pavé les rues, et fait des dons à de bonnes causes tout au long de leur vie. On ne peut pas manquer de respect aux volontés de Mme Beauchamp! On gagnerait son argent -- mais on perdrait notre dignité!»
+«Mais... non!» s'est écrié le maire. «Les Beauchamp ont fait beaucoup pour cette ville. Ils ont construit les écoles, pavé les rues, et fait des dons à de bonnes causes tout au long de leur vie. On ne peut pas manquer de respect aux volontés de Mme Beauchamp! On gagnerait son argent... mais on perdrait notre dignité!»
 
 «Vous avez dit 'argent'?» a crié quelqu'un. «Allons-y!»
 

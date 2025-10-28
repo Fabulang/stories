@@ -12,7 +12,7 @@ Henriette s'est retournée vers le piano. Elle a bâillé, a pris une profonde i
 
 «Allez! Tu gâches l'ambiance!»
 
-Elle a commencé à jouer, et les gardiens de prison ont applaudi. Derrière elle, ils dansaient autour de la cantine sombre. Ils ont renversé les assiettes sur le sol et ont éclaboussé de bière partout.
+Elle a commencé à jouer, et les gardiens de prison ont applaudi. Derrière elle, ils dansaient autour de la cantine sombre. Ils ont renversé les assiettes sur le sol et ont éclaboussé de la bière partout.
 
 Henriette savait que les gardiens étaient trop ivres pour réaliser ce qu'elle jouait. C'était l'Hymne National -- l'ancienne version, d'avant que le pays ne soit envahi. Henriette avait joué l'ancien Hymne en public il y a six ans; c'est pourquoi elle était en prison maintenant.
 
@@ -30,7 +30,7 @@ L'un des gardiens a enfermé Henriette de nouveau dans sa cellule. Henriette ét
 
 «Fais-moi confiance, Henriette. Nous avons observé pendant des mois. À précisément douze heures, les gardiens de la porte de la cour partent pour déjeuner -- ils partent toujours à l'heure. Au moins deux minutes plus tard, les prochains gardiens arrivent -- ils sont toujours en retard. Tu dois juste sortir avec nous, et monter dans la voiture de mon frère.»
 
-«Je vais te ralentir -- tu seras attrapé -- je ne dois pas venir!» a gémi Henriette. «Je penserai à toi tous les jours, à toi tous, et cela me rendra heureuse. Si des gens comme toi sont libres, alors notre vieux pays est encore vivant.»
+«Je vais vous ralentir -- vous serez attrapés -- je ne dois pas venir!» a gémi Henriette. «Je penserai à vous tous les jours, à vous tous, et cela me rendra heureuse. Si des gens comme vous sont libres, alors notre vieux pays est encore vivant.»
 
 «Tu peux être libre aussi, Henriette. Nous partons demain. Rejoins-nous dans la cour.»
 
@@ -66,4 +66,4 @@ En quelques secondes, un énorme bruit a retenti alors que chaque gardien dans l
 
 Henriette a levé les yeux vers les gardiens, étourdie. Elle a souri faiblement.
 
-«Qu'attendez-vous encore ici?» a crié le Chef à deux des gardiens. «Vous serez encore plus en retard que d'habitude!»
+«Qu'est-ce que vous faites encore ici?» a crié le Chef à deux des gardiens. «Vous serez encore plus en retard que d'habitude!»

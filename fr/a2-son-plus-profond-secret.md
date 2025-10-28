@@ -56,7 +56,7 @@ Après que Louis et sa mère sont partis, un homme a demandé: «Mais quel étai
 
 «Ce sont... des jouets d'enfants?»
 
-«Oui! Mais pourquoi l'artiste a-t-il peint cela? Il nous montre que la femme avait un enfant -- *leur* enfant. Leur amour était un secret, mais il voulait que nous le sachions. Maintenant, suivez-moi, s'il vous plaît...»
+«Oui! Mais pourquoi l'artiste a-t-il peint cela? Il nous montre que la femme avait un enfant: *leur* enfant. Leur amour était un secret, mais il voulait que nous le sachions. Maintenant, suivez-moi, s'il vous plaît...»
 
 «Tu dois apprendre à te taire!» a dit la mère à Louis alors qu'ils quittaient le musée.
 
@@ -66,4 +66,4 @@ C'était le soir et la ville était animée, bruyante et pleine de lumières viv
 
 «Je suis contente qu'ils ne l'aient pas remarqué. Après la mort de ton père, je voulais brûler le tableau. Mais je suis contente de l'avoir vendu, ainsi je peux encore le voir, de temps en temps.»
 
-«Mais Papa détestait vivre dans le secret! Il voulait que les gens te comprennent! C'est pour ça qu'il t'a peinte de façon réaliste -- sans reflet dans le miroir!»
+«Mais Papa détestait vivre dans le secret! Il voulait que les gens te comprennent! C'est pour ça qu'il t'a peinte de façon réaliste: sans reflet dans le miroir!»

@@ -10,7 +10,7 @@ reviewers:
 
 Lucia vive in una piccola città. Ci sono parchi, alberi e case graziose. È un bel posto dove vivere.
 
-Ma Lucia non è felice. Non conosce nessuno. Ed è sempre sfortunata.
+Lucia, però, non è felice. Non conosce nessuno. E poi è sempre sfortunata.
 
 "Se vincessi alla lotteria, sarei felice", pensa. "Ma sono sempre sfortunata."
 
@@ -20,7 +20,7 @@ Un giorno, ha un'idea.
 
 La gente è sorpresa e vuole parlare con lei. Lei è felice. Ma non può dire la verità.
 
-Deve comprare regali per tutti. Perde un sacco di soldi. Ma diventa amica di tutti in città.
+Deve comprare regali per tutti. Perde un sacco di soldi. Tuttavia, diventa amica di tutti in città.
 
 Poi, una compagnia televisiva va a casa sua. Vogliono parlare della sua fortuna. Lucia ha paura.
 

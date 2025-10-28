@@ -6,6 +6,7 @@ key: spring-cleaning
 date: 2025-03-23
 reviewers:
 - cyro-penteado
+- Maria Camargo
 ---
 
 "Você poderia se levantar um momento, por favor?" disse Geraldo a sua namorada.
@@ -48,7 +49,7 @@ Eles estavam muito cansados. Suas roupas estavam sujas. Havia sabão em seus bra
 
 Finalmente, sua namorada pegou suas cartas novamente.
 
-"Esta é do nosso senhorio," ela disse.
+"Esta é do proprietário," ela disse.
 
 "O que ele diz?"
 

@@ -12,7 +12,7 @@ La nouvelle maison d'André était située dans une rue calme dans un quartier c
 
 Au cours de la première semaine, André a demandé à plusieurs décorateurs de lui fournir un devis, mais leurs prix étaient beaucoup trop élevés. Il ne savait pas quoi faire ensuite.
 
-'André, ce n'est plus ton ancienne ville!' a-t-il pensé. 'Les gens sont gentils ici. Tu peux demander conseil à ton voisin!'
+"André, ce n'est plus ton ancienne ville!" a-t-il pensé. "Les gens sont gentils ici. Tu peux demander conseil à ton voisin!"
 
 Il a donc frappé à la porte de son voisin.
 
@@ -52,7 +52,7 @@ André a hoché la tête et a donné l'argent à Robert. Robert est parti en voi
 
 André a chanté une chanson pendant qu'il posait des bâches en plastique sur le sol de toutes les pièces. À l'heure du déjeuner, il a préparé un sandwich et s'est assis par terre pour le manger.
 
-Robert n'était pas revenu dans l'après-midi, mais André ne voulait pas le presser. Robert lui rendait un grand service. Mais quand le ciel s'est assombri, et que Robert n'était toujours pas venu, André s'est inquiété. 'Il avait l'air assez âgé', a pensé André. 'Et s'il est tombé?'
+Robert n'était pas revenu dans l'après-midi, mais André ne voulait pas le presser. Robert lui rendait un grand service. Mais quand le ciel s'est assombri, et que Robert n'était toujours pas venu, André s'est inquiété. "Il avait l'air assez âgé", a pensé André. "Et s'il est tombé?"
 
 Il s'est précipité jusqu'à la maison de son voisin et a frappé à la porte. La lumière s'est allumée et la porte s'est ouverte.
 

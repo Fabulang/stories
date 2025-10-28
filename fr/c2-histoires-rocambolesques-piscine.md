@@ -28,7 +28,7 @@ Mais la rumeur du «monstre marin» n'est pas restée confinée à la piscine. L
 
 «Ne vous inquiétez pas», a répondu le responsable avec une expression sévère. «Je vais mettre un terme à cela.»
 
-Plus tard, le responsable a convoqué Josué dans son bureau. En se rendant là-bas, le cœur de Josué battait la chamade dans sa poitrine. Il était sûr qu'il allait être licencié. Il est entré et le responsable a fermé la porte. La pièce était silencieuse, sauf pour le tic-tac de l'horloge.
+Plus tard, le responsable a convoqué Josué dans son bureau. En s'y rendant, le cœur de Josué battait la chamade dans sa poitrine. Il était sûr qu'il allait être licencié. Il est entré et le responsable a fermé la porte. La pièce était silencieuse, sauf pour le tic-tac de l'horloge.
 
 Le responsable s'est penché vers l'avant sur le bureau, le visage sévère. «Josué», a-t-il dit lentement, «dis-moi simplement. Combien veux-tu?»
 

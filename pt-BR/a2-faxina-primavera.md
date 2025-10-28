@@ -6,7 +6,7 @@ key: spring-cleaning
 date: 2025-03-23
 reviewers:
 - cyro-penteado
-- Maria Camargo
+reviews: 1
 ---
 
 "Você poderia se levantar um momento, por favor?" disse Geraldo à sua namorada.

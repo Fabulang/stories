@@ -24,7 +24,7 @@ Três meses atrás, houve um acidente. Agora, as baterias da nave estavam quase 
 
 Alguém veio e ficou ao lado de Alex. Era a cientista-chefe.
 
-"Nesta época, no ano passado," ela disse, "meu pai fez um bolo tradicional." A cientista sorriu, pensando no sabor. "Ele faz com laranjas, baunilha e amêndoas. E tem uma moeda escondida dentro. Quem encontrar ela vai ter boa sorte."
+"Nesta época, no ano passado," ela disse, "meu pai fez um bolo tradicional." A cientista sorriu, pensando no sabor. "Ele faz com laranjas, baunilha e amêndoas. E tem uma moeda escondida dentro. Quem encontrá-la vai ter boa sorte."
 
 "Você encontrou a moeda?" Alex perguntou.
 

@@ -9,7 +9,7 @@ reviewers:
 - Maria Camargo
 ---
 
-"Você poderia se levantar um momento, por favor?" disse Geraldo a sua namorada.
+"Você poderia se levantar um momento, por favor?" disse Geraldo à sua namorada.
 
 Ela estava sentada no sofá, lendo suas cartas. Ela não o ouviu. Gerardo estava usando o aspirador de pó. Ele começou a limpar o sofá.
 

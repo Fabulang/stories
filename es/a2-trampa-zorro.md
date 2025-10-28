@@ -36,7 +36,7 @@ La Ratoncitalo pensó detenidamente. Volvió a mirarse en el espejo. Vio sus gra
 
 Ahora los ojos del Zorro estaban abiertos de par en par. "Eso no es un problema en absoluto", dijo. "Yo te llevo. Primero iremos al Colegio de los Ratones. Luego iremos todos juntos al lago mágico."
 
-El corazoncito de la Ratoncitalatía rápido mientras se ponía los zapatos. Abrió la puerta. El Zorro la esperaba pacientemente. Despacio, la Ratoncita caminó hacia él.
+El corazoncito de la Ratoncita latía rápido mientras se ponía los zapatos. Abrió la puerta. El Zorro la esperaba pacientemente. Despacio, la Ratoncita caminó hacia él.
 
 Cuando la Ratoncita estaba delante de la boca del Zorro, él dijo: "¿Cuántas sobrinas y sobrinos? ¿Qué edad tienen?"
 

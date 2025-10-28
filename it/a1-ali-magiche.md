@@ -8,7 +8,7 @@ reviewers:
 - laura-baro
 ---
 
-Matteo sta imparando a diventare un mago. Pensa di poter diventare un ottimo mago. Ma è nella classe più bassa.
+Matteo sta imparando a diventare un mago. Pensa di poter diventare un ottimo mago. È, però, nella classe più bassa.
 
 Un giorno, prova un grande incantesimo. Vuole avere le ali, così da poter volare. Così dimostrerà ai suoi insegnanti che è un mago potente. Ma commette un errore!
 
@@ -18,7 +18,7 @@ La scuola diventa molto rumorosa. Le anatre entrano in tutte le aule. Si siedono
 
 Gli studenti pensano che sia molto divertente. Ridono e applaudono. Scattano foto di Matteo e le anatre. Matteo conosce un sacco di nuovi amici. Tutti vogliono parlare con lui.
 
-Ma la preside non ride. Chiama Matteo nel suo ufficio. Matteo è molto spaventato. Pensa che sarà espulso.
+La preside, però, non ride. Chiama Matteo nel suo ufficio. Matteo è molto spaventato. Pensa che sarà espulso.
 
 Nell'ufficio della preside, Matteo trema. La preside è dietro la sua scrivania. Lo guarda. Poi, sorride.
 

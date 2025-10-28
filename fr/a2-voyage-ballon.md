@@ -26,6 +26,6 @@ Ensuite, le ballon est monté très haut. Il a vu toute la ville au-dessous de l
 
 Ils avaient tous l'air différents, mais ils avaient aussi l'air semblables. Ils riaient, pleuraient et avaient des rêves.
 
-Enfin, le ballon a commencé à perdre de l'air. Lentement, il a commencé à descendre. Il retombait dans un parc. Il avait l'air d'être le même parc.
+Enfin, le ballon a commencé à perdre de l'air. Lentement, il a commencé à descendre. Il est retombé dans un parc. Il avait l'air d'être le même parc.
 
-Mais quand le ballon est arrivé, il n'était pas sûr. L'herbe et les arbres étaient les mêmes, mais ils avaient l'air différents. La fille n'était là. Elle manquait au ballon.
+Mais quand le ballon est arrivé, il n'était pas sûr. L'herbe et les arbres étaient les mêmes, mais ils avaient l'air différents. La fille n'était pas là. Elle manquait au ballon.

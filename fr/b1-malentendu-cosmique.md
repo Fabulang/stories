@@ -12,7 +12,7 @@ Claire était une astronome dévouée, toujours à observer les cieux. Une nuit,
 
 Elle a envoyé un email à ses collègues à ce sujet. De nombreux jours ont passé et aucun d'eux n'a répondu. Quand elle leur a demandé en personne, ils ont dit qu'ils ne la croyaient pas.
 
-Claire a décidé de construire une fusée. «Au moins, j'échapperai!» a-t-elle déclaré.
+Claire a décidé de construire une fusée. «Au moins, j'y échapperai!» a-t-elle déclaré.
 
 Pendant la journée, elle travaillait sur sa fusée. La nuit, elle préparait ses bagages et planifiait son voyage vers les étoiles.
 

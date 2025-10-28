@@ -49,7 +49,7 @@ Finalement, Philippine est arrivée à une impasse. Épuisée, elle s'est assise
 
 Non! Elle refusait d'y croire. Elle s'est alors levée d'un bond et a pointé son pistolet laser. Sans réfléchir, elle a tiré.
 
-Quand la poussière dissipée, Philippine n'en a pas cru ses yeux. Il y avait une immense caverne de l'autre côté de la roche. Elle n'avait jamais ressenti pareille excitation. Elle s'est précipitée à l'intérieur.
+Quand la poussière s'est dissipée, Philippine n'en a pas cru ses yeux. Il y avait une immense caverne de l'autre côté de la roche. Elle n'avait jamais ressenti pareille excitation. Elle s'est précipitée à l'intérieur.
 
 Puis, elle a entendu un grondement sourd. La caverne a commencé à s'effondrer. Elle a été forcée de courir de plus en plus loin. Les rochers s'entassaient autour d'elle. Quand le grondement s'est arrêté, Philippine s'est retrouvée piégée dans un trou à peine plus grand que son propre corps.
 

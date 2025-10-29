@@ -3,19 +3,20 @@ title: A Aprendiz do Mestre das Poções
 locale: pt-BR
 cefr: c2
 key: potion-masters-apprentice
-date: 2024-07-06
-published: false
+date: 2025-10-28
+reviewers:
+- larissa-rabelo
 ---
 
-O líquido roxo dentro da garrafa quadrada brilhava com partículas de ouro. Anabela despejou o conteúdo em uma tigela de metal. Então, ela encontrou um pote de estranhas pedras amarelas. Ela jogou todas na tigela também. Finalmente, havia um jarro cheio de línguas de alguns animais infelizes.
+O líquido roxo dentro da garrafa quadrada brilhava com partículas de ouro. Anabela despejou o conteúdo em uma tigela de metal. Então, ela encontrou um pote de estranhas pedras amarelas. Ela jogou todas na tigela também. Por fim, havia um jarro cheio de línguas de alguns animais azarados.
 
-Anabela misturou tudo com uma grande colher de madeira, aproximando a vela para poder ver melhor. A poção mudou de cor várias vezes. Anabela estava empolgada. Mas então ela ouviu um barulho. O mestre das poções tinha acordado. Rapidamente, Anabela escondeu a tigela debaixo da mesa e voltou furtivamente para seu quarto.
+Anabela misturou tudo com uma grande colher de madeira, aproximando a vela para poder ver melhor. A poção mudou de cor várias vezes. Anabela estava empolgada. Mas então ela ouviu um barulho. O mestre das poções tinha acordado. Rapidamente, Anabela escondeu a tigela debaixo da mesa e rastejou de volta para o seu quarto.
 
 Anabela acordou cedo, como sempre. Como aprendiz do mestre das poções, ela tinha que preparar o café da manhã dele antes que ele descesse, limpar o laboratório antes que ele começasse a trabalhar e vender poções para os clientes antes que ele terminasse de prepará-las.
 
 Anabela entrou na cozinha e começou a fazer o mingau. O cachorro do mestre das poções sentou-se ao lado dela, e Anabela o acariciou.
 
-"Ooh, isso é bom," disse o cachorro.
+"Oh, isso é bom," disse o cachorro.
 
 Anabela pulou e jogou o mingau no teto.
 
@@ -25,7 +26,7 @@ Anabela pulou e jogou o mingau no teto.
 
 "Havia uma tigela debaixo da mesa no laboratório. Cheirava muito bem. Eu provei um pouco. E agora posso falar! Não é maravilhoso?"
 
-"Não!" sibilou Anabela. "Vou me meter em um grande problema!"
+"Não!" Anabela falou entre os dentes. "Vou me meter em um grande problema!"
 
 "Com quem você está falando?" veio a voz do mestre das poções da sala de jantar. "Onde está meu mingau?"
 

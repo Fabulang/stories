@@ -3,8 +3,9 @@ title: O Segredo Mais Profundo Dela
 cefr: a2
 locale: pt-BR
 key: her-deepest-secret
-date: 2025-01-26
-reviews: 1
+date: 2025-11-11
+reviewers:
+- Pedro Ruan Rocha de Oliveira
 ---
 
 "Há algo incomum nesta pintura", disse o guia. "Vocês conseguem ver o que é?"

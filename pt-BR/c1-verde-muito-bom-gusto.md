@@ -3,8 +3,9 @@ title: Um Verde de Muito Bom Gosto
 cefr: c1
 locale: pt-BR
 key: very-tasteful-green
-date: 2025-01-26
-reviews: 1
+date: 2025-11-10
+reviewers:
+- Pedro Ruan Rocha de Oliveira
 ---
 
 A nova casa de André ficava em uma rua tranquila, em uma região cara do país. Ele tinha economizado por anos para poder se mudar para lá. A casa não era grande e precisava de uma nova decoração, mas ele estava feliz por deixar seu antigo bairro para trás.

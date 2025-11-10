@@ -3,11 +3,12 @@ title: A Escolha dos Irmãos
 cefr: b1
 locale: pt-BR
 key: brothers-choice
-date: 2025-01-26
-reviews: 1
+date: 2025-11-11
+reviewers:
+- Pedro Ruan Rocha de Oliveira
 ---
 
-"Este é um relógio muito bonito", disse o amigo de Lourenço, parando no corredor.
+"Este é um relógio muito bonito", disse o amigo de Lourenço, parando-o no corredor.
 
 "Claro, você é um colecionador", respondeu Lourenço. Ele entregou a bebida ao amigo.
 
@@ -55,7 +56,7 @@ Os irmãos de Lourenço saíram correndo da sala. Segundos depois, ele ouviu os 
 
 "E você escolheu este relógio?"
 
-"Meu pai desmontava relógios, consertava cada peça e depois montava tudo de novo. Eu ajudava trazendo as ferramentas, e ele me ensinava como tudo funcionava. Trabalhamos neste relógio por semanas, quando eu tinha uns quatorze anos. São boas lembranças."
+"Meu pai desmontava relógios, consertava cada peça e depois montava tudo de novo. Eu ajudava trazendo as ferramentas e ele me ensinava como tudo funcionava. Trabalhamos neste relógio por semanas, quando eu tinha uns quatorze anos. São boas lembranças."
 
 "Mas, Lourenço, você tem ideia de quão boa foi a sua escolha? Este é um relógio Ludovic Évrard Horstenbach! Deve ser o único no mundo em perfeito estado de funcionamento. Lourenço, você poderia vendê-lo por milhões!"
 

@@ -3,8 +3,10 @@ title: "Projeto: Controle"
 cefr: c2
 locale: pt-BR
 key: project-control
-date: 2025-01-26
-reviews: 1
+date: 2025-11-11
+reviewers:
+- larissa-rabelo
+- Pedro Ruan Rocha de Oliveira
 ---
 
 "Este relatório trimestral está... insatisfatório", resmungou o gerente de Nicoli. "Não há detalhes suficientes. E há números demais no gráfico. A fonte deveria ser maior. As tabelas deveriam usar as cores da nossa marca. E você deveria duplicar tudo no final."

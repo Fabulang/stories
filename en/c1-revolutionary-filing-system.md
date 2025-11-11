@@ -7,13 +7,13 @@ date: 2023-06-10
 reviews: 1
 ---
 
-Emile was a secretary in a bustling company. It was a nice place to work, but he was overlooked and underappreciated. His boss was a rather stern woman, Mrs. Boxer, who had a habit of chiding him for his disorganised desk.
+Emile was a secretary in a bustling company. It was a nice place to work, but he was overlooked and underappreciated. His boss was a rather stern woman, Mrs Boxer, who had a habit of chiding him for his disorganised desk.
 
 "Emile," she would sigh, tapping her foot impatiently, "this desk is a disaster. You'll never get that promotion if you can't even sort your pens and pencils properly."
 
 Fed up with the disrespect, Emile devised a plan. He invented a complex filing system that only he could understand. It was a labyrinth of codes, symbols, and colours, undecipherable to anyone but him.
 
-When Mrs. Boxer first saw the new system, she was impressed. The filing system seemed sophisticated. However, she couldn't locate a single document without his help.
+When Mrs Boxer first saw the new system, she was impressed. The filing system seemed sophisticated. However, she couldn't locate a single document without his help.
 
 "Emile," she grumbled, riffling through a stack of coded papers, "what does this symbol mean? And why is this paper purple?"
 

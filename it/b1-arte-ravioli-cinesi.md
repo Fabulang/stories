@@ -12,7 +12,7 @@ Il blog di cucina di Rossana era uno dei siti di ricette più popolari su intern
 
 Quando Rossana è stata in Cina, sapeva che doveva trovare la migliore ricetta per i ravioli cinesi. E tutti a cui ha chiesto dicevano la stessa cosa. "Nessuno fa ravioli migliori del Signor Chen", dicevano. "Ma non ti dirà mai il suo segreto!"
 
-Rossana ha trovato la casa del Signor Chen e ha bussato alla sua porta. L'uomo di 80 anni l'ha accolta con un sorriso. Le ha detto che apprezzava il suo blog e che era felice di farle i suoi ravioli.
+Rossana ha trovato la casa del Signor Chen e ha bussato alla sua porta. L'uomo di ottanta anni l'ha accolta con un sorriso. Le ha detto che apprezzava il suo blog e che era felice di farle i suoi ravioli.
 
 Quando Rossana li ha assaggiati, era sicura che fossero davvero i migliori in tutta la Cina. Erano bellissimi e pieni di sapori deliziosi. Ma quando Rossana ha chiesto la ricetta, il Signor Chen ha rifiutato gentilmente.
 

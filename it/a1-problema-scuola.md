@@ -53,11 +53,11 @@ Il ragazzino non risponde. Il gesso ticchetta e graffia. Lentamente, la signorin
 
 "Non voglio farti del male", dice subito la signorina Acciaio. Troppo in fretta.
 
-"Cinquecentodiciassettemila... duecentoquarantasei", dice il ragazzino. Sta guardando la lavagna. Ci sono numeri dappertutto. "Diviso quarantaduemila... ottocentododici..."
+"Cinquecento diciassette mila... duecento quarantasei", dice il ragazzino. Sta guardando la lavagna. Ci sono numeri dappertutto. "Diviso quarantadue mila... ottocento dodici..."
 
 "Stai... facendo matematica?"
 
-"Sono pessimo in matematica!" grida il ragazzino. "Allora il professore mi ha punito. Mi ha dato questo problema. Ha detto: 'Non puoi andartene finché non lo risolvi!' Cinquecentodiciassettemila..."
+"Sono pessimo in matematica!" grida il ragazzino. "Allora il professore mi ha punito. Mi ha dato questo problema. Ha detto: 'Non puoi andartene finché non lo risolvi!' Cinquecento diciassette mila..."
 
 "E stai ancora provando? Da quanto tempo...?"
 

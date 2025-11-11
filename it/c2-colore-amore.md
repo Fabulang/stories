@@ -8,7 +8,7 @@ reviewers:
 - carlotta-belluzzi
 ---
 
-Nell'anno 3202, la società è composta sia da umani che da alieni, che vivono pacificamente insieme come cittadini uguali.
+Nell'anno tremila duecento due, la società è composta sia da umani che da alieni, che vivono pacificamente insieme come cittadini uguali.
 
 Felicia era una ragazza umana che frequentava un corso di culture aliene all'università, ed era innamorata del suo compagno di classe Xeep. Xeep era un alieno la cui specie era nota per la sua pelle emotiva. Quando si concentrava in classe, la sua pelle aveva il colore del cielo. Ma quando si entusiasmava davvero per la lezione, la sua pelle brillava con tutti i colori di dell'alba. Era incantevole.
 

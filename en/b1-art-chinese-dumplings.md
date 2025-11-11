@@ -11,7 +11,7 @@ Roxanne's food blog was one of the most popular cookery websites on the Internet
 
 When Roxanne was in China, she knew she had to find the best recipe for Chinese dumplings. And everyone she asked said the same thing. "No one makes better dumplings than Mr Chen," they said. "But he'll never tell you the secret!"
 
-Roxanne found Mr Chen's house and knocked on his door. The 80-year-old man welcomed her in with a smile. He told her that he enjoyed her blog, and was delighted to make his dumplings for her.
+Roxanne found Mr Chen's house and knocked on his door. The eighty-year-old man welcomed her in with a smile. He told her that he enjoyed her blog, and was delighted to make his dumplings for her.
 
 When Roxanne tried them, she could believe that they were the best in all of China. They were beautiful and full of delicious flavours. But when Roxanne asked for the recipe, Mr Chen politely refused.
 

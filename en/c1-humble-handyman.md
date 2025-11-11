@@ -29,7 +29,7 @@ Finally, she went into the science laboratory and gathered all the teachers.
 
 "Why don't you fire the handyman instead?" asked another teacher. "He doesn't do anything useful." The other teachers agreed. They were surprised to learn that he'd left weeks ago.
 
-"There is no point complaining," the headmistress concluded. "Once we sell the equipment, the budget crisis will be over. You will just have to teach science like they did in 1900. That's how Einstein learned science, so I expect excellent results. Come and help me get the blackboards and chalk out of the basement."
+"There is no point complaining," the headmistress concluded. "Once we sell the equipment, the budget crisis will be over. You will just have to teach science like they did in nineteen-hundred. That's how Einstein learned science, so I expect excellent results. Come and help me get the blackboards and chalk out of the basement."
 
 They all arrived in the room underground. In the dark, they could see some blinking lights. The headmistress switched on the main light, and everyone gasped.
 

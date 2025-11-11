@@ -28,7 +28,7 @@ Finalement, elle est allée dans le laboratoire de sciences et a rassemblé tous
 
 «Pourquoi ne renvoyez-vous pas le bricoleur à la place?» a demandé un autre enseignant. «Il ne fait rien d'utile.» Les autres enseignants étaient d'accord. Ils ont été surpris d'apprendre qu'il était parti depuis des semaines.
 
-«Il ne sert à rien de se plaindre», a conclu la directrice. «Une fois que nous aurons vendu l'équipement, la crise budgétaire sera terminée. Vous devrez simplement enseigner les sciences comme ils le faisaient en 1900. C'est ainsi qu'Einstein a appris les sciences, donc j'attends d'excellents résultats. Venez m'aider à sortir les tableaux noirs et les craies du sous-sol.»
+«Il ne sert à rien de se plaindre», a conclu la directrice. «Une fois que nous aurons vendu l'équipement, la crise budgétaire sera terminée. Vous devrez simplement enseigner les sciences comme ils le faisaient en l'an mille neuf cents. C'est ainsi qu'Einstein a appris les sciences, donc j'attends d'excellents résultats. Venez m'aider à sortir les tableaux noirs et les craies du sous-sol.»
 
 Ils sont tous arrivés dans la salle souterraine. Dans le noir, ils pouvaient voir quelques lumières clignotantes. La directrice a allumé la lumière principale, et tout le monde a eu le souffle coupé.
 

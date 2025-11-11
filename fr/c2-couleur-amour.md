@@ -6,7 +6,7 @@ key: colour-love
 date: 2023-07-08
 ---
 
-En l'an 3202, la société est composée à la fois d'humains et d'extraterrestres, vivant ensemble pacifiquement en tant que citoyens égaux.
+En l'an trois mille deux cent deux, la société est composée à la fois d'humains et d'extraterrestres, vivant ensemble pacifiquement en tant que citoyens égaux.
 
 Félicie était une fille humaine qui suivait un cours sur les cultures extraterrestres à l'université, et elle était tombée amoureuse de son camarade de classe Xeep. Xeep était un extraterrestre dont l'espèce était réputée pour sa peau émotive. Quand il se concentrait en classe, sa peau était de la couleur du ciel. Mais quand il se sentait vraiment enthousiaste à propos de la leçon, sa peau brillait avec toutes les couleurs d'un lever de soleil. C'était envoûtant.
 

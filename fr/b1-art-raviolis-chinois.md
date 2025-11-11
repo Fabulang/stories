@@ -13,7 +13,7 @@ Le blog culinaire de Roxanne était l'un des sites de cuisine les plus populaire
 
 Lorsque Roxanne était en Chine, elle savait qu'elle devait trouver la meilleure recette pour les raviolis chinois. Et tout le monde à qui elle a demandé disait la même chose. «Personne ne fait de meilleurs raviolis que M. Chen», disaient-ils. «Mais il ne vous révélera jamais le secret!»
 
-Roxanne a trouvé la maison de M. Chen et a frappé à sa porte. L'homme de 80 ans l'a accueillie avec un sourire. Il lui a dit qu'il appréciait son blog et qu'il était ravi de faire ses raviolis pour elle.
+Roxanne a trouvé la maison de M. Chen et a frappé à sa porte. L'homme de quatre-vingt ans l'a accueillie avec un sourire. Il lui a dit qu'il appréciait son blog et qu'il était ravi de faire ses raviolis pour elle.
 
 Lorsque Roxanne les a essayés, elle pouvait croire qu'ils étaient les meilleurs de toute la Chine. Ils étaient beaux et pleins de saveurs délicieuses. Mais quand Roxanne a demandé la recette, M. Chen a poliment refusé.
 

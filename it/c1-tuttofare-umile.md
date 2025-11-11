@@ -30,7 +30,7 @@ Infine, è andata nel laboratorio di scienze e ha radunato tutti gli insegnanti.
 
 "Perché non licenzi il tuttofare, invece?" ha chiesto un altro insegnante. "Non fa niente di utile." Gli altri insegnanti erano d'accordo. Sono rimasti sorpresi nell'apprendere che era andato via settimane prima.
 
-"Non ha senso lamentarsi", ha concluso la preside. "Una volta vendute le attrezzature, la crisi di bilancio sarà finita. Dovrete semplicemente insegnare la scienza come si faceva nel 1900. Così ha imparato la scienza Einstein, quindi mi aspetto risultati eccellenti. Venite ad aiutarmi a trasportare le lavagne e il gesso fuori dal seminterrato."
+"Non ha senso lamentarsi", ha concluso la preside. "Una volta vendute le attrezzature, la crisi di bilancio sarà finita. Dovrete semplicemente insegnare la scienza come si faceva nel mille novecento. Così ha imparato la scienza Einstein, quindi mi aspetto risultati eccellenti. Venite ad aiutarmi a trasportare le lavagne e il gesso fuori dal seminterrato."
 
 Sono arrivati tutti nella stanza sotterranea. Al buio, vedevano alcune luci lampeggianti. La preside ha acceso la luce principale e tutti hanno trattenuto il fiato.
 

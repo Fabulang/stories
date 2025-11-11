@@ -7,7 +7,7 @@ date: 2023-07-08
 reviews: 1
 ---
 
-In the year 3202, society is composed of both humans and aliens, living together peacefully as equal citizens.
+In the year thirty-two-o-two, society is composed of both humans and aliens, living together peacefully as equal citizens.
 
 Felicity was a human girl taking a course in alien cultures at university, and she was in love with her classmate Xeep. Xeep was an alien whose species was renowned for its emotive skin. When he was concentrating in class, his skin was the colour of the sky. But when he felt really enthusiastic about the lesson, his skin shone with all the colours of a sunrise. It was enchanting.
 

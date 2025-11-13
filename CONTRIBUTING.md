@@ -6,7 +6,7 @@ We welcome your improvements to the text of the Fabulang stories.
 
 Please respect the following guidelines:
 
-* You must only suggest edits in languages for which you possess a native level of understanding. **Please indicate if you are a ntive speaker** in your comments.
+* You must only suggest edits in languages for which you possess a native level of understanding. **Please indicate if you are a native speaker** in your comments.
 * Because each story is available in all languages, it is essential to ensure that edits in one language do not introduce a meaningful semantic different across the language versions. Consequently:
   * You must restrict editing only to **correct errors or improve phrasing**, while retaining as closely as possible all aspects of the meaning of each sentence.
   * Edits must not combine or split sentences or paragraphs.

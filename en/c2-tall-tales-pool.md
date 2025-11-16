@@ -19,7 +19,7 @@ Then he thought, why not have a little fun? He called the naughty children over 
 
 The children ran away screaming. They refused to swim in the pool anymore. Confused, their parents had to take them home, even though they'd only just arrived. Joshua spent the rest of the afternoon laughing to himself.
 
-But word of the "sea monster" didn't stay within the confines of the pool. By the next day, it had spread amongst all the children's parents. Alarmed and indignant, they stormed into the pool manager's office, demanding answers.
+But word of the "sea monster" didn't stay within the confines of the pool. By the next day, it had spread among all the children's parents. Alarmed and indignant, they stormed into the pool manager's office, demanding answers.
 
 "How could you let a sea monster into the pool?" one father yelled, his face red with anger.
 

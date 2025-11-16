@@ -29,7 +29,7 @@ The man's face is white. "I don't want to know what's in there," he says. "Pleas
 
 There is no light at all. She can't see anything. She touches the walls with her hands. The stone is cold.
 
-She walks forwards. Her footsteps are loud. They are the only sound. She holds her bag close to her chest.
+She walks forward. Her footsteps are loud. They are the only sound. She holds her bag close to her chest.
 
 On the other side of the main hall, there is a long, narrow corridor. There are many doors on her left and right. She counts the doors. One, two, three. She stops. She holds her breath.
 

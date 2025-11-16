@@ -7,28 +7,40 @@ date: 2023-06-24
 reviews: 1
 ---
 
-Clare was a dedicated astronomer, always watching the skies. One night, she spotted a huge meteor that seemed to be getting closer to Earth.
+Clare was a dedicated astronomer, but she was never the first to discover something. Then, one night, she spotted a huge meteor that seemed to be getting closer to the Earth.
 
 "It's coming right at us!" she exclaimed.
 
-She emailed her colleagues about it. Many days passed, and none of them responded. When she asked them in person, they said they didn't believe her.
+She emailed her colleagues about it, but none of them responded. So she started phoning them, but the calls all went to voicemail, and no one called back. Eventually, after calling fifty times, one of her colleagues picked up the phone.
 
-Clare decided to build a rocket. "At least I will escape!" she declared.
+"You're always saying things like this," said the other astronomer. "And you're always wrong. We don't believe you."
 
-During the day she worked on her rocket. At night, she packed her bags and planned her journey to the stars.
+But Clare knew she was right. And if no one believed her, the Earth would be destroyed.
+
+Clare decided to build a rocket. "I'll save everyone!" she declared. "Even if they don't believe me!"
+
+During the day she worked on her rocket. At night, she planned her mission. She would fly to the meteor and destroy it.
 
 Finally, it was the day of the launch. Trembling, Clare climbed into her rocket and soared into space.
 
-She gazed into the stars -- her new home. Then the meteor passed in front of her window.
+She flew towards the meteor. It was exactly where she had predicted.
 
-Clare looked at the meteor, and realised something. It wasn't a meteor at all -- it was a satellite!
+"Wait a minute," she said, looking closely through her window.
 
-"Wait a minute," she said, looking closer. "This is the *Space Guard*, the lost satellite designed to identify dangerous meteors!"
+She felt very foolish. It wasn't a meteor. It was the *Space Guard*, a famous satellite that had stopped working years ago.
 
-Clare put on her suit and went into space with her tools. She flew over to the satellite, and began to work. Eventually, she managed to restart the satellite. She sent it back on its mission.
+"Well, now that I'm here, at least I can do something useful," she said.
 
-When she returned to Earth, she was greeted with surprise and admiration.
+Clare put on her suit and went into space with her tools. She flew over to the satellite, and began to work. Eventually, she managed to fix the satellite.
 
-"Clare," said one scientist, "because you fixed the *Space Guard*, we were able to identify a dangerous object. It was coming towards the Earth at incredible speed. With the *Space Guard*, we were able to stop it!"
+Feeling embarrassed, she started flying back to Earth. She had pestered all her colleagues, and flown to space, but she was wrong. She didn't look forward to admitting it.
 
-Clare had become a famous scientist. And she had learned that even a misunderstanding can lead to great things -- if you can look beyond the stars.
+When she landed, all her colleagues were there.
+
+"I'm back," she said with a sigh. "I have to apologise. I thought there was a meteor, but ---"
+
+"We're sorry for not listening to you," said the astronomer she'd spoken to on the phone. "We're lucky that you didn't give up, and you fixed the *Space Guard*. The satellite immediately identified the meteor you told us about. It was only one hour away!"
+
+"Fixing the satellite was an excellent plan," said another astronomer. "Its automatic systems destroyed the meteor quickly. You saved everyone!"
+
+Clare had crossed her arms. "Next time, pick up the phone!" she snapped.

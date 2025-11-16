@@ -4,32 +4,42 @@ locale: it
 cefr: b1
 key: cosmic-misunderstanding
 date: 2023-06-24
-reviewers:
-- carlotta-belluzzi
 ---
 
-Chiara era un'astronoma dedicata, sempre a guardare il cielo. Una notte, ha avvistato un enorme meteorite che sembrava avvicinarsi sempre di più alla Terra.
+Chiara era un'astronoma molto dedita al suo lavoro, ma non era mai la prima a scoprire qualcosa. Poi, una notte, ha avvistato un enorme meteorite che sembrava avvicinarsi alla Terra.
 
-"Sta venendo direttamente verso di noi!" ha esclamato.
+"Sta venendo dritto verso di noi!" ha esclamato.
 
-Ha inviato un'e-mail ai suoi colleghi a riguardo. Sono passati molti giorni, e nessuno di loro ha risposto. Quando glielo ha chiesto di persona, hanno detto che non le credevano.
+Ha mandato un'email ai suoi colleghi, ma nessuno ha risposto. Così ha iniziato a telefonare, ma le chiamate finivano tutte nella segreteria e nessuno richiamava. Alla fine, dopo cinquanta telefonate, uno dei suoi colleghi ha risposto al telefono.
 
-Chiara ha deciso di costruire un razzo. "Almeno io scapperò!" ha dichiarato.
+"Dici sempre cose del genere", ha detto l'altro astronomo. "E hai sempre torto. Non ti crediamo."
 
-Durante il giorno lavorava al suo razzo. Di notte, faceva le valigie e pianificava il suo viaggio verso le stelle.
+Ma Chiara sapeva di avere ragione. E se nessuno le avesse creduto, la Terra sarebbe stata distrutta.
 
-Finalmente, era il giorno del lancio. Tremante, Chiara è salita sul suo razzo e si è innalzata nello spazio.
+Chiara ha deciso di costruire un razzo. "Salverò tutti!" ha dichiarato. "Anche se non mi credono!"
 
-Guardava le stelle -- la sua nuova casa. Poi il meteorite è passato davanti alla sua finestra.
+Di giorno lavorava al suo razzo. Di notte pianificava la missione. Sarebbe volata fino al meteorite per distruggerlo.
 
-Chiara ha guardato il meteorite, e ha capito qualcosa. Non era affatto un meteorite -- era un satellite!
+Finalmente è arrivato il giorno del lancio. Tremando, Chiara è salita sul suo razzo ed è partita verso lo spazio.
 
-"Un attimo", ha detto, guardando più da vicino. "Questo è il *Guardiano Spaziale*, il satellite perduto progettato per identificare meteore pericolose!"
+Ha volato in direzione del meteorite. Era esattamente dove aveva previsto.
 
-Chiara ha indossato la sua tuta ed è uscita nello spazio con i suoi attrezzi. È volata verso il satellite e ha iniziato a lavorare. Alla fine, è riuscita a riavviare il satellite. Lo ha rimandato a compiere sua missione.
+"Un momento", ha detto, guardando attentamente dall'oblò.
 
-Quando è tornata sulla Terra, è stata ricevuta con sorpresa e ammirazione.
+Si è sentita molto sciocca. Non era un meteorite. Era il *Guardiano spaziale*, un famoso satellite che aveva smesso di funzionare anni prima.
 
-"Chiara", ha detto uno scienziato, "siccome hai riparato il *Guardiano Spaziale*, siamo riusciti a identificare un oggetto pericoloso. Stava venendo verso la Terra a una velocità incredibile. Con il *Guardiano Spaziale*, siamo riusciti a fermarlo!"
+"Beh, ora che sono qui, almeno posso fare qualcosa di utile", ha detto.
 
-Chiara era diventata una scienziata famosa. E aveva imparato che anche un malinteso può portare a grandi cose -- se si riesce a guardare oltre le stelle.
+Chiara ha indossato la tuta ed è uscita nello spazio con i suoi attrezzi. È volata fino al satellite e ha iniziato a lavorare. Alla fine, è riuscita a ripararlo.
+
+Sentendosi in imbarazzo, ha iniziato il rientro verso la Terra. Aveva assillato tutti i suoi colleghi ed era volata nello spazio, ma si era sbagliata. Non vedeva l'ora di ammetterlo.
+
+Quando è atterrata, tutti i suoi colleghi erano lì.
+
+"Sono tornata", ha detto con un sospiro. "Devo scusarmi. Pensavo che ci fosse un meteorite, ma ---"
+
+"Ci dispiace di non averti ascoltata", ha detto l'astronomo con cui aveva parlato al telefono. "Siamo fortunati che tu non abbia rinunciato e che tu abbia riparato il *Guardiano spaziale*. Il satellite ha immediatamente individuato il meteorite di cui ci avevi parlato. Era a solo un'ora di distanza!"
+
+"Riparare il satellite è stata un'ottima idea", ha detto un altro astronomo. "I suoi sistemi automatici hanno distrutto rapidamente il meteorite. Hai salvato tutti!"
+
+Chiara ha incrociato le braccia. "La prossima volta, rispondete al telefono!" ha sbottato.

@@ -35,7 +35,7 @@ I turisti hanno osservato attentamente. Dietro di loro, altri turisti giravano p
 
 "Molto bene!" ha detto la guida turistica. "L'artista voleva che notassimo queste cose. Ci sta dicendo chi era."
 
-Gli altri turisti hanno annuito, sembrando impressionati. La madre non stava guardando.
+Gli altri turisti hanno annuito, sembravano impressionati. La madre non stava guardando.
 
 "Le piace viaggiare", ha continuato Luigi.
 
@@ -57,7 +57,7 @@ Dopo che Luigi e sua madre se ne sono andati, un uomo ha chiesto: "Ma qual era i
 
 "Quelli sono... giocattoli per bambini?"
 
-"Sì! Ma perché l'artista ha dipinto quelli? Ci sta dicendo che la donna aveva un bambino -- *il loro* bambino. Il loro amore era un segreto, ma lui voleva che lo sapessimo. Ora, seguitemi per favore..."
+"Sì! Ma perché l'artista li ha dipinti? Ci sta dicendo che la donna aveva un bambino: *il loro* bambino. Il loro amore era un segreto, ma lui voleva che lo sapessimo. Ora, seguitemi per favore..."
 
 "Devi imparare a stare zitto!" ha detto la madre a Luigi mentre uscivano dal museo.
 

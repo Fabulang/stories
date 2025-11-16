@@ -10,7 +10,7 @@ Amélie était dans une boutique d'antiquités, à la recherche de quelque chose
 
 «Vous ne voulez pas de celui-ci», a retenti une voix rauque. C'était le marchand d'antiquités.
 
-«Mais si! « a dit Amélie. «Je le veux beaucoup. Je paierai n'importe quel prix.»
+«Mais si!» a dit Amélie. «Je le veux beaucoup. Je paierai n'importe quel prix.»
 
 «Prenez-le!» a grommelé le marchand. «Il n'y a pas de prix. Mais ça vous coûtera cher -- à la fin!» Et le vieil homme s'est précipité dans son bureau, riant tout seul.
 

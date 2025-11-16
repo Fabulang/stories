@@ -6,13 +6,13 @@ key: revolutionary-filing-system
 date: 2023-06-10
 ---
 
-Émile était secrétaire dans une entreprise animée. C'était un bel endroit pour travailler, mais il était négligé et sous-estimé. Sa patronne était une femme plutôt sévère, Mme. Boxeuse, qui avait l'habitude de le réprimander pour son bureau désorganisé.
+Émile était secrétaire dans une entreprise animée. C'était un bel endroit pour travailler, mais il était négligé et sous-estimé. Sa patronne était une femme plutôt sévère, Mme Boxeuse, qui avait l'habitude de le réprimander pour son bureau désorganisé.
 
 «Émile», soupirait-elle en tapant du pied avec impatience, «ce bureau est un bordel. Vous n'obtiendrez jamais cette promotion si vous ne pouvez même pas trier correctement vos stylos et crayons.»
 
 Fatigué du manque de respect, Émile a conçu un plan. Il a inventé un système de classement complexe que lui seul pouvait comprendre. C'était un labyrinthe de codes, de symboles et de couleurs, indéchiffrable pour toute autre personne.
 
-Lorsque Mme. Boxeuse a vu pour la première fois le nouveau système, elle a été impressionnée. Le système de classement semblait sophistiqué. Cependant, elle ne pouvait localiser un seul document sans son aide.
+Lorsque Mme Boxeuse a vu pour la première fois le nouveau système, elle a été impressionnée. Le système de classement semblait sophistiqué. Cependant, elle ne pouvait localiser un seul document sans son aide.
 
 «Émile», grommelait-elle, en feuilletant une pile de documents codés, «que signifie ce symbole? Et pourquoi ce papier est-il violet?»
 

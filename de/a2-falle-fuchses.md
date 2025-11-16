@@ -18,9 +18,9 @@ Draußen vor dem Baumstamm ging Herr Fuchs vorbei. Er hörte, was Frau Maus sagt
 
 „Entschuldigung“, sagte Herr Fuchs.
 
-Frau Maus erschrak. Sie drehte sich um. Sie konnte in jedem Fenster eines von Herr Fuchs’ Augen sehen.
+Frau Maus erschrak. Sie drehte sich um. Sie konnte in jedem Fenster eines von Herr Fuchs' Augen sehen.
 
-Herr Fuchs’ Stimme war ruhig und freundlich. „Es tut mir leid für dich. Ich bin auch sehr hässlich.“ Er seufzte sehr laut. „Das Leben ist grausam. Mäuse können den Zaubersee benutzen, um schön zu werden, aber Füchse können das nicht.“
+Herr Fuchs' Stimme war ruhig und freundlich. „Es tut mir leid für dich. Ich bin auch sehr hässlich.“ Er seufzte sehr laut. „Das Leben ist grausam. Mäuse können den Zaubersee benutzen, um schön zu werden, aber Füchse können das nicht.“
 
 „Zaubersee?“ fragte Frau Maus. „Wovon redest du?“
 
@@ -34,21 +34,21 @@ Frau Maus dachte sorgfältig nach. Sie sah wieder in den Spiegel. Sie sah ihre g
 
 „Aber ich muss zu Hause bleiben“, sagte Frau Maus. „Ich habe es fast vergessen. Meine Nichten und Neffen besuchen mich nach der Schule. Ich muss auf sie warten.“
 
-Jetzt wurden Herr Fuchs’ Augen groß. „Das ist überhaupt kein Problem“, sagte er. „Ich trage dich. Wir gehen zuerst zur Mäuseschule. Dann gehen wir alle zusammen zum Zaubersee.“
+Jetzt wurden Herr Fuchs' Augen groß. „Das ist überhaupt kein Problem“, sagte er. „Ich trage dich. Wir gehen zuerst zur Mäuseschule. Dann gehen wir alle zusammen zum Zaubersee.“
 
-Frau Maus’ kleines Herz schlug schnell, während sie ihre Schuhe anzog. Sie öffnete die Tür. Herr Fuchs wartete geduldig. Langsam ging Frau Maus auf ihn zu.
+Frau Maus' kleines Herz schlug schnell, während sie ihre Schuhe anzog. Sie öffnete die Tür. Herr Fuchs wartete geduldig. Langsam ging Frau Maus auf ihn zu.
 
-Als Frau Maus vor Herrn Fuchs’ Maul war, sagte er: „Wie viele Nichten und Neffen? Wie jung?“
+Als Frau Maus vor Herrn Fuchs' Maul war, sagte er: „Wie viele Nichten und Neffen? Wie jung?“
 
 „Ich habe zwölf Nichten und acht Neffen“, sagte Frau Maus. „Sie machen alle ihre Abschlussprüfungen. Sie sind sehr niedlich.“
 
 „Ich kann es kaum erwarten, sie zu treffen.“
 
-Frau Maus kletterte auf Herrn Fuchs’ Kopf.
+Frau Maus kletterte auf Herrn Fuchs' Kopf.
 
 „Geh zwischen die Büsche, folge dem Fluss, dann ist die Schule auf der Wiese“, sagte Frau Maus.
 
-Herr Fuchs begann zu rennen. Frau Maus konnte Fuchs’ Zunge sehen, wie sie sich über seine Lippen leckte.
+Herr Fuchs begann zu rennen. Frau Maus konnte Fuchs' Zunge sehen, wie sie sich über seine Lippen leckte.
 
 „Ich brauche nur etwas Wasser“, sagte Herr Fuchs. „Rennen ist harte Arbeit.“
 
@@ -58,6 +58,6 @@ Sie konnten die Wiese zwischen zwei großen Bäumen sehen. Herr Fuchs rannte sch
 
 Es gab einen lauten Knall. Herr Fuchs schrie. Sein Fuß steckte in einer Falle.
 
-Frau Maus sprang von Herr Fuchs’ Kopf und begann, nach Hause zu gehen.
+Frau Maus sprang von Herr Fuchs' Kopf und begann, nach Hause zu gehen.
 
 „Glaubst du, ich bin dumm?“ sagte sie.

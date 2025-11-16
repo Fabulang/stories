@@ -1,12 +1,12 @@
 ---
-title: La mort de Mme. Chevalier
+title: La mort de Mme Chevalier
 locale: fr
 cefr: b2
 key: death-mrs-knight
 date: 2023-07-08
 ---
 
-La Détective Chasseur a traversé l'énorme jardin rempli de roses. Elle est entrée dans la somptueuse maison de M. et Mme. Chevalier et elle est allée dans le bureau. La belle pièce était devenue une scène de crime. Mme. Chevalier était assise dans sa chaise en cuir. Elle semblait s'être endormie sur le bureau. Mais elle était morte.
+La Détective Chasseur a traversé l'énorme jardin rempli de roses. Elle est entrée dans la somptueuse maison de M. et Mme Chevalier et elle est allée dans le bureau. La belle pièce était devenue une scène de crime. Mme Chevalier était assise dans sa chaise en cuir. Elle semblait s'être endormie sur le bureau. Mais elle était morte.
 
 M. Chevalier, son mari, était assis près de la fenêtre, les yeux remplis de larmes. De nombreux autres policiers cherchaient des indices autour de la pièce. Ils cherchaient autour du bureau, sur les étagères des bibliothèques, et partout sur le sol.
 
@@ -26,7 +26,7 @@ Il a secoué la tête. «Non, rien. C'était une journée normale sous tous les 
 
 «Je ne pense pas», a dit le mari. «Les portes et les fenêtres grincent fort. J'aurais entendu si quelqu'un y était entré. Elle était seule tout le temps.»
 
-«Regardez ça, Détective», a dit un jeune policier. C'était un couteau, couvert de sang. «Je l'ai trouvé sous la chaise de Mme. Chevalier. On dirait qu'elle l'a laissé tomber elle-même.»
+«Regardez ça, Détective», a dit un jeune policier. C'était un couteau, couvert de sang. «Je l'ai trouvé sous la chaise de Mme Chevalier. On dirait qu'elle l'a laissé tomber elle-même.»
 
 «Laissez-moi voir.»
 

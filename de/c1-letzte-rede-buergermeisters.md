@@ -36,7 +36,7 @@ Seit Generationen waren die Schönfelds die reichste Familie der Stadt gewesen. 
 
 „Aber... nein!“, rief der Bürgermeister. „Die Schönfelds waren gut zu dieser Stadt. Sie bauten die Schulen, pflasterten die Straßen und spendeten ihr Leben lang für gute Zwecke. Wir dürfen Mrs Schönfelds Wünsche nicht missachten! Wir würden zwar ihr Geld gewinnen -- aber unsere Würde verlieren!“
 
-„Haben Sie ‚Geld‘ gesagt?“, rief jemand. „Auf geht’s!“
+„Haben Sie ‚Geld‘ gesagt?“, rief jemand. „Auf geht's!“
 
 Die Menge stürmte auf das alte Herrenhaus zu, in dem die Schönfelds gelebt hatten. Sie brachen die Tore auf und rannten hinein. Bald fanden sie die Treppe, die in den Untergrund führte, zu einer schweren Metalltür.
 

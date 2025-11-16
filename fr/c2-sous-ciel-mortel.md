@@ -34,7 +34,7 @@ La nuit avant le test, Évelyne ne pouvait pas dormir. Elle ne pouvait pas laiss
 
 Évelyne était choquée. Elle pensait qu'il faisait nuit, mais le soleil était éclatant. Elle a réalisé que leurs 'journées' souterraines étaient régies par le système électrique.
 
-Évelyne a regardé autour d'elle avec émerveillement. Elle a vu un monde couvert d'herbe, d'arbres et de fleurs. Au loin, elle a vu des bâtiments en ruines envahis par les vignes et les lichens. Elle a entendu des oiseaux chanter, un son qui lui a rempli le coeur. Il a fallu un moment à Évelyne pour se rappeler que le virus avait tué tous les oiseaux. Était-ce possible...?
+Évelyne a regardé autour d'elle avec émerveillement. Elle a vu un monde couvert d'herbe, d'arbres et de fleurs. Au loin, elle a vu des bâtiments en ruines envahis par les vignes et les lichens. Elle a entendu des oiseaux chanter, un son qui lui a rempli le cœur. Il a fallu un moment à Évelyne pour se rappeler que le virus avait tué tous les oiseaux. Était-ce possible...?
 
 Lentement, avec des mains tremblantes, Évelyne a enlevé son casque. Puis, elle a pris une grande respiration. Si elle avait tort, mieux vaut mourir rapidement. Mais elle n'a ressenti aucune douleur. L'air était doux. Le virus avait disparu.
 

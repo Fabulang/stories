@@ -38,7 +38,7 @@ Quando Enrico ha portato il dessert nella sala da pranzo, i tre uomini stavano r
 
 "Sotterranee?" ha riso l'uomo dai capelli castani. "Goditi la tua vita da talpa. Io ti saluterò dall'orbita."
 
-Il terzo uomo ha sbuffato. "Spazio? Io resto qui sulla terra. Se fa caldo, ho l'aria condizionata. Se fa freddo, ho il riscaldamento. Se ho bisogno di qualcosa, ho un esercito di robot."
+Il terzo uomo ha sbuffato. "Spazio? Io resto qui sulla Terra. Se fa caldo, ho l'aria condizionata. Se fa freddo, ho il riscaldamento. Se ho bisogno di qualcosa, ho un esercito di robot."
 
 Enrico ha guardato le torte al cioccolato. Si è sentito male. Ne ha posata una davanti a ciascun uomo e ha versato altro vino.
 

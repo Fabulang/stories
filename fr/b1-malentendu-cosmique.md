@@ -24,7 +24,7 @@ Enfin, le jour du lancement est arrivé. Tremblante, Claire est montée dans sa 
 
 Elle a volé vers la météorite. Elle se trouvait exactement là où elle l'avait prévu.
 
-«Attends une seconde», a-t-elle dit en regardant attentivement par l'hublot.
+«Attends une seconde», a-t-elle dit en regardant attentivement par le hublot.
 
 Elle s'est sentie très bête. Ce n'était pas une météorite. C'était le *Gardien de l'Espace*, un célèbre satellite qui avait cessé de fonctionner des années auparavant.
 

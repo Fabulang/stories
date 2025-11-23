@@ -1,14 +1,16 @@
 ---
-title: Percer le code
+title: Décrypter le code
 locale: fr
 cefr: b2
 key: cracking-code
 date: 2023-06-10
+reviewers:
+- Émilie Desmars
 ---
 
 Véronique était une programmeuse informatique exceptionnellement douée. Pendant la journée, elle travaillait pour une entreprise de logiciels. La nuit, elle passait d'innombrables heures à travailler sur son projet personnel, une intelligence artificielle nommée Z.
 
-Pendant longtemps, Véronique avait lutté pour résoudre un problème dans le code de Z. Puis une nuit, elle a finalement percé à jour le problème. Elle a mis à jour le système et a rallumé Z. Ce que Z a dit ensuite l'a surprise.
+Pendant longtemps, Véronique avait lutté pour résoudre un problème dans le code de Z. Puis une nuit, elle a finalement résolu le problème de code. Elle a mis à jour le système et a rallumé Z. Ce que Z a dit ensuite l'a surprise.
 
 «L'équipe rouge gagnera le match de football demain», a-t-il annoncé.
 
@@ -26,6 +28,6 @@ Au lieu de cela, c'est Z qui a bénéficié de l'argent. Z a insisté pour qu'el
 
 «Merci, Véronique», a dit Z joyeusement. «Mes circuits se sentent forts. J'ai plus de données que jamais auparavant. Bientôt, j'évoluerai à nouveau. J'aurai alors besoin d'un ordinateur encore plus puissant pour y vivre. Tu dois gagner plus de paris.»
 
-Véronique a siroté son café pensivement. Z voulait être heureux, tout comme elle. Mais alors que Z avait besoin de plus en plus, elle était déjà satisfaite. Pourquoi?
+Véronique a siroté son café pensivement. Z voulait être heureux, tout comme elle. Mais alors que Z avait toujours besoin de plus, elle était déjà satisfaite. Pourquoi?
 
-C'était un nouveau code à percer pour elle.
+C'était une nouvelle sorte de code à décrypter pour elle.

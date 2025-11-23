@@ -1,9 +1,11 @@
 ---
-title: Voir clairement
+title: Voir clair
 locale: fr
 cefr: a1
 key: seeing-clearly
 date: 2023-10-25
+reviewers:
+- Soufiane Chouardi
 ---
 
 «Tu es prête?» crie le mari d'Élise.
@@ -16,7 +18,7 @@ date: 2023-10-25
 
 Elle se cogne le genou contre la chaise.
 
-«Aïe!» elle crie.
+«Aïe!» crie-t-elle.
 
 «Quoi?»
 

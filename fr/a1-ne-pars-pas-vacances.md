@@ -5,8 +5,9 @@ locale: fr
 key: dont-go-holiday
 date: 2023-12-31
 reviewers:
- - avance-avec-nisa
- - ashlyn-cleys
+- Franck Zussy
+- avance-avec-nisa
+- ashlyn-cleys
 ---
 
 «Ne pars pas en vacances.»
@@ -21,17 +22,17 @@ Frédérique rit. «Bonne blague», écrit-elle.
 
 Frédérique pose son téléphone. Elle réfléchit. Son assistant au travail est toujours très drôle. Ça doit être son assistant.
 
-Un autre message arrive. «Ne mange pas de sandwich.»
+Un autre message arrive. «Ne mange pas le sandwich.»
 
 Frédérique regarde son sandwich. C'est un sandwich au jambon, avec de la laitue et des tomates. Il est sur une assiette, sur la table.
 
-'Ça doit être mon assistant', pense Frédérique. 'Il sait que je mange toujours un sandwich pour le déjeuner.'
+"Ça doit être mon assistant", pense Frédérique. "Il sait que je mange toujours un sandwich pour le déjeuner."
 
 Frédérique a faim. Elle mange le sandwich.
 
 Le lendemain, Frédérique est malade. Frédérique ne va pas au travail. Elle reste à la maison.
 
-Son téléphone fait du bruit. Il y a un nouveau message. «Tu me crois maintenant?»
+Son téléphone fait un bruit. Il y a un nouveau message. «Tu me crois maintenant?»
 
 «Arrête ce jeu», écrit Frédérique.
 
@@ -47,9 +48,9 @@ Son téléphone fait du bruit. Il y a un nouveau message. «Tu me crois maintena
 
 Frédérique veut partir en vacances. Il y a un projet au travail qui est très difficile. Elle a besoin de se détendre.
 
-Frédérique achète son billet. Puis elle prépare sa valise. Elle y met ses lunettes de soleil, son maillot de bain et son livre préféré.
+Frédérique achète son billet. Puis, elle prépare sa valise. Elle y met ses lunettes de soleil, son maillot de bain et son livre préféré.
 
-Le week-end, Frédérique se rend à la gare. Elle voyage vers l'aéroport. À l'aéroport, elle reçoit un nouveau message.
+Le week-end, Frédérique se rend à la gare. Elle va jusqu'à l'aéroport. À l'aéroport, elle reçoit un nouveau message.
 
 «Fais attention à la piscine, s'il te plaît.»
 
@@ -63,7 +64,7 @@ Elle se réveille dans son lit. Elle ne peut pas bouger. Le médecin dit qu'elle
 
 Un an plus tard, Frédérique retourne au travail. Elle est en fauteuil roulant.
 
-«Bon retour», dit son assistant. «Je suis désolé pour ton accident. Mais il y a une bonne nouvelle: le projet secret est maintenant terminé.»
+«Bon retour parmi nous», dit son assistant. «Je suis désolé pour ton accident. Mais il y a une bonne nouvelle: le projet secret est maintenant terminé.»
 
 «Comment?» demande Frédérique.
 

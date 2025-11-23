@@ -4,6 +4,8 @@ locale: fr
 cefr: b1
 key: cosmic-misunderstanding
 date: 2023-06-24
+reviewers:
+- melissa-martinez
 ---
 
 Claire était une astronome dévouée, mais elle n'était jamais la première à découvrir quelque chose. Puis, une nuit, elle a repéré une énorme météorite qui semblait se rapprocher de la Terre.
@@ -30,7 +32,7 @@ Elle s'est sentie très bête. Ce n'était pas une météorite. C'était le *Gar
 
 «Eh bien, maintenant que je suis ici, je peux au moins faire quelque chose d'utile», a-t-elle dit.
 
-Claire a mis sa combinaison et est sortie dans l'espace avec ses outils. Elle a volé jusqu'au satellite et a commencé à travailler. Finalement, elle a réussi à réparer le satellite.
+Claire a mis sa combinaison et est sortie dans l'espace avec ses outils. Elle a volé jusqu'au satellite et a commencé à se mettre au travail. Finalement, elle a réussi à réparer le satellite.
 
 Se sentant embarrassée, elle a commencé à retourner vers la Terre. Elle avait dérangé tous ses collègues et était partie dans l'espace, mais elle s'était trompée. Elle n'avait pas hâte de l'admettre.
 

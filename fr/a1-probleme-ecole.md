@@ -5,6 +5,7 @@ cefr: a1
 key: problem-school
 date: 2024-09-08
 reviewers:
+- Soufiane Chouardi
 - helene-wandering-french
 ---
 
@@ -20,17 +21,17 @@ L'homme respire. «Traversez le hall principal. Puis, c'est la troisième porte 
 
 L'homme lui tend une lampe torche. «Prenez ceci.» Elle la repousse.
 
-«Mais c'est dangereux, Mlle Acier! La personne précédente qui...»
+«Mais c'est dangereux, Mlle Acier! La dernière personne qui...»
 
 «Je ne peux pas l'utiliser. Dans mon métier, Directeur... je dois travailler dans le noir. Mes... outils... sont dans mon sac.»
 
-Le visage de l'homme est pâle. «Je ne veux pas savoir ce qu'il y a là-dedans», dit-il. «S'il vous plaît, résolvez simplement notre... problème.»
+Le visage de l'homme est pâle. «Je ne veux pas savoir ce qu'il y a là-dedans», dit-il. «S'il vous plaît, réglez simplement notre... problème.»
 
-«Envoyez simplement le deuxième paiement à temps dit Mlle Acier. Puis elle entre dans l'école. La porte claque derrière elle.
+«Envoyez simplement le deuxième paiement à temps», dit Mlle Acier. Puis elle entre dans l'école. La porte claque derrière elle.
 
 Il n'y a pas du tout de lumière. Elle ne voit rien. Elle touche les murs avec ses mains. La pierre est froide.
 
-Elle avance. Ses pas sont bruyants. Ils sont le seul son. Elle tient son sac près de sa poitrine.
+Elle avance. Ses pas sont bruyants. C'est le seul son qu'on entend. Elle tient son sac près de sa poitrine.
 
 De l'autre côté du hall principal, il y a un long couloir étroit. Il y a beaucoup de portes à gauche et à droite. Elle compte les portes. Une, deux, trois. Elle s'arrête. Elle retient son souffle.
 

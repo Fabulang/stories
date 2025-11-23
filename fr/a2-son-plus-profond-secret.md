@@ -6,6 +6,7 @@ key: her-deepest-secret
 date: 2025-01-26
 reviewers:
 - mathilde-riche
+- Soufiane Chouardi
 ---
 
 «Il y a quelque chose d'étrange dans ce tableau», a dit le guide touristique. «Voyez-vous ce que c'est?»
@@ -22,7 +23,7 @@ Les touristes ont regardé de près. Derrière eux, d'autres touristes se promen
 
 «Eh bien, quoi alors?» a demandé quelqu'un d'autre.
 
-«La femme dans le tableau... personne ne sait qui elle est. Mais nous pouvons découvrir beaucoup de choses sur elle, en regardant de près. En fait, nous pouvons découvrir son plus profond secret.»
+«La femme dans le tableau... personne ne sait qui c'est. Mais nous pouvons en apprendre beaucoup sur elle, en y regardant de plus près. En fait, nous pouvons découvrir son plus profond secret.»
 
 «Elle était très intelligente», a dit le fils de la femme bruyante. Le garçon a lâché la main de sa mère et a avancé d'un pas.
 
@@ -30,7 +31,7 @@ Les touristes ont regardé de près. Derrière eux, d'autres touristes se promen
 
 «Comment le sais-tu?» a demandé le guide.
 
-«Elle a tellement d'étagères pleines de livres. Il y a un bureau dans la pièce, avec du papier et de l'encre. Elle aime étudier.»
+«Elle a tant d'étagères pleines de livres. Il y a un bureau dans la pièce, avec du papier et de l'encre. Elle aime étudier.»
 
 «Très bien!» a dit le guide. «L'artiste voulait que nous remarquions ces choses. Il nous montre qui elle était.»
 

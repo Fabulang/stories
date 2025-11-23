@@ -6,9 +6,10 @@ key: very-tasteful-green
 date: 2025-01-26
 reviewers:
 - melissa-martinez
+- Soufiane Chouardi
 ---
 
-La nouvelle maison d'André était située dans une rue calme dans un quartier cher du pays. Il avait économisé pendant des années pour pouvoir y déménager. La maison n'était pas grande et avait besoin d'être redécorée, mais il était ravi de laisser derrière lui son ancien quartier.
+La nouvelle maison d'André était située la rue calme d'un quartier cher du pays. Il avait économisé pendant des années pour pouvoir s'y installer. La maison n'était pas grande et avait besoin d'être redécorée, mais il était ravi de laisser derrière lui son ancien quartier.
 
 Au cours de la première semaine, André a demandé à plusieurs décorateurs de lui fournir un devis, mais leurs prix étaient beaucoup trop élevés. Il ne savait pas quoi faire ensuite.
 
@@ -36,23 +37,23 @@ Tout dans la maison semblait très à la mode et neuf. Les murs étaient lisses 
 
 «Vous en êtes sûr?»
 
-«Absolument.» Robert a réfléchi un instant. «Que diriez vous de cela? Je viendrai redécorer votre maison pour vous! Je ne le ferai pas gratuitement. Je vous facturerai un petit montant... j'aurais bien besoin d'un peu d'argent supplémentaire. Mais vous savez à quoi cela ressemblera! Et j'aime ce travail.»
+«Absolument.» Robert a réfléchi un instant. «Que diriez-vous de cela? Je viendrai redécorer votre maison pour vous! Je ne le ferai pas gratuitement. Je vous facturerai un petit montant... j'aurais bien besoin d'un peu d'argent supplémentaire. Mais vous savez à quoi cela ressemblera! Et j'aime ce travail.»
 
-André était ravi: les gens étaient vraiment beaucoup plus gentils ici. Il a accepté l'offre de Robert immédiatement.
+André était ravi: les gens étaient vraiment bien plus gentils ici. Il a accepté l'offre de Robert immédiatement.
 
 Le lendemain, Robert a frappé à la porte d'André. Il portait deux pots de peinture verte.
 
-«On aura besoin de quatre pots en plus», a expliqué Robert. «Prenez ceux-là, et je vais les acheter.»
+«On aura besoin de quatre pots en plus», a expliqué Robert. «Prenez ceux-là, je vais acheter le reste.»
 
-«Je vais vous donner l'argent», a dit André. «Combien?» Robert lui a indiqué le prix. «Je vois. C'est une peinture chère.»
+«Je vais vous donner de l'argent», a dit André. «Combien?» Robert lui a indiqué le prix. «Je vois. Cette peinture coûte cher.»
 
-«En effet» a convenu Robert. «C'est pour cela que ça a l'air si beau.»
+«En effet» a convenu Robert. «C'est pour ça que c'est si beau.»
 
 André a hoché la tête et a donné l'argent à Robert. Robert est parti en voiture.
 
 André a chanté une chanson pendant qu'il posait des bâches en plastique sur le sol de toutes les pièces. À l'heure du déjeuner, il a préparé un sandwich et s'est assis par terre pour le manger.
 
-Robert n'était pas revenu dans l'après-midi, mais André ne voulait pas le presser. Robert lui rendait un grand service. Mais quand le ciel s'est assombri, et que Robert n'était toujours pas venu, André s'est inquiété. "Il avait l'air assez âgé", a pensé André. "Et s'il est tombé?"
+Robert n'était pas revenu dans l'après-midi, mais André ne voulait pas le presser. Robert lui rendait un grand service. Mais quand le ciel s'est assombri, et que Robert n'était toujours pas venu, André s'est inquiété. "Il avait l'air assez âgé", a pensé André. "Et s'il était tombé?"
 
 Il s'est précipité jusqu'à la maison de son voisin et a frappé à la porte. La lumière s'est allumée et la porte s'est ouverte.
 
@@ -60,4 +61,4 @@ Une femme a ouvert la porte. «Oui?» a-t-elle dit.
 
 «Oh, bonjour», a dit André. «Je cherche Robert.»
 
-«Moi aussi!» a dit la femme. «Je l'ai payé pour redécorer ma maison pendant que j'étais en vacances. Il a bu tout mon thé et mangé tous mes biscuits... mais mes murs sont toujours de ce vert dégoûtant!»
+«Moi aussi!» a dit la femme. «Je l'ai payé pour redécorer ma maison pendant que j'étais en vacances. Il a bu tout mon thé et mangé tous mes biscuits... mais mes murs ont gardé ce vert dégoûtant!»

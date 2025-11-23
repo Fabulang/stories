@@ -1,9 +1,11 @@
 ---
-title: Le voyage du ballon
+title: Le Voyage du ballon
 locale: fr
 cefr: a2
 key: balloons-journey
 date: 2023-06-24
+reviewers:
+- Franck Zussy
 ---
 
 Un jour ensoleillé, un ballon rouge était dans le parc avec une jeune fille. Tout à coup, le ballon est parti de sa main et il est monté dans le ciel.
@@ -18,14 +20,14 @@ D'abord, il a flotté au-dessus des arbres. Il y avait un vieil oiseau qui se re
 
 «Je dois», a dit le ballon.
 
-Le ballon a flotté au-dessus du parc. Il a vu des enfants qui jouaient et riaient. Certains d'entre eux jouaient au football. Il y avait un garçon qui était tout seul. Il regardait les enfants jouer. Les autres enfants ne l'incluaient pas dans leur jeu.
+Le ballon a flotté au-dessus du parc. Il a vu des enfants qui jouaient et riaient. Certains d'entre eux jouaient au football. Il y avait un garçon qui était tout seul. Il regardait les enfants jouer. Les autres enfants ne jouaient pas avec lui.
 
-Il a monté plus haut et a vu un marché. Là, il a vu des gens qui achetaient et vendaient des choses. Ils avaient l'air occupés. Il y avait une grande famille à l'épicerie. Le père achetait beaucoup de fruits et de légumes pour leur dîner.
+Il est monté plus haut et a vu un marché. Là, il a vu des gens qui achetaient et vendaient des choses. Ils avaient l'air occupés. Il y avait une grande famille à l'épicerie. Le père achetait beaucoup de fruits et de légumes pour leur dîner.
 
-Ensuite, le ballon est monté très haut. Il a vu toute la ville au-dessous de lui. Il a vu de grandes maisons et de petites maisons. Il a vu des gens riches et des gens pauvres, des vieux et des jeunes.
+Ensuite, le ballon est monté très haut. Il a vu toute la ville au-dessous de lui. Il a vu de grandes maisons et de petites maisons. Il a vu des gens riches et des gens pauvres, des gens vieux et des gens jeunes.
 
 Ils avaient tous l'air différents, mais ils avaient aussi l'air semblables. Ils riaient, pleuraient et avaient des rêves.
 
-Enfin, le ballon a commencé à perdre de l'air. Lentement, il a commencé à descendre. Il est retombé dans un parc. Il avait l'air d'être le même parc.
+Enfin, le ballon a commencé à perdre de l'air. Lentement, il a commencé à descendre. Il est retombé dans un parc. Ça ressemblait au même parc.
 
 Mais quand le ballon est arrivé, il n'était pas sûr. L'herbe et les arbres étaient les mêmes, mais ils avaient l'air différents. La fille n'était pas là. Elle manquait au ballon.

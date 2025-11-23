@@ -4,9 +4,11 @@ locale: fr
 cefr: a2
 key: spring-cleaning
 date: 2023-10-25
+reviewers:
+- Émilie Desmars
 ---
 
-«Tu peux te lever un moment, s'il te plaît?» a dit Gérard à sa petite amie.
+«Tu peux te lever un moment, s'il te plaît?» a demandé Gérard à sa petite amie.
 
 Elle était assise sur le canapé, en train de lire ses lettres. Elle ne l'entendait pas. Gérard passait l'aspirateur. Il a commencé à nettoyer le canapé.
 
@@ -34,13 +36,13 @@ Gérard lui a dit d'essuyer son bureau. Quand elle a fini, il lui a dit d'essuye
 
 «On doit laver les tapis.»
 
-Ils ont poussé tous les meubles hors de la pièce. Ils ont mis la table dans la cuisine, le canapé dans la chambre et les pots de plantes dans la salle de bain.
+Ils ont poussé tous les meubles hors de la pièce. Ils ont mis la table dans la cuisine, le canapé dans la chambre et les plantes dans la salle de bain.
 
 Gérard a apporté de l'eau et du savon, deux éponges, et deux sèche-cheveux.
 
-Lui et sa petite amie ont travaillé tout l'après-midi et toute la soirée. Finalement, ils ont poussé tous les meubles de retour dans la pièce.
+Lui et sa petite amie ont travaillé tout l'après-midi et toute la soirée. Finalement, ils ont ramené tous les meubles dans la pièce.
 
-«Maintenant, on a fini!» a dit Gérard enfin.
+«Maintenant, on a fini!» a enfin dit Gérard.
 
 Ils étaient très fatigués. Leurs vêtements étaient sales. Il y avait du savon sur leurs bras et leurs jambes. Ils se sont assis sur le canapé.
 
@@ -52,6 +54,6 @@ Finalement, sa petite amie a repris ses lettres.
 
 «On doit partir dans un mois!» a-t-elle crié. «Et --- et ---»
 
-«C'est quoi?» a crié Gérard.
+«Et quoi?» a crié Gérard.
 
-«On doit payer pour une entreprise pour laver les tapis avant de partir.»
+«On doit payer une entreprise pour laver les tapis avant de partir.»

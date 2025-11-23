@@ -1,5 +1,5 @@
 ---
-title: La vie de rêve
+title: La Vie de rêve
 locale: fr
 cefr: c2
 key: living-dream

@@ -1,5 +1,5 @@
 ---
-title: Le pays de la pluie éternelle
+title: Le Pays de la pluie éternelle
 cefr: a2
 locale: fr
 key: land-eternal-rain

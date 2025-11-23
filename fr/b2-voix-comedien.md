@@ -1,5 +1,5 @@
 ---
-title: La voix du comédien
+title: La Voix du comédien
 locale: fr
 cefr: b2
 key: comedians-voice

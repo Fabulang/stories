@@ -1,5 +1,5 @@
 ---
-title: Le choix des frères
+title: Le Choix des frères
 cefr: b1
 locale: fr
 key: brothers-choice

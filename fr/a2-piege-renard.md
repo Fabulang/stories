@@ -1,5 +1,5 @@
 ---
-title: Le piège du renard
+title: Le Piège du renard
 locale: fr
 cefr: a2
 key: foxs-trap

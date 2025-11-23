@@ -1,5 +1,5 @@
 ---
-title: Le défi de la recette secrète
+title: Le Défi de la recette secrète
 locale: fr
 cefr: b2
 key: secret-recipe-challenge

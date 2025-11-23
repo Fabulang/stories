@@ -1,5 +1,5 @@
 ---
-title: Le vieil homme et le pistolet
+title: Le Vieil Homme et le pistolet
 locale: fr
 cefr: a2
 key: old-man-gun

@@ -1,5 +1,5 @@
 ---
-title: La citrouille qui n'était pas là
+title: La Citrouille qui n'était pas là
 locale: fr
 cefr: c1
 key: pumpkin-wasnt-there

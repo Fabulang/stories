@@ -1,5 +1,5 @@
 ---
-title: La voiture accidentée
+title: La Voiture accidentée
 locale: fr
 cefr: b1
 key: crashed-car

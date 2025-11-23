@@ -1,5 +1,5 @@
 ---
-title: Les fines bouchées du bébé
+title: Les Fines Bouchées du bébé
 locale: fr
 cefr: a2
 key: baby-fine-dining

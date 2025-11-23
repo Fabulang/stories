@@ -1,5 +1,5 @@
 ---
-title: L'alarme d'anniversaire
+title: L'Alarme d'anniversaire
 locale: fr
 cefr: c1
 key: birthday-alarm

@@ -1,5 +1,5 @@
 ---
-title: Le pourfendeur des géants
+title: Le Pourfendeur des géants
 locale: fr
 cefr: c1
 key: giant-slayer

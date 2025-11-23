@@ -1,5 +1,5 @@
 ---
-title: La queue du hamster
+title: La Queue du hamster
 locale: fr
 cefr: a1
 key: hamsters-tail

@@ -21,13 +21,13 @@ reviewers:
 
 «Mais je pensais que ton père ne t'avait rien laissé dans son testament?»
 
-«Ce n'est pas tout à fait vrai. Quand il est mort, mes frères et moi avons rencontré son avocate...»
+«Ce n'est pas tout à fait vrai. Quand il est mort, mes frères et moi avons rencontré sa notaire...»
 
-Trente ans plus tôt, les trois frères se sont assis dans le bureau de l'avocate.
+Trente ans plus tôt, les trois frères se sont assis dans le bureau de la notaire.
 
 «Dites-nous juste ce qu'il nous laisse», a dit le frère aîné de Laurent.
 
-L'avocate a retourné le document et a lu à voix haute: «Ma maison et tous mes biens seront vendus aux enchères. L'argent sera donné à mes fils...»
+La notaire a retourné le document et a lu à voix haute: «Ma maison et tous mes biens seront vendus aux enchères. L'argent sera donné à mes fils...»
 
 «Hourra!» s'est exclamé le frère cadet de Laurent.
 
@@ -39,15 +39,15 @@ L'avocate a retourné le document et a lu à voix haute: «Ma maison et tous mes
 
 «Peu importe», a dit le frère aîné. «Décide pour nous.»
 
-L'avocate a toussoté. «Il y a autre chose», a-t-elle dit. Elle a repris la lecture: «Avant les enchères, chacun de mes fils peut choisir un objet à conserver pour des raisons sentimentales.»
+La notaire a toussoté. «Il y a autre chose», a-t-elle dit. Elle a repris la lecture: «Avant les enchères, chacun de mes fils peut choisir un objet à conserver pour des raisons sentimentales.»
 
 «Je prends la télé», a déclaré immédiatement le frère cadet.
 
-«Certes, je suis mort», a poursuivi l'avocate, «mais j'ai un dernier conseil à donner à mes fils. Il n'y a ---»
+«Certes, je suis mort», a poursuivi la notaire, «mais j'ai un dernier conseil à donner à mes fils. Il n'y a ---»
 
 Les frères de Laurent se sont précipités hors de la pièce. Quelques secondes plus tard, il a entendu leurs voitures démarrer.
 
-«Il n'y a rien de plus précieux que de bons souvenirs» a conclu l'avocate, en haussant les sourcils.
+«Il n'y a rien de plus précieux que de bons souvenirs» a conclu la notaire, en haussant les sourcils.
 
 «Qu'ont pris tes frères?» a demandé l'ami de Laurent, trente ans plus tard. «Ton frère cadet a vraiment choisi la télé?»
 

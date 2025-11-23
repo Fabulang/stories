@@ -49,7 +49,7 @@ Elle doit s'approcher encore plus.
 
 Le garçon ne répond pas. La craie tape et gratte. Lentement, Mlle Acier s'assoit. Le garçon est très froid. Elle peut le sentir.
 
-«Es-tu un autre tueur de fantômes?» dit soudainement le garçon. «Je peux te faire du mal aussi.»
+«Toi aussi tu es une chasseuse de fantômes?» dit soudainement le garçon. «Je peux te faire du mal à toi aussi.»
 
 «Je ne veux pas te faire de mal», dit rapidement Mlle Acier. Trop rapidement.
 

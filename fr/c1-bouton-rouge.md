@@ -8,7 +8,7 @@ reviewers:
 - Soufiane Chouardi
 ---
 
-Tout le monde au commissariat a applaudi et acclamé le détective Corbeau quand il est entré dans la pièce. Il avait résolu une autre affaire de meurtre insoluble. Comment avait-il découvert que c'était la baby-sitter avec si peu d'indices?
+Tout le monde au commissariat a applaudi et acclamé le détective Corbeau quand il est entré dans la pièce. Il avait résolu une autre affaire de meurtre insoluble. Comment avait-il découvert que c'était la baby-sitter qui avait fait le coup avec si peu d'indices?
 
 «Vous avez une sorte de sixième sens, Corbeau», a dit le chef.
 

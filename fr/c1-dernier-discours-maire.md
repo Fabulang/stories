@@ -41,7 +41,7 @@ Depuis des générations, les Beauchamp étaient la famille la plus riche de la 
 
 La foule s'est précipitée vers l'ancienne manoir où les Beauchamp avaient vécu. Ils ont forcé les grilles et se sont rués à l'intérieur. Rapidement, ils ont découvert les escaliers menant sous terre à une lourde porte en métal.
 
-«Écartez-vous!» a crié le maire. Il s'est frayé un chemin jusqu'à l'avant. «Si vous persistez dans cette voie, *je* vais ouvrir la porte. Ainsi, aucun d'entre vous ne se sentira coupable. J'en assumerai l'entière responsabilité. Laissez-moi faire cela pour vous avant de partir.»
+«Écartez-vous!» a crié le maire. Il s'est frayé un chemin jusqu'à l'avant. «Puisque vous persistez dans cette voie, *je* vais ouvrir la porte. Ainsi, aucun d'entre vous ne se sentira coupable. J'en assumerai l'entière responsabilité. Laissez-moi faire cela pour vous avant de partir.»
 
 Il y a eu un murmure de gratitude. La femme en rose a posé sa main sur son cœur.
 
@@ -53,7 +53,7 @@ Les gens ont éclairé la pièce en pierre avec leurs lampes de poche. Il y avai
 
 «Alors... le *véritable* trésor, c'était...» a dit lentement le boucher.
 
-«Oh, tais-toi!» a dit la femme en rose. «Cette vieille femme riche et incompétente! Elle nous a fait attendre un siècle pour ces inepties sentimentales?»
+«Oh, tais-toi!» a dit la femme en rose. «Cette vieille femme riche et incompétente! Elle nous a fait attendre un siècle pour ces bons sentiments?»
 
 La foule s'est dispersée, en colère, déçue et assoiffée. Beaucoup d'entre eux pensaient déjà au prochain festival de la bière.
 

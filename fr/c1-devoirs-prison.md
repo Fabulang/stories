@@ -17,7 +17,7 @@ Henriette s'est retournée vers le piano. Elle a bâillé, a pris une profonde i
 
 Elle a commencé à jouer, et les gardiens de prison ont applaudi. Derrière elle, ils dansaient autour de la cantine sombre. Ils ont renversé les assiettes sur le sol et ont éclaboussé de la bière partout.
 
-Henriette savait que les gardiens étaient trop ivres pour réaliser ce qu'elle jouait. C'était l'Hymne National -- l'ancienne version, d'avant que le pays ne soit envahi. Henriette avait joué l'ancien hymne en public il y a six ans; c'est pourquoi elle était en prison maintenant.
+Henriette savait que les gardiens étaient trop ivres pour réaliser ce qu'elle jouait. C'était l'hymne national, mais dans son ancienne version, celle qu'on jouait avant l'invasion du pays. Henriette avait joué l'ancien hymne en public il y a six ans; c'est pourquoi elle était en prison maintenant.
 
 Alors qu'elle jouait la dernière note, soudainement les lumières se sont allumées. Le chef de la prison était debout dans l'encadrement de la porte. Les gardiens ont arrêté de danser et ont salué.
 

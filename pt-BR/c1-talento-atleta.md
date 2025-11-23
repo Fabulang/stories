@@ -32,7 +32,7 @@ Meses passaram até que finalmente os Jogos Olímpicos começaram. Elpidios se r
 
 "Lembre-se de tudo que eu lhe ensinei," disse o velho homem antes da corrida começar. "Mas, mais importante que tudo, lembre-se que agora você é um atleta Olímpico. Viva o seu sonho."
 
-Os atletas tiraram suas roupas e alinharam-se em uma extremidade do estádio. Elpidios colocou o pé contra a pedra de partida. Respirou profundamente. A outra extremidade do estádio parecia muito distante. Então a corda caiu, e os corredores dispararam como relâmpagos.
+Os atletas tiraram suas roupas e alinharam-se em uma extremidade do estádio. Elpidios colocou o pé sobre a pedra de partida. Respirou profundamente. A outra extremidade do estádio parecia muito distante. Então a corda caiu, e os corredores dispararam como relâmpagos.
 
 Após a corrida, o velho senhor encontrou Elpidios com a cabeça entre os joelhos, fora do estádio.
 

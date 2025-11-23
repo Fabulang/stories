@@ -4,14 +4,16 @@ cefr: b1
 locale: fr
 key: brothers-choice
 date: 2025-01-26
-reviews: 3 # melissa
-# reviewers:
-# - melissa-martinez
+reviewers:
+- melissa-martinez
+- Soufiane Chouardi
+- Mounira
+- Regine
 ---
 
-Cette horloge est vraiment magnifique», a dit l'ami de Laurent en s'arrêtant dans le couloir.
+«Cette horloge est vraiment magnifique», a dit l'ami de Laurent en s'arrêtant dans le couloir.
 
-«Bien sûr, tu es un collectionneur», a répondu Laurent. Il a tendu le verre à son ami.
+«Bien sûr, tu es un collectionneur», a répondu Laurent. Il a tendu un verre à son ami.
 
 «Où l'as-tu trouvée?»
 
@@ -37,28 +39,28 @@ L'avocate a retourné le document et a lu à voix haute: «Ma maison et tous mes
 
 «Peu importe», a dit le frère aîné. «Décide pour nous.»
 
-L'avocate a toussoté. «Il y a autre chose», a-t-elle dit. Elle a repris la lecture: «Avant les enchères, chaque fils peut choisir un objet à conserver pour des raisons sentimentales.»
+L'avocate a toussoté. «Il y a autre chose», a-t-elle dit. Elle a repris la lecture: «Avant les enchères, chacun de mes fils peut choisir un objet à conserver pour des raisons sentimentales.»
 
 «Je prends la télé», a déclaré immédiatement le frère cadet.
 
-«Je suis désormais mort», a poursuivi l'avocate, «mais j'ai un dernier conseil pour mes fils. Il n'y a ---»
+«Certes, je suis mort», a poursuivi l'avocate, «mais j'ai un dernier conseil à donner à mes fils. Il n'y a ---»
 
-Les frères de Laurent sont sortis en courant de la pièce. Quelques secondes plus tard, il a entendu leurs voitures démarrer.
+Les frères de Laurent se sont précipités hors de la pièce. Quelques secondes plus tard, il a entendu leurs voitures démarrer.
 
 «Il n'y a rien de plus précieux que de bons souvenirs» a conclu l'avocate, en haussant les sourcils.
 
 «Qu'ont pris tes frères?» a demandé l'ami de Laurent, trente ans plus tard. «Ton frère cadet a vraiment choisi la télé?»
 
-«C'était une super télé. Elle était gigantesque, et elle avait des enceintes de haute qualité. Peut-être que c'était sentimental pour lui. Papa adorait les films de science-fiction. Mais... est-ce que mon frère en a déjà regardé un avec lui? Je ne me rappelle plus maintenant.»
+«C'était une super télé. Elle était gigantesque et elle avait des enceintes de haute qualité. Peut-être que c'était sentimental pour lui. Papa adorait les films de science-fiction. Mais... est-ce que mon frère en a déjà regardé un avec lui? Je ne me rappelle plus maintenant.»
 
 «Et ton frère aîné?»
 
-«La voiture de papa. Il l'a accidentée deux semaines plus tard.»
+«La voiture de papa. Il a eu un accident deux semaines plus tard.»
 
 «Et toi, tu as choisi cette horloge?»
 
 «Mon père démontait des horloges, réparait chaque pièce, puis les remontait. Je l'aidais en apportant différents outils, et il m'a appris comment tout fonctionnait. Nous avons travaillé sur cette horloge pendant des semaines, j'avais environ quatorze ans. Ce sont de bons souvenirs.»
 
-«Mais, Laurent, te rends-tu compte à quel point c'était un bon choix? C'est une horloge de Ludovic Évrard Horstenbach! C'est sûrement la seule au monde en parfait état de marche. Laurent, tu pourrais la vendre pour des millions!»
+«Mais, Laurent, est-ce que tu te rends compte à quel point c'était un bon choix? C'est une horloge de Ludovic Évrard Horstenbach! C'est sûrement la seule au monde en parfait état de marche. Laurent, tu pourrais la vendre pour des millions!»
 
 «Je sais. Quelqu'un d'autre me l'a aussi dit... il y a environ vingt-six ans.»

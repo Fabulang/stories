@@ -33,7 +33,7 @@ I mesi sono passati, fino a quando finalmente sono iniziate le Olimpiadi. Elpidi
 
 "Ricorda tutto quello che ti ho insegnato", ha detto l'anziano prima che iniziasse la corsa. "Ma soprattutto, ricorda che ora sei un atleta olimpico. Goditi il tuo sogno."
 
-Gli atleti si sono tolti i vestiti e si sono allineati a un'estremità dello stadio. Elpidios ha piazzato il piede contro la pietra di partenza. Ha respirato profondamente. L'altra estremità dello stadio sembrava molto lontana. Poi la corda è caduta, e i corridori si sono lanciati in avanti come fulmini.
+Gli atleti si sono tolti i vestiti e si sono allineati a un'estremità dello stadio. Elpidios ha piazzato il piede sulla pietra di partenza. Ha respirato profondamente. L'altra estremità dello stadio sembrava molto lontana. Poi la corda è caduta, e i corridori si sono lanciati in avanti come fulmini.
 
 Dopo la corsa, l'anziano ha trovato Elpidios con la testa tra le gambe, fuori dallo stadio.
 

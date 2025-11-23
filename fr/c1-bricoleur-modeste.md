@@ -4,27 +4,29 @@ locale: fr
 cefr: c1
 key: humble-handyman
 date: 2023-07-08
+reviewers:
+- Émilie Desmars
 ---
 
-Au cœur d'un quartier aisé se dressait une prestigieuse école privée. L'école employait un bricoleur nommé Jean, qui aidait à garder l'école propre, à entretenir les bâtiments et à déplacer des choses dans et hors du sous-sol.
+Au cœur d'un quartier aisé se dressait une prestigieuse école privée. L'école employait un bricoleur nommé Jean, qui aidait à maintenir l'école propre, à entretenir les bâtiments et à déplacer ou sortir des choses du sous-sol.
 
-Jean était un homme discret qui était heureux de travailler seul. Il sifflait un air pendant qu'il travaillait, et ne remarquait jamais que les élèves se moquaient de lui. Il essayait de se lier d'amitié avec ses collègues, mais ils avaient toujours une excuse. Ils allaient juste à leur cours, même si c'était la fin de la journée. Ou ils devaient aller déjeuner, même s'ils venaient de prendre leur petit-déjeuner.
+Jean était un homme discret, qui était heureux de travailler seul. Il sifflait un air pendant qu'il travaillait, et ne remarquait jamais que les élèves se moquaient de lui. Il essayait de se lier d'amitié avec ses collègues, mais ils avaient toujours une excuse. Ils allaient justement à leur cours, même si c'était la fin de la journée. Ou ils devaient aller déjeuner, même s'ils venaient de prendre leur petit-déjeuner.
 
 Un jour, la directrice a appelé Jean dans son bureau.
 
 «Jean, l'école fait face à une crise budgétaire», a-t-elle dit. «Nous devons réduire considérablement nos coûts, et nous devons le faire rapidement. Jean, vous êtes renvoyé.»
 
-«Mais pourquoi? Ne fais-je pas un bon travail?» a demandé Jean.
+«Mais pourquoi? Je ne fais pas un bon travail?» a demandé Jean.
 
-«Si», a dit la directrice. «Mais j'ai entendu dire par les autres membres du personnel qu'ils ne vous appréciaient pas. Vous êtes inhabituel, et vous sifflez trop. Je ne peux plus me permettre de payer quelqu'un d'aussi désagréable.»
+«Si», a dit la directrice. «Mais j'ai entendu dire les autres membres du personnel qu'ils ne vous appréciaient pas. Vous êtes bizarre, et vous sifflez trop. Je ne peux plus me permettre de payer quelqu'un d'aussi désagréable.»
 
-Après le départ de Jean, la directrice a mangé une barre de chocolat et joué à la fléchette. Mais les coûts de l'école étaient toujours trop élevés. Au cours des semaines suivantes, elle a annulé les repas scolaires, arrêté les cours de musique et fermé le terrain de sport.
+Après le départ de Jean, la directrice a mangé une barre de chocolat et joué aux fléchettes. Mais les coûts de l'école étaient toujours trop élevés. Au cours des semaines suivantes, elle a annulé les repas scolaires, arrêté les cours de musique et fermé le terrain de sport.
 
 Finalement, elle est allée dans le laboratoire de sciences et a rassemblé tous les enseignants.
 
 «Nous devons vendre tout l'équipement scientifique et informatique», a-t-elle expliqué.
 
-«Mais tout est tout neuf!» s'est exclamé le Chef des Sciences. «Nous venons de tout acheter! Comment sommes-nous censés enseigner sans cela?»
+«Mais il est complètement neuf!» s'est exclamé le responsable des sciences. «Nous venons de tout acheter! Comment sommes-nous censés enseigner sans cela?»
 
 «Pourquoi ne renvoyez-vous pas le bricoleur à la place?» a demandé un autre enseignant. «Il ne fait rien d'utile.» Les autres enseignants étaient d'accord. Ils ont été surpris d'apprendre qu'il était parti depuis des semaines.
 
@@ -32,9 +34,9 @@ Finalement, elle est allée dans le laboratoire de sciences et a rassemblé tous
 
 Ils sont tous arrivés dans la salle souterraine. Dans le noir, ils pouvaient voir quelques lumières clignotantes. La directrice a allumé la lumière principale, et tout le monde a eu le souffle coupé.
 
-Le sous-sol était remplie de l'ancien équipement scientifique et informatique de l'école. La directrice avait demandé à Jean de le jeter l'année dernière, car beaucoup de choses étaient cassées. Au lieu de cela, il avait tout gardé ici, et il l'avait réparé depuis.
+Le sous-sol était rempli de l'ancien équipement scientifique et informatique de l'école. La directrice avait demandé à Jean de le jeter l'année dernière, car beaucoup de choses étaient cassées. Au lieu de cela, il avait tout gardé ici, et il l'avait réparé depuis.
 
-«C'est en marche!» s'est exclamé le Chef des Sciences, inspectant l'équipement. «Madame la Directrice, nous avons besoin de Jean pour réparer le reste.»
+«Ça fonctionne!» s'est exclamé le responsable des sciences, inspectant l'équipement. «Madame la Directrice, nous avons besoin de Jean pour réparer le reste.»
 
 Tous les enseignants ont hoché la tête et ont fixé la directrice. Elle a pris une grande respiration, a sorti son téléphone et a appelé Jean.
 

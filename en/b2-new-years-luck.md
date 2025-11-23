@@ -53,7 +53,7 @@ They all laughed. Then, suddenly, the entire spaceship shook. Alarms began to ri
 
 "Report!" shouted the Captain.
 
-"We have detected --" cried the Scientist.
+"We have detected ---" cried the Scientist.
 
 Then the spaceship filled with light. The light was coming through the windows, from space.
 

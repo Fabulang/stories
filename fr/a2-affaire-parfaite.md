@@ -4,19 +4,21 @@ locale: fr
 cefr: a2
 key: perfect-case
 date: 2023-06-10
+reviewers:
+- Ghiznuk
 ---
 
 Le détective privé était assis à son bureau. Personne ne l'avait engagé depuis longtemps. Quand une femme est entrée dans le bureau, il a failli tomber de sa chaise.
 
-«Excusez-moi, êtes-vous le détective?» a-t-elle demandé.
+«Excusez-moi, vous êtes le détective?» a-t-elle demandé.
 
 «C'est exact. Comment puis-je vous aider, madame?»
 
-«Je veux que vous suiviez un individu suspect», a-t-elle dit.
+«Je voudrais vous demander de suivre un individu suspect», a-t-elle dit.
 
-«Cela semble intéressant», a dit le détective. «Racontez-moi en plus.»
+«Cela semble intéressant», a dit le détective. «Dites-m'en plus.»
 
-Il était excité. C'était la grande affaire qu'il attendait.
+Il était ravi. C'était la grande affaire qu'il attendait.
 
 «Il a un visage rond, un gros nez, et des petites oreilles. Il va toujours dans les jardins des autres et parfois dans leurs maisons.»
 
@@ -30,11 +32,11 @@ Il était excité. C'était la grande affaire qu'il attendait.
 
 «Ce que je veux dire, c'est: pourquoi est-ce que quelqu'un vous espionne?» le détective a dit calmement.
 
-«Vous êtes le détective. *Vous* devriez *me* le dire. Mais j'ai une idée.»
+C'est vous, le détective. C'est à vous de *me* le dire. Mais j'ai une idée.»
 
 «Oui?»
 
-«Il ne parle jamais, et il marche sur ses mains et ses pieds. C'est très étrange. Je pense qu'il pourrait être un extraterrestre.»
+«Il ne parle jamais, et il marche à quatre patte. Il est très étrange. Je pense que ce pourrait être un extraterrestre.»
 
 Le détective a réalisé que ce n'était pas la grande affaire qu'il attendait.
 

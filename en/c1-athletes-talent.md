@@ -4,7 +4,8 @@ locale: en
 cefr: c1
 key: athletes-talent
 date: 2023-10-25
-reviews: 1
+reviewers:
+- Ghiznuk
 ---
 
 The streets of ancient Elis were bustling with activity. Men and women in tunics went about their business, traders pushed carts full of goods to sell at the market, and children played games in the gravel.
@@ -31,7 +32,7 @@ Months passed, until at last the Olympic Games began. Elpidios registered as a c
 
 "Remember everything I taught you," said the old man before the race began. "But most important of all, remember that you are now an Olympic athlete. Enjoy your dream."
 
-The athletes took off their clothes, and lined up at one end of the stadium. Elpidios placed his foot against the starting stone. He breathed deeply. The other end of the stadium seemed very far away. Then the rope dropped, and the runners dashed forward like lightning.
+The athletes took off their clothes, and lined up at one end of the stadium. Elpidios placed his foot on the starting stone. He breathed deeply. The other end of the stadium seemed very far away. Then the rope dropped, and the runners dashed forward like lightning.
 
 After the race, the old man found Elpidios with his head between his legs, outside the stadium.
 

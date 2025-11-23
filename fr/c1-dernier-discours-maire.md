@@ -1,11 +1,12 @@
 ---
-title: Le dernier discours du maire
+title: Le Dernier Discours du maire
 locale: fr
 cefr: c1
 key: mayors-last-speech
 date: 2024-09-08
 reviewers:
 - mathilde-riche
+- Soufiane Chouardi
 ---
 
 Une grande foule de citoyens inquiets s'était rassemblée pour écouter le discours du maire.
@@ -32,7 +33,7 @@ La foule a murmuré, inquiète.
 
 «Attendez... on peut encore sauver la ville! On peut ouvrir le caveau des Beauchamp!»
 
-Depuis des générations, les Beauchamp étaient la famille la plus riche de la ville. Quand la dernière Beauchamp était décédée, elle avait laissé des instructions stipulant que son caveau familial resterait fermé pendant cent ans. Après cela, le contenu du caveau deviendrait la propriété de la ville. Il devait être ouvert l'année prochaine.
+Depuis des générations, les Beauchamp étaient la famille la plus riche de la ville. Quand la dernière Beauchamp est décédée, elle a laissé des instructions stipulant que son caveau familial reste fermé pendant cent ans. Après cela, le contenu du caveau deviendrait la propriété de la ville. Il devait être ouvert l'année suivante.
 
 «Mais... non!» s'est écrié le maire. «Les Beauchamp ont fait beaucoup pour cette ville. Ils ont construit les écoles, pavé les rues, et fait des dons à de bonnes causes tout au long de leur vie. On ne peut pas manquer de respect aux volontés de Mme Beauchamp! On gagnerait son argent... mais on perdrait notre dignité!»
 
@@ -40,15 +41,15 @@ Depuis des générations, les Beauchamp étaient la famille la plus riche de la 
 
 La foule s'est précipitée vers l'ancienne manoir où les Beauchamp avaient vécu. Ils ont forcé les grilles et se sont rués à l'intérieur. Rapidement, ils ont découvert les escaliers menant sous terre à une lourde porte en métal.
 
-«Écartez-vous!» a crié le maire. Il s'est frayé un chemin jusqu'à l'avant. «Si vous persistez dans cette voie, *je* vais ouvrir la porte. Ainsi, aucun d'entre vous ne se sentira coupable. J'assumerai l'entière responsabilité. Laissez-moi faire cela pour vous avant de partir.»
+«Écartez-vous!» a crié le maire. Il s'est frayé un chemin jusqu'à l'avant. «Si vous persistez dans cette voie, *je* vais ouvrir la porte. Ainsi, aucun d'entre vous ne se sentira coupable. J'en assumerai l'entière responsabilité. Laissez-moi faire cela pour vous avant de partir.»
 
 Il y a eu un murmure de gratitude. La femme en rose a posé sa main sur son cœur.
 
 Le maire a tourné la grande poignée. Ils ont entendu des engrenages tourner, suivis d'un craquement sonore. Le maire a ouvert la porte avec effort, et tous sont entrés en masse.
 
-Les gens ont éclairé la pièce en pierre avec leurs lampes de poche. Il y avait de nombreux portraits sur les murs. Au centre se trouvait un socle en pierre. Sinon, la pièce était vide.
+Les gens ont éclairé la pièce en pierre avec leurs lampes de poche. Il y avait de nombreux portraits sur les murs. Au centre se trouvait un socle en pierre. Hormis cela, la pièce était vide.
 
-«Il y a une inscription !» a dit le maire avec excitation. Quelqu'un a dirigé sa lampe sur le socle, et le maire a lu à voix haute: «Les personnes sur ces portraits sont ma famille et mes amis. J'avais d'immenses richesses, mais il n'y avait rien de plus précieux pour moi qu'eux. Ils étaient des gens comme vous. Souvenez-vous: tant que vous avez les personnes que vous aimez, vous êtes plus riches qu'un roi ou une reine.»
+«Il y a une inscription !» a dit le maire avec excitation. Quelqu'un a dirigé sa lampe sur le socle, et le maire a lu à voix haute: «Les personnes sur ces portraits sont ma famille et mes amis. J'avais d'immenses richesses, mais il n'y avait rien de plus précieux pour moi qu'eux. C'étaient des gens comme vous. Souvenez-vous: tant que vous avez les personnes que vous aimez, vous êtes plus riches qu'un roi ou une reine.»
 
 «Alors... le *véritable* trésor, c'était...» a dit lentement le boucher.
 
@@ -56,6 +57,6 @@ Les gens ont éclairé la pièce en pierre avec leurs lampes de poche. Il y avai
 
 La foule s'est dispersée, en colère, déçue et assoiffée. Beaucoup d'entre eux pensaient déjà au prochain festival de la bière.
 
-Une fois que tout le monde était parti, le maire a soupiré et a refermé la porte à clé. Il a sorti son téléphone et appelé son associé.
+Une fois que tout le monde est parti, le maire a soupiré et a refermé la porte à clé. Il a sorti son téléphone et appelé son associé.
 
-«Ce socle que tu as fabriqué était complètement convaincant!» a-t-il dit. «Non, personne n'a remarqué que la porte avait été ouverte avant. Mais on se retrouve plus tard autour d'une bière, d'accord? Il faut que je prenne mon train.»
+«Ce socle que tu as fabriqué était complètement convaincant!» a-t-il dit. «Non, personne n'a remarqué que la porte avait déjà été ouverte. Mais on se retrouve plus tard autour d'une bière, d'accord? Il faut que je prenne mon train.»

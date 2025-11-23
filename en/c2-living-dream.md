@@ -11,7 +11,7 @@ Grace and Tom had recently bought a house together. Both in their early twenties
 
 "Oh my god!" squealed Grace one evening, jumping to her feet with her phone in her hand.
 
-"What is is, sweetheart?" said Tom, rising to her side, concerned.
+"What is it, sweetheart?" said Tom, rising to her side, concerned.
 
 Raj Raichand, the social media influencer billionaire, had announced a surprise gift. The first hundred people who had commented on his latest photo had won an eighty-day round-the-world tour on his luxury yacht, all expenses paid for two people. By pure chance, Grace had been the eighty-ninth person to comment -- out of seventy-thousand.
 

@@ -4,11 +4,13 @@ locale: fr
 cefr: a1
 key: hamsters-tail
 date: 2023-06-24
+reviewers:
+- Soufiane Chouardi
 ---
 
-«Prends soin du hamster», dit la maîtresse de Élie. Elle part manger.
+«Prends soin du hamster», dit la maîtresse d'Élie. Elle part manger.
 
-Élie est assis dans la salle de classe. Il regarde le petit hamster. Il court dans sa roue, très vite. 'C'est l'heure du déjeuner', pense-t-il. 'Je dois le nourrir.' Il lui donne de la nourriture et de l'eau. Le hamster mange et boit.
+Élie est assis dans la salle de classe. Il regarde le petit hamster. Il court très vite dans sa roue. "C'est l'heure du déjeuner", pense-t-il. "Je dois le nourrir." Il lui donne de la nourriture et de l'eau. Le hamster mange et boit.
 
 Une petite fille entre. «Puis-je le tenir?» demande-t-elle.
 
@@ -16,7 +18,7 @@ Une petite fille entre. «Puis-je le tenir?» demande-t-elle.
 
 Élie prend le hamster et le donne à la fille. Il est chaud et doux, et la fille sourit. Mais le hamster mord son doigt. «Aïe!» dit-elle, et elle fait tomber le hamster.
 
-Le petit animal court par la porte ouverte. «Non!» crie Élie. Lui et la fille courent après. Élie ne peut voir que sa queue, quand il court dans l'herbe. Le hamster a disparu.
+Le petit animal court par la porte ouverte. «Non!» crie Élie. Lui et la fille lui courent après. Élie ne peut voir que sa queue quand il court dans l'herbe. Le hamster a disparu.
 
 Élie est très inquiet. 'Je suis dans le pétrin', pense-t-il.
 

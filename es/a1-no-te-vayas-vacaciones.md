@@ -24,7 +24,7 @@ Hay otro mensaje. "No te comas el bocadillo."
 
 Federica mira su bocadillo. Es un bocadillo de jamón con lechuga y tomate. Está en un plato, sobre la mesa.
 
-"Tiene que ser mi asistente", piensa Federica. "Ella sabe que siempre como un bocadillo para almorzar."
+"Tiene que ser mi asistente", piensa Federica. "Él sabe que siempre como un bocadillo para almorzar."
 
 Federica tiene hambre. Se come el bocadillo.
 

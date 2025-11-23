@@ -23,7 +23,7 @@ There's another message. "Don't eat the sandwich."
 
 Fredericka looks at her sandwich. It's a ham sandwich, with lettuce and tomatoes. It's on a plate, on the table.
 
-'It must be my assistant,' Fredericka thinks. 'She knows I always eat a sandwich for lunch.'
+'It must be my assistant,' Fredericka thinks. 'He knows I always eat a sandwich for lunch.'
 
 Fredericka is hungry. She eats the sandwich.
 

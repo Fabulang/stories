@@ -24,7 +24,7 @@ Tem outra mensagem. "Não coma o sanduíche."
 
 Frederica olha para o sanduíche. É um sanduíche de presunto, com alface e tomate. Ele está em um prato sobre a mesa.
 
-'Deve ser minha assistente,' pensa Frederica. 'Ela sabe que sempre como um sanduíche para almoçar.'
+'Deve ser meu assistente,' pensa Frederica. 'Ele sabe que sempre como um sanduíche para almoçar.'
 
 Frederica está com fome. Ela come o sanduíche.
 

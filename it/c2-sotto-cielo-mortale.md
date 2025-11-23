@@ -5,7 +5,7 @@ cefr: c2
 key: beneath-deadly-sky
 date: 2023-07-20
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 "Raccontami del mondo di sopra", ha detto Evelina.

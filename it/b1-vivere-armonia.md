@@ -5,7 +5,7 @@ cefr: b1
 key: living-harmony
 date: 2023-07-20
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 "Ciao, mi trasferisco oggi", ha detto Geremia, sorridente.

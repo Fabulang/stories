@@ -5,7 +5,7 @@ cefr: b2
 key: bus-stop-spirits
 date: 2025-10-28
 reviewers:
-- larissa-rabelo
+- Larissa Rabelo Dantas
 ---
 
 "Com licença, onde posso encontrar o famoso Ponto de Ônibus dos Espíritos?"

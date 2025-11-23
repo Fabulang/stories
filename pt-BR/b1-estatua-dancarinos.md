@@ -5,7 +5,7 @@ locale: pt-BR
 key: dancers-statue
 date: 2024-07-06
 reviewers:
-- joas-martins
+- Joás Martins
 ---
 
 O táxi chegou e Jenifer entrou. Ela abriu seu livro de guia turístico.

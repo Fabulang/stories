@@ -5,7 +5,7 @@ cefr: c1
 key: athletes-talent
 date: 2025-03-23
 reviewers:
-- cyro-penteado
+- Cyro Roberto Penteado
 ---
 
 As ruas da antiga Élis estavam cheias e movimentadas. Homens e mulheres vestindo túnicas cuidavam de seus afazeres, comerciantes empurravam carrinhos cheios de mercadorias para vender no mercado, e crianças brincavam pelas ruas de terra batida.

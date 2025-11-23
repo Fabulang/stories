@@ -5,7 +5,7 @@ cefr: a2
 key: island-escape
 date: 2023-06-17
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Giacomo viveva in una piccola città. A tutti piaceva vivere lì, tranne a Giacomo. Tutti pensavano che fosse una cittadina graziosa, tranne Giacomo.

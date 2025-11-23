@@ -5,7 +5,7 @@ locale: de
 key: chasing-symbols
 date: 2025-07-13
 reviewers:
-- niklas-krechting
+- Niklas Krechting
 ---
 
 Trockener, roter Staub. Wenn die meisten Menschen an den Mars denken, ist das alles, was sie sich vorstellen können. Aber für Philippa war er der faszinierendste Ort im Universum.

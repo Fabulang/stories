@@ -5,7 +5,7 @@ cefr: c1
 key: humble-handyman
 date: 2023-07-08
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Nel cuore di un quartiere benestante sorgeva una prestigiosa scuola privata. La scuola impiegava un tuttofare di nome Giovanni, che aiutava a tenere la scuola in ordine, a mantenere gli edifici e a trasportare cose dentro e fuori dal seminterrato.

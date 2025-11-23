@@ -5,7 +5,7 @@ cefr: c2
 key: dream-machine
 date: 2023-07-13
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 "Questa sarà una brutta notte", ha mormorato Viviana guardando la pioggia torrenziale.

@@ -5,7 +5,7 @@ cefr: a2
 key: supermarket-chef
 date: 2023-06-03
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Giuseppe aveva un lavoro in un supermercato. Desiderava una promozione, ma il suo capo diceva sempre: "Giuseppe, non sei talentuoso."

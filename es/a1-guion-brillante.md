@@ -5,7 +5,7 @@ locale: es
 key: brilliant-script
 date: 2025-03-08
 reviewers:
-- silvia-pastor
+- Silvia Berigüete Pastor
 ---
 
 Domingo enciende la lámpara y se sienta. Bebe su café. Finalmente, tiene una idea.

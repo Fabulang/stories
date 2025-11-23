@@ -5,7 +5,7 @@ cefr: a1
 key: unlucky-winner
 date: 2023-06-03
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Lucia vive in una piccola città. Ci sono parchi, alberi e case graziose. È un bel posto dove vivere.

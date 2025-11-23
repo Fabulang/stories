@@ -5,7 +5,7 @@ cefr: a2
 key: balloons-journey
 date: 2023-06-24
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Un giorno di sole, un palloncino rosso era nel parco con una giovane bambina. All'improvviso, il palloncino ha lasciato la sua mano e è salito nel cielo.

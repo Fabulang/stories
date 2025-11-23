@@ -5,7 +5,7 @@ cefr: b2
 key: bus-stop-spirits
 date: 2023-10-25
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 "Mi scusi, dove posso trovare la celebre Fermata del Bus degli Spiriti?"

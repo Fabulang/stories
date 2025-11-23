@@ -5,7 +5,7 @@ cefr: c2
 key: colour-love
 date: 2023-07-08
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Nell'anno tremila duecento due, la società è composta sia da umani che da alieni, che vivono pacificamente insieme come cittadini uguali.

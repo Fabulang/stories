@@ -5,7 +5,7 @@ locale: fr
 key: brothers-choice
 date: 2025-01-26
 reviewers:
-- melissa-martinez
+- Mélissa Martinez
 - Soufiane Chouardi
 - Mounira
 - Regine

@@ -5,7 +5,7 @@ locale: de
 key: mayors-last-speech
 date: 2025-07-13
 reviewers:
-- niklas-krechting
+- Niklas Krechting
 ---
 
 Eine große Menge besorgter Bürger hatte sich versammelt, um die Rede des Bürgermeisters zu hören.

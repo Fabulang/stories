@@ -5,7 +5,7 @@ locale: de
 key: foxs-trap
 date: 2025-07-13
 reviewers:
-- niklas-krechting
+- Niklas Krechting
 ---
 
 Frau Maus war in ihrem Schlafzimmer, in ihrem Haus im Wald. Ihr Haus war in einem kleinen Baumstamm am Boden. Es hatte vier Fenster, eine Vordertür und eine Hintertür, und einen kleinen Schornstein.

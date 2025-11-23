@@ -5,7 +5,7 @@ locale: de
 key: project-control
 date: 2025-03-15
 reviewers:
-- niklas-krechting
+- Niklas Krechting
 ---
 
 „Dieser Vierteljahresbericht ist... unbefriedigend“, dröhnte Nicolas Vorgesetzter. „Es gibt nicht genügend Details. Und es sind zu viele Zahlen in der Grafik. Die Schrift sollte größer sein. Die Tabellen sollten unsere Markenfarben verwenden. Und Sie sollten alles am Ende duplizieren.“

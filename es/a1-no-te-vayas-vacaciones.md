@@ -5,7 +5,7 @@ locale: es
 key: dont-go-holiday
 date: 2025-07-13
 reviewers:
-- antonio-gonzalez
+- Antonio González
 ---
 
 "Ni se te ocurra irte de vacaciones."

@@ -5,7 +5,7 @@ cefr: b1
 key: timely-promotion
 date: 2023-06-03
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Il primo lavoro di Giovanna era in un ufficio molto affollato. Era un lavoro noioso. Poi, un giorno, ha avuto un singolare incidente con la macchina da caffè che ha cambiato la sua vita.

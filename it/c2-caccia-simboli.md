@@ -5,8 +5,8 @@ cefr: c2
 key: chasing-symbols
 date: 2024-09-08
 reviewers:
-- virna-bazzo
-- carlotta-belluzzi
+- Virna Bazzo
+- Carlotta Belluzzi
 ---
 
 Polvere secca, rossa. Quando la maggior parte delle persone pensa a Marte, è l'unica cosa che riesce a immaginare. Ma per Filippa, era il luogo più affascinante dell'universo.

@@ -5,7 +5,7 @@ locale: it
 key: brothers-choice
 date: 2025-01-26
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 "Questo è un orologio davvero bello", ha detto l'amico di Lorenzo, fermandosi nel corridoio.

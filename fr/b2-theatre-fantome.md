@@ -5,7 +5,7 @@ cefr: b2
 key: ghosts-theatre
 date: 2023-07-13
 reviewers:
-- ashlyn-cleys
+- Ashlyn Cleys
 ---
 
 La plupart des gens disent qu'ils ne croient pas aux fantômes. Jusqu'à ce qu'ils en voient ou en entendent un, eux-mêmes. C'est à ce moment-là qu'ils appellent un chasseur de fantômes. C'est à ce moment-là que le téléphone de Chrétien sonne.

@@ -5,8 +5,8 @@ cefr: a1
 key: problem-school
 date: 2024-09-08
 reviewers:
-- giulia-italian-language-hub
-- carlotta-belluzzi
+- Giulia Macchi
+- Carlotta Belluzzi
 ---
 
 È buio. Non c'è luna nel cielo. Due persone camminano velocemente verso la scuola. È un edificio vecchio, fatto di pietra. Sembra quasi un castello.

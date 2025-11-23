@@ -5,8 +5,8 @@ cefr: c2
 key: living-dream
 date: 2023-08-14
 reviewers:
-- alessandro-bucalo
-- carlotta-belluzzi
+- Alessandro Bucalo
+- Carlotta Belluzzi
 ---
 
 Grazia e Tommaso avevano comprato una casa insieme di recente. Entrambi, poco più che ventenni, non avevano molti soldi. La casa era piccola e piuttosto fredda. Ma erano felici di coccolarsi insieme sotto una grande coperta sul loro divano scomodo.

@@ -5,7 +5,7 @@ cefr: a2
 key: perfect-case
 date: 2023-06-10
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 L'investigatore privato sedeva alla sua scrivania. Nessuno lo ingaggiava da molto tempo. Quando una donna è entrata nell'ufficio, è quasi caduto dalla sedia.

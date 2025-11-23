@@ -5,8 +5,8 @@ locale: fr
 key: project-control
 date: 2025-01-26
 reviewers:
-- veronica-montserrat
-- melissa-martinez
+- Verónica Montserrat
+- Mélissa Martinez
 - Soufiane Chouardi
 ---
 

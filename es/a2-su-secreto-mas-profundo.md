@@ -5,7 +5,7 @@ locale: es
 key: her-deepest-secret
 date: 2025-03-08
 reviewers:
-- silvia-pastor
+- Silvia Berigüete Pastor
 ---
 
 "Hay algo inusual en este cuadro", dijo la guía turística. "¿Pueden ver qué es?"

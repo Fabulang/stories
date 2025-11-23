@@ -5,7 +5,7 @@ cefr: b2
 key: everyones-garden
 date: 2023-08-14
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Amanda abitava in un condominio spento e grigio. Un piccolo giardino lo circondava, ma era invaso dalle erbacce. Rendeva l'edificio ancora più brutto.

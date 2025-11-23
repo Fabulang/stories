@@ -5,7 +5,7 @@ locale: de
 key: problem-school
 date: 2025-07-13
 reviewers:
-- niklas-krechting
+- Niklas Krechting
 ---
 
 Es ist dunkel. Es ist keinen Mond am Himmel. Zwei Personen laufen schnell auf die Schule zu. Es ist ein altes Gebäude aus Stein. Es sieht fast aus wie eine Burg.

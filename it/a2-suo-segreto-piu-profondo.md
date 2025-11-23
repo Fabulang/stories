@@ -5,8 +5,8 @@ locale: it
 key: her-deepest-secret
 date: 2025-01-26
 reviewers:
-- alessandro-bucalo
-- virna-bazzo
+- Alessandro Bucalo
+- Virna Bazzo
 ---
 
 "C'è qualcosa di strano in questo dipinto", ha detto la guida turistica. "Riuscite a vedere di cosa si tratta?"

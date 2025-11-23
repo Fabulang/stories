@@ -5,7 +5,7 @@ cefr: a2
 key: baby-fine-dining
 date: 2023-07-20
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Mamma e papà erano critici gastronomici, e avevano un problema. La loro bambina non mangiava nessuno dei cibi che le davano.

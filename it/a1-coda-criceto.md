@@ -5,7 +5,7 @@ cefr: a1
 key: hamsters-tail
 date: 2023-06-24
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 "Prenditi cura del criceto", dice l'insegnante di Elia. Poi va a mangiare.

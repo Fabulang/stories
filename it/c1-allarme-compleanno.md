@@ -5,7 +5,7 @@ cefr: c1
 key: birthday-alarm
 date: 2023-06-24
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Giorgio era stato un imprenditore di grande successo, noto per il suo acume e la sua grande memoria. Tuttavia, c'era una cosa che non si era riuscito mai a ricordare -- il compleanno di sua moglie. Sua moglie, Margherita, era stata sempre paziente, ma ogni compleanno dimenticato era stato un pugno al cuore.

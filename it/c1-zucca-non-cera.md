@@ -5,7 +5,7 @@ cefr: c1
 key: pumpkin-wasnt-there
 date: 2023-06-17
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Arnoldo, un giardiniere appassionato ma goffo, era finalmente riuscito a far crescere una zucca gigante senza difetti. Era certo di vincere un grosso premio alla fiera locale e non vedeva l'ora di mostrare il suo capolavoro.

@@ -5,7 +5,7 @@ locale: es
 key: mayors-last-speech
 date: 2025-04-12
 reviewers:
-- silvia-pastor
+- Silvia Berigüete Pastor
 ---
 
 Una gran multitud de ciudadanos preocupados se había reunido para escuchar el discurso del alcalde.

@@ -5,7 +5,7 @@ locale: fr
 key: land-eternal-rain
 date: 2023-12-31
 reviewers:
- - sweet-french-learning
+- Sweet French Learning
 ---
 
 Il y a des années, dans une petite ville, vivait une sorcière. La sorcière faisait pleuvoir tous les jours. Au printemps, en été, en automne et en hiver: pluie, pluie, pluie, neige.

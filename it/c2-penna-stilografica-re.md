@@ -4,9 +4,9 @@ cefr: c2
 locale: it
 key: kings-fountain-pen
 date: 2023-12-31
-reviews: 1
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
+- Christian Bottigiola
 ---
 
 "Signore e signori della giuria. Le prove sono convincenti.

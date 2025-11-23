@@ -5,7 +5,7 @@ cefr: c1
 key: what-shed-hoped-for
 date: 2023-06-03
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Appena dopo la laurea, Giulietta ha deciso come premio di intraprendere un viaggio con zaino in spalla per l'Europa. Desiderava avventure emozionanti e sperava di fare scoperte che cambiassero la sua vita. Eppure, mentre viaggiava attraverso il continente, si è sentita disillusa.

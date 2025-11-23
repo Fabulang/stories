@@ -5,7 +5,7 @@ locale: de
 key: under-bed
 date: 2025-07-13
 reviewers:
-- niklas-krechting
+- Niklas Krechting
 ---
 
 „Süße Träume, Liebling“, sagte Dorotheas Mutter. Sie machte das Licht aus und schloss die Tür.

@@ -5,7 +5,7 @@ cefr: a1
 key: ten-years-away
 date: 2023-07-13
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Giuseppina sta viaggiando per tornare a casa a trovare la sua famiglia. Vive in un altro Paese, quindi sta viaggiando in aereo. Non vuole tornare. Non le piace il suo Paese.

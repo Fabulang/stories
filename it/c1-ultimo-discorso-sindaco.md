@@ -5,7 +5,7 @@ cefr: c1
 key: mayors-last-speech
 date: 2024-09-08
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Una grande folla di cittadini preoccupati si era radunata per ascoltare il discorso del sindaco.

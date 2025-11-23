@@ -5,7 +5,7 @@ cefr: a2
 key: old-man-gun
 date: 2023-07-13
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Molto tempo fa, la vita era pericolosa. C'era una piccola città nel deserto. Ci viveva un uomo di nome Marco. Il compito di Marco era proteggere la città.

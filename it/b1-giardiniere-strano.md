@@ -5,7 +5,7 @@ cefr: b1
 key: strange-gardener
 date: 2023-06-10
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Il signor Tommaso viveva da solo in una tranquilla città. Era un ex spia, quindi teneva d'occhio il quartiere. Era sempre alla ricerca di qualcosa di sospetto.

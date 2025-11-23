@@ -5,7 +5,7 @@ locale: es
 key: foxs-trap
 date: 2025-04-12
 reviewers:
-- silvia-pastor
+- Silvia Berigüete Pastor
 ---
 
 La Ratoncita estaba en su dormitorio, en su casa del bosque. Su casa estaba dentro de un pequeño tronco en el suelo. Tenía cuatro ventanas, una puerta principal y una puerta trasera, y una chimenea pequeña.

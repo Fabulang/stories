@@ -5,7 +5,7 @@ cefr: b2
 key: death-mrs-knight
 date: 2023-07-08
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 L'investigatrice Cacciatore ha attraversato l'enorme giardino pieno di rose. È entrata nella sfarzosa casa del signor e della signora Cavaliere e si è recata nello studio. La bellissima stanza era diventata la scena di un crimine. La signora Cavaliere era seduta sulla sua poltrona di pelle. Sembrava che dormisse sulla scrivania. Ma era morta.

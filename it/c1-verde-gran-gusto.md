@@ -5,9 +5,9 @@ locale: it
 key: very-tasteful-green
 date: 2025-01-26
 reviewers:
-- micaela-poggi
-- carlotta-belluzzi
-- laura-baro
+- Micaela Poggi
+- Carlotta Belluzzi
+- Laura Baro
 ---
 
 La nuova casa di Andrea era situata in una strada tranquilla di una regione costosa del Paese. Aveva risparmiato per anni per potersi trasferire lì. La casa non era grande e aveva bisogno di essere rimessa a nuovo, ma Andrea era felice di lasciarsi alle spalle il suo vecchio quartiere.

@@ -5,7 +5,7 @@ cefr: a2
 key: lost-key
 date: 2023-07-08
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Nicola si è trasferito in una grande, vecchia casa. Trecento anni fa, vi abitava un famoso pirata.

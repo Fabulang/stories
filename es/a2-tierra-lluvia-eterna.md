@@ -5,7 +5,7 @@ locale: es
 key: land-eternal-rain
 date: 2025-07-13
 reviewers:
-- antonio-gonzalez
+- Antonio González
 ---
 
 Hace años, en un pequeño pueblo, había una bruja. La bruja hacía que lloviera todos los días. En primavera, verano, otoño e invierno: lluvia, lluvia, lluvia, nieve.

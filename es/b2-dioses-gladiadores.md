@@ -5,7 +5,7 @@ locale: es
 key: gods-gladiators
 date: 2025-04-12
 reviewers:
-- silvia-pastor
+- Silvia Berigüete Pastor
 ---
 
 Los gladiadores estaban preparados para luchar. Uno era un hombre grande y musculoso. El otro era flaco y bajo.

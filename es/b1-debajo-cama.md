@@ -5,8 +5,8 @@ locale: es
 key: under-bed
 date: 2025-04-12
 reviewers:
-- silvia-pastor
-reviews: 1
+- Silvia Berigüete Pastor
+- Maribel Soriano
 ---
 
 "Dulces sueños, cariño", dijo la madre de Dorotea. Apagó la luz y cerró la puerta.

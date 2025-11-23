@@ -4,9 +4,9 @@ cefr: b1
 locale: it
 key: dancers-statue
 date: 2023-12-31
-reviews: 1
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
+- Cristina Poma
 ---
 
 Il taxi è arrivato e Ginevra è salita a bordo. Ha aperto il suo libro, *Guida Turistica*.

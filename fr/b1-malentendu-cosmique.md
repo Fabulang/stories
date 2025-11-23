@@ -5,7 +5,7 @@ cefr: b1
 key: cosmic-misunderstanding
 date: 2023-06-24
 reviewers:
-- melissa-martinez
+- Mélissa Martinez
 ---
 
 Claire était une astronome dévouée, mais elle n'était jamais la première à découvrir quelque chose. Puis, une nuit, elle a repéré une énorme météorite qui semblait se rapprocher de la Terre.

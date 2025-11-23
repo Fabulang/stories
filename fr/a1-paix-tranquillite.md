@@ -7,7 +7,7 @@ date: 2023-08-14
 reviewers:
 - Charlotte Giertych
 - Soufiane Chouardi
-- ashlyn-cleys
+- Ashlyn Cleys
 ---
 
 Robert vit seul. Il aime que sa vie soit paisible et tranquille. Il a une routine. Chaque jour, il médite pendant une heure après le travail. Puis, il cuisine un repas sain et regarde un épisode de l'émission de jardinage à la télévision. Enfin, il écoute de la musique classique et va se coucher.

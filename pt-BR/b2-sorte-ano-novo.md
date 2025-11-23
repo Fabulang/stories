@@ -5,7 +5,7 @@ locale: pt-BR
 key: new-years-luck
 date: 2024-07-06
 reviewers:
-- joas-martins
+- Joás Martins
 ---
 
 "Neste momento, na Terra, é véspera de Ano-Novo," disse Alex. "Minha família está comendo um jantar quente e delicioso. Em vez disso, estou aqui nesta nave horrível, sem comer nada."

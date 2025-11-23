@@ -5,7 +5,7 @@ locale: de
 key: very-tasteful-green
 date: 2025-03-15
 reviewers:
-- niklas-krechting
+- Niklas Krechting
 ---
 
 Andreas' neues Haus befand sich auf eine ruhigen Straße in einem teuren Teil des Landes. Er hatte jahrelang gespart, um dort hinziehen zu können. Das Haus war nicht groß und brauchte eine Renovierung, aber er war froh, seine alte Nachbarschaft hinter sich zu lassen.

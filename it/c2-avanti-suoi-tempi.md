@@ -5,7 +5,7 @@ cefr: c2
 key: ahead-his-time
 date: 2023-06-17
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Carlo era uno scienziato straordinario. Nonostante la sua genialità, la prestigiosa rivista scientifica, *I nostri tempi*, aveva costantemente rifiutato i suoi articoli. La lettera di rifiuto del redattore aveva sempre concluso che le idee di Carlo erano troppo radicali.

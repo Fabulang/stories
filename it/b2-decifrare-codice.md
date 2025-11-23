@@ -5,7 +5,7 @@ cefr: b2
 key: cracking-code
 date: 2023-06-10
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Veronica era una programmatrice di computer eccezionalmente talentuosa. Di giorno lavorava per un'azienda di software. Di notte, passava innumerevoli ore a lavorare al suo progetto personale, un'intelligenza artificiale chiamata Z.

@@ -5,8 +5,8 @@ cefr: c2
 key: chasing-symbols
 date: 2024-09-08
 reviewers:
-- remi-grelot
-- melissa-martinez
+- Rémi Grélot
+- Mélissa Martinez
 - Soufiane Chouardi
 ---
 

@@ -4,9 +4,9 @@ locale: it
 cefr: c1
 key: athletes-talent
 date: 2023-10-25
-reviews: 1
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
+- Francesca RC
 ---
 
 Le strade dell'antica Elide erano molto affollate. Uomini e donne in tunica svolgevano le loro faccende, i commercianti spingevano carretti pieni di merci da vendere al mercato, e i bambini giocavano sui ciottoli.

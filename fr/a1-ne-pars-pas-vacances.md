@@ -6,8 +6,8 @@ key: dont-go-holiday
 date: 2023-12-31
 reviewers:
 - Franck Zussy
-- avance-avec-nisa
-- ashlyn-cleys
+- Avance Avec Nisa
+- Ashlyn Cleys
 ---
 
 «Ne pars pas en vacances.»

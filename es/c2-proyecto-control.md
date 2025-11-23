@@ -5,7 +5,7 @@ locale: es
 key: project-control
 date: 2025-03-08
 reviewers:
-- silvia-pastor
+- Silvia Berigüete Pastor
 ---
 
 "Este informe trimestral es... insatisfactorio," entonó el jefe de Nicol. "No hay suficiente detalle. Y hay demasiados números en el gráfico. La fuente debería ser más grande. Las tablas deberían usar los colores de nuestra marca. Y deberías duplicarlo todo al final."

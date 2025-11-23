@@ -5,7 +5,7 @@ locale: pt-BR
 key: kings-fountain-pen
 date: 2024-07-06
 reviewers:
-- joas-martins
+- Joás Martins
 ---
 
 "Senhoras e senhores do júri. As provas são conclusivas.

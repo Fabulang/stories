@@ -5,7 +5,7 @@ locale: es
 key: chasing-symbols
 date: 2025-04-12
 reviewers:
-- silvia-pastor
+- Silvia Berigüete Pastor
 ---
 
 Polvo seco y rojo. Cuando la mayoría de la gente piensa en Marte, eso es todo lo que se imagina. Pero para Felipa era el lugar más fascinante del universo.

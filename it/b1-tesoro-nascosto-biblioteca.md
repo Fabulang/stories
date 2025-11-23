@@ -5,7 +5,7 @@ cefr: b1
 key: librarys-hidden-treasure
 date: 2023-06-17
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Edoardo era il bibliotecario della tranquilla biblioteca della città. Viveva tra i libri. Dava libri alle persone e li ritirava. Ma lui non li leggeva mai.

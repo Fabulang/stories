@@ -5,7 +5,7 @@ cefr: c1
 key: revolutionary-filing-system
 date: 2023-06-10
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Emilio era un segretario in un'azienda movimentata. Era un bel posto dove lavorare, ma lui veniva trascurato e sottovalutato. Il suo capo era una donna piuttosto severa, la signora Pugile, che aveva l'abitudine di rimproverarlo per la sua scrivania disordinata.

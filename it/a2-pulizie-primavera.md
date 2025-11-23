@@ -5,7 +5,7 @@ cefr: a2
 key: spring-cleaning
 date: 2023-10-25
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 "Per favore, puoi alzarti un attimo?" ha detto Gerardo alla sua ragazza.

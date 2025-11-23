@@ -6,10 +6,9 @@ key: bus-stop-spirits
 date: 2023-10-25
 reviewers:
 - Ghiznuk
-- ashlyn-cleys
+- Ashlyn Cleys
 - Caroline Lobert
 - Corina Matos
-reviews: 1
 ---
 
 «Excusez-moi, où puis-je trouver le célèbre Arrêt de bus des esprits?»

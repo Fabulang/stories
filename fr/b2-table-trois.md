@@ -5,7 +5,7 @@ locale: fr
 key: table-three
 date: 2025-01-26
 reviewers:
-- veronica-montserrat
+- Verónica Montserrat
 - Soufiane Chouardi
 ---
 

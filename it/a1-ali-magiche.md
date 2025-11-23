@@ -5,7 +5,7 @@ cefr: a1
 key: magic-wings
 date: 2023-06-17
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Matteo sta imparando a diventare un mago. Pensa di poter diventare un ottimo mago. È, però, nella classe più bassa.

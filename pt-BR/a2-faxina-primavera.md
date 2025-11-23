@@ -5,8 +5,8 @@ cefr: a2
 key: spring-cleaning
 date: 2025-03-23
 reviewers:
-- cyro-penteado
-reviews: 1
+- Cyro Roberto Penteado
+- Maria Camargo
 ---
 
 "Você poderia se levantar um momento, por favor?" disse Geraldo à sua namorada.

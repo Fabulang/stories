@@ -5,7 +5,7 @@ locale: it
 key: table-three
 date: 2025-01-26
 reviewers:
-- virna-bazzo
+- Virna Bazzo
 ---
 
 Lo chef ha posato i piatti sul bancone. La bistecca era perfetta. Le verdure erano fresche e tenere. L'odore della salsa faceva venire l'acquolina in bocca. Enrico ha preso i piatti e li ha portati con grazia nella sala da pranzo.

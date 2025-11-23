@@ -5,7 +5,7 @@ cefr: b1
 key: art-chinese-dumplings
 date: 2023-07-08
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Il blog di cucina di Rossana era uno dei siti di ricette più popolari su internet. Le persone adoravano il suo blog perché conteneva solo le migliori ricette che lei aveva scoperto durante i suoi viaggi nel mondo.

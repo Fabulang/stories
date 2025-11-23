@@ -5,7 +5,7 @@ locale: es
 key: kings-fountain-pen
 date: 2025-10-28
 reviewers:
-- pili-ortiga
+- Pili Ortiga Sabaté
 ---
 
 "Señoras y señores del jurado, las pruebas son concluyentes.

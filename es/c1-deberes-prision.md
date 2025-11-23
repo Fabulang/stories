@@ -5,7 +5,7 @@ locale: es
 key: prison-duties
 date: 2025-10-28
 reviewers:
-- pili-ortiga
+- Pili Ortiga Sabaté
 ---
 
 "¡Sigue tocando!", gritó uno de los guardias.

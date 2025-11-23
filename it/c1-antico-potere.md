@@ -5,7 +5,7 @@ cefr: c1
 key: ancient-power
 date: 2023-07-13
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Giacomina era un'archeologa ambiziosa. Nelle sue ricerche, aveva trovato numerosi riferimenti a un potente artefatto antico. I suoi colleghi continuavano a dirle che era un mito, ma Giacomina sapeva che le prove erano troppo convincenti. Esisteva per davvero.

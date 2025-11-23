@@ -5,8 +5,8 @@ locale: it
 key: dont-go-holiday
 date: 2023-12-31
 reviewers:
-- giulia-italian-language-hub
-- carlotta-belluzzi
+- Giulia Macchi
+- Carlotta Belluzzi
 ---
 
 "Non andare in vacanza."

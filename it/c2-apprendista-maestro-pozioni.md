@@ -5,7 +5,7 @@ cefr: c2
 key: potion-masters-apprentice
 date: 2023-10-25
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 Il liquido viola all'interno della bottiglia quadrata brillava con scaglie d'oro. Annabella ha versato il contenuto in una ciotola di metallo. Poi ha trovato una scatola di strane pietre gialle. Le ha gettate dentro tutte anche quelle. Infine, c'era un barattolo pieno di lingue di alcuni sfortunati animali.

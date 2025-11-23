@@ -5,7 +5,7 @@ locale: es
 key: problem-school
 date: 2025-04-12
 reviewers:
-- silvia-pastor
+- Silvia Berigüete Pastor
 ---
 
 Está oscuro. No hay luna en el cielo. Dos personas caminan rápidamente hacia el colegio. Es un edificio antiguo hecho de piedra. Parece casi un castillo.

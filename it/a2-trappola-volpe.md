@@ -4,9 +4,9 @@ locale: it
 cefr: a2
 key: foxs-trap
 date: 2024-09-08
-reviews: 1
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
+- Daniella Crispi
 ---
 
 La signorina Topo era nella sua stanza, nella sua casa nella foresta. La sua casa era dentro un piccolo tronco a terra. Aveva quattro finestre, una porta d'ingresso e una porta sul retro, e un piccolo camino.

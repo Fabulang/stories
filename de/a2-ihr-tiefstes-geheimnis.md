@@ -5,7 +5,7 @@ locale: de
 key: her-deepest-secret
 date: 2025-03-15
 reviewers:
-- niklas-krechting
+- Niklas Krechting
 ---
 
 „Etwas an diesem Gemälde ist ungewöhnlich“, sagte der Touristenführer. „Können Sie erkennen, was es ist?“

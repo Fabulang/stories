@@ -5,7 +5,7 @@ locale: es
 key: new-years-luck
 date: 2025-10-28
 reviewers:
-- pili-ortiga
+- Pili Ortiga Sabaté
 ---
 
 "Ahora mismo, en la Tierra, es Nochevieja", dijo Alejandro. "Mi familia está cenando algo caliente y delicioso. Y yo aquí, en esta horrible nave espacial, sin comer nada".

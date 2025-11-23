@@ -5,7 +5,7 @@ cefr: c2
 key: charming-crystal-ball
 date: 2023-06-10
 reviewers:
-- laura-baro
+- Laura Baro
 ---
 
 Nei polverosi angoli del seminterrato del suo dormitorio universitario, Noemi, una studentessa molto superstiziosa, aveva scoperto un reperto di un'epoca passata: una vecchia sfera di cristallo. Colta da curiosità e un bisogno impulsivo di essere guidata, Noemi ha deciso di impiegare il reperto nel prendere decisioni che avrebbero cambiato la sua vita.

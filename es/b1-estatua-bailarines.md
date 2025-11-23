@@ -5,7 +5,7 @@ locale: es
 key: dancers-statue
 date: 2025-10-28
 reviewers:
-- pili-ortiga
+- Pili Ortiga Sabaté
 ---
 
 El taxi llegó y Juanita subió. Abrió su libro Guía para turistas.

@@ -5,8 +5,8 @@ cefr: b1
 key: under-bed
 date: 2024-09-08
 reviewers:
-- giulia-italian-language-hub
-- carlotta-belluzzi
+- Giulia Macchi
+- Carlotta Belluzzi
 ---
 
 "Fai dei bei sogni, tesoro", ha detto la mamma di Dorotea. Ha spento la luce e ha chiuso la porta.

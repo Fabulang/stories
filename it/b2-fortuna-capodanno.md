@@ -5,7 +5,7 @@ locale: it
 key: new-years-luck
 date: 2023-12-31
 reviewers:
-- carlotta-belluzzi
+- Carlotta Belluzzi
 ---
 
 "In questo momento, sulla Terra, è la vigilia di Capodanno", ha detto Alessandro. "La mia famiglia sta mangiando una cena calda e deliziosa. Invece, io sono qui su questa orribile astronave, a mangiare nulla."

@@ -6,8 +6,8 @@ key: brilliant-script
 date: 2025-01-26
 reviewers:
 - Soufiane Chouardi
-- remi-grelot
-- melissa-martinez
+- Rémi Grélot
+- Mélissa Martinez
 ---
 
 Dominique allume la lampe et s'assoit. Il boit son café. Enfin, il a une idée.

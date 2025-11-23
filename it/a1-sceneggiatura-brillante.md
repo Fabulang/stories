@@ -5,8 +5,8 @@ locale: it
 key: brilliant-script
 date: 2025-01-26
 reviewers:
-- alessandro-bucalo
-- laura-baro
+- Alessandro Bucalo
+- Laura Baro
 ---
 
 Domenico accende la lampada e si siede. Beve il suo caffè. Finalmente ha un'idea.

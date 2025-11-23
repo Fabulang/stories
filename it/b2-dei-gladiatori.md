@@ -5,8 +5,8 @@ cefr: b2
 key: gods-gladiators
 date: 2024-09-08
 reviewers:
-- giulia-italian-language-hub
-- carlotta-belluzzi
+- Giulia Macchi
+- Carlotta Belluzzi
 ---
 
 I gladiatori erano pronti a combattere. Uno era un uomo grande con muscoli possenti. L'altro era magro e basso.

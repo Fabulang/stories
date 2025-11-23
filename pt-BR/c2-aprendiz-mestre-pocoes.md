@@ -5,7 +5,7 @@ cefr: c2
 key: potion-masters-apprentice
 date: 2025-10-28
 reviewers:
-- larissa-rabelo
+- Larissa Rabelo Dantas
 ---
 
 O líquido roxo dentro da garrafa quadrada brilhava com partículas de ouro. Anabela despejou o conteúdo em uma tigela de metal. Então, ela encontrou um pote de estranhas pedras amarelas. Ela jogou todas na tigela também. Por fim, havia um jarro cheio de línguas de alguns animais azarados.

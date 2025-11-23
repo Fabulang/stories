@@ -5,7 +5,7 @@ locale: fr
 key: very-tasteful-green
 date: 2025-01-26
 reviewers:
-- melissa-martinez
+- Mélissa Martinez
 - Soufiane Chouardi
 ---
 

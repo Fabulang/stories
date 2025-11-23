@@ -14,7 +14,7 @@ Tout le monde au commissariat a applaudi et acclamé le détective Corbeau quand
 
 Corbeau a souri et a simplement répondu, «Juste du bon vieux travail de détective, chef.»
 
-Plus tard, dans la nuit, Corbeau est descendu dans son sous-sol. Il était rempli de dossiers fourmillant de détails sur des affaires de meurtres non résolues. Sur le bureau, il y avait un dossier ouvert marqué "Blanche". Jeanne Blanche avait été trouvée dans la rue, sans aucun élément pour indiquer qui l'avait tuée.
+Plus tard dans la soirée, Corbeau est descendu dans son sous-sol. Il était rempli de dossiers fourmillant de détails sur des affaires de meurtres non résolues. Sur le bureau, il y avait un dossier ouvert marqué "Blanche". Jeanne Blanche avait été trouvée dans la rue, sans aucun élément pour indiquer qui l'avait tuée.
 
 «Très bien, Jeanne», a chuchoté Corbeau. «Ce soir, c'est votre tour.»
 

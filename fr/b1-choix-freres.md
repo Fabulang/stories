@@ -55,7 +55,7 @@ Les frères de Laurent se sont précipités hors de la pièce. Quelques secondes
 
 «Et ton frère aîné?»
 
-«La voiture de papa. Il a eu un accident deux semaines plus tard.»
+«La voiture de papa. Elle a été détruite lors d'un accident deux semaines plus tard.»
 
 «Et toi, tu as choisi cette horloge?»
 

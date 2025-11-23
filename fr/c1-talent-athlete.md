@@ -4,6 +4,8 @@ locale: fr
 cefr: c1
 key: athletes-talent
 date: 2023-10-25
+reviewers:
+- Ghiznuk
 ---
 
 Les rues de l'ancienne Élis étaient pleines d'activité. Des hommes et des femmes en tunique vaquaient à leurs occupations, des commerçants poussaient des chariots remplis de marchandises à vendre au marché, des enfants jouaient à des jeux dans le gravier.

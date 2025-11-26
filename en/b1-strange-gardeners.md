@@ -1,8 +1,8 @@
 ---
-title: The Strange Gardener
+title: Strange Gardeners
 locale: en
 cefr: b1
-key: strange-gardener
+key: strange-gardeners
 date: 2023-06-10
 reviews: 1
 ---

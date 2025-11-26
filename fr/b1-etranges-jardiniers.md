@@ -1,8 +1,8 @@
 ---
-title: Le Jardinier étrange
+title: Les Étranges Jardiniers
 locale: fr
 cefr: b1
-key: strange-gardener
+key: strange-gardeners
 date: 2023-06-10
 reviewers:
 - Émilie Desmars

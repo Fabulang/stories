@@ -1,8 +1,8 @@
 ---
-title: Il giardiniere strano
+title: Strani giardinieri
 locale: it
 cefr: b1
-key: strange-gardener
+key: strange-gardeners
 date: 2023-06-10
 reviewers:
 - Laura Baro

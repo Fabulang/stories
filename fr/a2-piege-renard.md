@@ -14,7 +14,7 @@ Souris se regardait dans son miroir. «Mes oreilles sont tellement grandes», a-
 
 Dehors, M. Renard passait près de la buche. Il a entendu ce que disait Souris. Il s'est approché en silence.
 
-«J'aimerais être comme Papillon», a continué Souris. «Tout le monde aime Papillon. Elle est tellement jolie. Ses ailes sont tellement attrayantes et colorées. Et de tellement petites oreilles! La vie est facile pour elle.»
+«J'aimerais être comme Mlle Papillon», a continué Souris. «Tout le monde aime Papillon. Elle est tellement jolie. Ses ailes sont si belles, si colorées. Et elle a de si petites oreilles! La vie est facile pour elle.»
 
 «Excuse-moi», a dit Renard.
 
@@ -28,7 +28,7 @@ La voix de Renard était calme et amicale. «Je te plains. Moi aussi je suis tr�
 
 «Non!» a dit Souris, les yeux grands ouverts.
 
-«Eh bien, sors de ta buche, et je t'y emmènerai», a dit Renard.
+«Eh bien, sors de ta buche, je vais t'y emmener», a dit Renard.
 
 Souris a bien réfléchi. Elle s'est à nouveau regardée dans le miroir. Elle a vu ses grandes oreilles.
 

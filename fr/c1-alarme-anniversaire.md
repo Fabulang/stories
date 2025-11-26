@@ -14,7 +14,7 @@ Une année, Georges a fait un vœu solennel. «Marguerite», a-t-il dit, «je te
 
 «Tu dis ça chaque année», a répondu Marguerite, abattue.
 
-«Peut-être, mais cette fois, je ne peux pas échouer», a insisté Georges.
+«Peut-être, mais cette fois, je ne pourrai pas le rater», a insisté Georges.
 
 «Comment ça?» a-t-elle demandé.
 
@@ -28,7 +28,7 @@ Marguerite venait de se réveiller. Elle a murmuré, «Mais c'est dimanche, Geor
 
 «Je dois terminer ce projet avant lundi!» a-t-il sifflé.
 
-Puis il a disparu, et quelques instants plus tard lui est parvenu le bruit des roues de sa voiture crissant sur le gravier. Marguerite n'a pu que l'observer, déçue, s'éloigner à toute vitesse. Il avait à nouveau oublié.
+Puis il a disparu; quelques instants plus tard lui est parvenu le bruit des roues de sa voiture crissant sur le gravier. Marguerite n'a pu que l'observer, déçue, s'éloigner à toute vitesse. Il avait à nouveau oublié.
 
 Submergée par la frustration, Marguerite a décidé de faire face. Elle s'est habillée, a sauté le petit déjeuner et l'a suivi jusqu'à son bureau.
 

@@ -4,6 +4,8 @@ locale: it
 cefr: b1
 key: cosmic-misunderstanding
 date: 2023-06-24
+reviewers:
+- Laura Baro
 ---
 
 Chiara era un'astronoma molto dedita al suo lavoro, ma non era mai la prima a scoprire qualcosa. Poi, una notte, ha avvistato un enorme meteorite che sembrava avvicinarsi alla Terra.

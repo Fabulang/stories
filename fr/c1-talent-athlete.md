@@ -8,7 +8,7 @@ reviewers:
 - Ghiznuk
 ---
 
-Les rues de l'ancienne Élis étaient pleines d'activité. Des hommes et des femmes en tunique vaquaient à leurs occupations, des commerçants poussaient des chariots remplis de marchandises à vendre au marché, des enfants jouaient à des jeux dans le gravier.
+Les rues de l'ancienne Élis étaient pleines d'activité. Des hommes et des femmes en tunique vaquaient à leurs occupations, des commerçants poussaient des chariots remplis de marchandises à vendre au marché et des enfants jouaient à des jeux dans le gravier.
 
 Mais Elpidios était assis, la tête entre les genoux. Il était venu à Élis pour réaliser son rêve et devenir athlète. Mais il n'était qu'un pauvre paysan, et il n'avait pas les moyens de payer quelqu'un pour le former.
 

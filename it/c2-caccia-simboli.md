@@ -45,7 +45,7 @@ Non ci è voluto molto prima che lo trovasse: un quadrato con una linea e un pun
 
 Ha continuato nella direzione indicata dalla linea. Presto ha trovato un altro simbolo e ha seguito di nuovo la linea. Per un'altra ora, ha seguito i simboli sempre più in profondità nelle grotte.
 
-Ma alla fine Filippa ha raggiunto un vicolo cieco. Esausta, si è seduta nella polvere. Era pazza. I simboli *erano davvero* casuali. Aveva sprecato anni della sua vita.
+Ma alla fine Filippa ha raggiunto un vicolo cieco. Esausta, si è seduta fra la polvere. Era pazza. I simboli *erano davvero* casuali. Aveva sprecato anni della sua vita.
 
 No! Si è rifiutata di crederci. È balzata in piedi e ha puntato con la sua pistola laser. Senza pensarci, ha sparato.
 

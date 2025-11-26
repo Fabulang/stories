@@ -4,6 +4,8 @@ locale: fr
 cefr: b2
 key: gods-gladiators
 date: 2024-09-08
+reviewers:
+- Charlotte Giertych
 ---
 
 Les gladiateurs étaient prêts à se battre. L'un était un grand homme avec de gros muscles. L'autre était maigre et petit.
@@ -26,9 +28,9 @@ Le maître est resté silencieux en donnant les pièces à son ami, une par une.
 
 De retour à la maison, le maître a attrapé Lucia. «Tu savais quel gladiateur allait gagner. Dis-moi comment!»
 
-Deux jours plus tôt, à minuit, le dieu Apollon avait rendu visite à Lucia. Il lui avait offert un choix: obtenir la capacité de voir ce qui allait se passer, mais perdre la capacité de mentir. Ainsi, elle devait tout dire à son maître.
+Deux jours plus tôt, à minuit, le dieu Apollon avait rendu visite à Lucia. Il lui avait offert un choix: obtenir la capacité de voir ce qui allait se passer, mais perdre la capacité de mentir. Ainsi, elle devait avouer à son maître.
 
-«J'utiliserai le don d'Apollon pour vous plaire», a-t-elle dit. «C'est tout ce que je veux.»
+«J'utiliserai le don d'Apollon pour vous servir», a-t-elle dit. «C'est tout ce que je veux.»
 
 «Si tu l'utilises pour aider *qui que ce soit* d'autre, Lucia», a dit le maître, «je te tuerai. Compris?»
 
@@ -44,7 +46,7 @@ Lucia a toussé bruyamment.
 
 Après un combat horrible, le maître a ri de son ami. «Tu devrais perdre plus souvent», a dit le maître. «Je t'apprécie plus quand tu perds!»
 
-Au cours des mois suivants, la richesse du maître a doublé puis triplé. Et bien qu'il puisse gagner partout, il adorait surtout battre son ami. Chaque semaine, il insistait pour un pari plus gros. Peu à peu, l'ami du maître a perdu une fortune.
+Au cours des mois suivants, la richesse du maître a doublé, puis triplé. Et bien qu'il puisse gagner partout, il adorait surtout battre son ami. Chaque semaine, il insistait pour un pari plus gros. Peu à peu, l'ami du maître a perdu une fortune.
 
 Un soir, lors d'un banquet chez le maître, Lucia lui a offert un grand plat rempli de délicatesses qu'elle avait préparées.
 
@@ -54,7 +56,7 @@ Un soir, lors d'un banquet chez le maître, Lucia lui a offert un grand plat rem
 
 Le maître l'a giflée. «Je ne suis pas aveugle. À quoi sert ce couteau? Je suis un homme important maintenant. Tu t'attends à ce que je tranche le pain moi-même?»
 
-Il l'a repoussée, et elle a trébuché. Le plat est tombé. Lucia s'est cognée la tête contre le sol.
+Il l'a repoussée, et elle a trébuché. Le plat est tombé. Lucia s'est cogné la tête contre le sol.
 
 À ce moment-là, la porte s'est ouverte brusquement. L'ami du maître a fait irruption dans la pièce.
 

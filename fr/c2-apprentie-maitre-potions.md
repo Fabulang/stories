@@ -8,7 +8,7 @@ reviewers:
 - Charlotte Giertych
 ---
 
-Le liquide violet à l'intérieur de la bouteille carrée scintillait avec des éclats d'or. Annabelle a versé le contenu dans un bol métallique. Ensuite, elle a trouvé un pot de pierres jaunes étranges. Elle les a toutes jetées dedans aussi. Enfin, il y avait un bocal plein de langues de certains animaux malchanceux.
+Le liquide violet à l'intérieur de la bouteille carrée scintillait avec des éclats d'or. Annabelle a versé le contenu dans un bol métallique. Ensuite, elle a trouvé un pot de pierres jaunes étranges. Elle les a toutes jetées dedans également. Enfin, il y avait un bocal plein de langues de certains animaux malchanceux.
 
 Annabelle a tout mélangé avec une grande cuillère en bois, en rapprochant sa bougie pour mieux voir. La potion a changé de couleurs plusieurs fois. Annabelle était ravie. Mais ensuite, elle a entendu un bruit. Le maître des potions s'était réveillé. Annabelle a vite caché le bol sous la table et est retournée furtivement dans sa chambre.
 

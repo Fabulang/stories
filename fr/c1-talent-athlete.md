@@ -6,6 +6,7 @@ key: athletes-talent
 date: 2023-10-25
 reviewers:
 - Ghiznuk
+- Ashlyn Cleys
 ---
 
 Les rues de l'ancienne Élis étaient pleines d'activité. Des hommes et des femmes en tunique vaquaient à leurs occupations, des commerçants poussaient des chariots remplis de marchandises à vendre au marché et des enfants jouaient à des jeux dans le gravier.
@@ -28,7 +29,7 @@ Elpidios s'est levé, un peu surpris.
 
 Elpidios et le mystérieux vieillard se sont rencontrés tous les jours au lever du soleil. L'homme a aidé Elpidios à s'exercer, à améliorer sa technique, et a s'efforcer de courir de plus en plus vite. Le soir, Elpidios partageait son diner avec l'homme. Il n'y avait pas d'autre paiement.
 
-Des mois ont passé... Enfin les Jeux Olympiques ont commencé. Elpidios s'est inscrit en tant que concurrent. Les autres athlètes étaient plus grands que lui. Ils portaient de belles tuniques colorées, et des bijoux. Quand Elpidios est arrivé, accompagné du vieil homme, ils se sont moqués de lui.
+Des mois ont passé... Enfin les Jeux Olympiques ont commencé. Elpidios s'est inscrit en tant que participant. Les autres athlètes étaient plus grands que lui. Ils portaient de belles tuniques colorées, et des bijoux. Quand Elpidios est arrivé, accompagné du vieil homme, ils se sont moqués de lui.
 
 «Souviens-toi de tout ce que je t'ai enseigné», a dit le vieil homme avant que la course ne commence. «Mais surtout, rappelle-toi que tu es maintenant un athlète olympique. Savoure ton rêve.»
 

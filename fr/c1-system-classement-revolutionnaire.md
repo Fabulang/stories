@@ -4,26 +4,28 @@ locale: fr
 cefr: c1
 key: revolutionary-filing-system
 date: 2023-06-10
+reviewers:
+- Ghiznuk
 ---
 
-Émile était secrétaire dans une entreprise animée. C'était un bel endroit pour travailler, mais il était négligé et sous-estimé. Sa patronne était une femme plutôt sévère, Mme Boxeuse, qui avait l'habitude de le réprimander pour son bureau désorganisé.
+Émile était secrétaire dans une entreprise animée. C'était un chouette endroit où travailler, mais il était négligé et sous-estimé. Sa patronne, Mme Castagne, était une femme plutôt sévère, qui avait l'habitude de le réprimander pour le désordre qui régnait dans son bureau.
 
-«Émile», soupirait-elle en tapant du pied avec impatience, «ce bureau est un bordel. Vous n'obtiendrez jamais cette promotion si vous ne pouvez même pas trier correctement vos stylos et crayons.»
+«Émile», soupirait-elle en tapant du pied avec impatience, «ce bureau est un capharnaüm. Vous n'obtiendrez jamais cette promotion si vous ne parvenez même pas à trier correctement vos stylos et crayons.»
 
-Fatigué du manque de respect, Émile a conçu un plan. Il a inventé un système de classement complexe que lui seul pouvait comprendre. C'était un labyrinthe de codes, de symboles et de couleurs, indéchiffrable pour toute autre personne.
+Fatigué de ce manque de respect, Émile a conçu un plan. Il a inventé un système de classement si complexe que lui seul le pouvait comprendre. C'était un véritable labyrinthe de codes, de symboles et de couleurs, indéchiffrable pour tout autre que lui-même.
 
-Lorsque Mme Boxeuse a vu pour la première fois le nouveau système, elle a été impressionnée. Le système de classement semblait sophistiqué. Cependant, elle ne pouvait localiser un seul document sans son aide.
+Lorsque Mme Castagne a vu ce nouveau système pour la première fois, elle en a été ébahie. Ce système de classement semblait extrêmement sophistiqué. Cependant, elle ne pouvait trouver le moindre document sans son aide.
 
 «Émile», grommelait-elle, en feuilletant une pile de documents codés, «que signifie ce symbole? Et pourquoi ce papier est-il violet?»
 
-«C'est tout simplement une partie de mon système très organisé», a déclaré Émile en toute connaissance de cause.
+«C'est tout simplement une partie de mon système très organisé», a déclaré Émile, en toute connaissance de cause.
 
-«Bon travail», a-t-elle avoué, du bout des lèvres. Cependant, même si elle devenait de plus en plus impressionnée au fil des semaines, elle refusait toujours de le promouvoir.
+«Bon travail», a-t-elle admis du bout des lèvres. Cependant, même si elle se sentait de plus en plus impressionnée au fil des semaines, elle refusait toujours de lui accorder sa promotion.
 
-La nouvelle du système révolutionnaire de Émile a finalement atteint le PDG. Émile a été convoqué au bureau du PDG, et a dû faire une démonstration de son système spécial.
+La nouvelle du système révolutionnaire conçu par Émile a finalement atteint Monsieur le Directeur. Émile a été convoqué dans son bureau, où on lui a demandé de faire une démonstration de son système si spécial.
 
-«C'est du génie», s'est exclamé le PDG, complètement impressionné. «Émile, je veux que vous travailliez directement pour moi.»
+«C'est du génie», s'est exclamé Monsieur le Directeur, visiblement conquis. «Émile, je veux que vous travailliez directement pour moi.»
 
 Ravi et triomphant, Émile a accepté la promotion sur-le-champ.
 
-Maintenant que ses talents avaient enfin été reconnus, Émile a soigneusement ajusté son système pour le rendre plus facile à comprendre pour les autres. Mais son ancien système, plus complexe, existait toujours dans le bureau de son ancienne patronne. Émile la voyait encore parfois, l'air perplexe, avec tas de documents en désordre autour d'elle.
+Maintenant que ses talents avaient enfin été reconnus, Émile a soigneusement adapté son système pour le rendre plus simple à comprendre pour autrui. Mais son ancien système, plus complexe, était toujours d'application dans le bureau de son ancienne cheffe. Émile la voyait encore parfois, l'air perplexe, avec tas de documents en désordre tout autour d'elle.

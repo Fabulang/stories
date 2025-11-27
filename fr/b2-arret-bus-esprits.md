@@ -25,7 +25,7 @@ reviewers:
 
 C'était vendredi, et on était presque à la fin de la journée. Élisabeth ne voulait pas de dispute. Elle voulait que le touriste s'en aille, pour qu'elle puisse rentrer chez elle.
 
-Elle a pensé à l'un des nombreux arrêts de bus de la ville. «Oui, vous pouvez atteindre notre arrêt de bus mondialement connu à pied. Suivez ce chemin vers la rivière, et il est sur votre droite. C'est l'arrêt avec le panneau qui dit "Interdit aux chiens".»
+Elle a pensé à l'un des nombreux arrêts de bus de la ville. «Oui, vous pouvez atteindre notre arrêt de bus mondialement connu à pied. Suivez ce chemin vers la rivière: il est sur votre droite. C'est l'arrêt avec le panneau qui dit "Interdit aux chiens".»
 
 «Fantastique», a dit l'homme. «Pouvez-vous m'en dire un peu plus sur son histoire?»
 

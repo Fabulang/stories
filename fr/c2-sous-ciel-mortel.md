@@ -11,7 +11,7 @@ reviewers:
 
 «Parle-moi du monde au-dessus», a dit Évelyne.
 
-«C'était un endroit magnifique», a répondu sa grand-mère. «Le soleil était chaud, l'air était pur et frais. Il y avait des millions d'espèces d'animaux: certains qui marchaient, certains qui nageaient, certains qui volaient. Tout cela n'existe plus désormais.»
+«C'était un endroit magnifique», a répondu sa grand-mère. «Le soleil était chaud, l'air était pur et frais. Il y avait des millions d'espèces d'animaux: certains marchaient, certains nageaient, d'autres volaient. Tout cela n'existe plus désormais.»
 
 Depuis cette conversation, Évelyne était obstinée par l'idée de trouver un moyen pour que les humains retournent à la surface de la Terre.
 

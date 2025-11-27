@@ -4,17 +4,19 @@ locale: fr
 cefr: b1
 key: two-headed-mirror
 date: 2023-07-13
+reviewers:
+- Charlotte Giertych
 ---
 
-Amélie était dans une boutique d'antiquités, à la recherche de quelque chose à mettre sur son mur. Dans l'obscurité à l'arrière, elle a repéré un magnifique miroir ancien. Il avait un cadre orné sculpté en forme de serpent à deux têtes.
+Amélie était dans une boutique d'antiquités, à la recherche de quelque chose à accrocher sur son mur. Dans l'obscurité à l'arrière, elle a repéré un magnifique miroir ancien. Il avait un cadre orné sculpté en forme de serpent à deux têtes.
 
 «Vous ne voulez pas de celui-ci», a retenti une voix rauque. C'était le marchand d'antiquités.
 
-«Mais si!» a dit Amélie. «Je le veux beaucoup. Je paierai n'importe quel prix.»
+«Mais si!» a dit Amélie. «Je le veux vraiment. Je paierai n'importe quel prix.»
 
-«Prenez-le!» a grommelé le marchand. «Il n'y a pas de prix. Mais ça vous coûtera cher -- à la fin!» Et le vieil homme s'est précipité dans son bureau, riant tout seul.
+«Prenez-le!» a grommelé le marchand. «Il n'y a pas de prix. Mais ça vous coûtera cher... au final!» Et le vieil homme s'est précipité dans son bureau, riant tout seul.
 
-Amélie avait rencontré beaucoup de marchands d'antiquités. Beaucoup d'entre eux étaient encore plus étranges. Ravie de sa bonne chance, elle a pris le miroir et est partie.
+Amélie avait rencontré beaucoup de marchands d'antiquités. Beaucoup d'entre eux étaient encore plus étranges. Ravie de sa chance, elle a pris le miroir et est partie.
 
 Elle a ramené le miroir chez elle, l'a nettoyé méticuleusement et l'a accroché au mur de sa chambre. Il avait l'air extrêmement grandiose. Elle se sentait comme une reine quand elle s'est habillée le lendemain matin.
 
@@ -36,11 +38,11 @@ Son reflet a sursauté de peur et s'est retourné. Il la regardait, tout aussi s
 
 «De quoi tu parles?» a dit son reflet. «*J'ai* accroché le miroir sur *mon* mur.»
 
-Les deux femmes se regardaient avec frustration. Elles ont scruté le visage de l'autre, puis les lits derrière elles, le mobilier, et toute la pièce -- mais tout était identique.
+Les deux femmes se regardaient avec frustration. Elles ont scruté le visage de l'autre, puis les lits derrière elles, le mobilier, et toute la pièce... mais tout était identique.
 
-«Aha!» a crié Amélie enfin. «Je peux prouver que tu es le reflet.»
+«Aha!» a enfin crié Amélie. «Je peux prouver que tu es le reflet.»
 
-«Ah vraiment?» Son reflet a croisé ses bras.
+«Ah, vraiment?» Son reflet a croisé ses bras.
 
 «Oui. Je peux voir l'horloge sur ton mur. Le chiffre un est à droite du chiffre douze! Comme dans un miroir!»
 

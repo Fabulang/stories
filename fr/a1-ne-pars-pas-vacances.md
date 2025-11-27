@@ -68,11 +68,11 @@ Un an plus tard, Frédérique retourne au travail. Elle est en fauteuil roulant.
 
 «Comment?» demande Frédérique.
 
-«C'est impossible d'envoyer des humains dans le temps, n'est-ce pas?» dit l'assistant.
+«Les humains ne peuvent pas voyager dans le temps; c'est impossible, n'est-ce pas?» dit l'assistant.
 
 «C'est ma théorie, oui.»
 
-«Ta théorie est correcte. Mais on *peut* envoyer des *messages* dans le temps!»
+«Ta théorie est correcte. Mais on peut *envoyer des messages* dans le temps!»
 
 «Montre-moi les calculs», dit Frédérique.
 

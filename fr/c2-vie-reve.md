@@ -8,7 +8,7 @@ reviewers:
 - Franck Zussy
 ---
 
-Grâce et Thomas venaient d'acheter une maison ensemble. Ils étaient tous deux au début de la vingtaine, ils n'avaient pas beaucoup d'argent. La maison était petite et assez froide. Mais ils étaient heureux de se blottir l'un contre l'autre sous une grande couverture sur leur canapé déformé.
+Grâce et Thomas venaient d'acheter une maison ensemble. Ils étaient tous deux au début de la vingtaine et n'avaient donc pas beaucoup d'argent. La maison était petite et assez froide. Mais ils étaient heureux de se blottir l'un contre l'autre sous une grande couverture sur leur canapé déformé.
 
 «Oh mon Dieu!» a crié Grâce un soir en se levant d'un bond avec son téléphone à la main.
 
@@ -26,7 +26,7 @@ Ils ont visité les îles envoûtantes de la Méditerranée et les côtes vibran
 
 La dernière nuit de la croisière, ils ont enfin aperçu M. Raichand en personne. Il était debout, seul, et regardait la mer. Ils se sont approchés de lui.
 
-«Nous ne pourrons jamais assez vous remercier», a dit Grâce.
+«On ne pourra jamais assez vous remercier», a dit Grâce.
 
 «Ce voyage a été un cadeau tellement généreux», a dit Thomas.
 
@@ -40,6 +40,6 @@ Au cours des jours suivants, une humeur étrange s'est emparée d'eux. Leurs emp
 
 Ils étaient assis aux deux extrémités de leur canapé et scrollaient fébrilement sur les réseaux sociaux. Leur grande couverture traînait en boule sur le sol.
 
-«Nous ne devrions pas seulement suivre Raichand», a dit Thomas, sans lever les yeux. «D'autres influenceurs pourraient aussi offrir des cadeaux. Ils le feront certainement, puisqu'il l'a fait.»
+«On ne devrait pas seulement suivre Raichand», a dit Thomas, sans lever les yeux. «D'autres influenceurs pourraient aussi offrir des cadeaux. Ils le feront certainement, puisqu'il l'a fait.»
 
-«Bonne idée», a dit Grâce. «Assure-toi aussi d'activer les notifications. Nous devons être les premiers à commenter chaque publication.»
+«Bonne idée», a dit Grâce. «Assure-toi aussi d'activer les notifications. On doit être les premiers à commenter chaque publication.»

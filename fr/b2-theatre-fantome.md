@@ -17,7 +17,7 @@ Chaque nuit, à minuit, une voix obsédante résonnait depuis le fond du théât
 
 Au cours de ses recherches, Christian a appris que le théâtre avait été construit par Adélaïde la Magnifique, l'une des chanteuses les plus célèbres de son époque. Elle avait grandi dans la ville, avant de partir et acquérir la renommée à l'étranger.
 
-Lorsqu'elle est revenue dans la ville plus tard, elle a construit le théâtre, et a elle-même joué dans presque tous ses spectacles pendant vingt ans. Le maire de la ville lui avait décerné un Prix d'Honneur pour son soixantième anniversaire, en guise de remerciement pour tous les spectacles qu'elle avait donnés aux habitants locaux tout au long de ces années.
+Lorsqu'elle est revenue dans la ville plus tard, elle a construit le théâtre, et a elle-même joué dans presque tous ses spectacles pendant vingt ans. Le maire de la ville lui avait décerné un prix d'donneur pour son soixantième anniversaire, en guise de remerciement pour tous les spectacles qu'elle avait donnés aux habitants locaux tout au long de ces années.
 
 Christian a regardé sa montre. Il était presque minuit. Il était assis dans le noir, à l'intérieur du théâtre, sur l'un des sièges du balcon. Il restait absolument immobile et silencieux, scrutant la scène. Puis l'horloge de la ville a égrené douze coups.
 

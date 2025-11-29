@@ -24,6 +24,6 @@ Improvvisamente, un annuncio è riecheggiato nel terminal. Il loro volo era stat
 
 "Forse è un segno", ha detto Augusto. "Non siamo destinati a tornare a casa ancora."
 
-Augusto si è rivolto a Giulietta con una scintilla audace negli occhi. "Che ne dici di continuare la nostra avventura insieme?" ha suggerito.
+Augusto si è rivolto a Giulietta con una scintilla di audacia negli occhi. "Che ne dici di continuare la nostra avventura insieme?" ha suggerito.
 
 Per la prima volta da quando era iniziato il suo viaggio, Giulietta ha sentito un brivido di eccitazione. "Forse", ha pensato, "l'avventura che desideravo è appena cominciata."

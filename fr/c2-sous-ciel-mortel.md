@@ -49,7 +49,7 @@ Lentement, les mains tremblantes, Évelyne a enlevé son casque. Puis elle a pri
 
 «Nous étions une entreprise. Il était de notre devoir de faire des profits!» s'est écrié le Conseiller. «Nous avons donné une mutation génétique spéciale aux personnes qui pouvaient se le permettre. Le virus ne devait protéger que les personnes qui portaient cette mutation génétique.»
 
-«Mais le virus n'a pas fonctionné», a dit Évelyne, commençant à comprendre. «Il *tuait aussi* les personnes qui avaient cette mutation.»
+«Mais le virus n'a pas fonctionné», a dit Évelyne, commençant à comprendre. «Il a *tué* les personnes qui portaient cette mutation.»
 
 «Au début, il frappait de façon indistincte. Mais pour finir, il s'est reporté sur la cible initiale. Les gens comme moi. Les gens comme les autres conseillers et les superviseurs, et toutes nos familles. Les descendants de tous ceux qui avaient reçu cette mutation.»
 

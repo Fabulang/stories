@@ -6,17 +6,18 @@ key: prison-duties
 date: 2023-12-31
 reviewers:
 - Carlotta Belluzzi
+- Laura Baro
 ---
 
 "Continua a suonare!" ha gridato una delle guardie.
 
-Enrica si è girata verso il pianoforte. Ha sbadigliato, ha fatto un respiro profondo e ha cercato di pensare a un'altra melodia che potesse piacere a loro.
+Enrica si è girata verso il pianoforte. Ha sbadigliato, ha fatto un respiro profondo e ha cercato di pensare a un'altra melodia che potesse potessero apprezzare.
 
 "Dai! Stai rovinando l'atmosfera!"
 
-Ha iniziato a suonare, e le guardie della prigione hanno esultato. Dietro di lei, danzavano intorno alla mensa oscura. Buttavano i piatti a terra e versavano birra dappertutto.
+Ha iniziato a suonare, e le guardie della prigione hanno esultato. Dietro di lei, danzavano nella mensa oscura. Buttavano i piatti a terra e versavano birra dappertutto.
 
-Enrica sapeva che le guardie erano troppo ubriache per rendersi conto di ciò che stava suonando. Era l'inno nazionale -- la versione vecchia, di prima che il Paese fosse invaso. Enrica aveva suonato il vecchio inno in pubblico sei anni fa; ecco perché era in prigione ora.
+Enrica sapeva che le guardie erano troppo ubriache per rendersi conto di ciò che stava suonando. Era l'inno nazionale: la versione vecchia, di prima che il Paese fosse invaso. Enrica aveva suonato il vecchio inno in pubblico sei anni fa; ecco perché era in prigione ora.
 
 Mentre suonava l'ultima nota, improvvisamente le luci si sono accese. Il capo del carcere era all'ingresso. Le guardie hanno smesso di ballare e hanno fatto il saluto.
 
@@ -26,13 +27,13 @@ Enrica ha trattenuto il respiro. Il capo aveva sentito cosa stava suonando? Ma l
 
 Una delle guardie ha chiuso Enrica nella sua cella. Enrica era una donna piccola e fragile, quindi anche una guardia ubriaca era sufficiente come sicurezza. Inoltre, non era né abbastanza forte né agile per scappare.
 
-"Devi scappare con noi", ha sussurrato il compagno di cella di Enrica dopo che la guardia se n'era  andata.
+"Devi scappare con noi", ha sussurrato il compagno di cella di Enrica dopo che la guardia se n'era andata.
 
 "Mio caro, non posso", ha sospirato Enrica.
 
-"Fidati di me, Enrica. Abbiamo osservato per mesi. Alle dodici preciso, le guardie al cancello del cortile vanno a pranzo -- partono sempre in orario. Almeno dopo due minuti, arrivano le nuove guardie -- sono sempre in ritardo. Devi solo uscire con noi e salire sulla macchina di mio fratello."
+"Fidati di me, Enrica. Abbiamo osservato la situazione per mesi. Alle dodici precise, le guardie al cancello del cortile vanno a pranzo; partono sempre in orario. Almeno due minuti dopo, arrivano le nuove guardie; sono sempre in ritardo. Devi solo uscire con noi e salire sulla macchina di mio fratello."
 
-"Vi rallenterò -- sarete catturati -- non posso venire!" ha sussurrato Enrica. "Penserò a voi ogni giorno, a tutti voi, e mi renderà felice. Se persone come voi sono libere, allora il nostro vecchio Paese è ancora vivo."
+"Vi rallenterò... sarete catturati... non posso venire!" ha sussurrato Enrica. "Penserò a voi ogni giorno, a tutti voi, e mi renderà felice. Se persone come voi sono libere, allora il nostro vecchio Paese è ancora vivo."
 
 "Anche tu puoi essere libera, Enrica. Partiamo domani. Incontriamoci nel cortile."
 
@@ -40,7 +41,7 @@ Una delle guardie ha chiuso Enrica nella sua cella. Enrica era una donna piccola
 
 "Per favore, cambia idea prima di mezzogiorno."
 
-Il giorno dopo, Enrica era ansiosa per tutta la mattina. Come al solito, alle undici e mezza, il capo del Carcere è venuto a prenderla per portarla alla mensa, così poteva suonare per lui mentre prendeva un caffè e fumava una sigaretta.
+Il giorno dopo, Enrica è stata in ansia per tutta la mattina. Come al solito, alle undici e mezza, il capo del Carcere è venuto a prenderla per portarla alla mensa, così poteva suonare per lui mentre prendeva un caffè e fumava una sigaretta.
 
 Dopo ogni canzone, Enrica guardava l'orologio. Erano quasi le dodici. Stava davvero considerando di scappare? Il suo compagno di cella e i suoi amici avevano un buon piano. Era lenta, ma doveva solo camminare...
 
@@ -50,7 +51,7 @@ Enrica si è alzata e ha camminato lentamente verso il capo.
 
 "Cosa vuoi?"
 
-"Per favore, Signore", ha detto Enrica. "Non mi sento molto bene. Potrei unirmi agli altri prigionieri nel cortile? Ho bisogno di aria."
+"Per favore, signore", ha detto Enrica. "Non mi sento molto bene. Potrei unirmi agli altri prigionieri nel cortile? Ho bisogno di aria."
 
 Il capo ha posato la forchetta. L'ha guardata a lungo.
 
@@ -64,8 +65,8 @@ Si sono messi a marciare davanti a Enrica. Lei ha continuato a camminare. Poi si
 
 In pochi secondi, c'era un enorme rumore mentre ogni guardia nella stanza gettava indietro la propria sedia e iniziava a urlare. Prima che Enrica avesse finito anche solo la prima parte del vecchio inno nazionale, il capo del carcere l'ha sollevata dalla sedia e l'ha gettata a terra.
 
-"Come osi suonare quello!" ha urlato.
+"Come osi suonare quella cosa!" ha urlato.
 
 Enrica ha guardato le guardie, stordita. Ha sorriso debolmente.
 
-"Cosa state ancora facendo qui?" ha sbottato il capo a due delle guardie. "Sarete ancora più in ritardo del solito!"
+"Cosa fate ancora qui?" ha sbottato il capo a due delle guardie. "Sarete ancora più in ritardo del solito!"

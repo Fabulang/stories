@@ -14,7 +14,7 @@ Une année, Georges a fait un vœu solennel. «Marguerite», a-t-il dit, «je te
 
 «Tu dis ça chaque année», a répondu Marguerite, abattue.
 
-«Peut-être, mais cette fois, je ne pourrai pas le rater», a insisté Georges.
+«Mais cette fois, je ne pourrai pas le rater», a insisté Georges.
 
 «Comment ça?» a-t-elle demandé.
 

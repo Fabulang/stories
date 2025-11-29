@@ -5,8 +5,9 @@ cefr: b2
 key: gods-gladiators
 date: 2024-09-08
 reviewers:
-- Giulia Macchi
 - Carlotta Belluzzi
+- Laura Baro
+- Giulia Macchi
 ---
 
 I gladiatori erano pronti a combattere. Uno era un uomo grande con muscoli possenti. L'altro era magro e basso.
@@ -25,11 +26,11 @@ Dieci minuti dopo, la folla esultava. Il gladiatore magro stava sanguinando, ma 
 
 "Che sfortuna", ha detto l'amico del padrone con empatia.
 
-Il padrone è rimasto in silenzio mentre ha consegnato le monete al suo amico, una per una.
+Il padrone è rimasto in silenzio mentre consegnava le monete al suo amico, una per una.
 
 A casa, il padrone ha afferrato Lucia. "Sapevi quale gladiatore avrebbe vinto. Dimmi come hai fatto!"
 
-Due giorni prima, a mezzanotte, il dio Apollo aveva visitato Lucia. Le aveva offerto una scelta: ottenere la capacità di vedere che cosa succederà, ma perdere la capacità di mentire. Così, ha dovuto dire al padrone tutto.
+Due giorni prima, a mezzanotte, il dio Apollo aveva fatto visita a Lucia. Le aveva offerto una scelta: ottenere la capacità di vedere che cosa sarebbe successo, ma perdere la capacità di mentire. Così, aveva dovuto dire tutto al suo padrone.
 
 "Userò il dono di Apollo per compiacerti", ha detto. "È tutto ciò che desidero."
 
@@ -47,7 +48,7 @@ Lucia ha tossito forte.
 
 Dopo un combattimento terribile, il padrone ha deriso il suo amico. "Dovresti perdere più spesso", ha detto il padrone. "Mi piaci di più quando perdi!"
 
-Nei mesi successivi, la ricchezza del padrone è raddoppiata e triplicata. E anche se poteva vincere ovunque, amava di più vincere contro il suo amico. Ogni settimana insisteva per una scommessa più alta. Lentamente, l'amico del padrone ha perso una fortuna.
+Nei mesi successivi, la ricchezza del padrone è raddoppiata e triplicata. E anche se poteva vincere ovunque, preferiva vincere contro il suo amico. Ogni settimana insisteva per una scommessa più alta. Lentamente, l'amico del padrone ha perso una fortuna.
 
 Una sera, durante un banchetto a casa del padrone, Lucia gli ha offerto un grande piatto pieno di prelibatezze che aveva preparato.
 
@@ -83,4 +84,4 @@ Lucia ha guardato l'amico del padrone. L'amico l'ha guardata. Ha visto che stava
 
 Lucia ha visto cosa sarebbe successo.
 
-"Come osa insultarti", ha detto con cautela. "Il combattimento durerà meno di un minuto... Dopo... tutti congratuleranno il mio padrone. Lo chiameranno un uomo d'onore. E domani, sorriderò tutto il giorno."
+"Come osa insultarti", ha detto con cautela. "Il combattimento durerà meno di un minuto... Dopo... tutti si congratuleranno con il mio padrone. Lo chiameranno un uomo d'onore. E domani, sorriderò tutto il giorno."

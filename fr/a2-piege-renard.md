@@ -50,7 +50,7 @@ Souris a grimpé sur la tête de Renard.
 
 Renard a commencé à courir. Souris voyait la langue de Renard: il se léchait les lèvres.
 
-«Il me faut juste un peu d'eau», a dit Renard. «Courir, c'est fatiguant.»
+«Il me faut juste un peu d'eau», a dit Renard. «Courir, c'est fatigant.»
 
 «Je suis désolée», a dit Souris. «C'est juste là-bas.»
 

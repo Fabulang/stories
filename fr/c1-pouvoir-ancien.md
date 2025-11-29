@@ -10,7 +10,7 @@ reviewers:
 
 Jacqueline était une archéologue ambitieuse. Au cours de ses recherches, elle avait découvert de nombreuses références à un puissant artéfact de l'Antiquité. Ses collègues n'arrêtaient pas de lui dire que c'était un mythe, mais Jacqueline savait que les preuves étaient trop convaincantes. Il devait vraiment exister.
 
-Jacqueline pensait qu'une civilisation ancienne avait caché l'artéfact pour protéger le monde de son pouvoir. Mais ils avaient laissé des indices, au cas où ils auraient besoin de le retrouver. Jacqueline avait trouvé ces indices, mais ils ne coïncidaient pas. Il manquait quelque chose.
+Jacqueline pensait qu'une civilisation ancienne avait caché l'artéfact pour protéger le monde de son pouvoir. Mais les habitants de cette civilisation avaient laissé des indices, au cas où ils auraient besoin de le retrouver. Jacqueline avait trouvé ces indices, mais ils ne coïncidaient pas. Il manquait quelque chose.
 
 Un jour, une jeune femme est entrée dans son bureau, apportant un ancien parchemin. «Je m'appelle Angélique», a-t-elle dit. «Ma famille a gardé ce parchemin pendant des générations.»
 

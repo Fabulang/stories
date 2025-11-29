@@ -8,11 +8,11 @@ reviewers:
 - Carlotta Belluzzi
 ---
 
-"In questo momento, sulla Terra, è la vigilia di Capodanno", ha detto Alessandro. "La mia famiglia sta mangiando una cena calda e deliziosa. Invece, io sono qui su questa orribile astronave, a mangiare nulla."
+"In questo momento, sulla Terra, è la vigilia di Capodanno", ha detto Alessandro. "La mia famiglia sta mangiando una cena calda e deliziosa. Io invece sono qui su questa orribile astronave, a mangiare nulla."
 
 "So che siamo in una brutta situazione", ha detto il capo ingegnere. "Ma dai, guarda le stelle! Nessuno sulla Terra ha quella vista."
 
-Alessandro ha guardato fuori dalla finestra. Tutto quello che poteva vedere era il nero. Si immaginava i fuochi d'artificio fuori dalla finestra della sua famiglia, sulla Terra.
+Alessandro ha guardato fuori dalla finestra. Vedeva solo nero. Si immaginava i fuochi d'artificio fuori dalla finestra della casa della sua famiglia, sulla Terra.
 
 "Quando sono stato scelto per questa missione", ha detto Alessandro, "mi sono sentito fortunato."
 

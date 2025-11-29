@@ -6,15 +6,16 @@ key: table-three
 date: 2025-01-26
 reviewers:
 - Pedro Ruan Rocha de Oliveira
+- Pedro Luiz Guimarães Filho
 ---
 
-O chef colocou os pratos no balcão. O bife estava perfeito. Os legumes estavam frescos e macios. O cheiro do molho era de dar água na boca. Henrique pegou os pratos e os levou com elegância até a sala de jantar.
+O chefe colocou os pratos no balcão. O bife estava perfeito. Os legumes estavam frescos e macios. O cheiro do molho era de dar água na boca. Henrique pegou os pratos e os levou com elegância até a sala de jantar.
 
 Havia apenas uma mesa no salão luxuosamente decorado. No canto, uma mulher tocava uma música suave no piano. As paredes eram de vidro, e a vista para o mar era magnífica.
 
 Henrique colocou um prato na frente de cada um dos três homens e começou a servir o vinho.
 
-"Então, ela foi eleita", disse um homem de cabelo castanho. "Mas sem o meu apoio, ela não é nada."
+"Então, ela foi eleita", disse um homem de cabelos castanhos. "Mas sem o meu apoio, ela não é nada."
 
 Um homem careca falou: "São dezessete governos que você controla agora, não é? Seu diabo esperto!"
 

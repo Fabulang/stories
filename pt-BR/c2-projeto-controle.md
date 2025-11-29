@@ -5,8 +5,9 @@ locale: pt-BR
 key: project-control
 date: 2025-11-11
 reviewers:
-- larissa-rabelo
+- Larissa Rabelo Dantas
 - Pedro Ruan Rocha de Oliveira
+- Pedro Luiz Guimarães Filho
 ---
 
 "Este relatório trimestral está... insatisfatório", resmungou o gerente de Nicoli. "Não há detalhes suficientes. E há números demais no gráfico. A fonte deveria ser maior. As tabelas deveriam usar as cores da nossa marca. E você deveria duplicar tudo no final."
@@ -25,11 +26,11 @@ reviewers:
 
 "Senhor, eu me esforcei tanto. Trabalhei até tarde, e nos fins de semana."
 
-"Isso é irrelevante. Nesta empresa, não podemos tolerar baixo desempenho. Se você não está atingindo nossos padrões, então seu salário deve ser reduzido. Você não concorda?"
+"Isso é irrelevante. Nesta empresa, não podemos tolerar baixo desempenho. Se você não está atingindo nossas expectativas então seu salário deve ser reduzido. Você não concorda?"
 
 "Sim, senhor."
 
-Nicoli voltou à sua mesa — desceu seis andares, atravessou cinco corredores e entrou em uma sala grande iluminada por lâmpadas fluorescentes. Havia janelas, mas eram muito pequenas e ficavam bem no alto, então ela não conseguia ver o lado de fora.
+Nicoli voltou à sua mesa -- desceu seis andares, atravessou cinco corredores e entrou em uma sala grande iluminada por lâmpadas fluorescentes. Havia janelas, mas eram muito pequenas e ficavam bem no alto, então ela não conseguia ver o lado de fora.
 
 Ela engoliu um pouco de café. Estava tão exausta que parecia não surtir efeito algum. Nos últimos meses, o gerente tinha lhe dado cada vez mais trabalho. Ela tinha preparado tantos relatórios que às vezes esquecia sobre o que eles tratavam, no meio do processo.
 
@@ -41,13 +42,13 @@ Seu telefone vibrou. Havia uma mensagem.
 
 A princípio, Nicoli não soube o que fazer. Mas ela procurou a pasta na rede da empresa e a encontrou. Inseriu a senha e, para sua surpresa, a pasta abriu.
 
-Dentro havia centenas de arquivos, cada um com o nome de um funcionário diferente. Quando Nicoli encontrou um arquivo com seu nome, prendeu a respiração. Abriu o arquivo.
+Dentro havia centenas de arquivos, cada um com o nome de um funcionário diferente. Quando Nicoli encontrou um arquivo com seu nome, respirou profundamente. Abriu o arquivo.
 
 "O sujeito é uma mulher de trinta anos. Dez miligramas da substância têm sido adicionados ao seu café diariamente há três anos. O sujeito está menos criativo, mais obediente e aceitando cada vez mais trabalho sem reclamar. Recomendação: aumentar a dosagem."
 
 Nicoli cuspiu o café. Outra mensagem chegou.
 
-"Eles produzem a substância no Nível B-Seis. O código é quatro dois sete oito. Há uma bomba debaixo da sua mesa. Leve-a até o laboratório. Existem dois botões; pressione-os ao mesmo tempo e mantenha pressionado por cinco segundos. Depois, você terá dez minutos. Você consegue. Todos estão contando com você."
+"Eles produzem a substância no Nível B-Seis. O código é quatro dois sete oito. Há uma bomba debaixo da sua mesa. Leve-a até o laboratório. Existem dois botões; pressione-os ao mesmo tempo e mantenha pressionados por cinco segundos. Depois, você terá dez minutos. Você consegue. Todos estão contando com você."
 
 Com as mãos trêmulas, Nicoli tateou debaixo da mesa. Havia algo pesado perto do fundo, escondido entre os cabos de energia. Ela olhou ao redor. Todos os outros digitavam rapidamente, encarando as telas sem piscar.
 
@@ -55,7 +56,7 @@ Ela pegou o dispositivo. Era muito complicado, com microchips e fios emaranhados
 
 Aquilo não era uma brincadeira. Os arquivos eram reais. A bomba era real.
 
-Nicoli não conseguia acreditar em si mesma. Não estava com medo. Pela primeira vez em anos, sentia-se no controle. Sentia que se importava com algo. Ela ia fazer aquilo.
+Nicoli não conseguia acreditar em sua própria força. Não estava com medo. Pela primeira vez em anos, sentia-se no controle. Sentia que se importava com algo. Ela ia fazer aquilo.
 
 "Nicoli!" gritou seu gerente.
 

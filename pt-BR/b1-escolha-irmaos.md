@@ -6,6 +6,7 @@ key: brothers-choice
 date: 2025-11-11
 reviewers:
 - Pedro Ruan Rocha de Oliveira
+- Pedro Luiz Guimarães Filho
 ---
 
 "Este é um relógio muito bonito", disse o amigo de Lourenço, parando-o no corredor.
@@ -16,7 +17,7 @@ reviewers:
 
 "Era do meu pai. Ele também colecionava relógios. Comprava em leilões, mesmo quando eram velhos, quebrados e sujos. Depois, consertava e os deixava bonitos de novo. Este era o favorito dele."
 
-"Mas eu pensei que seu pai não tinha deixado nada para você no testamento?"
+"Mas eu pensei que seu pai não tinha deixado nada para você no testamento."
 
 "Isso não é completamente verdade. Quando ele morreu, meus irmãos e eu nos encontramos com a advogada dele..."
 

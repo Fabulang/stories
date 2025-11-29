@@ -6,6 +6,7 @@ key: very-tasteful-green
 date: 2025-11-10
 reviewers:
 - Pedro Ruan Rocha de Oliveira
+- Pedro Luiz Guimarães Filho
 ---
 
 A nova casa de André ficava em uma rua tranquila, em uma região cara do país. Ele tinha economizado por anos para poder se mudar para lá. A casa não era grande e precisava de uma nova decoração, mas ele estava feliz por deixar seu antigo bairro para trás.
@@ -60,4 +61,4 @@ Uma mulher abriu a porta. "Pois não?", disse ela.
 
 "Ah, olá", disse André. "Estou procurando o Beto."
 
-"Eu também!", disse a mulher. "Paguei para ele redecorar minha casa enquanto eu estava de férias. Ele tomou todo o meu chá e comeu todos os meus biscoitos — mas minhas paredes continuam daquele verde horrível!"
+"Eu também!", disse a mulher. "Paguei para ele redecorar minha casa enquanto eu estava de férias. Ele tomou todo o meu chá e comeu todos os meus biscoitos — mas minhas paredes continuam naquele verde horrível!"

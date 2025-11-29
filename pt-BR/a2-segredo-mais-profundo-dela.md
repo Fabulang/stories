@@ -6,6 +6,7 @@ key: her-deepest-secret
 date: 2025-11-11
 reviewers:
 - Pedro Ruan Rocha de Oliveira
+- Pedro Luiz Guimarães Filho
 ---
 
 "Há algo incomum nesta pintura", disse o guia. "Vocês conseguem ver o que é?"
@@ -40,7 +41,7 @@ Os outros turistas assentiram, parecendo impressionados. A mãe não olhava.
 
 "Luís!", disse a mãe. Ela se virou para o guia. "Desculpe pelo meu filho. Eu não consigo ensiná-lo a ficar quieto."
 
-"Posso entender por que isso é difícil para a senhora", disse alguém.
+"Posso entender porque isso é difícil para a senhora", disse alguém.
 
 "Sim, ele é uma criança muito difícil."
 

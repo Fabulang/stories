@@ -6,6 +6,7 @@ key: perfect-case
 date: 2023-06-10
 reviewers:
 - Ghiznuk
+- Soufiane Chouardi
 ---
 
 Le détective privé était assis à son bureau. Personne ne l'avait engagé depuis longtemps. Quand une femme est entrée dans le bureau, il a failli tomber de sa chaise.
@@ -24,7 +25,7 @@ Il était ravi. C'était la grande affaire qu'il attendait.
 
 «C'est terrible», a dit le détective. «Quoi d'autre?»
 
-«Il me regarde souvent, ou me suit partout. Je pense qu'il m'espionne.»
+«Il me regarde souvent ou me suit partout. Je pense qu'il m'espionne.»
 
 «Quels secrets cachez-vous?» a demandé le détective.
 
@@ -36,7 +37,7 @@ C'est vous, le détective. C'est à vous de *me* le dire. Mais j'ai une idée.»
 
 «Oui?»
 
-«Il ne parle jamais, et il marche à quatre patte. Il est très étrange. Je pense que ce pourrait être un extraterrestre.»
+«Il ne parle jamais, et il marche à quatre patte. Il est très étrange. Je pense que ça pourrait être un extraterrestre.»
 
 Le détective a réalisé que ce n'était pas la grande affaire qu'il attendait.
 

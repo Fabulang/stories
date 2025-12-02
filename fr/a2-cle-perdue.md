@@ -26,9 +26,9 @@ Une semaine plus tard, une vieille femme s'est présentée à sa porte.
 
 «Entrez, je vous en prie», a dit Nicolas. Il lui a offert quelque chose à boire et ils se sont assis.
 
-Puis, la femme a sorti une vieille boite en bois de son sac. Elle semblait lourde et solide. Elle l'a posée sur la table. Il y avait une grande serrure.
+Puis, la femme a sorti une vieille boîte en bois de son sac. Elle semblait lourde et solide. Elle l'a posée sur la table. Il y avait une grande serrure.
 
-Nicolas s'est levé rapidement. Il était très enthousiaste en lui donnant la clé. Elle a mis la clé dans la serrure et l'a tournée. Puis, elle a ouvert la boite.
+Nicolas s'est levé rapidement. Il était très enthousiaste en lui donnant la clé. Elle a mis la clé dans la serrure et l'a tournée. Puis, elle a ouvert la boîte.
 
 Nicolas a cherché des pièces d'or. Mais il n'y avait rien à l'intérieur, sauf une vieille lettre. Il s'est rassis, déçu.
 

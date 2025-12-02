@@ -63,7 +63,7 @@ La visite de Geneviève dans la ville s'est poursuivie. Lorsqu'ils sont arrivés
 
 Hugues n'a pas fait payer Geneviève pour le trajet. Il s'est excusé de ne pas avoir trouvé la statue.
 
-«S'il vous plait, ne vous excusez pas», a dit Geneviève. «Écoutez, je vous ai fait conduire dans toute la ville, et je n'ai même pas payé. Puis-je vous inviter à dîner?»
+«S'il vous plaît, ne vous excusez pas», a dit Geneviève. «Écoutez, je vous ai fait conduire dans toute la ville, et je n'ai même pas payé. Puis-je vous inviter à dîner?»
 
 Il y avait un petit restaurant de l'autre côté de la route. On leur a rapidement attribué une table, et Hugues a aidé Geneviève à comprendre le menu. Très vite, ils se sont retrouvés à déguster de délicieux plats locaux et à discuter joyeusement.
 

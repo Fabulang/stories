@@ -6,6 +6,7 @@ key: revolutionary-filing-system
 date: 2023-06-10
 reviewers:
 - Ghiznuk
+- Soufiane Chouardi
 ---
 
 Émile était secrétaire dans une entreprise animée. C'était un chouette endroit où travailler, mais il était négligé et sous-estimé. Sa patronne, Mme Castagne, était une femme plutôt sévère, qui avait l'habitude de le réprimander pour le désordre qui régnait dans son bureau.
@@ -22,10 +23,10 @@ Lorsque Mme Castagne a vu ce nouveau système pour la première fois, elle en a 
 
 «Bon travail», a-t-elle admis du bout des lèvres. Cependant, même si elle se sentait de plus en plus impressionnée au fil des semaines, elle refusait toujours de lui accorder sa promotion.
 
-La nouvelle du système révolutionnaire conçu par Émile a finalement atteint Monsieur le Directeur. Émile a été convoqué dans son bureau, où on lui a demandé de faire une démonstration de son système si spécial.
+La nouvelle du système révolutionnaire conçu par Émile est finalement parvenue à Monsieur le Directeur. Émile a été convoqué dans son bureau, où on lui a demandé de faire une démonstration de son système si spécial.
 
 «C'est du génie», s'est exclamé Monsieur le Directeur, visiblement conquis. «Émile, je veux que vous travailliez directement pour moi.»
 
 Ravi et triomphant, Émile a accepté la promotion sur-le-champ.
 
-Maintenant que ses talents avaient enfin été reconnus, Émile a soigneusement adapté son système pour le rendre plus simple à comprendre pour autrui. Mais son ancien système, plus complexe, était toujours d'application dans le bureau de son ancienne cheffe. Émile la voyait encore parfois, l'air perplexe, avec tas de documents en désordre tout autour d'elle.
+Maintenant que ses talents avaient enfin été reconnus, Émile a soigneusement adapté son système pour le rendre plus simple à comprendre pour autrui. Mais son ancien système, plus complexe, était toujours d'application dans le bureau de son ancienne cheffe. Émile la voyait encore parfois, l'air perplexe, avec un tas de documents en désordre tout autour d'elle.

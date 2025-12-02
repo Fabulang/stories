@@ -6,6 +6,7 @@ key: ahead-his-time
 date: 2023-06-17
 reviewers:
 - Ghiznuk
+- Soufiane Chouardi
 ---
 
 Charles était un scientifique extraordinaire. Malgré son génie, la prestigieuse revue scientifique *Notre Époque* rejetait systématiquement ses articles. La lettre de refus du rédacteur en chef concluait toujours que les idées de Charles étaient d'une radicalité excessive.

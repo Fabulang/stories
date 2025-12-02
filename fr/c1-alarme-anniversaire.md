@@ -6,6 +6,7 @@ key: birthday-alarm
 date: 2023-06-24
 reviewers:
 - Ghiznuk
+- Soufiane Chouardi
 ---
 
 Georges était un homme d'affaires prospère, connu pour son acuité et sa mémoire affutée. Pourtant, il y avait une chose dont il n'arrivait jamais à se souvenir: l'anniversaire de sa femme. Sa femme, Marguerite, avait toujours fait preuve de patience, mais chaque anniversaire oublié était comme une épine dans son cœur.

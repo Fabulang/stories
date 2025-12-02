@@ -6,6 +6,7 @@ key: ghosts-theatre
 date: 2023-07-13
 reviewers:
 - Ghiznuk
+- Soufiane Chouardi
 - Ashlyn Cleys
 ---
 
@@ -23,7 +24,7 @@ Christian a regardé sa montre. Il était presque minuit. Il était assis dans l
 
 Une lumière fantomatique a envahi la scène, et le fantôme d'Adélaïde la Magnifique est apparu. Sa peau était d'une pâleur squelettique, et sa belle robe était déchirée et sale. Et pourtant, elle était belle.
 
-Puis elle a commencé à chanter. C'était le son le plus triste que Christian avait jamais entendu. Sa voix tremblait d'émotion tandis qu'elle glissait lentement sur la scène. Lorsqu'elle a chanté la dernière note, Christian était en larmes.
+Puis, elle a commencé à chanter. C'était le son le plus triste que Christian avait jamais entendu. Sa voix tremblait d'émotion tandis qu'elle glissait lentement sur la scène. Lorsqu'elle a chanté la dernière note, Christian était en larmes.
 
 Il a sauté de son siège et a applaudi fort. «Magnifique!» a-t-il crié.
 

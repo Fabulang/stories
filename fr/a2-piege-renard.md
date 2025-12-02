@@ -6,13 +6,14 @@ key: foxs-trap
 date: 2024-09-08
 reviewers:
 - Ghiznuk
+- Soufiane Chouardi
 ---
 
-Mlle Souris était dans sa chambre, dans sa maison dans la forêt. Sa maison était à l'intérieur d'une petite buche par terre. Elle avait quatre fenêtres, une porte d'entrée, une porte arrière, et une petite cheminée.
+Mlle Souris était dans sa chambre, dans sa maison dans la forêt. Sa maison était à l'intérieur d'une petite bûche par terre. Elle avait quatre fenêtres, une porte d'entrée, une porte arrière, et une petite cheminée.
 
-Souris se regardait dans son miroir. «Mes oreilles sont tellement grandes», a-t-elle dit tristement. «Les autres animaux se moquent de moi.» Elle a soupiré.
+Souris se regardait dans le miroir. «Mes oreilles sont tellement grandes», a-t-elle dit tristement. «Les autres animaux se moquent de moi.» Elle a soupiré.
 
-Dehors, M. Renard passait près de la buche. Il a entendu ce que disait Souris. Il s'est approché en silence.
+Dehors, M. Renard passait près de la bûche. Il a entendu ce que disait Souris. Il s'est approché en silence.
 
 «J'aimerais être comme Mlle Papillon», a continué Souris. «Tout le monde aime Papillon. Elle est tellement jolie. Ses ailes sont si belles, si colorées. Et elle a de si petites oreilles! La vie est facile pour elle.»
 
@@ -28,7 +29,7 @@ La voix de Renard était calme et amicale. «Je te plains. Moi aussi je suis tr�
 
 «Non!» a dit Souris, les yeux grands ouverts.
 
-«Eh bien, sors de ta buche, je vais t'y emmener», a dit Renard.
+«Eh bien, sors de ta bûche, je vais t'y emmener», a dit Renard.
 
 Souris a bien réfléchi. Elle s'est à nouveau regardée dans le miroir. Elle a vu ses grandes oreilles.
 
@@ -38,7 +39,7 @@ Les yeux de Renard étaient grands ouverts. «Ce n'est pas du tout un problème�
 
 Le petit cœur de Souris battait vite tandis qu'elle mettait ses chaussures. Elle a ouvert la porte. Renard attendait patiemment. Lentement, Souris s'est avancée vers lui.
 
-Une fois Souris devant la bouche de Renard, celui-ci a dit: «Combien de nièces et de neveux? Et quel âge est-ce qu'ils ont?»
+Une fois Souris devant la bouche de Renard, celui-ci a dit: «Combien de nièces et de neveux? Et quel âge ont-ils?»
 
 «J'ai douze nièces et huit neveux», a dit Souris. «Ils passent tous leurs examens finaux. Ils sont très mignons.»
 

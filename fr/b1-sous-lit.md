@@ -9,7 +9,7 @@ reviewers:
 - Gabin Ballas
 ---
 
-«Fais de beaux rêves, chérie», a dit la maman de Dorothée. Elle a éteint la lumière et a fermé la porte.
+«Fais de beaux rêves, ma chérie», a dit la maman de Dorothée. Elle a éteint la lumière et a fermé la porte.
 
 Dorothée se sentait en sécurité. Son oreiller était doux, sa couette était épaisse et chaude. Autour de son lit se trouvaient ses jouets préférés: toutes sortes d'avions. Son rêve était de devenir pilote.
 

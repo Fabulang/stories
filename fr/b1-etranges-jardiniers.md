@@ -44,4 +44,4 @@ Tout le monde a applaudi, et le couple a souri aux caméras.
 
 Quand l'émission est passée à la télévision, M. Thierry l'a regardée.
 
-«Nous aimons jardiner le soir», a dit son voisin, «quand il fait moins chaud. Mais si nous avons besoin de parler, nous chuchotons toujours, pour ne pas réveiller notre voisin, M. Thierry. Il est très étrange!»
+«Nous aimons jardîner le soir», a dit son voisin, «quand il fait moins chaud. Mais si nous avons besoin de parler, nous chuchotons toujours, pour ne pas réveiller notre voisin, M. Thierry. Il est très étrange!»

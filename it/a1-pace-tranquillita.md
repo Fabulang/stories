@@ -10,13 +10,13 @@ reviewers:
 
 Roberto vive da solo. Gli piace che la sua vita sia pacifica e silenziosa. Ha una routine. Ogni giorno, medita per un'ora dopo il lavoro. Poi cucina un pasto sano e guarda un episodio de *Lo Spettacolo del Giardinaggio* in televisione. Infine, ascolta musica classica e va a dormire.
 
-Un giorno, Roberto cucina una bistecca di tonno. Presto, è pronta da mangiare. Si siede, e prende il coltello e la forchetta. Poi sente un rumore: un tocco leggero. Qualcuno è alla sua porta. È molto insolito. Tutti i suoi vicini sanno che a Roberto piace stare da solo.
+Un giorno, Roberto cucina una bistecca di tonno. Poco dopo, è pronta da mangiare. Si siede, e prende il coltello e la forchetta. Poi sente un rumore: un tocco leggero. Qualcuno è alla sua porta. È molto insolito. Tutti i suoi vicini sanno che a Roberto piace stare da solo.
 
 Roberto si alza e apre la porta. Non appena la porta si apre, qualcosa di piccolo corre dentro. Roberto vede che è un gattino. Il gattino si posa sulla sedia di Roberto.
 
 "Vattene!" dice Roberto.
 
-Corre verso il gattino. Cerca di afferrarlo. Ma il gattino è troppo veloce. Salta in giro come una cavalletta. Ora è sopra il frigorifero. Poi è sotto il divano, nel lavandino, sul suo letto. Roberto insegue ovunque il gattino.
+Corre verso il gattino. Cerca di afferrarlo. Ma il gattino è troppo veloce. Salta in giro come una cavalletta. Ora è sopra il frigorifero. Poi è sotto il divano, nel lavandino, sul suo letto. Roberto insegue il gattino ovunque.
 
 Alla fine, Roberto è sudato. Si siede e mangia la sua bistecca di tonno. Il gattino viene e si siede sul tavolo di fronte a lui. Roberto guarda il gattino. È magro e ha solo un orecchio. Ha il pelo rosso e occhi grandi e luminosi.
 
@@ -36,4 +36,4 @@ Poi, otto gattini corrono verso di loro. Miagolano tutti insieme. Hanno fame.
 
 "Come si chiamano?" chiede la donna. Il miagolio è così forte che quasi deve gridare.
 
-"Questo si chiama Pace", dice forte, accarezzando il gatto nero. "E questo si chiama Tranquillità." Accarezza il gatto rosso. La donna vede che ha solo un orecchio.
+"Questo si chiama Pace", dice Roberto a voce alta, accarezzando il gatto nero. "E questo si chiama Tranquillità." Accarezza il gatto rosso. La donna vede che ha solo un orecchio.

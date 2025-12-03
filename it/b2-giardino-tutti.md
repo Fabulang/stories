@@ -14,11 +14,11 @@ Nessuno si prendeva cura del giardino, perché non era responsabilità di nessun
 
 Un giorno, Amanda non ne poteva più. Si è svegliata presto, ha indossato i guanti e ha iniziato a tagliare e scavare. Ha tolto le erbacce e scavato le loro radici. È stato un lavoro duro. Alle otto ha dovuto smettere, mettere via gli attrezzi e andare al lavoro.
 
-Amanda ha continuato a lavorare nel giardino ogni giorno, di mattina presto. Ci sono volute settimane prima che l'ultima erba infestante fosse stata finalmente rimossa. Poi ha piantato fiori, viti e cespugli di bacche.
+Amanda ha continuato a lavorare nel giardino ogni giorno, di mattina presto. Ci sono volute settimane prima che l'ultima erba infestante stata finalmente rimossa. Poi ha piantato fiori, viti e cespugli di bacche.
 
 I fiori sono fioriti, l'estate è arrivata, e i frutti sono cresciuti. Il giardino era splendido. L'intero edificio si era trasformato: sembrava davvero accogliente. Questo ha fatto sì che Amanda desiderasse tornare a casa dopo il lavoro.
 
-Nel fine settimana, Amanda ha passeggiato nel suo nuovo giardino. Ha sfiorato le foglie con la punta delle dita. Ha annusato il profumo fresco dei fiori. Ha sentito l'erba morbida e riscaldata dal sole, sotto i piedi.
+Nel fine settimana, Amanda ha passeggiato nel suo nuovo giardino. Ha sfiorato le foglie con la punta delle dita. Ha annusato il profumo fresco dei fiori. Ha sentito l'erba morbida e riscaldata dal sole sotto i piedi.
 
 Molti dei frutti erano maturi. Amanda ha colto una fragola e l'ha mangiata. Era dolce, succosa e profumata. Ne ha gustato il sapore.
 
@@ -36,7 +36,7 @@ Il *tuo* pezzo di giardino?"
 
 Amanda era profondamente turbata. Se n'è andata in fretta e furia.
 
-Qualche anno dopo, Amanda viveva in una parte diversa della città. Aveva quasi dimenticato il suo vecchio appartamento e il giardino che aveva creato. Per puro caso, stava guidando nel suo vecchio quartiere, e ha passato il vecchio palazzo.
+Qualche anno dopo, Amanda viveva in una parte diversa della città. Aveva quasi dimenticato il suo vecchio appartamento e il giardino che aveva creato. Per puro caso, stava guidando nel suo vecchio quartiere, ed è passata vicino al vecchio palazzo.
 
 "Non è lì che abitavi, cara?" le ha chiesto il marito.
 

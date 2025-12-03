@@ -6,6 +6,7 @@ key: athletes-talent
 date: 2023-10-25
 reviewers:
 - Carlotta Belluzzi
+- Laura Baro
 - Francesca RC
 ---
 
@@ -13,7 +14,7 @@ Le strade dell'antica Elide erano molto affollate. Uomini e donne in tunica svol
 
 Ma Elpidios era seduto con la testa tra le ginocchia. Era venuto a Elide per seguire il suo sogno e diventare un atleta. Ma era un povero contadino e non poteva permettersi di pagare qualcuno per allenarlo.
 
-Tutti gli allenatori erano d'accordo che avesse talento. Ma loro non volevano studenti che avevano talento. Volevano studenti che avevano soldi.
+Tutti gli allenatori concordavano che lui avesse talento. Ma loro non volevano studenti che avevano talento. Volevano studenti che avevano soldi.
 
 "Sogni le Olimpiadi?" ha detto una voce.
 
@@ -27,9 +28,9 @@ Elpidios si è alzato, un po' sorpreso.
 
 "Non sono un allenatore", ha detto l'anziano. "Ma so che hai talento. So che se credi nel tuo sogno, puoi realizzarlo. E so come aiutarti."
 
-Elpidios e l'uomo misterioso si sono incontrati ogni giorno all'alba. L'uomo aiutava Elpidios a fare esercizio, a migliorare la sua tecnica e a sfidare se stesso a correre sempre più veloce. La sera, Elpidios condivideva la sua cena con l'uomo. Non c'era altro pagamento.
+Elpidios e l'uomo misterioso si sono incontrati ogni giorno, all'alba. L'uomo aiutava Elpidios a fare esercizio, a migliorare la sua tecnica e a sfidare se stesso a correre sempre più veloce. La sera, Elpidios condivideva la sua cena con l'uomo. Non c'era altro tipo di pagamento.
 
-I mesi sono passati, fino a quando finalmente sono iniziate le Olimpiadi. Elpidios si è iscritto come concorrente. Gli altri atleti erano più alti di lui. Indossavano tuniche colorate e portavano gioielli. Si sono messi a ridere di Elpidios quando è arrivato con l'anziano al suo fianco.
+I mesi sono passati, fino a quando finalmente sono iniziate le Olimpiadi. Elpidios si è iscritto come concorrente. Gli altri atleti erano più alti di lui. Indossavano tuniche colorate e portavano gioielli. Si sono messi a ridere di Elpidios quando lui è arrivato con l'anziano al suo fianco.
 
 "Ricorda tutto quello che ti ho insegnato", ha detto l'anziano prima che iniziasse la corsa. "Ma soprattutto, ricorda che ora sei un atleta olimpico. Goditi il tuo sogno."
 
@@ -41,7 +42,7 @@ Dopo la corsa, l'anziano ha trovato Elpidios con la testa tra le gambe, fuori da
 
 "Ma non ho vinto. Non riceverò alcun onore. Ho fallito!"
 
-"Ho solo un'altra lezione da insegnarti, Elpidios. Quaranta anni fa, ero un contadino, come te. Sognavo di competere nelle Olimpiadi. Ho realizzato il mio sogno. Ho partecipato alla corsa. Sono arrivato secondo."
+"Ho solo un'altra lezione da insegnarti, Elpidios. Quarant'anni fa, ero un contadino, come te. Sognavo di competere nelle Olimpiadi. Ho realizzato il mio sogno. Ho partecipato alla corsa. Sono arrivato secondo."
 
 Elpidios è rimasto stupito. "E poi cosa hai fatto?"
 

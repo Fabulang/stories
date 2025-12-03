@@ -12,7 +12,7 @@ reviewers:
 
 C'è stato un forte colpo alla porta. Viviana ha aperto con forza. Sulla veranda si trovava il Governatore Supremo della città, fiancheggiato da un gruppo di severe guardie del corpo.
 
-"Ho sentito che tu vendi sogni", ha detto il Governatore, mentre i suoi occhi freddi riflettevano i lampioni al neon della strada. "Ho bisogno di una nuova esperienza. Ho bisogno di sentirmi estasiato. Deve essere trascendentale. Ho sentito dire che tu puoi farlo."
+"Ho sentito che tu vendi sogni", ha detto il Governatore, mentre i suoi occhi freddi riflettevano i lampioni al neon della strada. "Ho bisogno di una nuova esperienza. Ho bisogno di sentirmi estasiato. Deve essere un'esperienza trascendentale. Ho sentito dire che tu puoi farlo."
 
 "Il costo è lo stesso per tutti", ha risposto dolcemente Viviana. "Vuoi un sogno? Dai un sogno."
 
@@ -32,7 +32,7 @@ Viviana ha premuto il pulsante. Un lento battito di ciglia, un tremito, e tutto 
 
 "Quello... quello era... mio Dio..." ha mormorato il Governatore.
 
-Mentre il Governatore usciva nel buio della notte, e i suoi uomini uscivano dalla piccola stanza, la stessa guardia del corpo di prima si è fermata e ha incrociato lo sguardo di Viviana.
+Mentre il Governatore spariva nel buio della notte, e i suoi uomini uscivano dalla piccola stanza, la stessa guardia del corpo di prima si è fermata e ha incrociato lo sguardo di Viviana.
 
 "Sai cosa è matematicamente impossibile?" ha sibilato. "La tua vita, se ne parli a qualcuno."
 

@@ -27,7 +27,7 @@ L'uomo le porge una torcia. "Prendi questa." Lei la respinge.
 
 Il viso dell'uomo è pallido. "Non voglio sapere cosa c'è lì dentro", dice. "Per favore, risolvi solo il nostro... problema."
 
-"Assicurati solo che il secondo pagamento arrivi in tempo", dice la signorina Acciaio. Poi entra nella scuola. La porta si chiude rumorosamente dietro di lei.
+"Assicùrati solo che il secondo pagamento arrivi in tempo", dice la signorina Acciaio. Poi entra nella scuola. La porta si chiude rumorosamente dietro di lei.
 
 Non c'è alcuna luce. Non riesce a vedere niente. Tocca le pareti con le mani. La pietra è fredda.
 
@@ -35,7 +35,7 @@ Cammina in avanti. I suoi passi sono rumorosi. Sono l'unico suono. Tiene la sua 
 
 Dall'altra parte dell'atrio principale, c'è un corridoio lungo e stretto. Ci sono molte porte alla sua sinistra e destra. Conta le porte. Una, due, tre. Si ferma. Trattiene il respiro.
 
-Sotto la terza porta, può vedere un po' di luce. La luce è molto fioca, con un pallido colore viola. Ascolta. C'è un suono di ticchettio e graffi.
+Sotto la terza porta, scorge un po' di luce. La luce è molto fioca, con un pallido colore viola. Si mette ad ascoltare. C'è un suono di ticchettio e graffi.
 
 Entra nella stanza. La porta scricchiola rumorosamente. La stanza è grande, con molti tavoli e sedie.
 
@@ -59,13 +59,13 @@ Il ragazzino non risponde. Il gesso ticchetta e graffia. Lentamente, la signorin
 
 "Sono pessimo in matematica!" grida il ragazzino. "Allora il professore mi ha punito. Mi ha dato questo problema. Ha detto: 'Non puoi andartene finché non lo risolvi!' Cinquecento diciassette mila..."
 
-"E stai ancora provando? Da quanto tempo...?"
+"E ci stai ancora provando? Da quanto tempo...?"
 
 "Non lo so... la candela è ancora... oh... dov'è la candela?"
 
-Il ragazzino cerca la candela con lo sguardo. Non sta guardando la signorina Acciaio.
+Il ragazzino cerca la candela con lo sguardo. Non guarda la signorina Acciaio.
 
-Silenziosamente, la signorina Acciaio apre la sua borsa. Osservando il ragazzino, cerca dentro la borsa. Lentamente, tira fuori un piccolo oggetto nero. Lo mette sul tavolo.
+Silenziosamente, la signorina Acciaio apre la sua borsa. Osservando il ragazzino, cerca qualcosa dentro la borsa. Lentamente, tira fuori un piccolo oggetto nero. Lo mette sul tavolo.
 
 "Cos'è quello?" dice improvvisamente il ragazzino.
 

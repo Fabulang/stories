@@ -5,8 +5,8 @@ cefr: a1
 key: seeing-clearly
 date: 2023-10-25
 reviewers:
-- Danielle DiPietro-Hawkins
 - Carlotta Belluzzi
+- Danielle DiPietro-Hawkins
 ---
 
 "Sei pronta?" grida il marito di Elisa.
@@ -29,7 +29,7 @@ Il suo ginocchio colpisce una sedia.
 
 "Non ho bisogno degli occhiali."
 
-"Sono qui, tesoro", dice il marito.
+"Io sono qui, tesoro", dice il marito.
 
 "Non mi piacciono i miei occhiali."
 

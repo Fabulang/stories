@@ -25,7 +25,7 @@ Davanti a lei c'erano sette uomini. Erano i capi del paese.
 
 "Voglio aiutare il paese."
 
-L'uomo anziano ha riso. "Non puoi aiutare. Piove a causa di una strega malvagia. Abbiamo provato ad ucciderla. Abbiamo fallito -- e noi siamo *uomini*. Tu sei solo una bambina."
+L'uomo anziano ha riso. "Non puoi aiutarci. Piove a causa di una strega malvagia. Abbiamo provato ad ucciderla. Abbiamo fallito... e noi siamo *uomini*. Tu sei solo una bambina."
 
 Le rocce erano bagnate. Era difficile arrampicarsi sulla montagna. Beatrice ha scalato per ore. In cima, non stava piovendo. Era ormai buio, ma ha visto il castello della strega.
 

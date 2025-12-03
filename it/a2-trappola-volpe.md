@@ -13,7 +13,7 @@ La signorina Topo era nella sua stanza, nella sua casa nella foresta. La sua cas
 
 Topo si stava guardando allo specchio. "Le mie orecchie sono così grandi", ha detto tristemente. "Gli altri animali ridono di me." Ha sospirato.
 
-Fuori dal tronco, il signor Volpe stava passando. Ha sentito quello che ha detto Topo. Si è avvicinato silenziosamente.
+Fuori dal tronco, il signor Volpe era di passaggio. Ha sentito quello che ha detto Topo. Si è avvicinato silenziosamente.
 
 "Vorrei essere come Farfalla", ha continuato Topo. "Tutti amano Farfalla. È così carina. Le sue ali sono così attraenti e colorate. E che orecchie piccole! La vita è facile per lei."
 
@@ -55,7 +55,7 @@ Volpe ha iniziato a correre. Topo poteva vedere la lingua di Volpe, che si lecca
 
 "Mi dispiace", ha detto Topo. "È proprio lì."
 
-Potevano vedere il campo tra due grandi alberi. Volpe ha corso velocemente.
+Potevano scorgere il campo tra due grandi alberi. Volpe ha corso velocemente.
 
 C'è stato un forte rumore. Volpe ha urlato. Il suo piede era rimasto incastrato in una trappola.
 

@@ -15,9 +15,9 @@ Grazia e Tommaso avevano comprato una casa insieme di recente. Entrambi, poco pi
 
 "Cosa c'è, amore?" ha detto Tommaso, alzandosi al suo fianco, preoccupato.
 
-Raj Raichand, l'influencer mediatico miliardario, aveva annunciato un regalo a sorpresa. Le prime cento persone che avevano commentato la sua ultima foto avevano vinto un tour del mondo di ottanta giorni sul suo yacht di lusso, tutto pagato, per due persone. Per puro caso, Grazia era stata l'ottantanovesima persona a commentare, su settantamila.
+Raj Raichand, l'influencer mediatico miliardario, aveva annunciato un regalo a sorpresa. Le prime cento persone a commentare la sua ultima foto avrebbero vinto un tour del mondo di ottanta giorni sul suo yacht di lusso, tutto pagato, per due persone. Per puro caso, Grazia era stata l'ottantanovesima persona a commentare, su settantamila.
 
-Si sono gettati l'uno nelle braccia dell'altra e si sono baciati. Non erano mai stati così fortunati nella loro vita. Grazia non seguiva nemmeno l'account di Raichand. La foto le era stata suggerita dall'algoritmo. Mostrava il signor Raichand raggiante di gioia, con un cocktail e una bellissima donna ad ogni braccio. Grazia aveva commentato: 'Vita da sogno!'
+Si sono gettati l'uno nelle braccia dell'altra e si sono baciati. Non erano mai stati così fortunati nella loro vita. Grazia non seguiva nemmeno l'account di Raichand. La foto le era stata suggerita dall'algoritmo. Mostrava il signor Raichand raggiante di gioia, con un cocktail e una bellissima donna sotto ciascun braccio. Grazia aveva commentato: 'Vita da sogno!'
 
 Dopo solo una settimana, Grazia e Tommaso sono stati accolti sul gigantesco yacht con bicchieri del miglior champagne. Hanno conosciuto gli altri vincitori, lo staff e la troupe cinematografica che avrebbe documentato il loro viaggio, ma il miliardario non c'era da nessuna parte.
 
@@ -31,7 +31,7 @@ L'ultima notte della crociera hanno scorto finalmente il signor Raichand in pers
 
 "È stato un dono davvero generoso", ha detto Tommaso.
 
-Il signor Raichand non ha risposto. Non ha girato la testa, né si è mosso affatto.
+Il signor Raichand non ha risposto. Non ha girato la testa, e non si è mosso di un millimetro.
 
 "Lasciamolo in pace", ha sussurrato Grazia. Entrambi sono tornati alla festa d'addio.
 

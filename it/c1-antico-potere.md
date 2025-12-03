@@ -10,7 +10,7 @@ reviewers:
 
 Giacomina era un'archeologa ambiziosa. Nelle sue ricerche, aveva trovato numerosi riferimenti a un potente artefatto antico. I suoi colleghi continuavano a dirle che era un mito, ma Giacomina sapeva che le prove erano troppo convincenti. Esisteva per davvero.
 
-La teoria di Giacomina era che un'antica civiltà avesse nascosto l'artefatto per proteggere il mondo dal suo potere. Ma avevano lasciato indizi, nel caso in cui avessero avuto bisogno di ritrovarlo. Giacomina ha trovato quegli indizi, ma non combaciavano. Mancava qualcosa.
+La teoria di Giacomina era che un'antica civiltà avesse nascosto l'artefatto per proteggere il mondo dal suo potere. Ma avevano lasciato indizi, nel caso in cui avessero avuto bisogno di ritrovarlo. Giacomina aveva trovato quegli indizi, ma non combaciavano. Mancava qualcosa.
 
 Un giorno, una giovane donna è entrata nel suo ufficio portando un'antica pergamena. "Mi chiamo Angelica", ha detto. "La mia famiglia ha custodito questa pergamena per generazioni."
 
@@ -20,13 +20,13 @@ Giacomina ha capito subito che era l'ultimo pezzo del puzzle.
 
 "Io so leggerlo", ha detto Angelica. "Mia madre mi ha insegnato la lingua. Ecco perché verrò con te, come tua traduttrice."
 
-La loro ricerca le ha condotte a tombe nascoste in Egitto, grotte sottomarine in Grecia e monasteri abbandonati nell'Himalaya. In una tomba in rovina sotto Roma, un masso ha rischiato di quasi porre fine definitivamente alla ricerca di Giacomina. Angelica l'ha spinta via ppena in tempo.
+La loro ricerca le ha condotte a tombe nascoste in Egitto, grotte sottomarine in Grecia e monasteri abbandonati nell'Himalaya. In una tomba in rovina sotto Roma, un masso ha rischiato di porre fine definitivamente alla ricerca di Giacomina. Angelica l'ha spinta via ppena in tempo.
 
 Infine, hanno scoperto un tempio nel cuore della foresta pluviale amazzonica. La sua porta di pietra era scolpita con simboli nell'antica lingua. Angelica l'ha letta ad alta voce, e la porta si è aperta cigolando.
 
-Tutto era buio all'interno, tranne per una strana luce. Un sfera dorata fluttuava sopra un piedistallo al centro della camera.
+Tutto era buio all'interno, tranne una strana luce. Un sfera dorata fluttuava sopra un piedistallo al centro della stanza.
 
-Giacomina ha aperto la sua borsa e ha preso la sfera. Non appena la sua mano l'ha toccata le è stato conferito il suo potere. All'improvviso, poteva leggere la mente di Angelica. Conosceva il suo segreto.
+Giacomina ha aperto la sua borsa e ha preso la sfera. Non appena la sua mano l'ha toccata, le è stato conferito il suo potere. All'improvviso, poteva leggere la mente di Angelica. Conosceva il suo segreto.
 
 "Perché non mi hai detto che sei mia nipote?" le ha chiesto, stupita.
 

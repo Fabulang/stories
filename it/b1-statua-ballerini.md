@@ -49,7 +49,7 @@ L'autista ha teso la mano. Ginevra ha riso e l'ha stretta.
 
 "Ginevra."
 
-Era una bella giornata, e Ginevra si è goduta la città vedendola attraverso il finestrino. Ugo parlava della città mentre guidavano. Grazie a lui, ha notato dettagli incredibili e ha apprezzato la città come una persona del posto. Dopo poco tempo, Ginevra ha messo via il suo libro.
+Era una bella giornata, e Ginevra si è goduta la città vedendola attraverso il finestrino. Ugo parlava della città mentre guidavano. Grazie a lui, Ginevra ha notato dettagli incredibili e ha apprezzato la città come una persona del posto. Dopo poco tempo, Ginevra ha messo via il suo libro.
 
 La prima statua non era quella giusta, ma Ugo continuava a sorridere. "Sei fortunata", ha detto. "Ora vedrai il fiume, andando verso la statua numero due."
 
@@ -65,8 +65,8 @@ Ugo non ha fatto pagare Ginevra per il viaggio. Si è scusato per non aver trova
 
 "Ti prego, non scusarti", ha detto Ginevra. "Ascolta, ti ho fatto guidare in tutta la città, e non ho nemmeno pagato. Posso offrirti la cena?"
 
-C'era un piccolo ristorante proprio dall'altra parte della strada. Hanno avuto un tavolo velocemente, e Ugo ha aiutato Ginevra a capire il menu. Presto, entrambi stavano gustando del cibo locale delizioso e parlando felicemente.
+C'era un piccolo ristorante proprio dall'altra parte della strada. Hanno dato loro un tavolo molto velocemente, e Ugo ha aiutato Ginevra a capire il menu. Presto, entrambi stavano gustando del cibo locale delizioso e parlando felicemente.
 
 "Devo dirti una cosa, Ginevra", ha detto Ugo, mentre bevevano caffè quella sera. "Avrei dovuto smettere di lavorare a mezzogiorno. Solo che... non volevo dire addio."
 
-"Devo dirti una cosa anch'io", ha detto Ginevra, guardandolo sopra la sua tazza. "*La Statua dei Ballerini*... era la seconda."
+"Devo dirti una cosa anch'io", ha detto Ginevra, guardandolo su dalla sua tazza. "*La Statua dei Ballerini*... era la seconda."

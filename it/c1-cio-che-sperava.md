@@ -14,7 +14,7 @@ A Parigi, mentre ammirava la Torre Eiffel e si concedeva delle crêpes, la citt�
 
 Delusa, Giulietta ha deciso di tornare a casa in anticipo. Mentre aspettava all'aeroporto, si è ritrovata seduta accanto a un giovane con uno zaino consumato. Hanno iniziato a parlare, e lei ha scoperto che lui si chiamava Augusto.
 
-"Speravo di scoprire qualcosa di sorprendente nel mio viaggio", ha detto Augusto. "Ma ovunque andassi -- Parigi, Roma, Londra -- mancava qualcosa."
+"Speravo di scoprire qualcosa di sorprendente nel mio viaggio", ha detto Augusto. "Ma ovunque andassi... Parigi, Roma, Londra... mancava qualcosa."
 
 Giulietta ha descritto la propria disillusione.
 

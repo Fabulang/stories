@@ -22,13 +22,13 @@ La bambina si è girata dall'altra parte.
 
 Così il papà è uscito e è tornato con un nuovo cibo per bebè. La scatola era molto artistica. Diceva: *"Piccoli Tesori" Mango e Broccoli*.
 
-"Delizioso!" ha detto la mamma alla bambina. "Ho scritto un articolo su questo la settimana scorsa. È un gusto molto alla moda."
+"Delizioso!" ha detto la mamma alla bambina. "Ho scritto un articolo su questo cibo la settimana scorsa. È un gusto molto alla moda."
 
 Ma quando ha cercato di darlo alla bambina, la bambina ha iniziato a piangere.
 
 Il papà sembrava preoccupato. "Cosa possiamo fare? Le stiamo dando il miglior cibo, ma non vuole mangiare!"
 
-Poi la bambina ha visto delle verdure in cucina. Le ha indicate. Mamma ha preso la bambina in braccio e l'ha portata in cucina. La bambina ha guardato le verdure. I suoi occhi erano aperti e pieni di meraviglia.
+Poi la bambina ha visto delle verdure in cucina. Le ha indicate. Mamma ha preso la bambina in braccio e l'ha portata in cucina. La bambina ha guardato le verdure. I suoi occhi erano spalancati e pieni di meraviglia.
 
 La bambina ha indicato una carota.
 
@@ -44,7 +44,7 @@ La bambina l'ha afferrata. Poi ha indicato un sacco di spinaci.
 
 La mamma ha cucinato le verdure e le ha mescolate insieme. Quando ha dato il cibo alla bambina, la bambina l'ha mangiato felicemente. Ha battuto le mani e ha riso.
 
-La mamma e il papà non sembravano felici. La mamma teneva la mano sulla fronte. Il volto del papà era pallido.
+La mamma e il papà non sembravano felici. La mamma aveva una mano sulla fronte. Il volto del papà era pallido.
 
 "È la figlia di due critici gastronomici..." ha detto la mamma.
 
@@ -52,4 +52,4 @@ La mamma e il papà non sembravano felici. La mamma teneva la mano sulla fronte.
 
 "È ancora peggio!" ha esclamato la mamma. Si è seduta.
 
-Il papà ha capito la verità terribile. "Dio mio -- è una chef!"
+Il papà ha capito la verità terribile. "Dio mio... è una chef!"

@@ -6,13 +6,14 @@ key: balloons-journey
 date: 2023-06-24
 reviewers:
 - Carlotta Belluzzi
+- Laura Baro
 ---
 
-Un giorno di sole, un palloncino rosso era nel parco con una giovane bambina. All'improvviso, il palloncino ha lasciato la sua mano e è salito nel cielo.
+Un giorno di sole, un palloncino rosso era nel parco con una bambina. All'improvviso, il palloncino ha lasciato la sua mano e è salito nel cielo.
 
-"Ritorna!" ha detto la bambina.
+"Tourna qui!" ha detto la bambina.
 
-Voleva scendere di nuovo. Ma il palloncino è salito sempre più in alto.
+Il palloncino voleva tornare giù. Ma è salito sempre più in alto.
 
 Prima, ha fluttuato sopra gli alberi. C'era un vecchio uccello che riposava in cima.
 
@@ -22,7 +23,7 @@ Prima, ha fluttuato sopra gli alberi. C'era un vecchio uccello che riposava in c
 
 Il palloncino ha fluttuato sopra il parco. Ha visto i bambini giocare e ridere. Alcuni di loro stavano giocando a calcio. C'era un bambino che era da solo. Stava guardando i bambini giocare. Gli altri bambini non giocavano con lui.
 
-Si è spostato più in alto e ha visto un mercato. Lì, ha visto persone che compravano e vendevano cose. Sembravano occupati. C'era una famiglia numerosa al negozio di alimentari. Il padre stava comprando molta frutta e verdura per la loro cena.
+Si è spostato più in alto e ha visto un mercato. Lì, ha visto persone che compravano e vendevano cose. Sembravano indaffarati. C'era una famiglia numerosa al negozio di alimentari. Il padre stava comprando molta frutta e verdura per la loro cena.
 
 Poi, il palloncino è salito molto in alto. Ha visto l'intera città sotto di sé. Ha visto case grandi e case piccole. Ha visto persone ricche e persone povere, persone anziane e persone giovani.
 

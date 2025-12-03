@@ -47,7 +47,7 @@ Il suo telefono emette un suono. C'è un nuovo messaggio. "Adesso mi credi?"
 
 Federica vuole andare in vacanza. Al lavoro c'è un progetto che è davvero difficile. Ha veramente bisogno di rilassarsi in vacanza.
 
-Federica compra un biglietto. Poi prepara la valigia. Mette gli occhiali da sole, il costume da bagno e il suo libro preferito.
+Federica compra un biglietto. Poi prepara la valigia. Ci mette gli occhiali da sole, il costume da bagno e il suo libro preferito.
 
 Nel fine settimana, Federica va alla stazione per prendere il treno. Va in aeroporto. In aeroporto, riceve un nuovo messaggio.
 
@@ -55,7 +55,7 @@ Nel fine settimana, Federica va alla stazione per prendere il treno. Va in aerop
 
 Federica spegne il telefono.
 
-Federica arriva al villaggio turistico. È una giornata calda e soleggiata. C'è una lussuosa piscina fuori dal suo hotel. È entusiasta. Indossa gli occhiali da sole e il costume da bagno.
+Federica arriva al villaggio turistico. È una giornata calda e soleggiata. C'è una lussuosa piscina fuori dal suo hotel. Lei è entusiasta. Indossa gli occhiali da sole e il costume da bagno.
 
 Va in piscina. Il bordo della piscina è molto bagnato. Improvvisamente, cade. Si fa male. Molte persone vengono ad aiutarla. La portano in ospedale.
 

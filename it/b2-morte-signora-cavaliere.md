@@ -1,5 +1,5 @@
 ---
-title: La morte della Signora Cavaliere
+title: La morte della signora Cavaliere
 locale: it
 cefr: b2
 key: death-mrs-knight
@@ -14,9 +14,9 @@ Il signor Cavaliere, suo marito, era seduto vicino alla finestra, gli occhi pien
 
 "Chi ha scoperto il cadavere?" ha chiesto l'investigatrice.
 
-"Sono stato io", ha singhiozzato il signor Cavaliere. "Lei aveva chiesto di restare da sola. Ma mi mancava, così le ho portato il pranzo. Ho preparato il suo piatto preferito: uova alla coque con toast imburrato e asparagi. È stato allora -- è stato allora -" Il marito non è riuscito a continuare.
+"Sono stato io", ha singhiozzato il signor Cavaliere. "Lei aveva chiesto di restare da sola. Ma mi mancava, così le ho portato il pranzo. Ho preparato il suo piatto preferito: uova alla coque con toast imburrato e asparagi. È stato allora --- è stato allora ---" Il marito non è riuscito a continuare.
 
-L'investigatrice Cacciatore ha annotato questo nel suo piccolo taccuino prima di proseguire. "Cosa stava facendo prima di trovare sua moglie?"
+L'investigatrice Cacciatore ha preso appunti sul suo piccolo taccuino prima di proseguire. "Cosa stava facendo prima di trovare sua moglie?"
 
 "Ero stato in giardino tutta la mattina", ha sussurrato lui. "Stavo curando le nostre rose."
 
@@ -38,12 +38,12 @@ L'investigatrice ha ispezionato attentamente il coltello. Ha tenuto il manico vi
 
 "Cosa?" ha esclamato lui, alzandosi. "È assurdo. Non l'avrei mai ferita! La amavo. È ovvio che si è suicidata. So che la sua impresa non stava andando bene."
 
-"Quindi voleva i suoi soldi, prima che li perdesse tutti."
+"Quindi lei voleva i suoi soldi, prima che li perdesse tutti."
 
-"Presenterò un reclamo contro di lei", ha minacciato il marito. "Come osa accusarmi così, quando sto soffrendo. Mia moglie non è morta da più di trenta minuti."
+"Presenterò un reclamo contro di lei", ha minacciato il marito. "Come osa accusarmi così, quando sto soffrendo. Mia moglie è morta neanche trenta minuti fa."
 
 "E come conosce l'ora esatta della sua morte?" ha chiesto l'investigatrice.
 
 Il marito ha esitato. "Non troverete mai le mie impronte su quel coltello!" ha urlato alla fine.
 
-"Sono sicura che è vero", ha detto l'investigatrice con calma. "Ha usato i guanti, ovviamente. Ma è stato negligente. Ha usato i suoi guanti da giardinaggio. Sento il profumo delle rose sul manico del coltello."
+"Sono sicura che sia vero", ha detto l'investigatrice con calma. "Ha usato i guanti, ovviamente. Ma è stato negligente. Ha usato i suoi guanti da giardinaggio. Sento il profumo delle rose sul manico del coltello."

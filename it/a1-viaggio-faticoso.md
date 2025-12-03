@@ -12,7 +12,7 @@ Fernando arriva in vacanza. È molto emozionato. Vuole vedere la città. Vuole f
 
 Fernando si alza e lascia la stanza. Ma non è sveglio. È sonnambulo!
 
-Scende le scale e arriva nell'all'ingresso. I suoi occhi sono aperti, ma lui è addormentato. È come un sogno.
+Scende le scale e arriva all'ingresso. I suoi occhi sono aperti, ma lui è addormentato. È come un sogno.
 
 "Buona giornata", dice la donna dietro il bancone.
 
@@ -54,8 +54,8 @@ Fernando mangia il suo gelato mentre cammina. Poi vede un negozio di souvenir. E
 
 Alcune ore dopo... Fernando si sveglia. È nella sua stanza d'albergo. Sorride. "Ora posso fare shopping", pensa Fernando. "Devo comprare un souvenir. Sono molto economici, qui."
 
-Fernando si alza dal letto. È sorpreso. La sua stanza è piena di sacchetti. Ci sono così tantissimi sacchetti, che non riesce a muoversi. Guarda nel suo portafogli. È vuoto.
+Fernando si alza dal letto. È sorpreso. La sua stanza è piena di sacchetti. Ci sono così tanti sacchetti, che non riesce a muoversi. Guarda nel suo portafogli. È vuoto.
 
-C'è un biglietto sul tavolo. Dice: "Abbiamo comprato tutte le cose che ha chiesto." È dal personale dell'hotel.
+C'è un biglietto sul tavolo. Dice: "Abbiamo comprato tutte le cose che ha chiesto." È scritto dal personale dell'hotel.
 
 Fernando guarda nei sacchetti. Sono tutti pieni di cavoli e patate.

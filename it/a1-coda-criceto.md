@@ -10,7 +10,7 @@ reviewers:
 
 "Prenditi cura del criceto", dice l'insegnante di Elia. Poi va a mangiare.
 
-Elia siede in aula. Osserva il piccolo criceto. Corre nella sua ruota, molto veloce. "È ora di pranzo", pensa. "Devo dargli da mangiare." Gli dà un po' di cibo e acqua. Il criceto mangia e beve.
+Elia si siede in aula. Osserva il piccolo criceto. Corre nella sua ruota, molto veloce. "È ora di pranzo", pensa. "Devo dargli da mangiare." Gli dà un po' di cibo e acqua. Il criceto mangia e beve.
 
 Una bambina entra. "Posso tenerlo?" chiede.
 

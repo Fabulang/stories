@@ -1,5 +1,5 @@
 ---
-title: La Fermata del Bus degli Spiriti
+title: La Fermata del bus degli spiriti
 locale: it
 cefr: b2
 key: bus-stop-spirits
@@ -8,19 +8,19 @@ reviewers:
 - Carlotta Belluzzi
 ---
 
-"Mi scusi, dove posso trovare la celebre Fermata del Bus degli Spiriti?"
+"Mi scusi, dove posso trovare la celebre Fermata del bus degli spiriti?"
 
 "La *cosa*?" ha chiesto Elisabetta. Lavorava nell'ufficio turistico solo da una settimana, ma viveva in zona da anni. Sapeva che non c'era molto da vedere, e sicuramente non c'era una celebre fermata del bus.
 
-"La *Fermata del Bus degli Spiriti*", ha ripetuto l'uomo. "È uno dei luoghi più importanti dell'intera zona. L'ho letto online. Posso arrivarci a piedi da qui, o ho bisogno di un taxi?"
+"La *Fermata del bus degli spiriti*", ha ripetuto l'uomo. "È uno dei luoghi più importanti di tutta la zona. L'ho letto online. Posso arrivarci a piedi da qui, o ho bisogno di un taxi?"
 
 "O magari un bus?" ha suggerito Elisabetta.
 
 "Voglio parlare col tuo responsabile."
 
-"Non sarà necessario, signore!" ha detto Elisabetta velocemente. "La Fermata del Bus degli Spiriti. Certo! Stavo solo scherzando."
+"Non sarà necessario, signore!" ha detto Elisabetta velocemente. "La Fermata del bus degli spiriti. Certo! Stavo solo scherzando."
 
-Era venerdì e quasi fine giornata. Elisabetta non voleva discussioni. Voleva che il turista andasse via, così lei poteva tornare a casa.
+Era venerdì ed era quasi fine giornata. Elisabetta non voleva discussioni. Voleva che il turista andasse via, così lei poteva tornare a casa.
 
 Ha pensato a una delle tante fermate del bus del paese. "Sì, può raggiungere la nostra fermata del bus di fama mondiale a piedi. Segua quel sentiero verso il fiume, e la troverà sulla sua destra. È la fermata con il cartello che dice 'Vietato ai cani'."
 
@@ -36,7 +36,7 @@ Elisabetta ha fatto un respiro profondo. "Ehm... beh... c'era un... coltivatore 
 
 L'uomo è uscito dall'ufficio turistico con un sorriso sul volto. Elisabetta è uscita dieci minuti dopo, ridendo tra sé e sé.
 
-Quando Elisabetta è arrivata al lavoro lunedì mattina, c'era una lunga fila di turisti fuori dalla porta. Quando è arrivata alla sua scrivania, ha visto una pila di opuscoli con il titolo: 'La Fermata del Bus degli Spiriti -- La Maledizione Millenaria'. In fondo c'era scritto: 'Include un buono sconto per i cavoli.'
+Quando Elisabetta è arrivata al lavoro lunedì mattina, c'era una lunga fila di turisti fuori dalla porta. Quando è arrivata alla sua scrivania, ha visto una pila di opuscoli con il titolo: 'La Fermata del bus degli spiriti: La maledizione millenaria'. In fondo c'era scritto: 'Include un buono sconto per i cavoli.'
 
 "Quanto costa l'opuscolo?" ha chiesto il primo turista.
 
@@ -44,7 +44,7 @@ Elisabetta ha guardato sulla copertina e ha indicato l'etichetta. Non poteva cre
 
 "Me ne dia tre", ha detto la donna.
 
-Elisabetta ha venduto opuscoli tutta mattina. Quando i turisti se ne sono finalmente andati, era esausta. Si è appoggiata sulla sedia e ha chiuso gli occhi. Finalmente c'era silenzio.
+Elisabetta ha venduto opuscoli tutta mattina. Quando i turisti se ne sono finalmente andati, era esausta. Si è appoggiata sulla sua sedia e ha chiuso gli occhi. Finalmente c'era silenzio.
 
 C'era una voce proveniente dall'ufficio dietro di lei. Il suo responsabile era al telefono.
 

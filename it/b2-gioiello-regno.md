@@ -1,24 +1,25 @@
 ---
-title: Il Gioiello del Regno
+title: Il gioiello del regno
 locale: it
 cefr: b2
 key: jewel-kingdom
 date: 2023-07-20
 reviewers:
 - Carlotta Belluzzi
+- Laura Baro
 ---
 
-"Non potete fermarmi", ha riso Moros, il tiranno malvagio. "Ora userò il Gioiello del Potere per conquistare il regno! Lascia cadere la tua arma, Eravon, o lei muore."
+"Non potete fermarmi", ha riso Moros, il tiranno malvagio. "Ora userò il Gioiello del potere per conquistare il regno! Lascia cadere la tua arma, Eravon, o lei muore."
 
-Moros teneva la sua spada contro il collo della principessa.
+Moros teneva la sua spada sul collo della principessa.
 
 "Gli dèi ci hanno veramente dimenticati", ha detto Eravon.
 
 Una lacrima gli è scesa lungo la guancia mentre lasciava cadere a terra il suo arco. Non c'era più speranza. Moros aveva vinto.
 
-Gabriella ha lasciato cadere la penna. L'ultima battaglia tra Eravon e Moros era il soggetto del suo ultimo romanzo fantasy, *Il Gioiello del Regno*. Milioni di fan di Gabriella volevano sapere come sarebbe finita la storia. Il problema era che nemmeno Gabriella lo sapeva. Come poteva Eravon sconfiggere un nemico così potente?
+Gabriella ha lasciato cadere la penna. L'ultima battaglia tra Eravon e Moros era il soggetto del suo ultimo romanzo fantasy, *Il gioiello del regno*. Milioni di fan di Gabriella volevano sapere come sarebbe finita la storia. Il problema era che nemmeno Gabriella lo sapeva. Come poteva Eravon sconfiggere un nemico così potente?
 
-Era tardi. Gabriella ha guardato la pagina. Doveva finire il capitolo. Le parole le danzavano davanti agli occhi. Lentamente, la sua testa è caduta sul tavolo.
+Era tardi. Gabriella ha guardato la pagina. Doveva finire il capitolo. Le parole le danzavano davanti agli occhi. Lentamente, la sua testa è crollata sul tavolo.
 
 Quando Gabriella si è svegliata, si è trovata in piedi in una foresta, fuori da un castello.
 
@@ -36,19 +37,19 @@ Gabriella ha capito che, in qualche modo, si trovava dentro la sua stessa storia
 
 Gabriella ha dovuto inventare qualcosa a cui il suo eroe avrebbe creduto.
 
-"Sono lo Spirito del Destino", ha detto. "Devi agire ora. Questa è la tua ultima possibilità di salvare il regno. Capisci?"
+"Sono lo spirito del destino", ha detto. "Devi agire ora. Questa è la tua ultima possibilità di salvare il regno. Capisci?"
 
 "Fai strada!" ha gridato Eravon.
 
-Eravon e Gabriella si sono gettati nel castello. Sono entrati da una piccola porta in una delle torri. Gabriella sapeva che il vinaiolo la lasciava sempre aperta. Questo è ciò che aveva scritto.
+Eravon e Gabriella si sono gettati nel castello. Sono entrati da una piccola porta in una delle torri. Gabriella sapeva che il vinaiolo la lasciava sempre aperta. Questo era ciò che aveva scritto.
 
-Sono corsi su scale a chiocciola e attraverso sale grandiose, fino ad arrivare nella camera segreta dove era custodito il magico Gioiello del Potere.
+Sono corsi su scale a chiocciola e attraverso sale grandiose, fino ad arrivare nella camera segreta dove era custodito il magico Gioiello del potere.
 
-Moros era lì. Gabriella lo aveva descritto molte volte, ma di persona era spaventoso. Teneva la sua spada contro il collo della principessa. Stava per prendere il Gioiello.
+Moros era lì. Gabriella lo aveva descritto molte volte, ma di persona era spaventoso. Teneva la sua spada sul collo della principessa. Stava per prendere il Gioiello.
 
 "Per favore, non farle del male!" ha gridato Eravon.
 
-Ha lasciato cadere il suo arco e ha alzato le mani. Ha guardato Gabriella, il suo Spirito del Destino. I suoi occhi angosciati dicevano: 'E ora?' Gabriella non aveva risposta.
+Ha lasciato cadere il suo arco e ha alzato le mani. Ha guardato Gabriella, il suo spirito del destino. I suoi occhi angosciati dicevano: "E ora?" Gabriella non aveva risposta.
 
 Moros ha riso a crepapelle. Ha preso il Gioiello in mano. Immediatamente, è sembrato brillare di un potere incredibile, e la sua spada si è infiammata.
 
@@ -62,7 +63,7 @@ Ha gettato da parte la principessa, è avanzato alla carica e ha attaccato Gabri
 
 Moros è rimasto così scioccato che ha lasciato cadere sia la sua spada che il Gioiello. Per un attimo, l'ha guardata con incredulità. Poi ha avvolto il suo mantello nero attorno a sé, ed è sparito in una nuvola di fumo.
 
-"Cosa è successo?" ha chiesto la principessa, stupita.
+"Cos'è successo?" ha chiesto la principessa, stupita.
 
 "Il Gioiello concede tutto il potere del mondo", ha spiegato Gabriella. "Ma il mio potere è ancora più grande."
 

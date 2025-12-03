@@ -60,4 +60,4 @@ I fratelli di Lorenzo sono usciti correndo dalla stanza. Pochi secondi dopo, lui
 
 "Ma, Lorenzo, ti rendi conto di quanto sia stata giusta la tua scelta? Questo è un orologio di Ludovic Évrard Horstenbach! Di sicuro è l'unico al mondo in perfette condizioni di funzionamento. Lorenzo, potresti venderlo per milioni!"
 
-"Lo so. Qualcun altro me lo ha detto... circa ventisei anni fa."
+"Lo so. Qualcun altro me lo ha già detto... circa ventisei anni fa."

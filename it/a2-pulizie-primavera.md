@@ -48,11 +48,11 @@ Erano molto stanchi. I loro vestiti erano sporchi. Avevano sapone su braccia e g
 
 Alla fine, la sua ragazza ha ripreso in mano le sue lettere.
 
-"Questa è dal nostro padrone di casa", ha detto.
+"Questa viene dal nostro padrone di casa", ha detto.
 
 "Cosa dice?"
 
-"Dobbiamo andarcene in un mese!" ha esclamato. "E -- e --"
+"Dobbiamo andarcene in un mese!" ha esclamato. "E --- e ---"
 
 "Cosa c'è?" ha esclamato Gerardo.
 

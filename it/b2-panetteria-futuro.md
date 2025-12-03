@@ -14,13 +14,13 @@ Un giorno Editta ha visitato la panetteria locale. Ma invece del suo amico panet
 
 "Chi sei tu?" ha chiesto. "Che cosa sei?"
 
-L'assistente robotico ha risposto, "Buongiorno Signora. Io sono il panettiere robotico. Sono qui mentre il panettiere umano è in vacanza. Le prometto che offrirò lo stesso livello di servizio a cui è abituata."
+L'assistente robotico ha risposto, "Buongiorno signora. Io sono il panettiere robotico. Sono qui mentre il panettiere umano è in vacanza. Le prometto che offrirò lo stesso livello di servizio a cui è abituata."
 
 A Editta non è piaciuto affatto.
 
 "Vorrei una pagnotta di pane, per favore", ha brontolato Editta.
 
-"Certo, posso scansionare il suo occhio per il pagamento?" ha risposto il robot, e un attrezzo appuntito è uscito dal suo corpo e si è avvicinato al suo viso.
+"Certo, posso scansionare il suo occhio per il pagamento?" ha risposto il robot, e un attrezzo appuntito è uscito dal suo corpo e si è avvicinato al viso di Editta.
 
 "Stai lontano!" ha gridato Editta, balzando indietro. "Cosa c'è che non va con una banconota?"
 
@@ -28,16 +28,16 @@ Il robot ha lampeggiato le sue luci LED, apparentemente confuso. "Mi scuso, ma a
 
 "Questa è follia! Voglio solo comprare del pane!"
 
-"Mi scuso Signora. Offriamo un'alternativa", ha detto il robot.
+"Mi scuso, signora. Offriamo un'alternativa", ha detto il robot.
 
-"Cos'è?" ha chiesto Editta.
+"Cioè?" ha chiesto Editta.
 
 "Se ascolta tre pubblicità e condivide la nostra pagina sui social media, può avere una pagnotta di pane gratis", ha detto il robot con entusiasmo.
 
-Editta si è voltata e è uscita furiosa dal negozio, senza dire altro.
+Editta si è voltata ed è uscita furiosa dal negozio, senza dire altro.
 
 Mentre tornava a casa, il suo telefono ha squillato. Ha visto che era una chiamata del suo amico, il panettiere.
 
-"Allora, ti diverti in vacanza mentre la tecnologia prende il sopravvento, eh?" Editta ha gridato nel telefono.
+"Allora, ti diverti in vacanza mentre la tecnologia prende il sopravvento, eh?" Editta ha gridato a telefono.
 
 "In realtà, sono ancora bloccato all'aeroporto!" ha esclamato il panettiere. "Non lasciano volare nessuno senza un microchip in testa!"

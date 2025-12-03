@@ -8,7 +8,7 @@ reviewers:
 - Carlotta Belluzzi
 ---
 
-"Ciao, mi trasferisco oggi", ha detto Geremia, sorridente.
+"Ciao, mi sto trasferendo oggi", ha detto Geremia, sorridente.
 
 "Oh, anch'io!" ha detto Vittoria, attorcigliandosi i capelli.
 
@@ -24,15 +24,15 @@ Non sono andati affatto d'accordo. Vittoria era un'imprenditrice, e aveva bisogn
 
 "Ne ho abbastanza!" ha gridato Vittoria. "Smettila di suonare quell'orribile chitarra! Non avrai mai successo. La tua musica suona come un asino che è caduto sulle corde!"
 
-"Questa casa è un tale disastro, non riesco a essere creativo!" ha replicato Geremia. "Sei così disordinata, la tua azienda non avrà mai clienti. Anche se qualcuno ti desse dei soldi, li perderesti sotto tutti questi vestiti!"
+"Questa casa è un disastro tale, che non riesco a essere creativo!" ha replicato Geremia. "Sei troppo disordinata, la tua azienda non avrà mai clienti. Anche se qualcuno ti desse dei soldi, li perderesti sotto tutti questi vestiti!"
 
 Sono andati ognuno nella propria camera e hanno sbattuto le porte. Al mattino, hanno concordato: "Ci trasferiremo entrambi."
 
 Durante la settimana successiva, hanno fatto le valigie. Non parlavano. L'atmosfera era molto strana. Geremia voleva suonare la sua chitarra, ma non voleva far arrabbiare ancora di più Vittoria. Per lo stesso motivo, Vittoria puliva i suoi piatti quando finiva di mangiare.
 
-Finalmente era il giorno in cui si sarebbero andati. Era arrivato il taxi di Vittoria.
+Finalmente era arrivato il giorno in cui se ne sarebbero andati. Era arrivato il taxi di Vittoria.
 
-"Non dimenticare questo", ha detto Geremia, con un piccolo sorriso. Ha dato a Vittoria uno dei suoi calzini.
+"Non dimenticare questo", ha detto Geremia, con un lieve sorriso. Ha dato a Vittoria uno dei suoi calzini.
 
 "Oh, grazie", ha risposto Vittoria, guardandolo timidamente.
 

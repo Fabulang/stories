@@ -30,7 +30,7 @@ reviewers:
 
 "Sì, signore."
 
-Nicoletta è tornata alla sua scrivania -- giù per sei rampe di scale, lungo cinque corridoi e in una grande stanza illuminata da lampade fluorescenti. Le finestre c'erano, ma erano molto piccole e posizionate in alto, quindi non riusciva a vedere fuori.
+Nicoletta è tornata alla sua scrivania: giù per sei rampe di scale, lungo cinque corridoi e in una grande stanza illuminata da lampade fluorescenti. Le finestre c'erano, ma erano molto piccole e posizionate in alto, quindi non riusciva a vedere fuori.
 
 Ha inghiottito un po' di caffè. Era così esausta che non sembrava farle alcun effetto. Negli ultimi mesi, il suo responsabile le aveva assegnato sempre più incarichi. Aveva preparato così tanti rapporti che a volte, a metà strada, dimenticava di cosa parlassero.
 

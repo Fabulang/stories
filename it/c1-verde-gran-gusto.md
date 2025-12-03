@@ -12,9 +12,9 @@ reviewers:
 
 La nuova casa di Andrea era situata in una strada tranquilla di una regione costosa del Paese. Aveva risparmiato per anni per potersi trasferire lì. La casa non era grande e aveva bisogno di essere rimessa a nuovo, ma Andrea era felice di lasciarsi alle spalle il suo vecchio quartiere.
 
-Nella prima settimana, Andrea ha chiesto a diversi decoratori di fargli un preventivo, ma i loro prezzi erano troppo alti. Non sapeva cosa fare.
+Durante la prima settimana, Andrea ha chiesto a diversi decoratori di fargli un preventivo, ma i loro prezzi erano troppo alti. Non sapeva cosa fare.
 
-"Andrea, questa non è la tua vecchia città!" ha pensato. "La gente qui è gentile. Puoi chiedere consiglio al tuo vicino!"
+"Andrea, questa non è la tua vecchia città!" ha pensato. "La gente qui è gentile. Puoi chiedere consigli al tuo vicino!"
 
 Così ha bussato alla porta del vicino.
 

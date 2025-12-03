@@ -14,7 +14,7 @@ Ha acceso la radio, ma non c'era nessun segnale. Allora ha iniziato a cantare un
 
 Quando ha finito, il silenzio sembrava il suono più forte di tutti.
 
-Adriano ha fermato la macchina all'improvviso. Un'auto si è schiantata contro un albero sul lato della strada. Adriano è sceso.
+Adriano ha fermato la macchina all'improvviso. Un'auto si era schiantata contro un albero sul lato della strada. Adriano è sceso.
 
 "Stai bene?" ha gridato.
 
@@ -28,9 +28,9 @@ Adriano ha chiamato i soccorsi.
 
 "Grazie signore. Conosciamo quella strada. Ci sono molti incidenti lì. Arriveremo presto. Stava guidando da solo, signore?"
 
-"Sì, io -- io stavo solo tornando a casa."
+"Sì, io --- io stavo solo tornando a casa."
 
-"E dove abita, signore? Ho bisogno delle informazioni per compilare un rapporto completo."
+"E dove abita, signore? Ho bisogno di informazioni per compilare un rapporto completo."
 
 Dopo che Adriano ha dato il suo indirizzo, c'è stata una lunga pausa.
 
@@ -40,24 +40,24 @@ Dopo che Adriano ha dato il suo indirizzo, c'è stata una lunga pausa.
 
 "È una bella città, signore. È da lì che veniva questa sera?"
 
-"Sì -- stavo visitando i miei genitori. Quello è l'indirizzo dei miei genitori. È importante?"
+"Sì: stavo visitando i miei genitori. Quello è l'indirizzo dei miei genitori. È importante?"
 
 "Ha detto che stava tornando a *casa*, signore. Ma non è vero, giusto?"
 
 "Cosa vuol dire?"
 
-"Stava guidando verso il luogo dove *vive*, in città. Ma la città non è la sua *casa*, vero? Non ci è cresciuto. Non ha imparato a andare in bicicletta lì, o a giocare nei campi con i suoi genitori, o a cantare con i suoi amici. La verità è che lei si stava *allontanando dalla* sua casa."
+"Stava guidando verso il luogo dove *vive*, in città. Ma la città non è la sua *casa*, vero? Non ci è cresciuto. Non ha imparato a andare in bicicletta lì, o a giocare nei campi con i suoi genitori, o a cantare con i suoi amici. La verità è che lei si stava *allontanando* dalla sua casa."
 
 "Che succede?" ha gridato Adriano, sentendosi spaventato. "Chi sei? È questo il servizio di emergenza?"
 
 L'altra persona ha chiuso la chiamata.
 
-Adriano era terrorizzato. Cosa stava succedendo? Ha guardato tutto intorno. Qualcuno lo stava osservando? Ma era ancora solo nel buio.
+Adriano era terrorizzato. Cosa stava succedendo? Si è guardato intorno. Qualcuno lo stava osservando? Ma era ancora solo, nel buio.
 
 Poi, Adriano ha sentito un suono che lo ha fatto gelare.
 
 “--- cuore sarà sempre con --- cuore sarà sempre con ---”
 
-Era la radio rotta nell'auto schiantata. Adriano si è girato velocemente. Ha guardato di nuovo l'auto. Ora poteva vedere il conducente, nello specchietto dell'auto. L'uomo era morto sul suo sedile.
+Era la radio rotta nell'auto schiantata. Adriano si è girato di scatto. Ha guardato di nuovo l'auto. Ora poteva vedere il conducente, nello specchietto dell'auto. L'uomo era morto sul suo sedile.
 
-Adriano ha guardato l'uomo per molto tempo. Poi ha fissato la strada, verso la città. Infine, si è girato, ed ha iniziato a camminare verso casa.
+Adriano ha guardato l'uomo per molto tempo. Poi ha fissato la strada, verso la città. Infine, si è girato, e ha iniziato a camminare verso casa.

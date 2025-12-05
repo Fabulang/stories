@@ -1,5 +1,5 @@
 ---
-title: L'allarme del compleanno
+title: La sveglia del compleanno
 locale: it
 cefr: c1
 key: birthday-alarm
@@ -18,11 +18,11 @@ Un anno, Giorgio ha fatto un solenne voto. "Margherita", ha detto, "giuro sulla 
 
 "Come mai?" ha chiesto lei.
 
-"Perché ho impostato un allarme!" ha risposto Giorgio, e Margherita ha alzato gli occhi al cielo.
+"Perché ho messo una sveglia!" ha risposto Giorgio, e Margherita ha alzato gli occhi al cielo.
 
 Con l'avvicinarsi del suo prossimo compleanno, Margherita ha visto Giorgio diventare sempre più irrequieto. Non riusciva a capire se fosse perché stava pianificando qualcosa, o perché era preoccupato di dimenticarsene. O forse era solo impegnato con il lavoro.
 
-La mattina del compleanno, l'allarme di Giorgio ha risuonato. Lui è saltato fuori dal letto immediatamente, totalmente nel panico. Ha iniziato a vestirsi freneticamente. "Sono in ritardo per il lavoro!" ha borbottato.
+La mattina del compleanno, la sveglia di Giorgio è suonata. Lui è saltato fuori dal letto immediatamente, totalmente nel panico. Ha iniziato a vestirsi freneticamente. "Sono in ritardo per il lavoro!" ha borbottato.
 
 Margherita si era appena svegliata. Ha mormorato, "Ma è domenica, Giorgio..."
 

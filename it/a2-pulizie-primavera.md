@@ -1,5 +1,5 @@
 ---
-title: Pulizie di Primavera
+title: Pulizie di primavera
 locale: it
 cefr: a2
 key: spring-cleaning

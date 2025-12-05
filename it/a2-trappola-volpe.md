@@ -19,7 +19,7 @@ Fuori dal tronco, il signor Volpe era di passaggio. Ha sentito quello che ha det
 
 "Scusami", ha detto Volpe.
 
-Topo ha sobbalzato. Si è girata. Poteva vedere uno degli occhi di Volpe in ogni finestra.
+Topo ha sobbalzato. Si è girata. Poteva vedere ognuno degli occhi di Volpe da una finestra diversa.
 
 La voce di Volpe era calma e amichevole. "Mi dispiace per te. Anch'io sono molto brutto." Volpe ha sospirato molto forte. "La vita è crudele. I topi possono usare il lago magico per diventare belli, ma le volpi no."
 

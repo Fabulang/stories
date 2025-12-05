@@ -49,7 +49,7 @@ Ha bisogno di avvicinarsi di più.
 
 Il ragazzino non risponde. Il gesso ticchetta e graffia. Lentamente, la signorina Acciaio si siede. Il ragazzino è molto freddo. Lei lo sente.
 
-"Sei un'altra ammazza fantasmi?" dice improvvisamente il ragazzino. "Posso farti del male anche a te."
+"Sei un'altra ammazza fantasmi?" dice improvvisamente il ragazzino. "Posso fare del male anche a te."
 
 "Non voglio farti del male", dice subito la signorina Acciaio. Troppo in fretta.
 

@@ -6,6 +6,7 @@ key: bus-stop-spirits
 date: 2025-10-28
 reviewers:
 - Larissa Rabelo Dantas
+- Pedro Luiz Guimarães Filho
 ---
 
 "Com licença, onde posso encontrar o famoso Ponto de Ônibus dos Espíritos?"
@@ -24,7 +25,7 @@ Era sexta-feira, quase o fim do dia. Elisabete não queria uma discussão. Ela q
 
 Ela pensou em um dos muitos pontos de ônibus da cidade. "Sim, você pode chegar ao nosso ponto de ônibus mundialmente famoso a pé. Siga aquele caminho em direção ao rio e ele estará à sua direita. É o ponto de ônibus com a placa que diz 'Proibido Cães'."
 
-"Fantástico," disse o homem. "Você pode me contar um pouco sobre história dele?"
+"Fantástico," disse o homem. "Você pode me contar um pouco sobre a história dele?"
 
 Elisabete respirou fundo. "Hum... bem... havia um... agricultor de repolhos... que estava bravo porque o ônibus estava atrasado. Então ele o amaldiçoou. Agora, os ônibus nunca chegam lá no horário. A menos que... você esteja carregando um repolho."
 
@@ -48,4 +49,4 @@ Elisabete vendeu os livretos a manhã inteira. Quando os turistas finalmente for
 
 Havia uma voz vindo do escritório atrás dela. Seu gerente estava ao telefone.
 
-"Seu artigo sobre um ponto de ônibus funcionou como mágica!" ele estava dizendo. "Quanto você cobraria para escrever outro? ... Certo, eu vou mandar o dinheiro. ... Ah, quem se importa? Faça sobre os semáforos."
+"Seu artigo sobre um ponto de ônibus funcionou como mágica!" ele dizia. "Quanto você cobraria para escrever outro? ... Certo, eu vou mandar o dinheiro. ... Ah, quem se importa? Faça sobre os semáforos."

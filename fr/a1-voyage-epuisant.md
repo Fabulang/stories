@@ -12,13 +12,13 @@ Fernand arrive en vacances. Il est très excité. Il veut voir la ville. Il veut
 
 Fernand se lève et quitte la chambre. Mais il n'est pas réveillé. Il est somnambule!
 
-Il descend les escaliers et entre dans le hall. Ses yeux sont ouverts, mais il dort. C'est comme un rêve.
+Il descend l'escalier et entre dans le hall. Ses yeux sont ouverts, mais il dort. C'est comme un rêve.
 
 «Passez une bonne journée», dit la femme derrière le bureau.
 
 «Choux et pommes de terre!» dit Fernand. (Les gens disent des choses étranges quand ils rêvent.)
 
-Fernand sort. C'est une belle journée ensoleillée. Il entre dans un glacier.
+Fernand sort. C'est une belle journée ensoleillée. Il entre chez un glacier.
 
 «Bonjour, monsieur», dit le vendeur. «Quelle glace aimeriez-vous?»
 

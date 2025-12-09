@@ -6,6 +6,7 @@ key: seeing-clearly
 date: 2024-07-05
 reviewers:
 - Joás Martins
+- Pedro Luiz Guimarães Filho
 ---
 
 "Você está pronta?" grita o marido de Elisa.

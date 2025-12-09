@@ -6,11 +6,12 @@ key: crashed-car
 date: 2025-10-28
 reviewers:
 - Larissa Rabelo Dantas
+- Pedro Luiz Guimarães Filho
 ---
 
 Não havia outros carros na estrada naquela noite. Adriano estava dirigindo para casa por uma grande floresta, sentindo-se triste e solitário. Entre as árvores estava completamente escuro.
 
-Ele ligou o rádio, mas não havia sinal. Então ele começou a cantar uma velha canção da sua juventude. Ele cantou a última linha a plenos pulmões: "Meu coração estará -- sempre -- com você!"
+Ele ligou o rádio, mas não havia sinal. Então ele começou a cantar uma velha canção da sua juventude. Ele cantou a última linha aos berros: "Meu coração estará -- sempre -- com você!"
 
 Quando terminou, o silêncio parecia o som mais alto de todos.
 
@@ -58,6 +59,6 @@ Então, Adriano ouviu um som que o fez congelar.
 
 “--- coração estará sempre --- coração estará sempre ---”
 
-Era o rádio quebrado no carro acidentado. Adriano se virou rapidamente. Ele olhou para o carro novamente. Ele pôde ver o motorista agora, no espelho do carro. O homem estava morto em seu assento.
+Era o rádio quebrado no carro acidentado. Adriano se virou rapidamente. Ele olhou para o carro novamente. Ele conseguiu ver o motorista agora, no espelho do carro. O homem estava morto em seu assento.
 
 Adriano olhou para o homem por um longo tempo. Então ele olhou ao longo da estrada, em direção à cidade. Finalmente, ele se virou e começou a caminhar para casa.

@@ -6,6 +6,8 @@ key: athletes-talent
 date: 2025-03-23
 reviewers:
 - Cyro Roberto Penteado
+- Pedro Luiz Guimarães Filho
+- Giancarlo Zurita
 ---
 
 As ruas da antiga Élis estavam cheias e movimentadas. Homens e mulheres vestindo túnicas cuidavam de seus afazeres, comerciantes empurravam carrinhos cheios de mercadorias para vender no mercado, e crianças brincavam pelas ruas de terra batida.
@@ -28,9 +30,9 @@ Elpidios levantou-se um pouco chocado.
 
 Elpidios e o homem misterioso se encontravam ao nascer do sol todos os dias. O homem ajudava Elpidios a exercitar-se, a melhorar sua técnica, e a desafiar-se a correr mais e mais rápido. À noite, Elpidios dividia seu jantar com o homem. Não havia outro pagamento.
 
-Meses passaram até que finalmente os Jogos Olímpicos começaram. Elpidios se registrou como competidor. Os outros atletas eram mais altos que ele. Eles usavam belas túnicas coloridas e joias. Eles riram de Elpidios quando ele chegou com o velho senhor ao seu lado.
+Meses passaram, até que finalmente os Jogos Olímpicos começaram. Elpidios se registrou como competidor. Os outros atletas eram mais altos que ele. Eles usavam belas túnicas coloridas e joias. Eles riram de Elpidios quando ele chegou com o velho senhor ao seu lado.
 
-"Lembre-se de tudo que eu lhe ensinei," disse o velho homem antes da corrida começar. "Mas, mais importante que tudo, lembre-se que agora você é um atleta Olímpico. Viva o seu sonho."
+"Lembre-se de tudo que eu lhe ensinei," disse o velho homem antes da corrida começar. "Mas, mais importante que tudo, lembre-se que agora você é um atleta olímpico. Viva o seu sonho."
 
 Os atletas tiraram suas roupas e alinharam-se em uma extremidade do estádio. Elpidios colocou o pé sobre a pedra de partida. Respirou profundamente. A outra extremidade do estádio parecia muito distante. Então a corda caiu, e os corredores dispararam como relâmpagos.
 

@@ -6,6 +6,7 @@ key: dont-go-holiday
 date: 2024-07-06
 reviewers:
 - Joás Martins
+- Pedro Luiz Guimarães Filho
 ---
 
 "Não saia de férias."

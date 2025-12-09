@@ -6,6 +6,7 @@ key: new-years-luck
 date: 2024-07-06
 reviewers:
 - Joás Martins
+- Pedro Luiz Guimarães Filho
 ---
 
 "Neste momento, na Terra, é véspera de Ano-Novo," disse Alex. "Minha família está comendo um jantar quente e delicioso. Em vez disso, estou aqui nesta nave horrível, sem comer nada."

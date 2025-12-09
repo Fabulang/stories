@@ -7,7 +7,7 @@ date: 2023-06-03
 reviews: 1
 ---
 
-Lucy lives in a small town. There were parks, trees, and pretty houses. It was a great place to live.
+Lucy lives in a small town. There are parks, trees, and pretty houses. It is a great place to live.
 
 But Lucy isn't happy. She doesn't know anyone. And she is always unlucky.
 

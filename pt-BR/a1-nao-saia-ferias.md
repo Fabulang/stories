@@ -19,7 +19,7 @@ Frederica lê a mensagem no celular dela.
 
 Frederica ri. "Boa piada," ela escreve.
 
-Frederica larga o celular. Ela pensa. Sua assistente no trabalho é sempre muito engraçada. Deve ser a assistente dela.
+Frederica larga o celular. Ela pensa. Seu assistente no trabalho é sempre muito engraçado. Deve ser o assistente dela.
 
 Tem outra mensagem. "Não coma o sanduíche."
 
@@ -45,7 +45,7 @@ O celular toca. Tem uma nova mensagem. "Agora você acredita em mim?"
 
 "Eu não posso te dizer."
 
-Frederica quer sair de férias. Tem um projeto no trabalho que é muito difícil. Ela precisa relaxar. 
+Frederica quer sair de férias. Tem um projeto no trabalho que é muito difícil. Ela precisa relaxar.
 
 Frederica compra sua passagem. Em seguida, ela arruma sua mala. Ela coloca na mala seus óculos de sol, sua roupa de banho e o seu livro favorito.
 
@@ -63,11 +63,11 @@ Ela acorda na cama. Não consegue se mover. O médico diz que ela deve descansar
 
 Um ano depois, Frederica vai ao trabalho. Ela está em uma cadeira de rodas.
 
-"Bem-vinda de volta," diz sua assistente. "Sinto muito pelo seu acidente. Mas há boas notícias: o projeto secreto está completo agora."
+"Bem-vinda de volta," diz seu assistente. "Sinto muito pelo seu acidente. Mas há boas notícias: o projeto secreto está completo agora."
 
 "Como?" pergunta Frederica.
 
-"É impossível enviar humanos através do tempo, certo?" diz a assistente.
+"É impossível enviar humanos através do tempo, certo?" diz o assistente.
 
 "Essa é a minha teoria, sim."
 
@@ -75,10 +75,10 @@ Um ano depois, Frederica vai ao trabalho. Ela está em uma cadeira de rodas.
 
 "Me mostra os cálculos," diz Frederica.
 
-Sua assistente dá os papéis para ela.
+Seu assistente dá os papéis para ela.
 
 "Entendi," diz Frederica. "A mensagem não deve revelar que é do futuro."
 
-"Exatamente," diz a assistente. "Isso é importante para a segurança."
+"Exatamente," diz o assistente. "Isso é importante para a segurança."
 
-"Excelente trabalho. Prepare o primeiro teste imediatamente." Frederica entrega o celular dela para a assistente. "Aqui está a lista de mensagens."
+"Excelente trabalho. Prepare o primeiro teste imediatamente." Frederica entrega o celular dela para o assistente. "Aqui está a lista de mensagens."

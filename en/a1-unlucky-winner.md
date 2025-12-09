@@ -35,4 +35,4 @@ Now, Lucy is famous. People from all over the world hear about her. They underst
 
 Lucy gets money from a company to write a book. In the book, she tells her whole story. She goes on television to talk about her book.
 
-Very soon, Lucy has a lot of money and friends. She is happy. And she never won the lottery.
+Soon, Lucy has a lot of money and friends. She is happy. And she never won the lottery.

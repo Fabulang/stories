@@ -17,7 +17,7 @@ Please let us know about any errors in the text, or improvements to phrasing. Yo
 
 For either of the above, you'll first need a free account with this website, GitHub. We use GitHub to store the files and allow others to view and comment on them.
 
-Please note, **this space is *only* for helping us to fix errors and improve phrasing in the text of the stories**. For *all* other feedback, please visit our [feedback forum](https://fabulang.canny.io/feedback).
+Please note, **this space is *only* for helping us to fix errors and improve phrasing in the text of the stories**. For *all* other feedback, please visit our [feedback forum](https://fabulang.userjot.com).
 
 Thank you for helping to improve Fabulang.
 
@@ -34,7 +34,7 @@ Veuillez nous informer de toute erreur dans le texte, ou des améliorations de f
 
 Pour l'une ou l'autre des options ci-dessus, vous aurez d'abord besoin d'un compte gratuit sur ce site, GitHub. Nous utilisons GitHub pour stocker les fichiers et permettre à d'autres de les voir et de commenter.
 
-Veuillez noter que **cet espace est *uniquement* pour nous aider à corriger des erreurs et améliorer la formulation dans le texte des histoires**. Pour *tous* les autres retours, veuillez visiter notre [forum de feedback](https://fabulang.canny.io/feedback).
+Veuillez noter que **cet espace est *uniquement* pour nous aider à corriger des erreurs et améliorer la formulation dans le texte des histoires**. Pour *tous* les autres retours, veuillez visiter notre [forum de feedback](https://fabulang.userjot.com).
 
 Merci d'aider à améliorer Fabulang.
 
@@ -51,6 +51,6 @@ Per favore, facci sapere se ci sono errori nel testo o miglioramenti da apportar
 
 Per entrambe le opzioni sopra indicate, avrai prima bisogno di un account gratuito con questo sito, GitHub. Utilizziamo GitHub per memorizzare i file e permettere ad altri di visualizzarli e commentarli.
 
-Si prega di notare, **questo spazio è *solo* per aiutarci a correggere errori e migliorare la formulazione nel testo dei racconti**. Per *qualsiasi* altro feedback, visita il nostro [forum di feedback](https://fabulang.canny.io/feedback).
+Si prega di notare, **questo spazio è *solo* per aiutarci a correggere errori e migliorare la formulazione nel testo dei racconti**. Per *qualsiasi* altro feedback, visita il nostro [forum di feedback](https://fabulang.userjot.com).
 
 Grazie per aiutarci a migliorare Fabulang.

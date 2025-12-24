@@ -6,6 +6,7 @@ key: prison-duties
 date: 2024-07-06
 reviewers:
 - Joás Martins
+- Pedro Luiz Guimarães Filho
 ---
 
 "Continue tocando!" gritou um dos guardas.
@@ -24,7 +25,7 @@ Quando ela tocou a nota final, de repente as luzes se acenderam. O chefe da pris
 
 Henrica estava prendendo a respiração. Será que o chefe tinha ouvido o que ela estava tocando? Mas ele já tinha ido embora. Ela respirou. Ela foi estúpida por ter assumido um risco assim. Se ela tivesse tocado apenas alguns segundos a mais...
 
-Um dos guardas trancou Henrica de volta em sua cela. Henrica era uma mulher pequena e frágil, então até mesmo um guarda bêbado era seguro o suficiente. Além disso, ela não era nem forte e nem ágil o bastante para escapar.
+Um dos guardas trancou Henrica de volta em sua cela. Henrica era uma mulher pequena e frágil, então até mesmo um guarda bêbado era segurança suficiente. Além disso, ela não era nem forte e nem ágil o bastante para escapar.
 
 "Você tem que escapar com a gente," sussurrou a companheira de cela da Henrica depois que o guarda foi embora.
 

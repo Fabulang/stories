@@ -6,13 +6,14 @@ key: potion-masters-apprentice
 date: 2025-10-28
 reviewers:
 - Larissa Rabelo Dantas
+- Pedro Luiz Guimarães Filho
 ---
 
 O líquido roxo dentro da garrafa quadrada brilhava com partículas de ouro. Anabela despejou o conteúdo em uma tigela de metal. Então, ela encontrou um pote de estranhas pedras amarelas. Ela jogou todas na tigela também. Por fim, havia um jarro cheio de línguas de alguns animais azarados.
 
-Anabela misturou tudo com uma grande colher de madeira, aproximando a vela para poder ver melhor. A poção mudou de cor várias vezes. Anabela estava empolgada. Mas então ela ouviu um barulho. O mestre das poções tinha acordado. Rapidamente, Anabela escondeu a tigela debaixo da mesa e rastejou de volta para o seu quarto.
+Anabela misturou tudo com uma grande colher de madeira, aproximando a vela para poder ver melhor. A poção mudou de cor várias vezes. Anabela estava empolgada. Mas então ela ouviu um barulho. O mestre das poções tinha acordado. Rapidamente, Anabela escondeu a tigela debaixo da mesa e voltou de fininho para o seu quarto.
 
-Anabela acordou cedo, como sempre. Como aprendiz do mestre das poções, ela tinha que preparar o café da manhã dele antes que ele descesse, limpar o laboratório antes que ele começasse a trabalhar e vender poções para os clientes antes que ele terminasse de prepará-las.
+Anabela acordou cedo, como sempre. Na condição de aprendiz do mestre das poções, ela tinha que preparar o café da manhã dele antes que ele descesse, limpar o laboratório antes que ele começasse a trabalhar e vender poções para os clientes antes que ele terminasse de prepará-las.
 
 Anabela entrou na cozinha e começou a fazer o mingau. O cachorro do mestre das poções sentou-se ao lado dela, e Anabela o acariciou.
 
@@ -26,13 +27,13 @@ Anabela pulou e jogou o mingau no teto.
 
 "Havia uma tigela debaixo da mesa no laboratório. Cheirava muito bem. Eu provei um pouco. E agora posso falar! Não é maravilhoso?"
 
-"Não!" Anabela falou entre os dentes. "Vou me meter em um grande problema!"
+"Não!" Anabela cochichou. "Vou me meter em um grande problema!"
 
 "Com quem você está falando?" veio a voz do mestre das poções da sala de jantar. "Onde está meu mingau?"
 
 "Ela está falando comigo!" latiu o cachorro animadamente.
 
-"Shh!"
+"Xiu!"
 
 "Quem está aí com você?"
 
@@ -40,7 +41,7 @@ Antes que Anabela pudesse fazer qualquer outra coisa, a porta se abriu e o mestr
 
 "Bom dia, mestre!" disse o cachorro, e o mestre das poções cuspiu seu café no teto também.
 
-Mas Anabela não se meteu em problemas. Não demorou muito para o mestre das poções perceber que podia vender a poção de Anabela e que precisava que ela a preparasse novamente. Logo, a loja deles estava ocupada do amanhecer ao anoitecer.
+Mas Anabela não se meteu em problemas. Não demorou muito para o mestre das poções perceber que podia vender a poção de Anabela e que precisava que ela a preparasse novamente. Pouco tempo depois, a loja deles estava ocupada do amanhecer ao anoitecer.
 
 Todos na cidade queriam conversar com seus animais. O povo comum queria amizade com seus bichos de estimação, os fazendeiros queriam animais que pudessem receber instruções, e os ricos queriam espionar seus rivais. Não demorou muito para Anabela e o mestre das poções poderem comprar roupas finas e refeições suntuosas.
 

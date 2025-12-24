@@ -22,7 +22,7 @@ Hanno controllato nuovamente i loro contratti. Era molto chiaro. Non se ne erano
 
 Non sono andati affatto d'accordo. Vittoria era un'imprenditrice, e aveva bisogno di pace e tranquillità per pianificare la sua strategia aziendale. Geremia era un musicista in erba, e suonava la sua chitarra sia di giorno che di notte. A Geremia piaceva tenere pulita la casa, per schiarirsi le idee. Vittoria era troppo impegnata, e lasciava ovunque i suoi vestiti e i piatti.
 
-"Ne ho abbastanza!" ha gridato Vittoria. "Smettila di suonare quell'orribile chitarra! Non avrai mai successo. La tua musica sembra come se un asino fosse caduto sulle corde della chitarra!"
+"Ne ho abbastanza!" ha gridato Vittoria. "Smettila di suonare quell'orribile chitarra! Non avrai mai successo. La tua musica suona male, come se un asino fosse caduto sulle corde della chitarra!"
 
 "Questa casa è un disastro tale, che non riesco a essere creativo!" ha replicato Geremia. "Sei troppo disordinata, la tua azienda non avrà mai clienti. Anche se qualcuno ti desse dei soldi, li perderesti sotto tutti questi vestiti!"
 

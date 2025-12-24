@@ -6,6 +6,7 @@ key: dancers-statue
 date: 2024-07-06
 reviewers:
 - Joás Martins
+- Pedro Luiz Guimarães Filho
 ---
 
 O táxi chegou e Jenifer entrou. Ela abriu seu livro de guia turístico.
@@ -56,7 +57,7 @@ A primeira estátua não era a certa, mas Hugo ainda estava sorrindo. "Você est
 
 "Ainda melhor," disse Hugo. "Depois, podemos pegar um atalho por algumas ruas bonitas, e vamos passar pela igreja antiga."
 
-O tour da Jenifer pela cidade continuou. Quando eles chegaram à estátua número oito, havia um pôr do sol.
+O tour da Jenifer pela cidade continuou. Quando eles chegaram à estátua número oito, era pôr do sol.
 
 "Não é essa também!" disse Jenifer com uma risada.
 

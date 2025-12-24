@@ -6,6 +6,7 @@ key: land-eternal-rain
 date: 2024-07-06
 reviewers:
 - Joás Martins
+- Pedro Luiz Guimarães Filho
 ---
 
 Anos atrás, em uma pequena cidade, havia uma bruxa. A bruxa fazia chover todo dia. Na primavera, no verão, outono e inverno: chuva, chuva, chuva, neve.

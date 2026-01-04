@@ -57,7 +57,7 @@ Alan didn't pause. "Absolutely not. I would arrange a meeting ---"
 
 "Well, in that case, I'd stay calm, and ---"
 
-"We've discussed this situation enough," Tanya interrrupted. She made another note: 'Doesn't take problems seriously.'
+"We've discussed this situation enough," Tanya interrupted. She made another note: 'Doesn't take problems seriously.'
 
 Thirty minutes later, both Alan and Tanya felt exhausted.
 

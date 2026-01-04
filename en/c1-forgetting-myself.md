@@ -13,7 +13,7 @@ There were doctors and nurses. They helped me get into a wheelchair. The man who
 
 "She's disoriented," said the surgeon. "She'll feel better in a few minutes."
 
-After a few hours, my parents realised something was wrong. I couldn't remember them. I couldn't remember anything from before the brain surgery. It was terrifying.
+After a few hours, my parents realised something was wrong. I couldn't remember them. I couldn't remember *anything* from before the brain surgery. It was terrifying.
 
 I was in a strange house with strange people. They said they were my parents. I didn't recognise them, but I couldn't remember what my parents looked like, either.
 

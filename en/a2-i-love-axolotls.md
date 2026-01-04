@@ -19,7 +19,7 @@ His daughter stopped smiling.
 
 "You don't like it!" said their daughter. She ran into the other room.
 
-Christopher ran after her. She looked at him. She was five years old, her eyes were very big, and her face was full of emotion.
+Christopher followed her. She looked at him. She was five years old, her eyes were very big, and her face was full of emotion.
 
 "I love it," he said. "Thank you."
 
@@ -35,7 +35,7 @@ Christopher's wife came in. "I didn't know that," she said.
 
 His daughter nodded. "I like their funny faces."
 
-"I like your funny face." She giggled.
+"I like *your* funny face." She giggled.
 
 The next year, Christopher opened his gift. It was a plate with a picture of an axolotl.
 
@@ -45,7 +45,7 @@ His daughter looked at him. "It's your favourite animal."
 
 "It is," he said. "Thank you, sweetheart."
 
-From then on, every year, all of Christophers gifts were related to axolotls. He received ornaments, books, T-shirts, hats, socks, underpants, and more. Everywhere he looked, he saw an axolotl.
+From then on, every year, all of Christopher's gifts were related to axolotls. He received ornaments, books, T-shirts, hats, socks, underpants, and more. Everywhere he looked, he saw an axolotl.
 
 On his sixtieth birthday, Christopher's daughter gave him an envelope. He opened it.
 

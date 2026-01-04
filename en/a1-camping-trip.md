@@ -55,7 +55,7 @@ They set up the camping table and chairs. Louisa puts the stove on the table.
 
 "Of course," he says. He gives her a box.
 
-She opens it. She takes out the gas cannister. She connects it. The stove lights. She puts a pot on top.
+She opens it. She takes out the gas canister. She connects it. The stove lights. She puts a pot on top.
 
 She takes out four cans and puts them on the table.
 

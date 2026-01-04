@@ -25,7 +25,7 @@ Filippo hadn't noticed: the Maestro's patron had made a surprise visit to inspec
 
 "That shows the landscape beyond the city," said Filippo. "The hills and forests in this area are truly beautiful."
 
-"I asked for a painting to celebrate the the city, not the grass!"
+"I asked for a painting to celebrate the city, not the grass!"
 
 The Maestro looked at Filippo angrily. "I told you to paint the city walls there," he said sternly.
 

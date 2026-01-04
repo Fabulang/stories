@@ -79,4 +79,4 @@ In those days, there were no mobile phones. There was no email or social media. 
 
 Even today, I still imagine visiting his house. The door opens. "I've found you at last, Special Agent Fourteen," I say. We never told each other our names.
 
-[Based on the true story of the [user 'shastaxc' on Reddit](https://www.reddit.com/r/OldSchoolCool/comments/1mz8sol/comment/naiec3o/). Details have been changed or invented.]
+(Based on the experiences of [user 'shastaxc' on Reddit](https://www.reddit.com/r/OldSchoolCool/comments/1mz8sol/comment/naiec3o/). Details have been changed or invented.)

@@ -68,3 +68,5 @@ Christopher and his daughter had a wonderful day at the aquarium. She loved seei
 "What's your favourite thing about them?"
 
 Christopher thought about it. "They've got amazing abilities," he said. "Because of them, a sixty-year-old man spent a whole day with his busy, thirty-year-old daughter. I love axolotls."
+
+(Based on the experiences of [user '46from1971' on Reddit](https://www.reddit.com/r/confession/s/bFIKHRf9jR). Details have been changed or invented.)

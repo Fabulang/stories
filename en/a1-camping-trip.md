@@ -20,7 +20,7 @@ They go to the kitchen.
 
 He packs cereal bars, peanut butter sandwiches, cheese and fruit.
 
-Louisa opens the cupboard. She takes out four cans of beans, five cans of tuna and eight cans of chopped tomatoes. Then she gets three packets of dry pasta. She puts it all in her backpack.
+Louisa opens the cupboard. She takes out four cans of beans, five cans of tuna and eight cans of tomatoes. Then she gets three packets of pasta. She puts it all in her backpack.
 
 Her husband looks surprised.
 
@@ -64,6 +64,6 @@ She takes out four cans and puts them on the table.
 
 She takes a can opener out of her backpack. She opens the cans. Twenty minutes later, they all enjoy the hot meal. Afterwards, they all thank Louisa for cooking.
 
-She says, "Now, let's set up the tent before it's dark."
+She says, "It's almost dark now. Let's set up the tent."
 
 Her husband is looking in the car. "Where's the tent?" he says.

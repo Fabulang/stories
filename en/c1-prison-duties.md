@@ -4,7 +4,6 @@ locale: en
 cefr: c1
 key: prison-duties
 date: 2023-12-31
-reviews: 1
 ---
 
 "Keep playing!" shouted one of the guards.

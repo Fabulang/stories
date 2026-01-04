@@ -4,7 +4,6 @@ locale: en
 cefr: c2
 key: tall-tales-pool
 date: 2023-06-03
-reviews: 1
 ---
 
 Joshua was an average teenager stuck in the dull, monotonous summer job of pool cleaning. Day in and day out, he scooped leaves and scrubbed tiles at the local community pool.

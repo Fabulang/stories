@@ -4,7 +4,6 @@ locale: en
 cefr: c1
 key: pumpkin-wasnt-there
 date: 2023-06-17
-reviews: 1
 ---
 
 Arnold, an impassioned but clumsy gardener, had finally succeeded in growing a flawless, giant pumpkin. He was sure to win a big prize at the local fair, and he couldn't wait to show it off.

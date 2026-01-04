@@ -4,7 +4,6 @@ locale: en
 cefr: b1
 key: brothers-choice
 date: 2025-01-26
-reviews: 1
 ---
 
 "This is a very fine clock," said Lawrence's friend, stopping in the hallway.

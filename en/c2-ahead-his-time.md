@@ -4,7 +4,6 @@ locale: en
 cefr: c2
 key: ahead-his-time
 date: 2023-06-17
-reviews: 1
 ---
 
 Charlie was an extraordinary scientist. Despite his brilliance, the prestigious science journal, *Our Times*, persistently rejected his papers. The editor's letter of rejection would always conclude that Charlie's ideas were too radical.

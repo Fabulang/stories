@@ -4,7 +4,6 @@ locale: en
 cefr: a1
 key: problem-school
 date: 2024-09-08
-reviews: 1
 ---
 
 It is dark. There is no moon in the sky. Two people walk quickly towards the school. It is an old building made of stone. It looks almost like a castle.

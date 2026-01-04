@@ -4,7 +4,6 @@ locale: en
 cefr: c2
 key: beneath-deadly-sky
 date: 2023-07-20
-reviews: 1
 ---
 
 "Tell me about the world above," said Evelyn.

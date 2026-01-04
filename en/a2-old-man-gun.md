@@ -4,7 +4,6 @@ locale: en
 cefr: a2
 key: old-man-gun
 date: 2023-07-13
-reviews: 1
 ---
 
 A long time ago, life was dangerous. There was a small town in the desert. A man called Mark lived there. Mark's job was to keep the town safe.

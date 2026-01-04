@@ -4,7 +4,6 @@ locale: en
 cefr: c1
 key: very-tasteful-green
 date: 2025-01-26
-reviews: 1
 ---
 
 Andrew's new house was located on a quiet street in an expensive part of the country. He'd saved for years so he could move there. The house wasn't big, and it needed redecoration, but he was delighted to leave his old neighbourhood behind.

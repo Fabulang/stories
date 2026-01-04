@@ -4,7 +4,6 @@ locale: en
 cefr: c1
 key: humble-handyman
 date: 2023-07-08
-reviews: 1
 ---
 
 At the heart of an affluent neighbourhood stood a prestigious private school. The school employed a handyman named John, who helped to keep the school tidy, maintain the buildings and move things in and out of the basement.

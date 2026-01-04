@@ -4,7 +4,6 @@ locale: en
 cefr: a2
 key: supermarket-chef
 date: 2023-06-03
-reviews: 1
 ---
 
 Joe had a job at a supermarket. He wanted a promotion, but his boss always said, "Joe, you are not talented."

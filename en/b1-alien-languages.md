@@ -4,7 +4,6 @@ locale: en
 cefr: b1
 key: alien-languages
 date: 2023-08-14
-reviews: 1
 ---
 
 "It's definitely an alien language," Alison confirmed.

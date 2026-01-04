@@ -4,7 +4,6 @@ locale: en
 cefr: b2
 key: everyones-garden
 date: 2023-08-14
-reviews: 1
 ---
 
 Amanda lived in a dull, grey apartment block. A small garden surrounded it, but it was overgrown with weeds. It made the building look even uglier.

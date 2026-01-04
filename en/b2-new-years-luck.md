@@ -4,7 +4,6 @@ locale: en
 cefr: b2
 key: new-years-luck
 date: 2023-12-31
-reviews: 1
 ---
 
 "Right now, on Earth, it's New Year's Eve," said Alex. "My family is eating a hot, delicious dinner. Instead, I'm here on this awful spaceship, eating nothing."

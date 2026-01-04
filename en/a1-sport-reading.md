@@ -4,7 +4,6 @@ locale: en
 cefr: a1
 key: sport-reading
 date: 2023-06-10
-reviews: 1
 ---
 
 Lily likes Luke, a boy in her class. He loves sport, but Lily doesn't. Lily loves to read. She feels sad -- she has no chance with Luke.

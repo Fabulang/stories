@@ -4,7 +4,6 @@ locale: en
 cefr: a2
 key: her-deepest-secret
 date: 2025-01-26
-reviews: 1
 ---
 
 "There's something unusual about this painting," said the tour guide. "Can you see what it is?"

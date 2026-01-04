@@ -4,7 +4,6 @@ locale: en
 cefr: b2
 key: death-mrs-knight
 date: 2023-07-08
-reviews: 1
 ---
 
 Detective Hunter crossed the enormous garden full of roses. She entered Mr and Mrs Knight's lavish house and went into the study. The beautiful room had become the scene of a crime. Mrs Knight was sitting in her leather chair. She looked like she was asleep on the desk. But she was dead.

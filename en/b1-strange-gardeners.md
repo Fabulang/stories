@@ -4,7 +4,6 @@ locale: en
 cefr: b1
 key: strange-gardeners
 date: 2023-06-10
-reviews: 1
 ---
 
 Mr Thomas lived alone in a quiet town. He was a retired spy, so he kept watch over the neighbourhood. He was always looking for anything suspicious.

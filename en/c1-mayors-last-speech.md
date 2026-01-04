@@ -4,7 +4,6 @@ locale: en
 cefr: c1
 key: mayors-last-speech
 date: 2024-09-08
-reviews: 1
 ---
 
 A large crowd of concerned citizens had gathered to hear the mayor's speech.

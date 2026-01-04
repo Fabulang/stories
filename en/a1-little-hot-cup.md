@@ -4,7 +4,6 @@ locale: en
 cefr: a1
 key: little-hot-cup
 date: 2023-07-08
-reviews: 1
 ---
 
 Every morning, Ariana wears a suit and goes to work in the city. But first, she always visits *Little Hot Cup*, a café on her street. They make the best coffee in the world.

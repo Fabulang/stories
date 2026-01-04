@@ -4,7 +4,6 @@ locale: en
 cefr: b2
 key: table-three
 date: 2025-01-26
-reviews: 1
 ---
 
 The chef placed the plates on the counter. The steak was perfect. The vegetables were fresh and tender. The smell of the sauce was mouth-watering. Henry picked the plates up and carried them gracefully into the dining room.

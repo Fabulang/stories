@@ -4,7 +4,6 @@ locale: en
 cefr: c1
 key: giant-slayer
 date: 2023-07-20
-reviews: 1
 ---
 
 The ships Håkon built were the pride of the Vikings' fleet, and the terror of their enemies. They cut through the waves like swords, and were as strong and reliable as steel.

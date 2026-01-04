@@ -4,7 +4,6 @@ locale: en
 cefr: c2
 key: charming-crystal-ball
 date: 2023-06-10
-reviews: 1
 ---
 
 In the dusty corners of her college dorm's basement, Naomi, an ever-superstitious student, discovered a relic from a bygone era: an old crystal ball. Seized by curiosity and an impulsive need for guidance, Naomi decided to employ the relic in making life-altering decisions.

@@ -4,7 +4,6 @@ locale: en
 cefr: a2
 key: foxs-trap
 date: 2024-09-08
-reviews: 1
 ---
 
 Miss Mouse was in her bedroom, in her house in the forest. Her house was inside a small log on the ground. It had four windows, a front door and a back door, and a little chimney.

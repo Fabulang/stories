@@ -4,7 +4,6 @@ locale: en
 cefr: a1
 key: brilliant-script
 date: 2025-01-26
-reviews: 1
 ---
 
 Dominic turns on the lamp and sits down. He drinks his coffee. Finally, he has an idea.

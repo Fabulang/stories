@@ -4,7 +4,6 @@ locale: en
 cefr: a2
 key: island-escape
 date: 2023-06-17
-reviews: 1
 ---
 
 Jack lived in a small town. Everyone liked to live there, except Jack. Everyone thought it was a pretty town, except Jack.

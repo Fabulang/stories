@@ -4,7 +4,6 @@ locale: en
 cefr: a2
 key: baby-fine-dining
 date: 2023-07-20
-reviews: 1
 ---
 
 Mum and Dad were food critics, and they had a problem. Their baby girl wasn't eating any of the food they gave her.

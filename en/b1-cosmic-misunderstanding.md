@@ -4,7 +4,6 @@ locale: en
 cefr: b1
 key: cosmic-misunderstanding
 date: 2023-06-24
-reviews: 1
 ---
 
 Clare was a dedicated astronomer, but she was never the first to discover something. Then, one night, she spotted a huge meteor that seemed to be getting closer to the Earth.

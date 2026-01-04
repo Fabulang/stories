@@ -4,7 +4,6 @@ locale: en
 cefr: b2
 key: ten-hours
 date: 2026-01-04
-reviews: 1
 ---
 
 The machine buzzed loudly as it cleaned the floor. I was wearing headphones. I was listening to my mum's tape called 'Music for Sleep'. But I could only hear the cleaning machine.

@@ -4,7 +4,6 @@ locale: en
 cefr: a2
 key: land-eternal-rain
 date: 2023-12-31
-reviews: 1
 ---
 
 Years ago, in a small town, there was a witch. The witch made it rain every day. In spring, summer, autumn and winter: rain, rain, rain, snow.

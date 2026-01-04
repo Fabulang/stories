@@ -4,7 +4,6 @@ locale: en
 cefr: a1
 key: hamsters-tail
 date: 2023-06-24
-reviews: 1
 ---
 
 "Look after the hamster," Elijah's teacher says. She goes to eat.

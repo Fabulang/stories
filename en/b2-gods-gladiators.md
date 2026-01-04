@@ -4,7 +4,6 @@ locale: en
 cefr: b2
 key: gods-gladiators
 date: 2024-09-08
-reviews: 1
 ---
 
 The gladiators were ready to fight. One was a large man with big muscles. The other was skinny and short.

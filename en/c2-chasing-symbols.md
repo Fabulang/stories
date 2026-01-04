@@ -4,7 +4,6 @@ locale: en
 cefr: c2
 key: chasing-symbols
 date: 2024-09-08
-reviews: 1
 ---
 
 Dry, red dust. When most people think of Mars, that's all they can imagine. But for Philippa, it was the most fascinating place in the universe.

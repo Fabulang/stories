@@ -4,7 +4,6 @@ locale: en
 cefr: a1
 key: unlucky-winner
 date: 2023-06-03
-reviews: 1
 ---
 
 Lucy lives in a small town. There are parks, trees, and pretty houses. It is a great place to live.

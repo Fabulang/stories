@@ -4,7 +4,6 @@ locale: en
 cefr: a2
 key: balloons-journey
 date: 2023-06-24
-reviews: 1
 ---
 
 One sunny day, a red balloon was in the park with a young girl. Suddenly, the balloon left her hand and went up into the sky.

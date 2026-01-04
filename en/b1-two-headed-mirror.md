@@ -4,7 +4,6 @@ locale: en
 cefr: b1
 key: two-headed-mirror
 date: 2023-07-13
-reviews: 1
 ---
 
 Amelia was in an antiques shop, looking for something to put on her wall. In the dark at the back, she spotted a beautiful, ancient mirror. It had an ornate frame carved in the shape of a snake with two heads.

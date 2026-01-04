@@ -4,7 +4,6 @@ locale: en
 cefr: b1
 key: crashed-car
 date: 2023-10-25
-reviews: 1
 ---
 
 There were no other cars on the road that night. Adrian was driving home through a large forest, feeling sad and lonely. Between the trees it was completely dark.

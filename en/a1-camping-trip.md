@@ -4,7 +4,6 @@ locale: en
 cefr: a1
 key: camping-trip
 date: 2026-01-04
-reviews: 1
 ---
 
 "Don't forget your warm clothes," says Louisa to her children. "I'm packing mine now."

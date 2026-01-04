@@ -4,7 +4,6 @@ locale: en
 cefr: a1
 key: ten-years-away
 date: 2023-07-13
-reviews: 1
 ---
 
 Josephine is travelling home to visit her family. She lives in a different country, so she is travelling by plane. She doesn't want to return. She doesn't like her country.

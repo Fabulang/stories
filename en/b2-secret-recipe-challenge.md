@@ -4,7 +4,6 @@ locale: en
 cefr: b2
 key: secret-recipe-challenge
 date: 2023-06-03
-reviews: 1
 ---
 
 Mr Forester, who was known for his delicious homemade desserts, gave a challenge to Clementine, his apprentice. Could she recreate his special fruit cake, without knowing the secret family recipe?

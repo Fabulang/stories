@@ -4,7 +4,6 @@ locale: en
 cefr: c2
 key: project-control
 date: 2025-01-26
-reviews: 1
 ---
 
 "This quarterly report is... unsatisfactory," droned Nicole's manager. "There isn't enough detail. And there are too many numbers on the chart. The font should be bigger. The tables should use our brand colours. And you should duplicate everything at the end."

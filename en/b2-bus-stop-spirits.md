@@ -4,7 +4,6 @@ locale: en
 cefr: b2
 key: bus-stop-spirits
 date: 2023-10-25
-reviews: 1
 ---
 
 "Excuse me, where can I find the famous Bus-Stop of the Spirits?"

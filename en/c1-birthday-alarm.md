@@ -4,7 +4,6 @@ locale: en
 cefr: c1
 key: birthday-alarm
 date: 2023-06-24
-reviews: 1
 ---
 
 George was a highly successful businessman, known for his acumen and sharp memory. Yet, there was one thing he could never remember -- his wife's birthday. His wife, Margaret, was always patient, yet every forgotten birthday was a prick in her heart.

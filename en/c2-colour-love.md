@@ -4,7 +4,6 @@ locale: en
 cefr: c2
 key: colour-love
 date: 2023-07-08
-reviews: 1
 ---
 
 In the year thirty-two-o-two, society is composed of both humans and aliens, living together peacefully as equal citizens.

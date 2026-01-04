@@ -4,7 +4,6 @@ locale: en
 cefr: a2
 key: i-love-axolotls
 date: 2026-01-04
-reviews: 1
 ---
 
 Christopher picked up the gift. His daughter watched him. He opened the box. Inside, there was a mug. He took it out. There was a picture of a strange animal on the mug.

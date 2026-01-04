@@ -4,7 +4,6 @@ locale: en
 cefr: b2
 key: ghosts-theatre
 date: 2023-07-13
-reviews: 1
 ---
 
 Most people say they don't believe in ghosts. Until they see or hear one, themselves. That's when they call a ghost hunter. That's when Christian's phone rings.

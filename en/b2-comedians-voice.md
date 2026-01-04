@@ -4,7 +4,6 @@ locale: en
 cefr: b2
 key: comedians-voice
 date: 2023-06-17
-reviews: 1
 ---
 
 Frank, an emerging talent in the world of stand-up comedy, was respected for his incredible ability to impersonate celebrities.

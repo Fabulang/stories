@@ -4,7 +4,6 @@ locale: en
 cefr: b1
 key: just-be-confident
 date: 2026-01-04
-reviews: 1
 ---
 
 "I'd love to work there," Alan whispered. "But I never do well at interviews."

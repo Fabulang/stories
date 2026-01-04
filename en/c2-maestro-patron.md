@@ -4,7 +4,6 @@ locale: en
 cefr: c2
 key: maestro-patron
 date: 2026-01-04
-reviews: 1
 ---
 
 Filippo dipped his brush and began to paint. He was adding the finishing touches to the Maestro's largest work yet. The huge canvas was exquisite. It depicted a view of the city, celebrating its intricate streets, grand architecture and mighty walls.

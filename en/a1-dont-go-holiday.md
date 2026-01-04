@@ -4,7 +4,6 @@ locale: en
 cefr: a1
 key: dont-go-holiday
 date: 2023-12-31
-reviews: 2
 ---
 
 "Don't go on holiday."

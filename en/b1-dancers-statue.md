@@ -4,7 +4,6 @@ locale: en
 cefr: b1
 key: dancers-statue
 date: 2023-12-31
-reviews: 1
 ---
 
 The taxi arrived and Jennifer got inside. She opened her *Tourist's Guide* book.

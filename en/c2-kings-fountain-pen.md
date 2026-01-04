@@ -4,7 +4,6 @@ locale: en
 cefr: c2
 key: kings-fountain-pen
 date: 2023-12-31
-reviews: 1
 ---
 
 "Ladies and gentlemen of the jury. The evidence is conclusive.

@@ -4,7 +4,6 @@ locale: en
 cefr: a1
 key: tiring-trip
 date: 2023-07-20
-reviews: 1
 ---
 
 Ferdinand arrives on holiday. He is very excited. He wants to see the city. He wants to go shopping. But he is very tired. He falls asleep in his hotel room.

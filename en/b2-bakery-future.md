@@ -4,7 +4,6 @@ locale: en
 cefr: b2
 key: bakery-future
 date: 2023-06-24
-reviews: 1
 ---
 
 Edith didn't like how much technology there was these days. When she was young, things were much simpler. Now, everything had a battery, or flashing lights, or artificial intelligence. It was all too much for her.

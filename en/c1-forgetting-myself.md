@@ -4,7 +4,6 @@ locale: en
 cefr: c1
 key: forgetting-myself
 date: 2026-01-04
-reviews: 1
 ---
 
 I opened my eyes. Slowly, strange faces came into focus. There were bright lights everywhere. Someone was holding my hand. I pulled my hand away.

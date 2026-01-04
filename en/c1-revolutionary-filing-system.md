@@ -4,7 +4,6 @@ locale: en
 cefr: c1
 key: revolutionary-filing-system
 date: 2023-06-10
-reviews: 1
 ---
 
 Emile was a secretary in a bustling company. It was a nice place to work, but he was overlooked and underappreciated. His boss was a rather stern woman, Mrs Boxer, who had a habit of chiding him for his disorganised desk.

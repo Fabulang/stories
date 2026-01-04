@@ -4,7 +4,6 @@ locale: en
 cefr: b1
 key: under-bed
 date: 2024-09-08
-reviews: 1
 ---
 
 "Sweet dreams, darling," said Dorothy's mum. She switched off the light and closed the door.

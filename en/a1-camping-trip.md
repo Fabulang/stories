@@ -1,7 +1,7 @@
 ---
 title: The Camping Trip
-cefr: a1
 locale: en
+cefr: a1
 key: camping-trip
 date: 2026-01-04
 reviews: 1

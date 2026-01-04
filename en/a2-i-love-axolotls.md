@@ -1,7 +1,7 @@
 ---
 title: I Love Axolotls
-cefr: a2
 locale: en
+cefr: a2
 key: i-love-axolotls
 date: 2026-01-04
 reviews: 1

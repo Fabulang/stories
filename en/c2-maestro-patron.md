@@ -1,7 +1,7 @@
 ---
 title: The Maestro and the Patron
-cefr: c2
 locale: en
+cefr: c2
 key: maestro-patron
 date: 2026-01-04
 reviews: 1

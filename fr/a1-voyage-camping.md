@@ -1,5 +1,5 @@
 ---
-title: Le voyage en camping
+title: Le Voyage en camping
 locale: fr
 cefr: a1
 key: camping-trip

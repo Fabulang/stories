@@ -1,7 +1,7 @@
 ---
 title: La chance du Nouvel An
-cefr: b2
 locale: fr
+cefr: b2
 key: new-years-luck
 date: 2023-12-31
 reviewers:

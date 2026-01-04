@@ -1,7 +1,7 @@
 ---
 title: "Project: Control"
-cefr: c2
 locale: en
+cefr: c2
 key: project-control
 date: 2025-01-26
 reviews: 1

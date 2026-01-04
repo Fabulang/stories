@@ -1,7 +1,7 @@
 ---
 title: Debajo de la cama
-cefr: b1
 locale: es
+cefr: b1
 key: under-bed
 date: 2025-04-12
 reviewers:

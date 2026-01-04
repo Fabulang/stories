@@ -1,7 +1,7 @@
 ---
 title: Un verde de muy buen gusto
-cefr: c1
 locale: es
+cefr: c1
 key: very-tasteful-green
 date: 2025-03-08
 reviewers:

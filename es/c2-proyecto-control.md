@@ -1,7 +1,7 @@
 ---
 title: "Proyecto: Control"
-cefr: c2
 locale: es
+cefr: c2
 key: project-control
 date: 2025-03-08
 reviewers:

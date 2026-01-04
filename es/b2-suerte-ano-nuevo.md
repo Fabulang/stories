@@ -1,7 +1,7 @@
 ---
 title: La suerte de Año Nuevo
-cefr: b2
 locale: es
+cefr: b2
 key: new-years-luck
 date: 2025-10-28
 reviewers:

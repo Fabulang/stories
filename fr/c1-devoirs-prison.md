@@ -1,7 +1,7 @@
 ---
 title: Devoirs de prison
-cefr: c1
 locale: fr
+cefr: c1
 key: prison-duties
 date: 2023-12-31
 reviewers:

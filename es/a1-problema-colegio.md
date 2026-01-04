@@ -1,7 +1,7 @@
 ---
 title: Un problema en el colegio
-cefr: a1
 locale: es
+cefr: a1
 key: problem-school
 date: 2025-04-12
 reviewers:

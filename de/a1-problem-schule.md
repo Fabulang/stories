@@ -1,7 +1,7 @@
 ---
 title: Ein Problem in der Schule
-cefr: a1
 locale: de
+cefr: a1
 key: problem-school
 date: 2025-07-13
 reviewers:

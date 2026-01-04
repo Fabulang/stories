@@ -1,7 +1,7 @@
 ---
 title: Un tavolo per tre
-cefr: b2
 locale: it
+cefr: b2
 key: table-three
 date: 2025-01-26
 reviewers:

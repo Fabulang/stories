@@ -1,7 +1,7 @@
 ---
 title: La elección de los hermanos
-cefr: b1
 locale: es
+cefr: b1
 key: brothers-choice
 date: 2025-03-08
 reviewers:

@@ -1,7 +1,7 @@
 ---
 title: Auf der Jagd nach Symbolen
-cefr: c2
 locale: de
+cefr: c2
 key: chasing-symbols
 date: 2025-07-13
 reviewers:

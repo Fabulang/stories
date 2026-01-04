@@ -1,7 +1,7 @@
 ---
 title: Um Roteiro Brilhante
-cefr: a1
 locale: pt-BR
+cefr: a1
 key: brilliant-script
 date: 2025-11-10
 reviewers:

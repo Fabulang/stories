@@ -1,7 +1,7 @@
 ---
 title: Um Verde de Muito Bom Gosto
-cefr: c1
 locale: pt-BR
+cefr: c1
 key: very-tasteful-green
 date: 2025-11-10
 reviewers:

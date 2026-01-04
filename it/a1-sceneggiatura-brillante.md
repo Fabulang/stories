@@ -1,7 +1,7 @@
 ---
 title: Una sceneggiatura brillante
-cefr: a1
 locale: it
+cefr: a1
 key: brilliant-script
 date: 2025-01-26
 reviewers:

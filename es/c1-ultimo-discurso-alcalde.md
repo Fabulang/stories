@@ -1,7 +1,7 @@
 ---
 title: El último discurso del alcalde
-cefr: c1
 locale: es
+cefr: c1
 key: mayors-last-speech
 date: 2025-04-12
 reviewers:

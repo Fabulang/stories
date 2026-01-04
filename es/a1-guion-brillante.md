@@ -1,7 +1,7 @@
 ---
 title: Un guión brillante
-cefr: a1
 locale: es
+cefr: a1
 key: brilliant-script
 date: 2025-03-08
 reviewers:

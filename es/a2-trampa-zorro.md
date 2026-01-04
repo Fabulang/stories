@@ -1,7 +1,7 @@
 ---
 title: La trampa del Zorro
-cefr: a2
 locale: es
+cefr: a2
 key: foxs-trap
 date: 2025-04-12
 reviewers:

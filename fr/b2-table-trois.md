@@ -1,7 +1,7 @@
 ---
 title: Une table pour trois
-cefr: b2
 locale: fr
+cefr: b2
 key: table-three
 date: 2025-01-26
 reviewers:

@@ -1,7 +1,7 @@
 ---
 title: La tierra de la lluvia eterna
-cefr: a2
 locale: es
+cefr: a2
 key: land-eternal-rain
 date: 2025-07-13
 reviewers:

@@ -1,7 +1,7 @@
 ---
 title: La Statue des danseurs
-cefr: b1
 locale: fr
+cefr: b1
 key: dancers-statue
 date: 2023-12-31
 reviewers:

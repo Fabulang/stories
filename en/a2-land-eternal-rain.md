@@ -1,7 +1,7 @@
 ---
 title: The Land of Eternal Rain
-cefr: a2
 locale: en
+cefr: a2
 key: land-eternal-rain
 date: 2023-12-31
 reviews: 1

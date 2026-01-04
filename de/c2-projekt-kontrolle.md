@@ -1,7 +1,7 @@
 ---
 title: Projekt Kontrolle
-cefr: c2
 locale: de
+cefr: c2
 key: project-control
 date: 2025-03-15
 reviewers:

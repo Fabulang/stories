@@ -1,7 +1,7 @@
 ---
 title: Ein Tisch für Drei
-cefr: b2
 locale: de
+cefr: b2
 key: table-three
 date: 2025-03-15
 reviewers:

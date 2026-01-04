@@ -1,7 +1,7 @@
 ---
 title: Sorte de Ano Novo
-cefr: b2
 locale: pt-BR
+cefr: b2
 key: new-years-luck
 date: 2024-07-06
 reviewers:

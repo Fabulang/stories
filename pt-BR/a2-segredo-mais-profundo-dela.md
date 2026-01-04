@@ -1,7 +1,7 @@
 ---
 title: O Segredo Mais Profundo Dela
-cefr: a2
 locale: pt-BR
+cefr: a2
 key: her-deepest-secret
 date: 2025-11-11
 reviewers:

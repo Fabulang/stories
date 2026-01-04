@@ -1,7 +1,7 @@
 ---
 title: Un verde di gran gusto
-cefr: c1
 locale: it
+cefr: c1
 key: very-tasteful-green
 date: 2025-01-26
 reviewers:

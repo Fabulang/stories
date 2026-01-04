@@ -1,7 +1,7 @@
 ---
 title: Ne pars pas en vacances
-cefr: a1
 locale: fr
+cefr: a1
 key: dont-go-holiday
 date: 2023-12-31
 reviewers:

@@ -1,7 +1,7 @@
 ---
 title: Ein brillantes Skript
-cefr: a1
 locale: de
+cefr: a1
 key: brilliant-script
 date: 2025-03-15
 reviewers:

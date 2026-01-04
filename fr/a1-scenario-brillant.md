@@ -1,7 +1,7 @@
 ---
 title: Un scénario brillant
-cefr: a1
 locale: fr
+cefr: a1
 key: brilliant-script
 date: 2025-01-26
 reviewers:

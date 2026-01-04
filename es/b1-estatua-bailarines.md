@@ -1,7 +1,7 @@
 ---
 title: La estatua de los bailarines
-cefr: b1
 locale: es
+cefr: b1
 key: dancers-statue
 date: 2025-10-28
 reviewers:

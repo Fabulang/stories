@@ -1,7 +1,7 @@
 ---
 title: Dioses y gladiadores
-cefr: b2
 locale: es
+cefr: b2
 key: gods-gladiators
 date: 2025-04-12
 reviewers:

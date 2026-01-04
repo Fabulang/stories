@@ -1,7 +1,7 @@
 ---
 title: La terra della pioggia eterna
-cefr: a2
 locale: it
+cefr: a2
 key: land-eternal-rain
 date: 2023-12-31
 reviewers:

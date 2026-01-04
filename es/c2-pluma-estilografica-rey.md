@@ -1,7 +1,7 @@
 ---
 title: La pluma estilográfica del rey
-cefr: c2
 locale: es
+cefr: c2
 key: kings-fountain-pen
 date: 2025-10-28
 reviewers:

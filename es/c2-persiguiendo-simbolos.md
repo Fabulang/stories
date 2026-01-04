@@ -1,7 +1,7 @@
 ---
 title: Persiguiendo símbolos
-cefr: c2
 locale: es
+cefr: c2
 key: chasing-symbols
 date: 2025-04-12
 reviewers:

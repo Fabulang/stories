@@ -1,7 +1,7 @@
 ---
 title: A Brilliant Script
-cefr: a1
 locale: en
+cefr: a1
 key: brilliant-script
 date: 2025-01-26
 reviews: 1

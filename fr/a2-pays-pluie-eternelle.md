@@ -1,7 +1,7 @@
 ---
 title: Le Pays de la pluie éternelle
-cefr: a2
 locale: fr
+cefr: a2
 key: land-eternal-rain
 date: 2023-12-31
 reviewers:

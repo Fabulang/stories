@@ -1,7 +1,7 @@
 ---
 title: Ein sehr geschmackvolles Grün
-cefr: c1
 locale: de
+cefr: c1
 key: very-tasteful-green
 date: 2025-03-15
 reviewers:

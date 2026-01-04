@@ -1,7 +1,7 @@
 ---
 title: Fortuna di Capodanno
-cefr: b2
 locale: it
+cefr: b2
 key: new-years-luck
 date: 2023-12-31
 reviewers:

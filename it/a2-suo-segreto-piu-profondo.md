@@ -1,7 +1,7 @@
 ---
 title: Il suo segreto più profondo
-cefr: a2
 locale: it
+cefr: a2
 key: her-deepest-secret
 date: 2025-01-26
 reviewers:

@@ -1,7 +1,7 @@
 ---
 title: New Year's Luck
-cefr: b2
 locale: en
+cefr: b2
 key: new-years-luck
 date: 2023-12-31
 reviews: 1

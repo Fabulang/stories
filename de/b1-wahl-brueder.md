@@ -1,7 +1,7 @@
 ---
 title: Die Wahl der Brüder
-cefr: b1
 locale: de
+cefr: b1
 key: brothers-choice
 date: 2025-03-15
 reviewers:

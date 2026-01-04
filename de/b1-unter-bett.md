@@ -1,7 +1,7 @@
 ---
 title: Unter dem Bett
-cefr: b1
 locale: de
+cefr: b1
 key: under-bed
 date: 2025-07-13
 reviewers:

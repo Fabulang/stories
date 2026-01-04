@@ -1,7 +1,7 @@
 ---
 title: La Statua dei Ballerini
-cefr: b1
 locale: it
+cefr: b1
 key: dancers-statue
 date: 2023-12-31
 reviewers:

@@ -1,7 +1,7 @@
 ---
 title: The King's Fountain Pen
-cefr: c2
 locale: en
+cefr: c2
 key: kings-fountain-pen
 date: 2023-12-31
 reviews: 1

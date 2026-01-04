@@ -1,7 +1,7 @@
 ---
 title: No te vayas de vacaciones
-cefr: a1
 locale: es
+cefr: a1
 key: dont-go-holiday
 date: 2025-07-13
 reviewers:

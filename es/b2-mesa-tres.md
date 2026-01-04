@@ -1,7 +1,7 @@
 ---
 title: Una mesa para tres
-cefr: b2
 locale: es
+cefr: b2
 key: table-three
 date: 2025-03-08
 reviewers:

@@ -1,7 +1,7 @@
 ---
 title: Die letzte Rede des Bürgermeisters
-cefr: c1
 locale: de
+cefr: c1
 key: mayors-last-speech
 date: 2025-07-13
 reviewers:

@@ -1,7 +1,7 @@
 ---
 title: Non andare in vacanza
-cefr: a1
 locale: it
+cefr: a1
 key: dont-go-holiday
 date: 2023-12-31
 reviewers:

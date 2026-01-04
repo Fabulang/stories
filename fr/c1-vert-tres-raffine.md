@@ -1,7 +1,7 @@
 ---
 title: Un vert très raffiné
-cefr: c1
 locale: fr
+cefr: c1
 key: very-tasteful-green
 date: 2025-01-26
 reviewers:

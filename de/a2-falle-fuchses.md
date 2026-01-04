@@ -1,7 +1,7 @@
 ---
 title: Die Falle des Fuchses
-cefr: a2
 locale: de
+cefr: a2
 key: foxs-trap
 date: 2025-07-13
 reviewers:

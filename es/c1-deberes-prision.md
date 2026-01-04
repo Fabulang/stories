@@ -1,7 +1,7 @@
 ---
 title: Deberes de prisión
-cefr: c1
 locale: es
+cefr: c1
 key: prison-duties
 date: 2025-10-28
 reviewers:

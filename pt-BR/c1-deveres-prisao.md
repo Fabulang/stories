@@ -1,7 +1,7 @@
 ---
 title: Deveres na Prisão
-cefr: c1
 locale: pt-BR
+cefr: c1
 key: prison-duties
 date: 2024-07-06
 reviewers:

@@ -1,7 +1,7 @@
 ---
 title: Ihr tiefstes Geheimnis
-cefr: a2
 locale: de
+cefr: a2
 key: her-deepest-secret
 date: 2025-03-15
 reviewers:

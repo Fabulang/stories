@@ -1,7 +1,7 @@
 ---
 title: Doveri in carcere
-cefr: c1
 locale: it
+cefr: c1
 key: prison-duties
 date: 2023-12-31
 reviewers:

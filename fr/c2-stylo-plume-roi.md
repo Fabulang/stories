@@ -1,7 +1,7 @@
 ---
 title: Le Stylo-plume du roi
-cefr: c2
 locale: fr
+cefr: c2
 key: kings-fountain-pen
 date: 2023-12-31
 reviewers:

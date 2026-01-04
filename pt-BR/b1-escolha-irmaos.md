@@ -1,7 +1,7 @@
 ---
 title: A Escolha dos Irmãos
-cefr: b1
 locale: pt-BR
+cefr: b1
 key: brothers-choice
 date: 2025-11-11
 reviewers:

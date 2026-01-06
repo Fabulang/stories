@@ -32,7 +32,7 @@ Louisa picks up a box and opens it. It's a new camping stove. She puts it in her
 
 "Don't forget to bring the gas," she tells her husband. She points to the other boxes.
 
-Louisa puts her rucksack on her back.
+Louisa puts her backpack on her back.
 
 "Maybe that's... too heavy, dear?"
 

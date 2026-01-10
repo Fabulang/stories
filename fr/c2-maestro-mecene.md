@@ -4,13 +4,15 @@ locale: fr
 cefr: c2
 key: maestro-patron
 date: 2026-01-04
+reviewers:
+- Émilie Desmars
 ---
 
-Filippo a trempé son pinceau et a commencé à peindre. Il ajoutait les dernières touches à la plus grande œuvre du maestro à ce jour. L'immense toile était exquise. Elle représentait une vue de la ville, célébrant ses rues complexes, son architecture grandiose et ses puissantes murailles.
+Filippo a trempé son pinceau et a commencé à peindre. Il ajoutait les dernières touches à la plus grande œuvre du maestro à ce jour. L'immense toile était sublime. Elle représentait une vue de la ville, célébrant ses rues complexes, son architecture grandiose et ses puissantes murailles.
 
-Dans l'atelier, les assistants s'activaient sur les autres commandes du maestro. Le maestro peignait lui-même les parties les plus importantes, mais les arrière-plans et les figures secondaires étaient délégués à des assistants comme Filippo.
+Dans l'atelier, les assistants s'activaient sur les autres commandes du maestro. Le maestro peignait lui-même les parties les plus importantes, mais les arrière-plans et les formes secondaires étaient délégués à des assistants comme Filippo.
 
-Une fois que Filippo a commencé à peindre, son pinceau a semblé couler presque avec une vie propre. Il était l'assistant le plus digne de confiance du maestro, mais le maestro le craignait aussi. Le talent de Filippo était exceptionnel, et ses propres idées créatives étaient brillantes. Le maestro a travaillé dur pour maintenir Filippo à sa place.
+Une fois que Filippo a commencé à peindre, son pinceau semblait peindre de manière fluide, presque comme s'il était vivant. Il était l'assistant le plus digne de confiance du maestro, mais le maestro le craignait aussi. Le talent de Filippo était exceptionnel, et ses propres idées créatives étaient brillantes. Le maestro a travaillé dur pour maintenir Filippo à sa place.
 
 «Vraiment un chef-d'œuvre», a dit une voix derrière Filippo.
 
@@ -20,7 +22,7 @@ Filippo ne l'avait pas remarqué: le mécène du maestro avait fait une visite s
 
 «En effet», a dit le maestro. «Chaque noble de la ville entendra parler de votre fierté civique, de votre richesse et de votre générosité.»
 
-«Mais qu'est-ce que c'est?» a dit le mécène en pointant l'arrière-plan que Filippo avait peint.
+«Mais qu'est-ce que c'est?» a demandé le mécène en pointant l'arrière-plan que Filippo avait peint.
 
 «Cela montre le paysage au-delà de la ville», a dit Filippo. «Les collines et les forêts de cette région sont vraiment magnifiques.»
 
@@ -36,7 +38,7 @@ Il désignait les gens dans les rues au premier plan. Filippo avait ajouté des 
 
 «Es-tu fou?» a demandé le mécène au maestro. «Nous ne pouvons pas exposer des mendiants dans la salle du Conseil!»
 
-«Je vous assure, monsieur, que ce n'étaient pas mes instructions», a dit le maestro rapidement. «Je remplacerai personnellement ces figures par des nobles cet après-midi.»
+«Je vous assure, monsieur, que ce n'étaient pas mes instructions», a dit le maestro rapidement. «Je remplacerai personnellement ces personnages par des nobles cet après-midi.»
 
 Après le départ du mécène, le maestro a hurlé sur Filippo pendant dix minutes. Filippo a répliqué. Il croyait avec passion que la grandeur et la beauté de la ville incluaient à la fois les riches et les pauvres, l'architecture comme le paysage.
 
@@ -52,7 +54,7 @@ Il a sorti de sa besace une feuille de papier grossier et un bâton de fusain. I
 
 Filippo s'est levé pour marquer son respect. Le noble lui a demandé pour quel atelier il travaillait. Filippo a expliqué.
 
-«Alors je vous fournirai un lieu, des assistants et tous les matériaux dont vous aurez besoin. Faites une peinture à partir de votre esquisse, et je l'offrirai au nouvel hôpital. Chaque patient, riche ou pauvre, la verra.»
+«Alors, je vous fournirai un lieu, des assistants et tous les matériaux dont vous aurez besoin. Faites une peinture à partir de votre esquisse, et je l'offrirai au nouvel hôpital. Chaque patient, riche ou pauvre, la verra.»
 
 «Mais cela coûtera ---»
 

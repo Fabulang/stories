@@ -4,13 +4,15 @@ locale: fr
 cefr: b1
 key: just-be-confident
 date: 2026-01-04
+reviewers:
+- Franck Zussy
 ---
 
 «J'adorerais travailler là-bas», a murmuré Alain. «Mais je ne réussis jamais bien les entretiens.»
 
 «Aie simplement confiance en toi!» a dit la mère d'Alain.
 
-Alain a sonné à la porte du grand immeuble de bureaux. Le panneau au-dessus de la sonnette indiquait «Super Logiciels SARL».
+Alain a sonné à la porte du grand immeuble de bureaux. Le panneau au-dessus de la sonnette indiquait "Super Logiciels SARL".
 
 À l'intérieur du bâtiment, Tatiana, la propriétaire de l'entreprise, a entendu la sonnette. Elle s'est frotté le front. Alain était le douzième et dernier candidat.
 
@@ -18,15 +20,15 @@ Tous les autres candidats avaient répondu parfaitement à ses questions. N'impo
 
 Tatiana a lu le CV d'Alain pendant qu'elle marchait vers la porte d'entrée. Il avait étudié dans la meilleure école du pays, et toutes ses notes étaient excellentes. «Les gens comme lui pensent qu'ils sont meilleurs que tout le monde», a-t-elle pensé. «Et ils sont toujours trop confiants. Les personnes trop confiantes font des erreurs.»
 
-Puis elle a eu une idée. «Très bien, Alain», a-t-elle pensé. «Si tu es si intelligent, je vais rendre les questions plus difficiles.»
+Puis elle a eu une idée. "Très bien, Alain", a-t-elle pensé. "Si tu es si intelligent, je vais rendre les questions plus difficiles."
 
 La porte s'est ouverte et Alain a serré la main de Tatiana. Il l'a suivie dans une salle de réunion et ils se sont assis.
 
 Après quelques banalités, Tatiana a dit: «Parlons de ton expérience.»
 
-Alain s'est senti nerveux: il n'avait pas beaucoup d'expérience. Mais ensuite, il s'est souvenu du conseil de sa mère: «Sois confiant!» Alors il s'est redressé et a dit: «J'ai beaucoup d'expérience pertinente.»
+Alain s'est senti nerveux: il n'avait pas beaucoup d'expérience. Mais ensuite, il s'est souvenu du conseil de sa mère: "Sois confiant!" Alors il s'est redressé et a dit: «J'ai beaucoup d'expérience pertinente.»
 
-«Très bien. Parle-moi d'une fois où tu as accidentellement supprimé les fichiers de tout le monde. Pourquoi l'as-tu fait?»
+«Très bien. Parle-moi de la fois où tu as accidentellement supprimé les fichiers de tout le monde. Pourquoi l'as-tu fait?»
 
 «Je n'ai jamais fait ça. Je ne causerais jamais ce genre de problème.»
 
@@ -34,7 +36,7 @@ Alain s'est senti nerveux: il n'avait pas beaucoup d'expérience. Mais ensuite, 
 
 «Je le suis.»
 
-Tatiana a écrit une note: «Pense qu'il ne fait jamais d'erreurs.»
+Tatiana a écrit une note: "Pense qu'il ne fait jamais d'erreurs."
 
 «Ensuite», a-t-elle dit, «pensons à une situation difficile.»
 
@@ -52,11 +54,11 @@ Alain n'a pas hésité. «Absolument pas. J'organiserais une réunion ---»
 
 «Je --- je --- je viendrais au bureau et ---»
 
-«Tu ne peux pas entrer dans le bureau. Nous avons perdu la clé. Le bureau est en feu.»
+«Tu ne peux pas aller au bureau. Nous avons perdu la clé. Le bureau est en feu.»
 
 «Eh bien, dans ce cas-là, je resterais calme et ---»
 
-«Nous avons suffisamment discuté de cette situation», l'a interrompu Tatiana. Elle a écrit une autre note: «Ne prend pas les problèmes au sérieux.»
+«Nous avons suffisamment discuté de cette situation», l'a interrompu Tatiana. Elle a écrit une autre note: "Ne prend pas les problèmes au sérieux."
 
 Trente minutes plus tard, Alain et Tatiana se sentaient tous les deux épuisés.
 
@@ -76,7 +78,7 @@ Alain a raccroché, s'est retourné, et a vu que Tatiana se tenait juste derriè
 
 «Alain!» a crié Tatiana. Elle a couru vers lui. «J'ai encore une question.»
 
-«Euh... d'accord?» a marmonné Alain.
+«Euh... oui?» a marmonné Alain.
 
 «Parle-moi d'une fois où tu es allé à un entretien chez Super Logiciels SARL.»
 

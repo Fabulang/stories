@@ -4,6 +4,8 @@ locale: fr
 cefr: a1
 key: camping-trip
 date: 2026-01-04
+reviewers:
+- Franck Zussy
 ---
 
 «N'oubliez pas vos vêtements chauds», dit Louise à ses enfants. «Je prépare les miens maintenant.»
@@ -20,7 +22,7 @@ Ils vont à la cuisine.
 
 Il met des barres de céréales, des sandwichs au beurre de cacahuète, du fromage et des fruits.
 
-Louise ouvre le placard. Elle sort quatre boîtes de haricots, cinq boîtes de thon et huit boîtes de tomates. Puis elle prend trois paquets de pâtes. Elle met tout dans son sac à dos.
+Louise ouvre le placard. Elle sort quatre boîtes de conserve de haricots, cinq de thon et huit de tomates. Puis elle prend trois paquets de pâtes. Elle met tout dans son sac à dos.
 
 Son mari a l'air surpris.
 
@@ -56,13 +58,13 @@ Ils installent la table et les chaises de camping. Louise pose le réchaud sur l
 
 Elle l'ouvre. Elle sort la cartouche de gaz. Elle la connecte. Le réchaud s'allume. Elle met une casserole dessus.
 
-Elle sort quatre boîtes et les met sur la table.
+Elle sort quatre boîtes de conserve et les met sur la table.
 
-«Mais tu ne peux pas ouvrir ces boîtes avec la main!», dit le mari de Louise. «Tu as pensé à ---»
+«Mais tu ne peux pas ouvrir ces boîtes de conserve avec la main!», dit le mari de Louise. «Tu as pensé à ---»
 
 «Bien sûr», dit Louise.
 
-Elle sort un ouvre-boîte de son sac à dos. Elle ouvre les boîtes. Vingt minutes plus tard, ils profitent tous du repas chaud. Après, ils remercient tous Louise pour la cuisine.
+Elle sort un ouvre-boîte de son sac à dos. Elle ouvre les boîtes de conserve. Vingt minutes plus tard, ils profitent tous du repas chaud. Après, ils remercient tous Louise pour la cuisine.
 
 Elle dit: «Il fait presque nuit maintenant. Installons la tente.»
 

@@ -4,6 +4,8 @@ locale: fr
 cefr: a2
 key: i-love-axolotls
 date: 2026-01-04
+reviewers:
+- Franck Zussy
 ---
 
 Christophe a pris le cadeau. Sa fille l'a regardé. Il a ouvert la boîte. À l'intérieur, il y avait une tasse. Il l'a sortie. Il y avait une image d'un animal étrange sur la tasse.
@@ -24,15 +26,15 @@ Christophe l'a suivie. Elle l'a regardé. Elle avait cinq ans, ses yeux étaient
 
 «Tu ne l'aimes pas!»
 
-«Si, je l'aime. J'ai été surpris. Comment as-tu su? Les axolotls sont mon animal préféré.»
+«Si, je l'aime. J'ai été surpris. Comment as-tu su? Les axolotls sont mes animaux préférés.»
 
 «Vraiment?»
 
 La femme de Christophe est entrée. «Je ne le savais pas», a-t-elle dit.
 
-«Eh bien, c'est vrai. J'aime les axolotls. Ils sont si... inhabituels! Tu les aimes?»
+«Eh bien, c'est vrai. J'adore les axolotls. Ils sont si... inhabituels! Tu les aimes?»
 
-Sa fille a hoché la tête. «J'aime leurs visages rigolos.»
+Sa fille a hoché la tête. «J'aime leur visage rigolo.»
 
 «J'aime *ton* visage rigolo.» Elle a ri.
 
@@ -66,6 +68,6 @@ Christophe et sa fille ont passé une journée merveilleuse à l'aquarium. Elle 
 
 «Qu'est-ce que tu préfères chez eux?»
 
-Christophe a réfléchi. «Ils ont des capacités incroyables», a-t-il dit. «Grâce à eux, un homme de soixante ans a passé toute une journée avec sa fille de trente ans très occupée. J'adore les axolotls.»
+Christophe a réfléchi. «Ils ont des capacités incroyables», a-t-il dit. «Grâce à eux, un homme de soixante ans a passé toute une journée avec sa fille très occupée de trente ans. J'adore les axolotls.»
 
-(Basé sur les expériences de [l'utilisateur "46from1971" sur Reddit](https://www.reddit.com/r/confession/s/bFIKHRf9jR). Des détails ont été changés ou inventés.)
+(Inspiré de l'expérience de [l'utilisateur "46from1971" sur Reddit](https://www.reddit.com/r/confession/s/bFIKHRf9jR). Des détails ont été changés ou inventés.)

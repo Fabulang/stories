@@ -10,9 +10,9 @@ reviewers:
 
 Filippo a trempé son pinceau et a commencé à peindre. Il ajoutait les dernières touches à la plus grande œuvre du maestro à ce jour. L'immense toile était sublime. Elle représentait une vue de la ville, célébrant ses rues complexes, son architecture grandiose et ses puissantes murailles.
 
-Dans l'atelier, les assistants s'activaient sur les autres commandes du maestro. Le maestro peignait lui-même les parties les plus importantes, mais les arrière-plans et les formes secondaires étaient délégués à des assistants comme Filippo.
+Dans l'atelier, les assistants s'activaient sur les autres commandes du maestro. Le maestro peignait lui-même les parties les plus importantes, mais les arrière-plans et les silhouettes secondaires étaient délégués à des assistants comme Filippo.
 
-Une fois que Filippo a commencé à peindre, son pinceau semblait peindre de manière fluide, presque comme s'il était vivant. Il était l'assistant le plus digne de confiance du maestro, mais le maestro le craignait aussi. Le talent de Filippo était exceptionnel, et ses propres idées créatives étaient brillantes. Le maestro a travaillé dur pour maintenir Filippo à sa place.
+Une fois que Filippo a commencé à peindre, son pinceau semblait peindre de manière fluide, presque comme s'il était vivant. Il était l'assistant le plus digne de confiance du maestro, mais le maestro le craignait aussi. Le talent de Filippo était exceptionnel, et sa créativité était remarquable. Le maestro a travaillé dur pour maintenir Filippo à sa place.
 
 «Vraiment un chef-d'œuvre», a dit une voix derrière Filippo.
 

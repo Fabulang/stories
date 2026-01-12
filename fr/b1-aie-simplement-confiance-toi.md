@@ -28,7 +28,7 @@ Après quelques banalités, Tatiana a dit: «Parlons de ton expérience.»
 
 Alain s'est senti nerveux: il n'avait pas beaucoup d'expérience. Mais ensuite, il s'est souvenu du conseil de sa mère: "Sois confiant!" Alors il s'est redressé et a dit: «J'ai beaucoup d'expérience pertinente.»
 
-«Très bien. Parle-moi de la fois où tu as accidentellement supprimé les fichiers de tout le monde. Pourquoi l'as-tu fait?»
+«Très bien. Parle-moi d'une fois où tu as accidentellement supprimé les fichiers de tout le monde. Pourquoi l'as-tu fait?»
 
 «Je n'ai jamais fait ça. Je ne causerais jamais ce genre de problème.»
 

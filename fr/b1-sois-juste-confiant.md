@@ -1,5 +1,5 @@
 ---
-title: Aie simplement confiance en toi
+title: Sois juste confiant
 locale: fr
 cefr: b1
 key: just-be-confident
@@ -10,7 +10,7 @@ reviewers:
 
 «J'adorerais travailler là-bas», a murmuré Alain. «Mais je ne réussis jamais bien les entretiens.»
 
-«Aie simplement confiance en toi!» a dit la mère d'Alain.
+«Sois juste confiant!» a dit la mère d'Alain.
 
 Alain a sonné à la porte du grand immeuble de bureaux. Le panneau au-dessus de la sonnette indiquait "Super Logiciels SARL".
 

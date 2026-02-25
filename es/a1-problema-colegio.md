@@ -16,7 +16,7 @@ Se paran en la entrada principal.
 
 "Aquí estás a salvo," dice la mujer.
 
-El hombre respira. "Ve por el pasillo principal. Luego es la tercera puerta a la izquierda."
+El hombre respira. "Ve por el pasillo principal. Luego es la tercera puerta al lado izquierdo."
 
 El hombre le ofrece una linterna. "Toma esto." Ella la aparta.
 
@@ -30,7 +30,7 @@ La cara del hombre está pálida. "No quiero saber lo que hay ahí dentro," dice
 
 No hay nada de luz. No puede ver nada. Toca las paredes con las manos. La piedra está fría.
 
-Camina hacia delante. Sus pasos se escuchan fuertes. Son el único sonido. Sostiene su bolso cerca del pecho.
+Camina hacia adelante. Sus pasos se escuchan fuertes. Son el único sonido. Sostiene su bolso cerca del pecho.
 
 Al otro lado del pasillo principal, hay un pasillo largo y estrecho. Hay muchas puertas a su izquierda y derecha. Cuenta las puertas. Una, dos, tres. Se para. Aguanta la respiración.
 

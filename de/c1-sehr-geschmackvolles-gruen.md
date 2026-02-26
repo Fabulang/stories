@@ -8,9 +8,9 @@ reviewers:
 - Niklas Krechting
 ---
 
-Andreas' neues Haus befand sich auf eine ruhigen Straße in einem teuren Teil des Landes. Er hatte jahrelang gespart, um dort hinziehen zu können. Das Haus war nicht groß und brauchte eine Renovierung, aber er war froh, seine alte Nachbarschaft hinter sich zu lassen.
+Andreas' neues Haus befand sich auf einer ruhigen Straße in einem teuren Teil des Landes. Er hatte jahrelang gespart, um dort hinziehen zu können. Das Haus war nicht groß und brauchte eine Renovierung, aber er war froh, seine alte Nachbarschaft hinter sich zu lassen.
 
-In der ersten Woche bat Andreas mehrere Innenausstatter, ihm ein Angebot zu machen, aber ihre Preise waren viel zu hoch. Er war unsicher, was er als nächstes tun sollte.
+In der ersten Woche bat Andreas mehrere Innenausstatter, ihm ein Angebot zu machen, aber ihre Preise waren viel zu hoch. Er war unsicher, was er als Nächstes tun sollte.
 
 ‚Andreas, das ist nicht mehr deine alte Stadt!‘, dachte er. ‚Die Leute sind nett hier. Du kannst deinen Nachbar um Rat fragen!‘
 
@@ -52,7 +52,7 @@ Andreas nickte und gab Robi das Geld. Robi fuhr weg.
 
 Andreas sang ein Lied während er Malervlies auf dem Boden in allen Räumen auslegte. Zur Mittagszeit machte er sich ein Sandwich und setzte sich auf den Boden, um es zu essen.
 
-Robi kam am Nachmittag nicht zurück, aber Andreas wollte wollte ihn nicht hetzen. Robi tat ihm einen großen Gefallen. Aber als der Himmel dunkel wurde und Robi immer noch nicht gekommen war, war Andreas besorgt. ‚Er sah ziemlich alt aus‘, dachte Robi. ‚Was, wenn er gestürzt ist?‘
+Robi kam am Nachmittag nicht zurück, aber Andreas wollte ihn nicht hetzen. Robi tat ihm einen großen Gefallen. Aber als der Himmel dunkel wurde und Robi immer noch nicht gekommen war, war Andreas besorgt. ‚Er sah ziemlich alt aus‘, dachte Andreas. ‚Was, wenn er gestürzt ist?‘
 
 Er eilte zum Haus seines Nachbarn und klopfte an der Tür. Das Licht ging an und die Tür wurde geöffnet.
 

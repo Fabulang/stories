@@ -8,9 +8,9 @@ reviewers:
 - Niklas Krechting
 ---
 
-Trockener, roter Staub. Wenn die meisten Menschen an den Mars denken, ist das alles, was sie sich vorstellen können. Aber für Philippa war er der faszinierendste Ort im Universum.
+Trockener, roter Staub. Wenn die meisten Menschen an den Mars denken, ist das alles, was sie sich darunter vorstellen können. Aber für Philippa war er der faszinierendste Ort im Universum.
 
-„Gib mir deine Meinung, wenn du die Beweise untersucht hast“, sagte Philippa scharf.
+„Sag mir deine Meinung, wenn du die Beweise untersucht hast“, sagte Philippa scharf.
 
 „Meine Zeit ist kostbar, Liebes. Ich mache echte Arbeit.“
 
@@ -22,7 +22,7 @@ Die meisten Wissenschaftler auf der Marsstation arbeiteten am selben Projekt: Di
 
 Philippa wusste, dass sie Glück gehabt hatte, so viel Förderung zu erhalten. Doch nach drei Missionen ohne eindeutige Beweise hatte die Regierung die Finanzierung einer vierten abgelehnt. Es war der letzte Tag, den sie jemals auf dem Mars verbringen würde.
 
-„Ihre Theorie interessiert niemanden“, lachte der Mann gegenüber am Esstisch. „Sie ist die einzige Person, die verrückt genug ist, diesen Teil der Höhlen zu erkunden. Ihre Karten sind wahre Kunstwerke. Sie ist ein Schnäppchen.“
+„Ihre Theorie interessiert niemanden“, lachte der Mann gegenüber am Esstisch. „Sie ist die einzige Person, die verrückt genug ist, diesen Teil der Höhlen zu erkunden. Ihre Karten sind wahre Kunstwerke. Sie ist sehr preiswert.“
 
 „Du hättest Künstlerin werden sollen, Liebes. Welche Farbe hatten denn deine uralten Außerirdischen? Rot oder Grün?“
 
@@ -38,7 +38,7 @@ Das konnte kein Zufall sein! Ihre Mission war nicht abgeschlossen -- noch nicht.
 
 Vor Aufregung zitternd schlich Philippa lautlos durch die Korridore, zog einen Raumanzug an und verließ die Station.
 
-Innerhalb einer Stunde befand sie sich tief im südöstlichen Bereich der Höhlen. Die Tunnel hier waren besonders eng und komplex. Deswegen hatte sie sie bisher gemieden.
+Innerhalb einer Stunde befand sie sich tief im südöstlichen Bereich der Höhlen. Die Tunnel hier waren besonders eng und komplex. Deswegen hatte sie diese bisher gemieden.
 
 Es dauerte nicht lange, bis sie es fand: ein Quadrat mit einer Linie und einem Punkt, eingraviert in einen Felsen. Plötzlich hatte  sie  eine Idee. Was, wenn die Symbole Richtungen anwiesen?
 
@@ -46,9 +46,9 @@ Sie folgte der Richtung, in die die Linie zeigte. Bald entdeckte sie ein weitere
 
 Doch schließlich erreichte Philippa eine Sackgasse. Erschöpft setzte sie sich in den Staub. Sie war verrückt. Die Symbole waren zufällig. Sie hatte Jahre ihres Lebens verschwendet.
 
-Nein! Sie weigerte sich, das zu glauben. Sie sprang auf und richtete ihre Laserwaffe. Ohne nachzudenken, feuerte sie.
+Nein! Sie weigerte sich, das zu glauben. Sie sprang auf und zielte mit ihrer Laserwaffe. Ohne nachzudenken, feuerte sie.
 
-Als sich der Staub gelegt hatte, traute Philippa ihren Augen nicht. Auf der anderen Seite des Felsens lag eine gewaltige Höhle. Es war der größte Nervenkitzel, den sie je gefühlt hatte. Sie eilte hinein.
+Als sich der Staub gelegt hatte, traute Philippa ihren Augen nicht. Auf der anderen Seite des Felsens lag eine gewaltige Höhle. Es war der größte Nervenkitzel, den sie je gefühlt hatte. Sie stürzte hinein.
 
 Dann hörte sie ein tiefes Grollen. Die Höhle begann einzustürzen. Sie musste tiefer und tiefer hineinflüchten. Die Felsen häuften sich um sie herum auf. Als das Grollen aufhörte, saß Philippa in einem Loch fest, das kaum größer als ihr eigener Körper war.
 
@@ -56,4 +56,4 @@ Einige Minuten lang schrie sie. Sie schlug mit den Fäusten um sich. Sie versuch
 
 Dann sah sie es. Die Felsen um sie herum waren mit Zeilen über Zeilen einer uralten Schrift bedeckt.
 
-Endlich hatte sie ihre Theorie bewiesen. An dem letzten Tag, den sie jemals auf dem Mars verbringen würde.
+Endlich hatte sie ihre Theorie bewiesen. Am letzten Tag, den sie jemals auf dem Mars verbringen würde.

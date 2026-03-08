@@ -33,7 +33,7 @@ A advogada virou o papel e leu em voz alta: "Minha casa e todos os meus pertence
 
 "Instituição de caridade?!"
 
-"Eu sugiro que a gente doe para a pesquisa médica", disse Lourenço. "A doença do papai era —"
+"Eu sugiro que a gente doe para pesquisas médicas", disse Lourenço. "A doença do papai era —"
 
 "Tanto faz", disse o irmão mais velho. "Você decide."
 
@@ -43,7 +43,7 @@ A advogada tossiu. "Há mais uma coisa", disse ela. E continuou lendo: "Antes do
 
 "Agora estou morto", continuou a advogada, "mas tenho um último conselho para meus filhos. Não há —"
 
-Os irmãos de Lourenço saíram correndo da sala. Segundos depois, ele ouviu os carros deles partindo.
+Os irmãos de Lourenço saíram correndo da sala. Segundos depois, ela ouviu os carros deles partindo.
 
 "Não há nada mais valioso do que boas lembranças", terminou a advogada, erguendo as sobrancelhas.
 

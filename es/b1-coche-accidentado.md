@@ -4,14 +4,16 @@ locale: es
 cefr: b1
 key: crashed-car
 date: 2023-10-25
-reviews: 1
+reviewers:
+- Alejandra Franco Alvarado
+- Jorgelina Villar
 ---
 
 No había otros coches en la carretera aquella noche. Adrián conducía de regreso a casa a través de un gran bosque, sintiéndose triste y solo. Entre los árboles estaba completamente oscuro.
 
-Encendió la radio, pero no había señal. Así que empezó a cantar una vieja canción de su juventud. Cantó la última línea a todo pulmón: "¡Mi corazón estará — siempre — contigo!"
+Encendió la radio, pero no había señal. Así que empezó a cantar una vieja canción de su juventud. Cantó el último verso a todo pulmón: "¡Mi corazón estará — siempre — contigo!"
 
-Cuando terminó, el silencio pareció el sonido más fuerte de todos.
+Cuando terminó, el silencio se volvió el sonido más fuerte de todos.
 
 Adrián frenó el coche de golpe. Un coche se había estrellado contra un árbol al lado de la carretera. Adrián salió.
 
@@ -41,7 +43,7 @@ Después de que Adrián diera su dirección, hubo una larga pausa.
 
 "Sí -- fui a visitar a mis padres. Esa es la dirección de mis padres. ¿Es importante?"
 
-"Ha dicho que conducía *a hogar*, señor. Pero eso no es cierto, ¿verdad?"
+"Ha dicho que conducía hacia a su *hogar*, señor. Pero eso no es cierto, ¿verdad?"
 
 "¿Qué quiere decir?"
 
@@ -51,7 +53,7 @@ Después de que Adrián diera su dirección, hubo una larga pausa.
 
 La otra persona colgó la llamada.
 
-Adrián estaba aterrorizado. ¿Qué estaba pasando? Miró a su alrededor. ¿Le observaba alguien? Pero seguía solo en la oscuridad.
+Adrián estaba aterrorizado. ¿Qué estaba pasando? Miró a su alrededor. ¿Acaso lo estaba observando alguien? Pero seguía solo en la oscuridad.
 
 Entonces, Adrián oyó un sonido que le hizo quedarse helado.
 

@@ -3,8 +3,10 @@ title: El talento del atleta
 locale: es
 cefr: c1
 key: athletes-talent
-date: 2023-10-25
-reviews: 1
+date: 2026-03-12
+reviewers:
+- Jorgelina Villar
+- Maria Alejandra Rodríguez
 ---
 
 Las calles de la antigua Élide estaban llenas de actividad. Hombres y mujeres con túnicas iban y venían, los comerciantes empujaban carros cargados de mercancías para vender en el mercado, y los niños jugaban en la grava.

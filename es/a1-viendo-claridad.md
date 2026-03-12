@@ -3,8 +3,10 @@ title: Viendo con claridad
 locale: es
 cefr: a1
 key: seeing-clearly
-date: 2023-10-25
-reviews: 1
+date: 2026-03-12
+reviewers:
+- Alejandra Franco Alvarado
+- Celeste Paz
 ---
 
 "¿Estás lista?" grita el marido de Elisa.
@@ -31,7 +33,7 @@ Se golpea la rodilla con la silla.
 
 "No me gustan mis gafas."
 
-"Son muy elegantes. Estás muy guapa con gafas."
+"Son muy elegantes. Te ves muy guapa con gafas."
 
 Elisa no responde. Va al comedor. Todo está listo para sus invitados. Pone algunas flores en los jarrones y ordena los cojines en los sofás.
 

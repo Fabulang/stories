@@ -3,8 +3,9 @@ title: Limpieza de primavera
 locale: es
 cefr: a2
 key: spring-cleaning
-date: 2023-10-25
-reviews: 1
+date: 2026-03-12
+reviewers:
+- Celeste Paz
 ---
 
 "¿Puedes levantarte un momento, por favor?" dijo Gerardo a su novia.

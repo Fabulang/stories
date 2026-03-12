@@ -3,8 +3,9 @@ title: La parada de los espíritus
 locale: es
 cefr: b2
 key: bus-stop-spirits
-date: 2023-10-25
-reviews: 1
+date: 2026-03-12
+reviewers:
+- Celeste Paz
 ---
 
 "Disculpe, ¿dónde puedo encontrar la famosa Parada de los Espíritus?"
@@ -21,7 +22,7 @@ reviews: 1
 
 Era viernes y casi el final de la jornada. Elisabet no quería una discusión. Quería que el turista se marchara para poder irse a casa.
 
-Pensó en una de las muchas paradas de autobús del pueblo. "Sí, puede llegar a nuestra parada de autobús de fama mundial a pie. Siga ese camino hacia el río y está a la derecha. Es la parada con el cartel que dice 'Prohibido perros'."
+Pensó en una de las muchas paradas de autobús del pueblo. "Sí, puede llegar a nuestra parada de autobús de fama mundial a pie. Siga ese camino hacia el río y la encontrará a la derecha. Es la parada con el cartel que dice 'Prohibido perros'."
 
 "Fantástico," dijo el hombre. "¿Puede contarme un poco sobre su historia?"
 
@@ -35,7 +36,7 @@ Elisabet respiró hondo. "Eh... bueno... había un... agricultor de coles... que
 
 El hombre salió de la oficina de turismo con una sonrisa en la cara. Elisabet se marchó diez minutos después, riéndose para sus adentros.
 
-Cuando Elisabet llegó al trabajo el lunes por la mañana, había una larga cola de turistas fuera de la puerta. Al llegar a su mesa, vio un montón de folletos con el título: 'La Parada de los Espíritus -- La Maldición de Mil Años'. En la parte inferior ponía: 'Incluye un cupón de descuento para coles.'
+Cuando Elisabet llegó al trabajo el lunes por la mañana, había una larga cola de turistas fuera de la puerta. Al llegar a su mesa, vio un montón de folletos con el título: 'La Parada de los Espíritus -- La Maldición de los Mil Años'. En la parte inferior ponía: 'Incluye un cupón de descuento para coles.'
 
 "¿Cuánto cuesta el folleto?" preguntó la primera turista.
 

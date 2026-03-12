@@ -3,8 +3,9 @@ title: La aprendiz del maestro de pociones
 locale: es
 cefr: c2
 key: potion-masters-apprentice
-date: 2023-10-25
-reviews: 1
+date: 2026-03-12
+reviewers:
+- Jorgelina Villar
 ---
 
 El líquido púrpura dentro de la botella cuadrada brillaba con motas doradas. Anabel vertió el contenido en un cuenco de metal. Luego encontró un tarro lleno de unas extrañas piedras amarillas. También las echó todas dentro. Finalmente, había un frasco lleno de lenguas de algunos animales desafortunados.

@@ -22,7 +22,7 @@ Après avoir lu le livre, il a compris ce que l'énigme signifiait. Elle parlait
 
 Les énigmes ont conduit Édouard à travers toute la ville et partout dans la bibliothèque. Pendant des semaines, il a travaillé dur pour lire les livres et résoudre les énigmes.
 
-Pour finir, il a trouvé le dernier indice. Il l'a mené à un vieil arbre dans le parc. Caché sur une branche, il a trouvé la dernière note.
+Pour finir, il a trouvé le dernier indice. Il l'a mené à un vieil arbre dans le parc. Cachée sur une branche, il a trouvé la dernière note.
 
 Il était écrit: «Félicitations! Vous avez résolu l'énigme de la lecture. Votre récompense? Une vie remplie de connaissances. Continuez à lire!»
 

@@ -3,7 +3,7 @@ title: El viaje de acampada
 locale: es
 cefr: a1
 key: camping-trip
-date: 2026-03-13
+date: 2026-04-18
 reviewers:
 - Jorgelina Villar
 ---

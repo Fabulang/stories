@@ -3,7 +3,7 @@ title: Solo ve seguro
 locale: es
 cefr: b1
 key: just-be-confident
-date: 2026-03-13
+date: 2026-04-18
 reviewers:
 - Jorgelina Villar
 ---

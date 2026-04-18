@@ -3,7 +3,7 @@ title: Olvidándome de mí misma
 locale: es
 cefr: c1
 key: forgetting-myself
-date: 2026-03-13
+date: 2026-04-18
 reviewers:
 - Jorgelina Villar
 ---

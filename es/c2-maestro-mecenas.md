@@ -3,7 +3,7 @@ title: El Maestro y el mecenas
 locale: es
 cefr: c2
 key: maestro-patron
-date: 2026-03-13
+date: 2026-04-18
 reviewers:
 - Jorgelina Villar
 ---

@@ -4,6 +4,8 @@ locale: es
 cefr: c1
 key: forgetting-myself
 date: 2026-03-13
+reviewers:
+- Jorgelina Villar
 ---
 
 Abrí los ojos. Poco a poco, unos rostros extraños fueron enfocándose. Había luces brillantes por todas partes. Alguien me estaba sujetando la mano. Retiré la mano.

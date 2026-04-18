@@ -4,6 +4,8 @@ locale: es
 cefr: a2
 key: i-love-axolotls
 date: 2026-03-13
+reviewers:
+- Jorgelina Villar
 ---
 
 Cristóbal cogió el regalo. Su hija lo miraba. Abrió la caja. Dentro había una taza. La sacó. Había una imagen de un animal extraño en la taza.

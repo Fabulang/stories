@@ -4,11 +4,13 @@ locale: es
 cefr: c2
 key: maestro-patron
 date: 2026-03-13
+reviewers:
+- Jorgelina Villar
 ---
 
 Filippo mojó el pincel y empezó a pintar. Estaba dando los últimos retoques a la obra más grande del Maestro hasta la fecha. El enorme lienzo era exquisito. Representaba una vista de la ciudad, celebrando sus intrincadas calles, su grandiosa arquitectura y sus poderosas murallas.
 
-Por todo el taller, los ayudantes trabajaban ocupados en los otros encargos del Maestro. El Maestro pintaba él mismo las secciones más importantes, pero los fondos y las figuras secundarias se delegaban a ayudantes como Filippo.
+Por todo el taller, los ayudantes trabajaban ocupados en los otros encargos del Maestro. El Maestro pintaba él mismo las secciones más importantes, pero los fondos y las figuras secundarias se delegaban a sus ayudantes, como Filippo.
 
 Una vez que Filippo empezaba a pintar, su pincel fluía casi con vida propia. Era el ayudante de mayor confianza del Maestro, pero el Maestro también le tenía miedo. La habilidad de Filippo era excepcional, y sus propias ideas creativas eran brillantes. El Maestro se esforzaba por mantener a Filippo en su sitio.
 
@@ -50,7 +52,7 @@ Sacó de su alforja una hoja de papel basto y una barra de carboncillo. Empezó 
 
 "Nunca he visto un arte tan honesto", dijo una voz detrás de él. Era un noble que se había detenido a observar.
 
-Filippo se levantó para mostrar respeto. El noble le preguntó para qué taller trabajaba Filippo. Filippo se lo explicó.
+Filippo se levantó para mostrarle respeto. El noble le preguntó para qué taller trabajaba Filippo. Filippo se lo explicó.
 
 "Entonces os proporcionaré un espacio, ayudantes y todos los materiales que necesitéis. Haced una pintura a partir de vuestro boceto y la donaré al nuevo hospital. Todos los pacientes, ricos o pobres, la verán."
 

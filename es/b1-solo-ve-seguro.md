@@ -4,6 +4,8 @@ locale: es
 cefr: b1
 key: just-be-confident
 date: 2026-03-13
+reviewers:
+- Jorgelina Villar
 ---
 
 "Me encantaría trabajar allí", susurró Álan. "Pero nunca se me dan bien las entrevistas."

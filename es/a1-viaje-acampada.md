@@ -4,6 +4,8 @@ locale: es
 cefr: a1
 key: camping-trip
 date: 2026-03-13
+reviewers:
+- Jorgelina Villar
 ---
 
 "No olvidéis vuestra ropa de abrigo", les dice Luisa a sus hijos. "Yo estoy guardando la mía ahora."
@@ -40,7 +42,7 @@ La cara de Luisa está roja. "Está bien", dice. Tose.
 
 Lo ponen todo en el coche. Sus hijos se sientan atrás. Luisa se sienta al volante. Su marido enciende el GPS.
 
-Conducen durante ocho horas. Es cansado, pero el campo es precioso. A las seis en punto aparcan el coche en medio de un campo grande. El sol se está poniendo.
+Conducen durante ocho horas. Es agotador, pero el campo es precioso. A las seis en punto aparcan el coche en medio de un campo grande. El sol se está poniendo.
 
 "Tengo frío", dice su hija.
 

@@ -4,6 +4,8 @@ locale: es
 cefr: b2
 key: ten-hours
 date: 2026-03-13
+reviewers:
+- Jorgelina Villar
 ---
 
 La máquina zumbaba con fuerza mientras limpiaba el suelo. Yo llevaba auriculares. Estaba escuchando la cinta de mi madre llamada 'Música para dormir'. Pero solo podía oír la máquina de limpieza.

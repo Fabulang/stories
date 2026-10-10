@@ -24,7 +24,7 @@ He always hated this part. He knew he couldn't intervene. When the scientist had
 
 Raven recognised the man's face: he was Jane's secretary. Raven didn't need to see any more. He pressed the red button again.
 
-Instantly, Raven was back in his basement. Now that he knew who to investigate, he'd be able to find the evidence he needed.
+Instantly, Raven was back in his basement. Now that he knew whom to investigate, he'd be able to find the evidence he needed.
 
 Within a week, the secretary was behind bars, and the Police Department was in awe once again.
 

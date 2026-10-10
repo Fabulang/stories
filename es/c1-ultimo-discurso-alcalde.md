@@ -34,7 +34,7 @@ La multitud murmuró preocupada.
 
 Durante generaciones, los Bellocampo habían sido la familia más rica del pueblo. Cuando murió la última Bellocampo, dejó instrucciones para que la cámara familiar permaneciera cerrada durante cien años. Pasado ese tiempo, el contenido pasaría a ser propiedad del pueblo. Estaba previsto abrirla el año siguiente.
 
-"¡Pero... no!", exclamó el alcalde. "Los Bellocampo fueron generosos con este pueblo. Construyeron los colegios, pavimentaron las calles y donaron a buenas causas durante toda su vida. ¡No podemos faltarle al respeto a los deseos de la señora Fairfield! Conseguiríamos su dinero, ¡pero perderíamos nuestra dignidad!"
+"¡Pero... no!", exclamó el alcalde. "Los Bellocampo fueron generosos con este pueblo. Construyeron los colegios, pavimentaron las calles y donaron a buenas causas durante toda su vida. ¡No podemos faltarle al respeto a los deseos de la señora Bellocampo! Conseguiríamos su dinero, ¡pero perderíamos nuestra dignidad!"
 
 "¿Has dicho 'dinero'?", gritó alguien. "¡Vamos allá!"
 

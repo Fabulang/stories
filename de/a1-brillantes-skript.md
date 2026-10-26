@@ -6,6 +6,7 @@ key: brilliant-script
 date: 2025-03-15
 reviewers:
 - Niklas Krechting
+- Mike Peter
 ---
 
 Dominik schaltet die Lampe an und setzt sich hin. Er trinkt seinen Kaffee. Schließlich hat er eine Idee.

@@ -6,6 +6,7 @@ key: brothers-choice
 date: 2025-03-15
 reviewers:
 - Niklas Krechting
+- Mike Peter
 ---
 
 „Das ist eine sehr elegante Uhr“, sagte Lorenz' Freund, als er im Korridor stehen blieb.
@@ -18,7 +19,7 @@ reviewers:
 
 „Aber ich dachte, dein Vater hat dir nichts in seinem Testament hinterlassen?“
 
-„Das ist nicht ganz richtig. Als er starb, trafen meine Brüder und ich ihre Anwältin...“
+„Das ist nicht ganz richtig. Als er starb, trafen meine Brüder und ich seine Anwältin...“
 
 Dreißig Jahre zuvor setzten sich die drei Brüder in dem Büro der Anwältin nieder.
 
@@ -32,7 +33,7 @@ Die Anwältin drehte das Blatt um und las laut vor: „Mein Haus und all meine B
 
 „Stiftung?“
 
-„Ich schlage vor, wir spenden es an medizinische Forschung“, sagte Lorenz. „Vaters Krankheit war ---“
+„Ich schlage vor, wir spenden es für medizinische Forschung“, sagte Lorenz. „Vaters Krankheit war ---“
 
 „Wie auch immer“, sagte der ältere Bruder. „Ihr entscheidet.“
 
@@ -48,7 +49,7 @@ Lorenz' Brüder rannten aus dem Raum. Einige Sekunden später hörte er ihre Aut
 
 „Was haben deine Brüder genommen?“, fragte Lorenz' Freund dreißig Jahre später. „Hat sich dein jüngerer Bruder wirklich den Fernseher ausgesucht?“
 
-„Es war ein sehr toller Fernseher. Er war gigantisch und hatte hochqualitative Lautsprecher. Vielleicht war er sentimental für ihn. Vater liebte Science-Fiction Filme. Obwohl... hat mein Bruder jemals welche mit ihm gesehen? Ich erinnere mich jetzt nicht.“
+„Es war ein sehr toller Fernseher. Er war gigantisch und hatte hochqualitative Lautsprecher. Vielleicht hatte er für ihn einen Erinnerungswert. Vater liebte Science-Fiction Filme. Obwohl... hat mein Bruder jemals welche mit ihm gesehen? Ich erinnere mich jetzt nicht.“
 
 „Und dein älterer Bruder?“
 

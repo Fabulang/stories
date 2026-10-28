@@ -6,6 +6,7 @@ key: foxs-trap
 date: 2025-07-13
 reviewers:
 - Niklas Krechting
+- Mike Peter
 ---
 
 Frau Maus war in ihrem Schlafzimmer, in ihrem Haus im Wald. Ihr Haus war in einem kleinen Baumstamm am Boden. Es hatte vier Fenster, eine Vordertür und eine Hintertür, und einen kleinen Schornstein.
@@ -14,7 +15,7 @@ Frau Maus sah in ihren Spiegel. „Meine Ohren sind so groß“, sagte sie traur
 
 Draußen vor dem Baumstamm ging Herr Fuchs vorbei. Er hörte, was Frau Maus sagte. Er ging leise näher heran.
 
-„Ich wünschte, ich wäre wie Schmetterling“, fuhr Frau Maus fort. „Alle lieben Schmetterling. Sie ist so hübsch. Ihre Flügel sind so attraktiv und bunt. Und so kleine Ohren! Das Leben ist einfach für sie.“
+„Ich wünschte, ich wäre wie Frau Schmetterling“, fuhr Frau Maus fort. „Alle lieben Schmetterling. Sie ist so hübsch. Ihre Flügel sind so attraktiv und bunt. Und so kleine Ohren! Das Leben ist einfach für sie.“
 
 „Entschuldigung“, sagte Herr Fuchs.
 
@@ -34,7 +35,7 @@ Frau Maus dachte sorgfältig nach. Sie sah wieder in den Spiegel. Sie sah ihre g
 
 „Aber ich muss zu Hause bleiben“, sagte Frau Maus. „Ich habe es fast vergessen. Meine Nichten und Neffen besuchen mich nach der Schule. Ich muss auf sie warten.“
 
-Jetzt wurden Herr Fuchs' Augen groß. „Das ist überhaupt kein Problem“, sagte er. „Ich trage dich. Wir gehen zuerst zur Mäuseschule. Dann gehen wir alle zusammen zum Zaubersee.“
+Jetzt wurden Herrn Fuchs' Augen groß. „Das ist überhaupt kein Problem“, sagte er. „Ich trage dich. Wir gehen zuerst zur Mäuseschule. Dann gehen wir alle zusammen zum Zaubersee.“
 
 Frau Maus' kleines Herz schlug schnell, während sie ihre Schuhe anzog. Sie öffnete die Tür. Herr Fuchs wartete geduldig. Langsam ging Frau Maus auf ihn zu.
 

@@ -6,6 +6,7 @@ key: problem-school
 date: 2025-07-13
 reviewers:
 - Niklas Krechting
+- Mike Peter
 ---
 
 Es ist dunkel. Es ist kein Mond am Himmel. Zwei Personen laufen schnell auf die Schule zu. Es ist ein altes Gebäude aus Stein. Es sieht fast aus wie eine Burg.
@@ -40,7 +41,7 @@ Sie betritt das Klassenzimmer. Die Tür knarrt laut. Der Raum ist groß, mit vie
 
 Ein kleiner Junge sitzt auf einem der Stühle. Das violette Licht kommt von ihm.
 
-Langsam geht Frau Stahl näher heran. Sie steht hinter den Jungen. Er schreibt mit einem Stück Kreide auf eine Tafel. Sie kann die weiße Schrift durch den Rücken des Jungen hindurch sehen.
+Langsam geht Frau Stahl näher heran. Sie steht hinter dem Jungen. Er schreibt mit einem Stück Kreide auf eine Tafel. Sie kann die weiße Schrift durch den Rücken des Jungen hindurch sehen.
 
 Sie muss näher heran.
 

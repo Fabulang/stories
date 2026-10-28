@@ -6,6 +6,7 @@ key: her-deepest-secret
 date: 2025-03-15
 reviewers:
 - Niklas Krechting
+- Mike Peter
 ---
 
 „Etwas an diesem Gemälde ist ungewöhnlich“, sagte der Touristenführer. „Können Sie erkennen, was es ist?“
@@ -24,7 +25,7 @@ Die Touristen schauten genau hin. Hinter ihnen gingen andere Touristen durch das
 
 „Die Frau in dem Gemälde... niemand weiß, wer sie ist. Aber wir können viel über sie herausfinden, indem wir genau hinsehen. Tatsächlich können wir ihr tiefstes Geheimnis herausfinden.“
 
-„Sie war sehr intelligent“, sagte der vorlaute Sohn der Frau. Der Junge ließ die Hand der Frau los und trat vor.
+„Sie war sehr intelligent“, sagte der Sohn der vorlauten Frau. Der Junge ließ die Hand der Frau los und trat vor.
 
 „Sei ruhig, Ludwig“, sagte die Mutter. „Du blamierst mich.“
 

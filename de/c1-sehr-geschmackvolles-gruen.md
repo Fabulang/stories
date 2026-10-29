@@ -50,7 +50,7 @@ Am nächsten Tag klopfte Robi an Andreas' Tür. Er trug zwei Eimer grüner Farbe
 
 Andreas nickte und gab Robi das Geld. Robi fuhr weg.
 
-Andreas sang ein Lied während er Malervlies auf dem Boden in allen Räumen auslegte. Zur Mittagszeit machte er sich ein Sandwich und setzte sich auf den Boden, um es zu essen.
+Andreas sang ein Lied während er Plastikfolie auf dem Boden in allen Räumen auslegte. Zur Mittagszeit machte er sich ein Sandwich und setzte sich auf den Boden, um es zu essen.
 
 Robi kam am Nachmittag nicht zurück, aber Andreas wollte ihn nicht hetzen. Robi tat ihm einen großen Gefallen. Aber als der Himmel dunkel wurde und Robi immer noch nicht gekommen war, war Andreas besorgt. ‚Er sah ziemlich alt aus‘, dachte Andreas. ‚Was, wenn er gestürzt ist?‘
 

@@ -40,7 +40,7 @@ Louisa's face is red. "It's fine," she says. She coughs.
 
 They put everything in the car. Their children get in the back. Louisa sits behind the wheel. Her husband turns on the GPS.
 
-They drive for eight hours. It's tiring, but the countryside is beautiful. At six o' clock they park the car in the middle of a large field. The sun is setting.
+They drive for eight hours. It's tiring, but the countryside is beautiful. At six o'clock they park the car in the middle of a large field. The sun is setting.
 
 "I'm cold," says their daughter.
 

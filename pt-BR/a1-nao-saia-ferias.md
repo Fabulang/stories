@@ -72,7 +72,7 @@ Um ano depois, Frederica vai ao trabalho. Ela está em uma cadeira de rodas.
 
 "Essa é a minha teoria, sim."
 
-"Sua teoria está correta. Mas nós podemos enviar mensagens através do tempo!"
+"Sua teoria está correta. Mas nós *podemos* enviar *mensagens* através do tempo!"
 
 "Me mostra os cálculos," diz Frederica.
 

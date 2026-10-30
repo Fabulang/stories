@@ -16,7 +16,7 @@ Mas Elpidios estava sentado com a cabeça entre seus joelhos. Ele tinha viajado 
 
 Todos os treinadores concordavam que ele tinha talento. Mas eles não queriam alunos que tivessem talento. Eles queriam alunos que tivessem dinheiro.
 
-"Sonhando com os Jogos Olímpicos?" veio uma voz.
+"Sonhando com os Jogos Olímpicos?" disse uma voz.
 
 Elpidios levantou a cabeça. Um homem idoso com uma longa barba estava falando com ele.
 

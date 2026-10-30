@@ -65,7 +65,7 @@ Hugo não cobrou a Jenifer pela viagem. Ele se desculpou por não ter encontrado
 
 "Por favor, não se desculpe," disse Jenifer. "Preste atenção, eu te fiz dirigir por toda a cidade, e nem paguei. Posso pagar o jantar para você?"
 
-Havia um pequeno restaurante bem do outro lado da rua. Eles conseguiram uma mesa rapidamente, e Hugo ajudou Jenifer a entender o cardápio. Pouco tempo depois, ambos estavam aproveitando uma deliciosa comida local e conversando de forma alegre.
+Havia um pequeno restaurante bem do outro lado da rua. Eles conseguiram uma mesa rapidamente, e Hugo ajudou Jenifer a entender o cardápio. Pouco tempo depois, ambos estavam saboreando uma deliciosa comida local e conversando de forma alegre.
 
 "Eu tenho que te dizer uma coisa, Jenifer," disse Hugo enquanto bebiam café naquela noite. "Eu deveria ter parado de trabalhar ao meio-dia. Eu só... não queria dizer adeus."
 

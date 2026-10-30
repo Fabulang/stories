@@ -6,6 +6,7 @@ key: dancers-statue
 date: 2025-10-28
 reviewers:
 - Pili Ortiga Sabaté
+- Celia García Olivas
 ---
 
 El taxi llegó y Juanita subió. Abrió su libro Guía para turistas.

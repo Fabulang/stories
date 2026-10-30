@@ -65,7 +65,7 @@ Era uma supernova: uma enorme explosão de energia de uma estrela próxima. Era 
 
 Pouco tempo depois, toda a tripulação estava reunida, olhando pela janela. A supernova era mais bonita do que quaisquer fogos de artifício que pudessem imaginar e ela tinha o tamanho de cem trilhões de quilômetros. Todos ficaram em silêncio por um longo tempo.
 
-"Sabe," disse Alex finalmente, sorrindo para a tripulação, "eu realmente me sinto sortudo."
+"Sabe," disse Alex finalmente, sorrindo para a tripulação, "eu *realmente* me sinto sortudo."
 
 "Uma supernova perto o suficiente para carregar nossas baterias, mas longe o suficiente para não ser perigosa? Sim, isso é sorte!" riu a cientista.
 

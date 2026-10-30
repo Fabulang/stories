@@ -17,7 +17,7 @@ reviewers:
 
 "O Sr. Gregório é um ladrão de longa data. Na escola, ele roubava comida de outras crianças. Aos vinte anos, ele roubou oitenta rodas de queijo da fábrica local. Depois disso, ele pegou todos os potes de geleia do supermercado. Mais recentemente, o Sr. Gregório foi pego roubando um lote inteiro de bolos frescos da padaria. A caneta-tinteiro do rei é a mais recente inclusão nesse comportamento.
 
-"Se ele não tivesse sido pego, quem teria sido a próxima vítima? Se ele for solto, você pode ser o próximo alvo.
+"Se ele não tivesse sido pego, quem teria sido a próxima vítima? Se ele for solto, *você* pode ser o próximo alvo.
 
 "O Sr. Gregório admitiu que devia muito dinheiro a um agiota. E, então, o motivo dele é claro. Ele deu a caneta ao agiota em troca da quitação da dívida.
 
@@ -37,7 +37,7 @@ O advogado se virou. Ele usava um terno listrado, tinha um cabelo liso e preto e
 
 "A Srta. Ana viu um homem careca com mais ou menos cinquenta anos, com aproximadamente um metro e oitenta de altura, usando jeans e uma blusa preta. Havia dezenas de visitantes naquele dia que tinham uma aparência muito semelhante.
 
-"A câmera de segurança não captura o rosto dele. Mas o que ela captura? Ela captura uma marca de nascença com formato de estrela acima da orelha esquerda, que o Sr. Gregório não tem.
+"A câmera de segurança não captura o rosto dele. Mas o que ela *captura*? Ela captura uma marca de nascença com formato de estrela acima da orelha esquerda, que o Sr. Gregório não tem.
 
 "Senhoras e senhores. Se vocês concordam que essa evidência é incoerente, devem concordar que o Sr. Gregório é inocente."
 

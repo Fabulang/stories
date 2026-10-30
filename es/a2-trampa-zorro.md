@@ -6,6 +6,7 @@ key: foxs-trap
 date: 2025-04-12
 reviewers:
 - Silvia Berigüete Pastor
+- Avril Arizaga
 ---
 
 La Ratoncita estaba en su dormitorio, en su casa del bosque. Su casa estaba dentro de un pequeño tronco en el suelo. Tenía cuatro ventanas, una puerta principal y una puerta trasera, y una chimenea pequeña.
@@ -30,7 +31,7 @@ La voz del Zorro era tranquila y amistosa. "Lo siento mucho por ti. Yo también 
 
 "Bueno, sal de tu tronco y te llevaré allí", dijo el Zorro.
 
-La Ratoncitalo pensó detenidamente. Volvió a mirarse en el espejo. Vio sus grandes orejas.
+La Ratoncita pensó detenidamente. Volvió a mirarse en el espejo. Vio sus grandes orejas.
 
 "Pero tengo que quedarme en casa", dijo la Ratoncita. "Casi se me olvida. Mis sobrinas y sobrinos vienen a visitarme después del colegio. Tengo que esperarlos."
 

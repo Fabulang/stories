@@ -40,7 +40,7 @@ Cuando Enrique llevó el postre al comedor, los tres hombres se estaban riendo.
 
 El tercer hombre se burló. "¿El espacio? Me quedo aquí mismo en la Tierra. Si hace calor, tengo aire acondicionado. Si hace frío, tengo calefacción. Si necesito algo, tengo un ejército de robots."
 
-Enrique miró las tartas de chocolate. Se sintió mal. Colocó una frente a cada hombre y sirvió más vino.
+Enrique miró las tartas de chocolate. Se sintió mal. Colocó una en frente de cada hombre y sirvió más vino.
 
 "¿Sabéis? A veces me da lástima por ellos", dijo el hombre calvo. "Miles de millones de personas, trabajando tan duro, por tan poco. Como nuestro camarero."
 

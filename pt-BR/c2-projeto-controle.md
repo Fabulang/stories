@@ -1,5 +1,5 @@
 ---
-title: "Projeto: Controle"
+title: 'Projeto: Controle'
 locale: pt-BR
 cefr: c2
 key: project-control
@@ -8,6 +8,7 @@ reviewers:
 - Larissa Rabelo Dantas
 - Pedro Ruan Rocha de Oliveira
 - Pedro Luiz Guimarães Filho
+- Alexandre Rezende Fonseca
 ---
 
 "Este relatório trimestral está... insatisfatório", resmungou o gerente de Nicoli. "Não há detalhes suficientes. E há números demais no gráfico. A fonte deveria ser maior. As tabelas deveriam usar as cores da nossa marca. E você deveria duplicar tudo no final."

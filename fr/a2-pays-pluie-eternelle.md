@@ -43,7 +43,7 @@ Quand Béatrice était sèche, elle a demandé, «S'il vous plaît, arrêtez la 
 
 La sorcière a ri.
 
-«Il y a des années, les sorcières vivaient en ville avec les gens, le savez-vous?»
+«Il y a des années, les sorcières vivaient en ville avec les gens, le saviez-vous?»
 
 «Non.»
 
@@ -55,7 +55,7 @@ La sorcière a ri.
 
 La sorcière a regardé Béatrice.
 
-«Je suis désolée, ma chère. Vous êtes bouleversée.»
+«Je suis désolée, ma chère. Tu es bouleversée.»
 
 «Je vais bien», a dit Béatrice. Elle pleurait.
 

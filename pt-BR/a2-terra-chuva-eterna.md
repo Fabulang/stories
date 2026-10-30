@@ -25,7 +25,7 @@ Havia sete homens na frente dela. Eles eram os líderes da cidade.
 
 "Quero ajudar a cidade."
 
-O homem velho riu. "Você não pode ajudar. Chove por causa de uma bruxa malvada. Tentamos matá-la. Nós falhamos, e somos homens. Você é uma garotinha."
+O homem velho riu. "Você não pode ajudar. Chove por causa de uma bruxa malvada. Tentamos matá-la. Nós falhamos, e somos *homens*. Você é uma garotinha."
 
 As pedras estavam molhadas. Era difícil subir a montanha. Beatriz subiu por horas. No topo, não estava chovendo. Estava escuro agora, mas ela viu o castelo da bruxa.
 

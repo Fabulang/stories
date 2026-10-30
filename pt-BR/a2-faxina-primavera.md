@@ -8,6 +8,7 @@ reviewers:
 - Cyro Roberto Penteado
 - Pedro Luiz Guimarães Filho
 - Maria Camargo
+- Maria Conceição Klober da Silveira
 ---
 
 "Você poderia se levantar um momento, por favor?" disse Geraldo à sua namorada.
@@ -38,11 +39,11 @@ Geraldo pediu para ela limpar a mesa dela. Quando ela terminou, ele pediu para e
 
 "Temos que lavar os tapetes."
 
-Eles empurraram todos os móveis para fora do quarto. Colocaram a mesa na cozinha, o sofá no quarto e as plantas no banheiro.
+Eles empurraram todos os móveis para fora da sala. Colocaram a mesa na cozinha, o sofá no quarto e as plantas no banheiro.
 
 Geraldo trouxe água e sabão, duas esponjas e dois secadores de cabelo.
 
-Ele e sua namorada trabalharam a tarde toda e a noite toda. Finalmente, eles empurraram todos os móveis de volta para o quarto.
+Ele e sua namorada trabalharam a tarde toda e a noite toda. Finalmente, eles empurraram todos os móveis de volta para a sala.
 
 "Agora, nós terminamos!" disse finalmente Geraldo.
 

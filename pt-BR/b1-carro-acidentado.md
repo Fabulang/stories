@@ -7,6 +7,7 @@ date: 2025-10-28
 reviewers:
 - Larissa Rabelo Dantas
 - Pedro Luiz Guimarães Filho
+- Victor Dias
 ---
 
 Não havia outros carros na estrada naquela noite. Adriano estava dirigindo para casa por uma grande floresta, sentindo-se triste e solitário. Entre as árvores estava completamente escuro.

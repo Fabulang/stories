@@ -7,9 +7,11 @@ date: 2025-11-11
 reviewers:
 - Pedro Ruan Rocha de Oliveira
 - Pedro Luiz Guimarães Filho
+- Lívia Berton
+- Victor Dias da Silva
 ---
 
-"Este é um relógio muito bonito", disse o amigo de Lourenço, parando-o no corredor.
+"Este é um relógio muito bonito", disse o amigo de Lourenço, parando no corredor.
 
 "Claro, você é um colecionador", respondeu Lourenço. Ele entregou a bebida ao amigo.
 
@@ -43,7 +45,7 @@ A advogada tossiu. "Há mais uma coisa", disse ela. E continuou lendo: "Antes do
 
 "Agora estou morto", continuou a advogada, "mas tenho um último conselho para meus filhos. Não há —"
 
-Os irmãos de Lourenço saíram correndo da sala. Segundos depois, ela ouviu os carros deles partindo.
+Os irmãos de Lourenço saíram correndo da sala. Segundos depois, ele ouviu os carros deles partindo.
 
 "Não há nada mais valioso do que boas lembranças", terminou a advogada, erguendo as sobrancelhas.
 

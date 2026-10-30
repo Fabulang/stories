@@ -26,7 +26,7 @@ Adriano ligou para os serviços de emergência.
 
 "Olá, qual é a emergência?"
 
-"Alguém bateu na beira da estrada. Eles deixaram o carro e eu não sei onde estão." Ele deu sua localização.
+"Alguém bateu na beira da estrada. Ele deixou o carro e eu não sei onde está." Ele deu sua localização.
 
 "Obrigado, senhor. Conhecemos essa estrada. Muitos acidentes acontecem lá. Estaremos aí em breve. Você estava dirigindo sozinho, senhor?"
 

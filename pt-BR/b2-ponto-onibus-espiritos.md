@@ -7,6 +7,7 @@ date: 2025-10-28
 reviewers:
 - Larissa Rabelo Dantas
 - Pedro Luiz Guimarães Filho
+- Victor Dias da Silva
 ---
 
 "Com licença, onde posso encontrar o famoso Ponto de Ônibus dos Espíritos?"

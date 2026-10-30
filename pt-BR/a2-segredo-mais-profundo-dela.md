@@ -7,6 +7,7 @@ date: 2025-11-11
 reviewers:
 - Pedro Ruan Rocha de Oliveira
 - Pedro Luiz Guimarães Filho
+- Victor Dias da Silva
 ---
 
 "Há algo incomum nesta pintura", disse o guia. "Vocês conseguem ver o que é?"

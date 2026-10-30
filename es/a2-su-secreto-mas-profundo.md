@@ -62,7 +62,7 @@ Después de que Luis y su madre se marcharan, un hombre preguntó: "¿Pero cuál
 
 Era de noche y la ciudad estaba llena de gente, ruido y luces brillantes.
 
-"¡Pero aún no descubrieron el auténtico secreto!" dijo Luis.
+"¡Pero aún no han descubierto el auténtico secreto!" dijo Luis.
 
 "Me alegro de que no lo hicieran. Después de que tu padre muriera, quise quemar el cuadro. Pero me alegro de haberlo vendido, así todavía puedo verlo de vez en cuando."
 

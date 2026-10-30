@@ -7,6 +7,7 @@ date: 2025-11-10
 reviewers:
 - Pedro Ruan Rocha de Oliveira
 - Pedro Luiz Guimarães Filho
+- Alice de Medeiros Costa
 ---
 
 A nova casa de André ficava em uma rua tranquila, em uma região cara do país. Ele tinha economizado por anos para poder se mudar para lá. A casa não era grande e precisava de uma nova decoração, mas ele estava feliz por deixar seu antigo bairro para trás.

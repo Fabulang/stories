@@ -8,7 +8,7 @@ reviewers:
 - Virna Bazzo
 ---
 
-Lo chef ha posato i piatti sul bancone. La bistecca era perfetta. Le verdure erano fresche e tenere. L'odore della salsa faceva venire l'acquolina in bocca. Enrico ha preso i piatti e li ha portati con grazia nella sala da pranzo.
+Lo chef ha posato i piatti sul bancone. La bistecca era perfetta. Le verdure erano fresche e tenere. L'odore della salsa faceva venire l'acquolina in bocca. Enrico ha preso i piatti e li ha portati con eleganza nella sala da pranzo.
 
 C'era solo un tavolo nella stanza riccamente decorata. In un angolo, una donna stava suonando dolcemente il pianoforte. Le pareti erano fatte di vetro e la vista sul mare era magnifica.
 
@@ -26,9 +26,9 @@ Gli uomini hanno brindato, facendo tintinnare i bicchieri.
 
 Enrico ha fatto un inchino, ha lasciato la stanza ed è tornato in cucina. Si è lavato le mani ed è andato in bagno. Dentro un cubicolo, ha controllato la sua telecamera nascosta. Il dispositivo stava funzionando correttamente.
 
-Enrico era un giornalista sotto copertura. Per più di cinque anni aveva finto di essere un cameriere. Aveva lavorato per dieci diverse società di catering. Tutto ciò era stato utile per servire la cena a quei tre uomini quella sera.
+Enrico era un giornalista sotto copertura. Per più di cinque anni aveva finto di essere un cameriere. Aveva lavorato per dieci diverse società di catering. Tutto ciò allo scopo di servire la cena a quei tre uomini quella sera.
 
-Tutti i dipendenti dell'azienda avevano un contratto rigido. Se rivelavano qualcosa di ciò che sentivano, la pena era estremamente severa. Ma a Enrico non importava: era più importante mostrare al mondo la verità.
+Tutti i dipendenti dell'azienda avevano un contratto rigido. Se rivelavano qualcosa di ciò che sentivano, la pena era estremamente severa. Ma ad Enrico non importava: era più importante mostrare al mondo la verità.
 
 Si è lavato di nuovo le mani, è tornato in cucina e ha aiutato a preparare il dessert. Era una torta appetitosa, fatta con raro cioccolato fondente e decorata con oro.
 

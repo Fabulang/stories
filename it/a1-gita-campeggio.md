@@ -8,7 +8,7 @@ reviewers:
 - Carlotta Belluzzi
 ---
 
-"Non dimenticate i vestiti pesanti", dice Luisa ai suoi figli. "Sto preparando i miei adesso."
+"Non dimenticate i vestiti caldi", dice Luisa ai suoi figli. "Sto preparando i miei adesso."
 
 Prende il suo zaino e sale al piano di sopra. Guarda il suo quaderno. In cima a una lunga lista c'è scritto 'Gita in campeggio'. Mette nello zaino due paia di guanti, due sciarpe, due cappotti, cinque magliette e dieci paia di calzini.
 
@@ -46,7 +46,7 @@ Guidano per otto ore. È stancante, ma la campagna è bella. Alle sei parcheggia
 
 "Ho freddo", dice la figlia.
 
-Luisa prende il cappotto pesante dallo zaino di sua figlia.
+Luisa prende il cappotto caldo dallo zaino di sua figlia.
 
 "Ho fame!" dice il figlio.
 

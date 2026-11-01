@@ -53,7 +53,7 @@ Der Junge antwortet nicht. Die Kreide klopft und kratzt. Langsam setzt sich Frau
 
 „Ich will dir nicht wehtun“, sagt Frau Stahl schnell. Zu schnell.
 
-Fünfhundert siebzehn tausend zweihundert sechsundvierzig“, sagt der Junge. Er schaut auf die Tafel. Überall stehen Zahlen darauf. „Geteilt durch Zweiundvierzig tausend achthundert zwölf ...“
+„Fünfhundert siebzehn tausend zweihundert sechsundvierzig“, sagt der Junge. Er schaut auf die Tafel. Überall stehen Zahlen darauf. „Geteilt durch zweiundvierzig tausend achthundert zwölf ...“
 
 „Du ... machst Mathe?“
 

@@ -34,7 +34,7 @@ Si è lavato di nuovo le mani, è tornato in cucina e ha aiutato a preparare il 
 
 Quando Enrico ha portato il dessert nella sala da pranzo, i tre uomini stavano ridendo.
 
-"Non mi interessa se la Presidente crede o no nel cambiamento climatico", ha detto un uomo con i capelli ricci. "Io ho case segrete sotterranee in ogni continente. Lei può bruciare insieme a tutti gli altri."
+"Non mi interessa se la presidente crede o no nel cambiamento climatico", ha detto un uomo con i capelli ricci. "Io ho case segrete sotterranee in ogni continente. Lei può bruciare insieme a tutti gli altri."
 
 "Sotterranee?" ha riso l'uomo dai capelli castani. "Goditi la tua vita da talpa. Io ti saluterò dall'orbita."
 

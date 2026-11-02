@@ -16,7 +16,7 @@ Grâce et Thomas venaient d'acheter une maison ensemble. Ils étaient tous deux 
 
 Raj Raichand, l'influenceur milliardaire sur les réseaux sociaux, venait d'annoncer une surprise. Les cent premières personnes qui avaient commenté sa dernière photo avaient gagné un tour du monde de quatre-vingts jours sur son yacht de luxe, tous frais payés pour deux personnes. Par pur hasard, Grâce avait été la quatre-vingt-neuvième à commenter... sur soixante-dix mille personnes.
 
-Ils se sont jetés dans les bras l'un de l'autre et se sont embrassés. Ils n'avaient jamais été aussi chanceux de leur vie. Grâce ne suivait même pas le compte de Raichand. La photo lui avait été suggérée par l'algorithme. Elle montrait M. Raichand rayonnant de bonheur, un cocktail à la main et une belle femme dans chaque bras. Grâce avait commenté: "La vie de rêve!"
+Ils se sont jetés dans les bras l'un de l'autre et se sont embrassés. Ils n'avaient jamais été aussi chanceux de leur vie. Grâce ne suivait même pas le compte de Raichand. La photo lui avait été suggérée par l'algorithme. Elle montrait monsieur Raichand rayonnant de bonheur, un cocktail à la main et une belle femme dans chaque bras. Grâce avait commenté: "La vie de rêve!"
 
 À peine une semaine plus tard, Grâce et Thomas ont été accueillis sur l'immense yacht et se voyaient offrir des verres du meilleur champagne. Ils ont rencontré les autres gagnants, le personnel et l'équipe de tournage qui allait documenter leur voyage, mais le milliardaire lui-même était introuvable.
 
@@ -24,13 +24,13 @@ Ce soir-là, ils ont dégusté un banquet de fruits de mer en dix services, avec
 
 Ils ont visité les îles envoûtantes de la Méditerranée et les côtes vibrantes d'Afrique et d'Inde. Ils ont bu du jus de noix de coco frais et ont goûté de délicieuses saveurs exotiques en passant par la Malaisie et l'Indonésie. Après avoir traversé le canal de Panama, ils sont arrivés dans les Caraïbes et se sont prélassés dans un paradis de palmiers.
 
-La dernière nuit de la croisière, ils ont enfin aperçu M. Raichand en personne. Il était debout, seul, et regardait la mer. Ils se sont approchés de lui.
+La dernière nuit de la croisière, ils ont enfin aperçu monsieur Raichand en personne. Il était debout, seul, et regardait la mer. Ils se sont approchés de lui.
 
 «On ne pourra jamais assez vous remercier», a dit Grâce.
 
 «Ce voyage a été un cadeau tellement généreux», a dit Thomas.
 
-M. Raichand n'a pas répondu. Il n'a ni tourné la tête ni même bougé d'un centimètre.
+Monsieur Raichand n'a pas répondu. Il n'a ni tourné la tête ni même bougé d'un centimètre.
 
 «Laissons-le tranquille», a chuchoté Grâce. Ils sont tous les deux retournés à la fête d'adieu.
 

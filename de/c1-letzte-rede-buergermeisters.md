@@ -34,7 +34,7 @@ Die Menge murmelte besorgt.
 
 Seit Generationen waren die Schönfelds die reichste Familie der Stadt gewesen. Als die letzte Schönfeld gestorben war, hatte sie verfügt, dass ihr Familientresor für hundert Jahre verschlossen bleiben solle. Danach würde der Inhalt des Tresors Eigentum der Stadt werden. Es sollte nächstes Jahr geöffnet werden.
 
-„Aber... nein!“, rief der Bürgermeister. „Die Schönfelds waren gut zu dieser Stadt. Sie bauten die Schulen, pflasterten die Straßen und spendeten ihr Leben lang für gute Zwecke. Wir dürfen Mrs Schönfelds Wünsche nicht missachten! Wir würden zwar ihr Geld gewinnen -- aber unsere Würde verlieren!“
+„Aber... nein!“, rief der Bürgermeister. „Die Schönfelds waren gut zu dieser Stadt. Sie bauten die Schulen, pflasterten die Straßen und spendeten ihr Leben lang für gute Zwecke. Wir dürfen Frau Schönfelds Wünsche nicht missachten! Wir würden zwar ihr Geld gewinnen -- aber unsere Würde verlieren!“
 
 „Haben Sie ‚Geld‘ gesagt?“, rief jemand. „Auf geht's!“
 

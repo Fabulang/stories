@@ -9,13 +9,13 @@ reviewers:
 - Soufiane Chouardi
 ---
 
-Mlle Souris était dans sa chambre, dans sa maison dans la forêt. Sa maison était à l'intérieur d'une petite bûche par terre. Elle avait quatre fenêtres, une porte d'entrée, une porte arrière, et une petite cheminée.
+Mademoiselle Souris était dans sa chambre, dans sa maison dans la forêt. Sa maison était à l'intérieur d'une petite bûche par terre. Elle avait quatre fenêtres, une porte d'entrée, une porte arrière, et une petite cheminée.
 
 Souris se regardait dans le miroir. «Mes oreilles sont tellement grandes», a-t-elle dit tristement. «Les autres animaux se moquent de moi.» Elle a soupiré.
 
-Dehors, M. Renard passait près de la bûche. Il a entendu ce que disait Souris. Il s'est approché en silence.
+Dehors, monsieur Renard passait près de la bûche. Il a entendu ce que disait Souris. Il s'est approché en silence.
 
-«J'aimerais être comme Mlle Papillon», a continué Souris. «Tout le monde aime Papillon. Elle est tellement jolie. Ses ailes sont si belles, si colorées. Et elle a de si petites oreilles! La vie est facile pour elle.»
+«J'aimerais être comme mademoiselle Papillon», a continué Souris. «Tout le monde aime Papillon. Elle est tellement jolie. Ses ailes sont si belles, si colorées. Et elle a de si petites oreilles! La vie est facile pour elle.»
 
 «Excuse-moi», a dit Renard.
 

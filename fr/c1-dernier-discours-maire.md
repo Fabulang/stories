@@ -35,7 +35,7 @@ La foule a murmuré, inquiète.
 
 Depuis des générations, les Beauchamp étaient la famille la plus riche de la ville. Quand la dernière Beauchamp est décédée, elle a laissé des instructions stipulant que son caveau familial reste fermé pendant cent ans. Après cela, le contenu du caveau deviendrait la propriété de la ville. Il devait être ouvert l'année suivante.
 
-«Mais... non!» s'est écrié le maire. «Les Beauchamp ont fait beaucoup pour cette ville. Ils ont construit les écoles, pavé les rues, et fait des dons à de bonnes causes tout au long de leur vie. On ne peut pas manquer de respect aux volontés de Mme Beauchamp! On gagnerait son argent... mais on perdrait notre dignité!»
+«Mais... non!» s'est écrié le maire. «Les Beauchamp ont fait beaucoup pour cette ville. Ils ont construit les écoles, pavé les rues, et fait des dons à de bonnes causes tout au long de leur vie. On ne peut pas manquer de respect aux volontés de madame Beauchamp! On gagnerait son argent... mais on perdrait notre dignité!»
 
 «Vous avez dit 'argent'?» a crié quelqu'un. «Allons-y!»
 

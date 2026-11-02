@@ -32,7 +32,7 @@ En une semaine, le secrétaire était derrière les barreaux, et le commissariat
 
 «À ce rythme, vous allez résoudre Falkenroth», l'ont-ils taquiné.
 
-M. Falkenroth était un directeur de banque qui avait été retrouvé mort dans son coffre-fort, poignardé dans le dos. Il n'y avait personne d'autre dans le coffre-fort, et il avait été verrouillé de l'intérieur. C'était une affaire déconcertante qui était restée irrésolue pendant dix ans.
+Monsieur Falkenroth était un directeur de banque qui avait été retrouvé mort dans son coffre-fort, poignardé dans le dos. Il n'y avait personne d'autre dans le coffre-fort, et il avait été verrouillé de l'intérieur. C'était une affaire déconcertante qui était restée irrésolue pendant dix ans.
 
 Corbeau a sorti le dossier marqué "Falkenroth" et l'a posé sur le bureau dans son sous-sol. Il s'est imaginé le directeur de la banque, et a appuyé sur le bouton.
 

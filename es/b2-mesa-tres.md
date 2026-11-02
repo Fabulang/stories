@@ -34,7 +34,7 @@ Se volvió a lavar las manos, regresó a la cocina y ayudó a preparar el postre
 
 Cuando Enrique llevó el postre al comedor, los tres hombres se estaban riendo.
 
-"No me importa si la Presidenta cree en el cambio climático", dijo un hombre de pelo rizado. "Tengo casas subterráneas secretas en cada continente. Ella puede arder junto con los demás."
+"No me importa si la presidenta cree en el cambio climático", dijo un hombre de pelo rizado. "Tengo casas subterráneas secretas en cada continente. Ella puede arder junto con los demás."
 
 "¿Subterráneas?" rio el hombre de pelo castaño. "Disfruta de tu vida como un topo. Te saludaré desde la órbita."
 

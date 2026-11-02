@@ -21,13 +21,13 @@ L'homme respire. «Traversez le hall principal. Puis, c'est la troisième porte 
 
 L'homme lui tend une lampe torche. «Prenez ceci.» Elle la repousse.
 
-«Mais c'est dangereux, Mlle Acier! La dernière personne qui...»
+«Mais c'est dangereux, mademoiselle Acier! La dernière personne qui...»
 
-«Je ne peux pas l'utiliser. Dans mon métier, Directeur... je dois travailler dans le noir. Mes... outils... sont dans mon sac.»
+«Je ne peux pas l'utiliser. Dans mon métier, directeur... je dois travailler dans le noir. Mes... outils... sont dans mon sac.»
 
 Le visage de l'homme est pâle. «Je ne veux pas savoir ce qu'il y a là-dedans», dit-il. «S'il vous plaît, réglez simplement notre... problème.»
 
-«Envoyez simplement le deuxième paiement à temps», dit Mlle Acier. Puis elle entre dans l'école. La porte claque derrière elle.
+«Envoyez simplement le deuxième paiement à temps», dit mademoiselle Acier. Puis elle entre dans l'école. La porte claque derrière elle.
 
 Il n'y a pas du tout de lumière. Elle ne voit rien. Elle touche les murs avec ses mains. La pierre est froide.
 
@@ -41,17 +41,17 @@ Elle entre dans la salle de classe. La porte grince bruyamment. La pièce est gr
 
 Un petit garçon est assis sur l'une des chaises. La lumière violette vient de lui.
 
-Lentement, Mlle Acier s'approche. Elle se tient derrière le garçon. Il écrit sur une ardoise avec un morceau de craie. Elle peut voir l'écriture blanche à travers le dos du garçon.
+Lentement, mademoiselle Acier s'approche. Elle se tient derrière le garçon. Il écrit sur une ardoise avec un morceau de craie. Elle peut voir l'écriture blanche à travers le dos du garçon.
 
 Elle doit s'approcher encore plus.
 
 «Je peux m'asseoir avec toi?» demande-t-elle doucement.
 
-Le garçon ne répond pas. La craie tape et gratte. Lentement, Mlle Acier s'assoit. Le garçon est très froid. Elle peut le sentir.
+Le garçon ne répond pas. La craie tape et gratte. Lentement, mademoiselle Acier s'assoit. Le garçon est très froid. Elle peut le sentir.
 
 «Toi aussi tu es une chasseuse de fantômes?» dit soudainement le garçon. «Je peux te faire du mal à toi aussi.»
 
-«Je ne veux pas te faire de mal», dit rapidement Mlle Acier. Trop rapidement.
+«Je ne veux pas te faire de mal», dit rapidement mademoiselle Acier. Trop rapidement.
 
 «Cinq cent dix-sept mille deux cent quarante-six», dit le garçon. Il regarde l'ardoise. Il y a des chiffres partout. «Divisé par quarante-deux mille huit cent douze...»
 
@@ -63,9 +63,9 @@ Le garçon ne répond pas. La craie tape et gratte. Lentement, Mlle Acier s'asso
 
 «Je ne sais pas... la bougie est encore... oh... où est la bougie?»
 
-Le garçon cherche la bougie des yeux. Il ne regarde pas Mlle Acier.
+Le garçon cherche la bougie des yeux. Il ne regarde pas mademoiselle Acier.
 
-Silencieusement, Mlle Acier ouvre son sac. En regardant le garçon, elle cherche à l'intérieur de son sac. Lentement, elle sort un petit objet noir. Elle le pose sur la table.
+Silencieusement, mademoiselle Acier ouvre son sac. En regardant le garçon, elle cherche à l'intérieur de son sac. Lentement, elle sort un petit objet noir. Elle le pose sur la table.
 
 «Qu'est-ce que c'est?» dit soudainement le garçon.
 

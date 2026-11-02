@@ -14,7 +14,7 @@ Un jour, un homme a demandé à Joseph de l'aider.
 
 «J'ai besoin de piments, d'herbes et d'épices», a-t-il dit.
 
-«Suivez-moi, Monsieur», a dit Joseph.
+«Suivez-moi, monsieur», a dit Joseph.
 
 Joseph a rapidement trouvé les produits.
 

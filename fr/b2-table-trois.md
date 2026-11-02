@@ -35,7 +35,7 @@ Il s'est de nouveau lavé les mains, est retourné à la cuisine, et a aidé à 
 
 Quand Henri a apporté le dessert dans la salle à manger, les trois hommes riaient.
 
-«Je me fiche bien de savoir si la Présidente croit au changement climatique», a dit un homme aux cheveux bouclés. «J'ai des refuges secrets sous terre sur tous les continents. Elle peut brûler avec tout le monde.»
+«Je me fiche bien de savoir si la présidente croit au changement climatique», a dit un homme aux cheveux bouclés. «J'ai des refuges secrets sous terre sur tous les continents. Elle peut brûler avec tout le monde.»
 
 «Sous terre?» a ri l'homme aux cheveux bruns. «Profite bien de ta vie de taupe. Je te ferai signe depuis l'orbite.»
 

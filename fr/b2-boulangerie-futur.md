@@ -15,7 +15,7 @@ Un jour, Édith s'est rendue à boulangerie locale. Mais au lieu de son ami le b
 
 «Qui êtes-vous?» a-t-elle demandé. «Qu'est-ce que vous êtes?»
 
-L'assistant robotique a répondu, «Bonjour, Madame. Je suis le robot-boulanger. Je suis ici pendant que le boulanger humain est en vacances. Je promets de vous offrir le même niveau de service auquel vous êtes habituée.»
+L'assistant robotique a répondu, «Bonjour, madame. Je suis le robot-boulanger. Je suis ici pendant que le boulanger humain est en vacances. Je promets de vous offrir le même niveau de service auquel vous êtes habituée.»
 
 Édith n'a pas du tout aimé cela.
 
@@ -29,7 +29,7 @@ Le robot a fait clignoter ses lumières LED, apparemment confus. «Je suis déso
 
 «C'est de la folie! Je veux juste acheter du pain!»
 
-«Je m'excuse, Madame. Nous offrons une alternative», a dit le robot.
+«Je m'excuse, madame. Nous offrons une alternative», a dit le robot.
 
 «Qu'est-ce que c'est?» a demandé Édith.
 

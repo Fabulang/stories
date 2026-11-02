@@ -13,7 +13,7 @@ La Ratoncita estaba en su dormitorio, en su casa del bosque. Su casa estaba dent
 
 La Ratoncita se estaba mirando en el espejo. "Mis orejas son tan grandes..." dijo con tristeza. "Los otros animales se ríen de mí." Suspiró.
 
-Fuera del tronco, el Señor Zorro pasaba por allí. Oyó lo que dijo la Ratoncita. Se acercó en silencio.
+Fuera del tronco, el señor Zorro pasaba por allí. Oyó lo que dijo la Ratoncita. Se acercó en silencio.
 
 "Ojalá fuera como la Mariposa", continuó la Ratoncita. "Todo el mundo quiere a la Mariposa. Es tan bonita... Sus alas son tan atractivas y coloridas... ¡Y qué orejas tan pequeñas! Su vida es fácil."
 

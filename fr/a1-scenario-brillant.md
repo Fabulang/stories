@@ -20,7 +20,7 @@ Boum! Dominique sursaute. Le café se renverse sur l'ordinateur portable. L'ordi
 
 Il y a des lumières vertes et jaunes derrière la fenêtre. Des gens applaudissent. La voisine de Dominique fait la fête. C'est une réalisatrice célèbre. Boum! Un autre feu d'artifice explose dans le jardin de la réalisatrice.
 
-Dans la poubelle, à côté du bureau de Dominique, il y a une lettre. Elle dit: «Venez à ma fête, s'il vous plaît. Nous fêtons la sortie de mon nouveau film, "Désolé, Monsieur l'espion". Votre scénario parle aussi d'un espion, n'est-ce pas? S'il vous plaît, racontez-moi tout!»
+Dans la poubelle, à côté du bureau de Dominique, il y a une lettre. Elle dit: «Venez à ma fête, s'il vous plaît. Nous fêtons la sortie de mon nouveau film, "Désolé, monsieur l'espion". Votre scénario parle aussi d'un espion, n'est-ce pas? S'il vous plaît, racontez-moi tout!»
 
 Dominique ferme les rideaux. Il nettoie l'ordinateur portable. Il l'éteint, puis il le rallume. Il fonctionne.
 

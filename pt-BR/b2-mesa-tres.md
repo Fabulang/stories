@@ -35,7 +35,7 @@ Ele lavou as mãos novamente, voltou para a cozinha e ajudou a preparar a sobrem
 
 Quando Henrique levou a sobremesa para a sala de jantar, os três homens estavam rindo.
 
-"Não me importa se a Presidente acredita nas mudanças climáticas", disse um homem de cabelo encaracolado. "Tenho casas subterrâneas secretas em todos os continentes. Ela pode queimar junto com todo o resto."
+"Não me importa se a presidente acredita nas mudanças climáticas", disse um homem de cabelo encaracolado. "Tenho casas subterrâneas secretas em todos os continentes. Ela pode queimar junto com todo o resto."
 
 "Subterrâneas?" riu o homem de cabelo castanho. "Aproveite sua vida de toupeira. Eu vou acenar pra você lá do espaço."
 

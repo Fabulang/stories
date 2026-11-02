@@ -36,7 +36,7 @@ Ils sont tous arrivés dans la salle souterraine. Dans le noir, ils pouvaient vo
 
 Le sous-sol était rempli de l'ancien équipement scientifique et informatique de l'école. La directrice avait demandé à Jean de le jeter l'année dernière, car beaucoup de choses étaient cassées. Au lieu de cela, il avait tout gardé ici, et il l'avait réparé depuis.
 
-«Ça fonctionne!» s'est exclamé le responsable des sciences, inspectant l'équipement. «Madame la Directrice, nous avons besoin de Jean pour réparer le reste.»
+«Ça fonctionne!» s'est exclamé le responsable des sciences, inspectant l'équipement. «Madame la directrice, nous avons besoin de Jean pour réparer le reste.»
 
 Tous les enseignants ont hoché la tête et ont fixé la directrice. Elle a pris une grande respiration, a sorti son téléphone et a appelé Jean.
 

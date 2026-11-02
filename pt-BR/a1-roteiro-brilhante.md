@@ -20,7 +20,7 @@ Bang! Domingos se assusta. O café derrama no notebook. O notebook para de funci
 
 Há luzes verdes e amarelas do lado de fora da janela. Pessoas estão aplaudindo. A vizinha de Domingos está dando uma festa. Ela é uma diretora de cinema famosa. Bang! Outro fogo de artifício explode no jardim da diretora.
 
-Na lixeira, ao lado da mesa de Domingos, há uma carta. Ela diz: "Por favor, venha à minha festa. Estamos comemorando meu novo filme, 'Desculpe, Sr. Espião'. Seu roteiro também é sobre um espião, não é? Por favor, me conte sobre ele!"
+Na lixeira, ao lado da mesa de Domingos, há uma carta. Ela diz: "Por favor, venha à minha festa. Estamos comemorando meu novo filme, 'Desculpe, senhor Espião'. Seu roteiro também é sobre um espião, não é? Por favor, me conte sobre ele!"
 
 Domingos fecha as cortinas. Ele limpa o notebook. Ele o desliga, depois liga de novo. Está funcionando.
 

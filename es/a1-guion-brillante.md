@@ -18,7 +18,7 @@ Empieza a escribir en su portátil. Está escribiendo un guión para una pelícu
 
 Hay luces verdes y amarillas fuera de la ventana. La gente aplaude. La vecina de Domingo está dando una fiesta. Ella es una famosa directora de cine. ¡Pum! Otro fuego artificial explota en el jardín de la directora.
 
-En la papelera, al lado del escritorio de Domingo, hay una carta. Dice: "Por favor, ven a mi fiesta. Estamos celebrando mi nueva película, 'Lo Siento, Sr. Espía'. Tu guión también trata de un espía, ¿verdad? ¡Por favor, háblame de él!"
+En la papelera, al lado del escritorio de Domingo, hay una carta. Dice: "Por favor, ven a mi fiesta. Estamos celebrando mi nueva película, 'Lo Siento, señor Espía'. Tu guión también trata de un espía, ¿verdad? ¡Por favor, háblame de él!"
 
 Domingo cierra las cortinas. Limpia el portátil. Lo apaga y luego lo enciende de nuevo. Funciona.
 

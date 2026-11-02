@@ -48,7 +48,7 @@ Il capitano ha alzato lo sguardo. "Tieni", ha detto. Ha preso qualcosa dalla sua
 
 "Fondiamo il metallo e lo lasciamo cadere in acqua fredda", ha detto. "Ogni forma è unica. Alcuni credono che la forma preveda il futuro."
 
-"Purtroppo, Capitano", ha detto Alessandro ridendo, "mi sembra un'esplosione!"
+"Purtroppo, capitano", ha detto Alessandro ridendo, "mi sembra un'esplosione!"
 
 Tutti hanno riso. Poi, improvvisamente, tutta l'astronave ha tremato. Gli allarmi hanno iniziato a suonare. Tutti hanno sussultato e sono corsi ai loro computer.
 

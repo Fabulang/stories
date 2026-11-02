@@ -48,7 +48,7 @@ Harriet stood up, and walked slowly towards the Chief.
 
 "What do you want?"
 
-"Please, Sir," said Harriet. "I'm not feeling very well. Could I join the other prisoners in the courtyard? I need some air."
+"Please, sir," said Harriet. "I'm not feeling very well. Could I join the other prisoners in the courtyard? I need some air."
 
 The Chief put down his fork. He looked at her for a long time.
 

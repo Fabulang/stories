@@ -51,7 +51,7 @@ Henriette s'est levée et a marché lentement vers le chef.
 
 «Que veux-tu?»
 
-«S'il vous plaît, Monsieur», a dit Henriette. «Je ne me sens pas très bien. Pourrais-je rejoindre les autres prisonniers dans la cour? J'ai besoin d'air.»
+«S'il vous plaît, monsieur», a dit Henriette. «Je ne me sens pas très bien. Pourrais-je rejoindre les autres prisonniers dans la cour? J'ai besoin d'air.»
 
 Le chef a posé sa fourchette. Il l'a regardée longuement.
 

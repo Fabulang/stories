@@ -24,7 +24,7 @@ Au cours de la semaine suivante, alors que les articles des critiques circulaien
 
 Puis à la fin de la semaine, avant de fermer le musée, Geoffroy a entendu frapper. Un livreur est arrivé.
 
-«Je m'excuse platement de faire cette livraison une semaine en retard», a-t-il dit, en remettant soigneusement à Geoffroy la véritable œuvre d'art.
+«Je m'excuse platement de faire cette livraison une semaine en retard», a-t-il dit, en remettant soigneusement à Geoffroy la véritable œuvre d'art.
 
 Geoffroy n'est pas resté longtemps déconcerté. Quelques instants après le départ du livreur, la première livreuse rencontrée est sortie du bureau du Conservateur avec le Conservateur.
 

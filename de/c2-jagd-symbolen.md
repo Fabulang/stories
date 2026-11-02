@@ -16,7 +16,7 @@ Trockener, roter Staub. Wenn die meisten Menschen an den Mars denken, ist das al
 
 Die meisten Wissenschaftler auf der Marsstation arbeiteten am selben Projekt: Die erste Stadt auf dem Mars zu bauen. Philippa führte ihre eigene Forschung durch.
 
-„Ich habe das gleiche Symbol auf Dutzenden Steinen überall auf dem Mars gefunden“, beharrte Philippa. „Ein Quadrat mit einer Linie und einem Punkt. Es ist eine uralte Sprache. Es muss in der Vergangenheit  eine Zivilisation auf dem Mars gegeben haben. Wie erklärst du dir das sonst?“
+„Ich habe das gleiche Symbol auf Dutzenden Steinen überall auf dem Mars gefunden“, beharrte Philippa. „Ein Quadrat mit einer Linie und einem Punkt. Es ist eine uralte Sprache. Es muss in der Vergangenheit eine Zivilisation auf dem Mars gegeben haben. Wie erklärst du dir das sonst?“
 
 „Ein Quadrat mit einer Linie und einem Punkt! Dutzende!“ spottete die andere Frau. „Mich wundert nicht, dass die Regierung dich zurück zur Erde schickt. Wie viel Geld haben sie verschwendet, damit du Spielchen spielen kannst?“
 
@@ -40,7 +40,7 @@ Vor Aufregung zitternd schlich Philippa lautlos durch die Korridore, zog einen R
 
 Innerhalb einer Stunde befand sie sich tief im südöstlichen Bereich der Höhlen. Die Tunnel hier waren besonders eng und komplex. Deswegen hatte sie diese bisher gemieden.
 
-Es dauerte nicht lange, bis sie es fand: ein Quadrat mit einer Linie und einem Punkt, eingraviert in einen Felsen. Plötzlich hatte  sie  eine Idee. Was, wenn die Symbole Richtungen anwiesen?
+Es dauerte nicht lange, bis sie es fand: ein Quadrat mit einer Linie und einem Punkt, eingraviert in einen Felsen. Plötzlich hatte sie eine Idee. Was, wenn die Symbole Richtungen anwiesen?
 
 Sie folgte der Richtung, in die die Linie zeigte. Bald entdeckte sie ein weiteres Symbol und folgte erneut der Linie. Eine weitere Stunde lang folgte sie den Symbolen tiefer und tiefer in die Höhlen hinein.
 
@@ -52,7 +52,7 @@ Als sich der Staub gelegt hatte, traute Philippa ihren Augen nicht. Auf der ande
 
 Dann hörte sie ein tiefes Grollen. Die Höhle begann einzustürzen. Sie musste tiefer und tiefer hineinflüchten. Die Felsen häuften sich um sie herum auf. Als das Grollen aufhörte, saß Philippa in einem Loch fest, das kaum größer als ihr eigener Körper war.
 
-Einige Minuten lang schrie sie. Sie schlug mit den Fäusten um sich. Sie versuchte,  auf sich aufmerksam zu machen, obwohl sie wusste, dass sie zu tief war. Sie weinte.
+Einige Minuten lang schrie sie. Sie schlug mit den Fäusten um sich. Sie versuchte, auf sich aufmerksam zu machen, obwohl sie wusste, dass sie zu tief war. Sie weinte.
 
 Dann sah sie es. Die Felsen um sie herum waren mit Zeilen über Zeilen einer uralten Schrift bedeckt.
 

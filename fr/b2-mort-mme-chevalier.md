@@ -46,4 +46,4 @@ L'inspectrice a soigneusement examiné le couteau. Elle a tenu le manche près d
 
 Le mari a hésité. «Vous ne trouverez jamais mes empreintes sur ce couteau!» a-t-il fini par crier.
 
-«Je suis sûre que c'est vrai», a dit calmement l'inspectrice. «Vous avez utilisé des gants, bien sûr. Mais vous avez été négligent. Vous avez utilisé vos gants de jardinage. Je peux sentir  l'odeur des roses sur le manche du couteau.»
+«Je suis sûre que c'est vrai», a dit calmement l'inspectrice. «Vous avez utilisé des gants, bien sûr. Mais vous avez été négligent. Vous avez utilisé vos gants de jardinage. Je peux sentir l'odeur des roses sur le manche du couteau.»

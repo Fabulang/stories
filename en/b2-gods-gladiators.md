@@ -18,7 +18,7 @@ The master slapped her. "Don't disturb me when I'm gambling," he snapped.
 
 "That makes them work quickly. Not like your slaves, who smile all day."
 
-Ten minutes later, the crowd was cheering. The skinny gladiator was bleeding, but he jogged out of the arena. 
+Ten minutes later, the crowd was cheering. The skinny gladiator was bleeding, but he jogged out of the arena.
 
 "Bad luck," said the master's friend sympathetically.
 

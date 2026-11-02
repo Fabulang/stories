@@ -60,6 +60,6 @@ Nicol no podía creerlo. No tenía miedo. Por primera vez en años, sintió que 
 
 Nicol levantó la cabeza. Se había quedado dormida en el escritorio del jefe, en su oficina. Se puso de pie, sintiéndose confundida. Se frotó los ojos y se ajustó la chaqueta.
 
-"¡He sido muy indulgente contigo, Nicol, a pesar de tu actitud poco profesional, tu medio-esfuerzo  y tu constante desprecio por la jerarquía de esta organización!" espetó el jefe. "¡Pero esto es demasiado! ¡Estás despedida!"
+"¡He sido muy indulgente contigo, Nicol, a pesar de tu actitud poco profesional, tu medio-esfuerzo y tu constante desprecio por la jerarquía de esta organización!" espetó el jefe. "¡Pero esto es demasiado! ¡Estás despedida!"
 
 Algunas lágrimas brillaron en las mejillas de Nicol. "Oh..." dijo, sonriendo. "¡Gracias, señor!"

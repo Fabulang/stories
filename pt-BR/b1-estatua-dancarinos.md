@@ -45,7 +45,7 @@ Jenifer parecia impressionada, mas cética.
 
 O motorista ofereceu a mão. Jenifer riu e a balançou.
 
-"Hugo," disse o motorista. 
+"Hugo," disse o motorista.
 
 "Jenifer."
 

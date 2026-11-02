@@ -32,7 +32,7 @@ Monsieur Chen a souri. «Tondez ma pelouse pendant une année entière.»
 
 «Je vais le faire», a dit Roxanne.
 
-Alors, Roxanne a changé ses plans. Son voyage en Chine est devenu un long séjour. Elle a tout appris sur son incroyable histoire, sa culture et, surtout, sa délicieuse nourriture. Elle a écrit des  articles de blogs sur ses expériences, et ils sont devenus les articles les plus populaires de son site.
+Alors, Roxanne a changé ses plans. Son voyage en Chine est devenu un long séjour. Elle a tout appris sur son incroyable histoire, sa culture et, surtout, sa délicieuse nourriture. Elle a écrit des articles de blogs sur ses expériences, et ils sont devenus les articles les plus populaires de son site.
 
 Chaque semaine, elle revenait à la maison de monsieur Chen et tondait sa pelouse. Monsieur Chen regardait attentivement pour vérifier qu'elle le faisait correctement. Ensuite, il servait une assiette de raviolis chauds, et ils parlaient pendant des heures de nourriture.
 

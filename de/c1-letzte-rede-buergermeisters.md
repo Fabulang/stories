@@ -28,7 +28,7 @@ Die Menge murmelte besorgt.
 
 „Sagen Sie das nicht!“, sagte eine Frau in einem rosa Kleid. „Sie haben Ihr Bestes gegeben. Sie müssen uns nicht verlassen.“
 
-„Das muss ich“, sagte der Bürgermeister traurig. „Wie kann ich mit euch leben, wissend, dass ich euch enttäuscht habe? Ich habe meine Koffer  bereits gepackt. Ich möchte keine große Aufregung. Mein Zug fährt in zwei Stunden.“
+„Das muss ich“, sagte der Bürgermeister traurig. „Wie kann ich mit euch leben, wissend, dass ich euch enttäuscht habe? Ich habe meine Koffer bereits gepackt. Ich möchte keine große Aufregung. Mein Zug fährt in zwei Stunden.“
 
 „Warten Sie -- wir können die Stadt noch retten! Wir können den Tresor der Schönfelds öffnen!“
 

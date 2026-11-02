@@ -15,13 +15,13 @@ Frau Maus sah in ihren Spiegel. „Meine Ohren sind so groß“, sagte sie traur
 
 Draußen vor dem Baumstamm ging Herr Fuchs vorbei. Er hörte, was Frau Maus sagte. Er ging leise näher heran.
 
-„Ich wünschte, ich wäre wie Frau Schmetterling“, fuhr Frau Maus fort. „Alle lieben Schmetterling. Sie ist so hübsch. Ihre Flügel sind so attraktiv und bunt. Und so kleine Ohren! Das Leben ist einfach für sie.“
+„Ich wünschte, ich wäre wie Frau Schmetterling“, fuhr Frau Maus fort. „Alle lieben Frau Schmetterling. Sie ist so hübsch. Ihre Flügel sind so attraktiv und bunt. Und so kleine Ohren! Das Leben ist einfach für sie.“
 
 „Entschuldigung“, sagte Herr Fuchs.
 
-Frau Maus erschrak. Sie drehte sich um. Sie konnte in jedem Fenster eines von Herr Fuchs' Augen sehen.
+Frau Maus erschrak. Sie drehte sich um. Sie konnte in jedem Fenster eines der Augen von Herrn Fuchs sehen.
 
-Herr Fuchs' Stimme war ruhig und freundlich. „Es tut mir leid für dich. Ich bin auch sehr hässlich.“ Er seufzte sehr laut. „Das Leben ist grausam. Mäuse können den Zaubersee benutzen, um schön zu werden, aber Füchse können das nicht.“
+Herrn Fuchs' Stimme war ruhig und freundlich. „Es tut mir leid für dich. Ich bin auch sehr hässlich.“ Der Fuchs seufzte sehr laut. „Das Leben ist grausam. Mäuse können den Zaubersee benutzen, um schön zu werden, aber Füchse können das nicht.“
 
 „Zaubersee?“ fragte Frau Maus. „Wovon redest du?“
 
@@ -49,7 +49,7 @@ Frau Maus kletterte auf Herrn Fuchs' Kopf.
 
 „Geh zwischen die Büsche, folge dem Fluss, dann ist die Schule auf der Wiese“, sagte Frau Maus.
 
-Herr Fuchs begann zu rennen. Frau Maus konnte Fuchs' Zunge sehen, wie sie sich über seine Lippen leckte.
+Herr Fuchs begann zu rennen. Frau Maus konnte Herrn Fuchs' Zunge sehen, wie sie sich über seine Lippen leckte.
 
 „Ich brauche nur etwas Wasser“, sagte Herr Fuchs. „Rennen ist harte Arbeit.“
 
@@ -59,6 +59,6 @@ Sie konnten die Wiese zwischen zwei großen Bäumen sehen. Herr Fuchs rannte sch
 
 Es gab einen lauten Knall. Herr Fuchs schrie. Sein Fuß steckte in einer Falle.
 
-Frau Maus sprang von Herr Fuchs' Kopf und begann, nach Hause zu gehen.
+Frau Maus sprang von Herrn Fuchs' Kopf und begann, nach Hause zu gehen.
 
 „Glaubst du, ich bin dumm?“ sagte sie.

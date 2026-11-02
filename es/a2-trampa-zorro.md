@@ -1,5 +1,5 @@
 ---
-title: La trampa del Zorro
+title: La trampa del zorro
 locale: es
 cefr: a2
 key: foxs-trap
@@ -9,19 +9,19 @@ reviewers:
 - Avril Arizaga
 ---
 
-La Ratoncita estaba en su dormitorio, en su casa del bosque. Su casa estaba dentro de un pequeño tronco en el suelo. Tenía cuatro ventanas, una puerta principal y una puerta trasera, y una chimenea pequeña.
+La señorita Ratoncita estaba en su dormitorio, en su casa del bosque. Su casa estaba dentro de un pequeño tronco en el suelo. Tenía cuatro ventanas, una puerta principal y una puerta trasera, y una chimenea pequeña.
 
 La Ratoncita se estaba mirando en el espejo. "Mis orejas son tan grandes..." dijo con tristeza. "Los otros animales se ríen de mí." Suspiró.
 
 Fuera del tronco, el señor Zorro pasaba por allí. Oyó lo que dijo la Ratoncita. Se acercó en silencio.
 
-"Ojalá fuera como la Mariposa", continuó la Ratoncita. "Todo el mundo quiere a la Mariposa. Es tan bonita... Sus alas son tan atractivas y coloridas... ¡Y qué orejas tan pequeñas! Su vida es fácil."
+"Ojalá fuera como la señorita Mariposa", continuó la Ratoncita. "Todo el mundo quiere a la Mariposa. Es tan bonita... Sus alas son tan atractivas y coloridas... ¡Y qué orejas tan pequeñas! Su vida es fácil."
 
 "Disculpa", dijo el Zorro.
 
 La Ratoncita dio un salto. Se giró. Podía ver uno de los ojos del Zorro en cada ventana.
 
-La voz del Zorro era tranquila y amistosa. "Lo siento mucho por ti. Yo también soy muy feo." El Zorro suspiró muy fuerte. "La vida es cruel. Los ratones pueden usar el lago mágico para volverse bellos, pero los zorros, no."
+La voz del Zorro era tranquila y amistosa. "Lo siento mucho por ti. Yo también soy muy feo." El zorro suspiró muy fuerte. "La vida es cruel. Los ratones pueden usar el lago mágico para volverse bellos, pero los zorros, no."
 
 "¿Lago mágico?" preguntó la Ratoncita. "¿De qué estás hablando?"
 

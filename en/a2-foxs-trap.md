@@ -12,13 +12,13 @@ Mouse was looking in her mirror. "My ears are so big," she said sadly. "The othe
 
 Outside the log, Mr Fox was passing by. He heard what Mouse said. He walked closer, quietly.
 
-"I wish I was like Butterfly," Mouse continued. "Everyone loves Butterfly. She's so pretty. Her wings are so attractive and colourful. And such small ears! Life is easy for her."
+"I wish I was like Miss Butterfly," Mouse continued. "Everyone loves Butterfly. She's so pretty. Her wings are so attractive and colourful. And such small ears! Life is easy for her."
 
 "Excuse me," said Fox.
 
 Mouse jumped. She turned around. She could see one of Fox's eyes in each window.
 
-Fox's voice was calm and friendly. "I feel sorry for you. I am very ugly too." The Fox sighed very loudly. "Life is cruel. Mice can use the magic lake to become beautiful, but foxes can't."
+Fox's voice was calm and friendly. "I feel sorry for you. I am very ugly too." The fox sighed very loudly. "Life is cruel. Mice can use the magic lake to become beautiful, but foxes can't."
 
 "Magic lake?" asked Mouse. "What are you talking about?"
 

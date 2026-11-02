@@ -48,7 +48,7 @@ Filippo a transporté tout ce qu'il possédait dans une petite besace. Il a err�
 
 Sa carrière d'artiste était terminée. Aucun autre maestro ne l'accepterait désormais.
 
-Il a sorti de sa besace une feuille de papier grossier et un bâton de fusain. Il s'est mis à dessiner avec frénésie. Il a saisi les étals du marché, les marchands et les paysans ; les rues boueuses et les détritus ; et l'ombre du palais. Bientôt, il a oublié sa misère et s'est laissé absorber par son travail.
+Il a sorti de sa besace une feuille de papier grossier et un bâton de fusain. Il s'est mis à dessiner avec frénésie. Il a saisi les étals du marché, les marchands et les paysans; les rues boueuses et les détritus; et l'ombre du palais. Bientôt, il a oublié sa misère et s'est laissé absorber par son travail.
 
 «Je n'ai jamais vu d'art d'une telle honnêteté», a dit une voix derrière lui. C'était un noble qui s'était arrêté pour regarder.
 

@@ -10,7 +10,7 @@ reviewers:
 
 "Ahora mismo, en la Tierra, es Nochevieja", dijo Alejandro. "Mi familia está cenando algo caliente y delicioso. Y yo aquí, en esta horrible nave espacial, sin comer nada".
 
-"Sé que estamos en una mala situación", dijo el ingeniero jefe. "Pero oye, ¡mira las estrellas! Nadie en la Tierra tiene esta vista".
+"Sé que estamos en una mala situación", dijo el ingeniero jefe. "Pero oye, ¡mira las estrellas! Nadie en la Tierra tiene esta vista".
 
 Alejandro miró por la ventana. Lo único que podía ver era negro. Imaginó los fuegos artificiales frente a la ventana de su familia, en la Tierra.
 

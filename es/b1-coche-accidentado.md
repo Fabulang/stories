@@ -11,7 +11,7 @@ reviewers:
 
 No había otros coches en la carretera aquella noche. Adrián conducía de regreso a casa a través de un gran bosque, sintiéndose triste y solo. Entre los árboles estaba completamente oscuro.
 
-Encendió la radio, pero no había señal. Así que empezó a cantar una vieja canción de su juventud. Cantó el último verso a todo pulmón: "¡Mi corazón estará — siempre — contigo!"
+Encendió la radio, pero no había señal. Así que empezó a cantar una vieja canción de su juventud. Cantó el último verso a todo pulmón: "¡Mi corazón estará --- siempre --- contigo!"
 
 Cuando terminó, el silencio se volvió el sonido más fuerte de todos.
 

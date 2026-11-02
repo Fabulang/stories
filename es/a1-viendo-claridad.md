@@ -59,7 +59,7 @@ Elisa y sus amigas tienen una fiesta maravillosa. Antes de irse, todos dicen que
 
 Esa noche, el marido de Elisa vuelve a casa.
 
-"Bienvenido a casa — ¡Oh!" dice Elisa.
+"Bienvenido a casa --- ¡Oh!" dice Elisa.
 
 Deja de sonreír y corre al salón. Su marido también corre al salón. Parece muy preocupado.
 

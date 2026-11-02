@@ -58,7 +58,7 @@ Depois que Luís e a mãe tinham saído, um homem perguntou: "Mas qual era o seg
 
 "Aquilo são... brinquedos de criança?"
 
-"Sim! Mas por que o artista pintou isso? Ele está nos dizendo que a mulher tinha um filho — *o filho deles*. O amor deles era um segredo, mas ele queria que nós soubéssemos. Agora, por favor, me acompanhem..."
+"Sim! Mas por que o artista pintou isso? Ele está nos dizendo que a mulher tinha um filho --- *o filho deles*. O amor deles era um segredo, mas ele queria que nós soubéssemos. Agora, por favor, me acompanhem..."
 
 "Você precisa aprender a ficar quieto!", disse a mãe para Luís enquanto saíam do museu.
 
@@ -68,4 +68,4 @@ Era noite, e a cidade estava movimentada, barulhenta e cheia de luzes brilhantes
 
 "Ainda bem que não perceberam. Depois que seu pai morreu, eu quis queimar a pintura. Mas fico feliz por tê-la vendido, assim posso vê-la de vez em quando."
 
-"Mas o papai odiava viver em segredo! Ele queria que as pessoas entendessem você! É por isso que ele te pintou de forma realista — sem um reflexo no espelho!"
+"Mas o papai odiava viver em segredo! Ele queria que as pessoas entendessem você! É por isso que ele te pintou de forma realista --- sem um reflexo no espelho!"

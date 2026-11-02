@@ -49,7 +49,7 @@ Le maire a tourné la grande poignée. Ils ont entendu des engrenages tourner, s
 
 Les gens ont éclairé la pièce en pierre avec leurs lampes de poche. Il y avait de nombreux portraits sur les murs. Au centre se trouvait un socle en pierre. Hormis cela, la pièce était vide.
 
-«Il y a une inscription !» a dit le maire avec excitation. Quelqu'un a dirigé sa lampe sur le socle, et le maire a lu à voix haute: «Les personnes sur ces portraits sont ma famille et mes amis. J'avais d'immenses richesses, mais il n'y avait rien de plus précieux pour moi qu'eux. C'étaient des gens comme vous. Souvenez-vous: tant que vous avez les personnes que vous aimez, vous êtes plus riches qu'un roi ou une reine.»
+«Il y a une inscription!» a dit le maire avec excitation. Quelqu'un a dirigé sa lampe sur le socle, et le maire a lu à voix haute: «Les personnes sur ces portraits sont ma famille et mes amis. J'avais d'immenses richesses, mais il n'y avait rien de plus précieux pour moi qu'eux. C'étaient des gens comme vous. Souvenez-vous: tant que vous avez les personnes que vous aimez, vous êtes plus riches qu'un roi ou une reine.»
 
 «Alors... le *véritable* trésor, c'était...» a dit lentement le boucher.
 

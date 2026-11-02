@@ -38,9 +38,9 @@ Tudo na casa parecia muito moderno e novo. As paredes eram lisas e perfeitas.
 
 "Tem certeza?"
 
-"Com toda a certeza." Beto pensou por um instante. "Que tal isso? Eu mesmo posso redecorar sua casa! Não de graça, claro. Cobraria um valor simbólico — um dinheirinho extra cairia bem. Mas você já sabe como vai ficar! E eu gosto do trabalho."
+"Com toda a certeza." Beto pensou por um instante. "Que tal isso? Eu mesmo posso redecorar sua casa! Não de graça, claro. Cobraria um valor simbólico --- um dinheirinho extra cairia bem. Mas você já sabe como vai ficar! E eu gosto do trabalho."
 
-André ficou encantado — as pessoas ali realmente eram muito mais gentis. Ele aceitou a oferta de Beto imediatamente.
+André ficou encantado --- as pessoas ali realmente eram muito mais gentis. Ele aceitou a oferta de Beto imediatamente.
 
 No dia seguinte, Beto bateu à porta de André. Estava carregando duas latas de tinta verde.
 
@@ -62,4 +62,4 @@ Uma mulher abriu a porta. "Pois não?", disse ela.
 
 "Ah, olá", disse André. "Estou procurando o Beto."
 
-"Eu também!", disse a mulher. "Paguei para ele redecorar minha casa enquanto eu estava de férias. Ele tomou todo o meu chá e comeu todos os meus biscoitos — mas minhas paredes continuam naquele verde horrível!"
+"Eu também!", disse a mulher. "Paguei para ele redecorar minha casa enquanto eu estava de férias. Ele tomou todo o meu chá e comeu todos os meus biscoitos --- mas minhas paredes continuam naquele verde horrível!"

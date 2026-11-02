@@ -24,7 +24,7 @@ Había siete hombres frente a ella. Eran los líderes del pueblo.
 
 "Quiero ayudar al pueblo."
 
-El hombre mayor se rió. "No puedes ayudar. Llueve por culpa de una bruja malvada. Intentamos matarla. Fracasamos… y nosotros somos hombres. Tú eres solo una niña pequeña."
+El hombre mayor se rió. "No puedes ayudar. Llueve por culpa de una bruja malvada. Intentamos matarla. Fracasamos... y nosotros somos hombres. Tú eres solo una niña pequeña."
 
 Las rocas estaban mojadas. Era difícil subir la montaña. Beatriz escaló durante horas. En la cima no llovía. Ya era de noche, pero vio el castillo de la bruja.
 

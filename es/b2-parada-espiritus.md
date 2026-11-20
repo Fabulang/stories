@@ -3,7 +3,7 @@ title: La parada de los espíritus
 locale: es
 cefr: b2
 key: bus-stop-spirits
-date: 2026-03-12
+date: 2026-11-20
 reviewers:
 - Celeste Paz
 ---

@@ -3,8 +3,7 @@ title: Die Statue der Tänzer
 cefr: b1
 locale: de
 key: dancers-statue
-date:
-reviews: 1
+date: 2026-11-20
 reviewers:
 - Mike Peter
 ---

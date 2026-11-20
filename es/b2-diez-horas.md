@@ -3,7 +3,7 @@ title: Diez horas
 locale: es
 cefr: b2
 key: ten-hours
-date: 2026-04-18
+date: 2026-11-20
 reviewers:
 - Jorgelina Villar
 ---

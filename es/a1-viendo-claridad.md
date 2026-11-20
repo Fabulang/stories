@@ -3,7 +3,7 @@ title: Viendo con claridad
 locale: es
 cefr: a1
 key: seeing-clearly
-date: 2026-03-12
+date: 2026-11-20
 reviewers:
 - Alejandra Franco Alvarado
 - Celeste Paz

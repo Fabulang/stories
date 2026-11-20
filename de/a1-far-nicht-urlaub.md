@@ -3,8 +3,7 @@ title: Fahr nicht in den Urlaub
 cefr: a1
 locale: de
 key: dont-go-holiday
-date:
-reviews: 2
+date: 2026-11-20
 reviewers:
 - Mike Peter
 ---

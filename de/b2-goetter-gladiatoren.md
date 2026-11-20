@@ -3,7 +3,7 @@ title: Götter und Gladiatoren
 locale: de
 cefr: b2
 key: gods-gladiators
-date:
+date: 2026-11-20
 reviewers:
   - Mike Peter
 ---

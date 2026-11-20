@@ -3,7 +3,7 @@ title: El talento del atleta
 locale: es
 cefr: c1
 key: athletes-talent
-date: 2026-03-12
+date: 2026-11-20
 reviewers:
 - Jorgelina Villar
 - Maria Alejandra Rodríguez

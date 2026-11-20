@@ -3,7 +3,7 @@ title: Limpieza de primavera
 locale: es
 cefr: a2
 key: spring-cleaning
-date: 2026-03-12
+date: 2026-11-20
 reviewers:
 - Celeste Paz
 ---

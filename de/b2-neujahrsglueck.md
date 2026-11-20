@@ -3,8 +3,7 @@ title: Neujahrsglück
 cefr: b2
 locale: de
 key: new-years-luck
-date:
-reviews: 1
+date: 2026-11-20
 reviewers:
 - Mike Peter
 ---

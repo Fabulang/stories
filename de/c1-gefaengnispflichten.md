@@ -3,8 +3,7 @@ title: Gefängnispflichten
 cefr: c1
 locale: de
 key: prison-duties
-date:
-reviews: 1
+date: 2026-11-20
 reviewers:
 - Mike Peter
 ---

@@ -3,8 +3,7 @@ title: Der Füllfederhalter des Königs
 cefr: c2
 locale: de
 key: kings-fountain-pen
-date:
-reviews: 1
+date: 2026-11-20
 reviewers:
 - Mike Peter
 ---

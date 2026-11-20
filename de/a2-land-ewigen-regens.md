@@ -3,8 +3,7 @@ title: Das Land des ewigen Regens
 cefr: a2
 locale: de
 key: land-eternal-rain
-date:
-reviews: 1
+date: 2026-11-20
 reviewers:
 - Mike Peter
 ---

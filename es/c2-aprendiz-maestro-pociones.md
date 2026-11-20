@@ -3,7 +3,7 @@ title: La aprendiz del maestro de pociones
 locale: es
 cefr: c2
 key: potion-masters-apprentice
-date: 2026-03-12
+date: 2026-11-20
 reviewers:
 - Jorgelina Villar
 ---

@@ -3,7 +3,7 @@ title: El coche accidentado
 locale: es
 cefr: b1
 key: crashed-car
-date: 2026-03-12
+date: 2026-11-20
 reviewers:
 - Alejandra Franco Alvarado
 - Jorgelina Villar
